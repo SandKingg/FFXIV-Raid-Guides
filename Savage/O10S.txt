@@ -1,0 +1,82 @@
+dragon dance (flip + spin) - two sets of either a flip or spin, will be notated when the SECOND step goes off
+	spin + spin - a point-blank aoe
+	spin + flip - a doughnut aoe
+	flip + spin - a massive cross-shaped aoe from the boss
+	flip + flip - a massive plus-shaped aoe from the boss
+
+akh morn - a multi-hit stack on a random player
+
+dragon dance (spin + spin)
+
+tail end - tankbuster, swap on this first one so nobody runs out of cds later
+
+earth shaker - cone aoes on every player, assign clock spots
+
+dragon dance (spin)
+tankbuster
+dragon dance (flip) + thunderstorm - lightning aoes on all dps or all supports, try to stay in colour pairs
+
+time immemorial - small raidwide and gives debuffs to the tanks that inflict doom if they take damage from the wrong type, swap if necessary
+	blue - flying gives doom
+	beige - walking gives doom
+
+tankbuster
+
+northern cross - makes the ground icy, causing players to slide if they move
+
+dragon dance (spin)
+
+akh rhai + ice storm - gives icy aoes to the healers and targets two random dps with repeated aoes
+	healers place ice at the edge to stop the expanding aoes taking up too much room
+
+dragon dance (spin) + horrid roar - stay max melee to bait the puddles and give enough time to dodge in or out
+
+add phase - spawns a dragon tethered to several immortal keys
+	the flying tank should tank the add
+	party focus down one key at a time starting with the ones at the ends of tethers
+	rime wreath - raidwide
+	kill dragon last
+	dark wave - a point-blank aoe on death
+	one tank picks up the ancient bulwark at the end
+protostar - big multi-hit transition raidwide
+
+cauterize + thunderstorm + horrid roar x2 - look where he spawns to dodge the dashes, don't go near the bulwark tank
+
+time immemorial - be careful, he's walking now
+
+crimson breath x4 - marks non-tanks with a red marker, then does a one-shot cleave towards them
+	if a player has the bulwark, they take no damage but it loses power
+	have a dedicated 'bulwark spot' on the side of the boss for players to run to, and everyone else stack up away from there
+	(if you want consistency, the tank who didn't take bulwark at the start can take it now)
+
+crimson orbs - spawns three sets of orbs in the centre, then at two opposite corners while also spawning a tether from the boss to a random player
+	the orbs will explode in sequence, doing line aoes bomberman-style
+horrid roar - party stacks on the third set of orbs to appear, directly in the corner, tether player makes sure they have the bulwark and goes to a corner with no orbs
+	once the puddles appear party dodges the puddles
+	wait for the centre orbs to explode then party runs into the centre, behind the boss and towards the second set of orbs
+	tether player moves into the centre, still pointing the boss towards the non-bomb corner and stays there
+hot tail - after the third set of bombs explodes, the boss casts a big line aoe towards the tethered player, they need the bulwark to survive
+
+cauterize + exaflares + horrid roar - dodge the dash and stay behind the moving exaflares ASAP
+
+cauterize + horrid roar - exaflares are still moving at this point, be careful
+boss is FLYING again now, make sure to swap as there is one auto before the buster
+tankbuster
+akh morn
+horrid roar + thunderstorm
+tankbuster
+dragon dance + earth shaker/thunderstorm - spin will always be paired with earth shaker, flip will always be paired with thunderstorm
+time immemorial
+exaflare + ice storm - place puddles on the side the exaflares are travelling to, in the corners if possible
+akh morn - try to find a spot behind an exaflare
+northern cross
+dragon dance + earth shaker/thunderstorm - stay in, then move out if needed or slide into the safe spots
+horrid roar
+akh rhai
+tankbuster
+tankbuster
+dragon dance + earth shaker/thunderstorm
+time immemorial
+exaflare + ice storm
+akh morn
+enrage

@@ -1,0 +1,83 @@
+	doomvoid cleaver - sends cones towards every player that spawn adds
+	spread to clock spots then avoid the adds that go towards mid
+
+unholy darkness - a stack on a random player
+
+doomvoid slicer/guillotine - random one of two abilities
+	guillotine - a big line aoe in front/behind the boss, go to the sides and dodge the adds moving away from you
+	slicer - a doughnut aoe, stand in the hitbox then dodge adds
+
+dark fire iii - spread aoes on random players
+
+punishing ray - spawns 8 bleed puddles that need to be soaked, roughly take the ones on your clock spots
+
+spell in waiting - spell in waiting delays the next ability cast
+spell in waiting combo 1 - unholy darkness, dark fire iii, shadoweye
+	shadoweye - a gaze attack from a random player, look away from them
+	spreads go off first, move out in time
+	then everyone stack, and gaze stands just behind the party
+hell wind - targets two dps and sets their hp to 1 so they cannot stack
+
+shadowflame - tankbuster on both tanks
+
+entropy - raidwide
+
+the hand of erebos (red) - spawns a hand on the east or west that has either a purple or red tether to the boss
+	purple - big knockback, so use resist or go to that side
+	red - massive point blank, run to the opposite edge
+
+doomvoid guillotine
+doomvoid slicer
+the hand of erebos (purple)
+doomvoid cleaver
+tankbusters
+raidwide
+
+flare - marks one tank, healer and dps with a flare marker
+	have dps run SW, tank NW and healer east
+	OT should provoke if MT gets a flare
+spell in waiting combo 2 + punishing ray - hell wind, shadoweye
+	(hell wind is technically delaycast before flares)
+	wait until preys have gone off and got healed before going into towers
+	soak towers and look away from gaze
+
+tankbusters
+raidwide
+
+equilibrium (SURPRISE SOPHIA) - dps and supports always get opposite colours, need to stack in pairs to survive
+	if you did supports cardinals and dps intercardinals then one can rotate for pairs
+
+doomvoid cleaver - rotate back from pairs to clocks
+unholy darkness
+doomvoid slicer/guillotine
+tankbusters
+raidwide
+
+the hand of erebos (random)
+spell in waiting combo 3 - flare, unholy darkness, flare (carried over to combo 4)
+	first flares spread to assigned positions, then everyone stacks on the healer flare
+	second flares are SUPER delayed, they don't go off until the next combo is underway
+
+tankbusters
+
+spell in waiting combo 4 - flare (already cast from previous combo), shadoweye, dark fire iii
+	second flares spread to assigned spots
+	everyone else stacks east, on the healer flare
+	the gazes are slightly behind the party and looking away from each other
+	after flares/gazes go off, spreads move out
+
+punishing ray + equilibrium - pair stack first then go to your towers
+doomvoid cleaver
+tankbusters
+
+quietus - massive raidwide
+
+cycle of chaos/retribution - casts the three doomvoids in a set order based on the name
+	chaos - guillotine > slicer > cleaver
+	retribution - slicer > cleaver > guillotine
+cycle of retribution/chaos - the opposite of the first cast
+
+quietus
+cycle of chaos/retribution (random)
+quietus x3
+enrage

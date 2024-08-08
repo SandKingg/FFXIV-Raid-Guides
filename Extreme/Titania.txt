@@ -1,0 +1,80 @@
+bright sabbath - raidwide
+
+phantom rune - either a point-blank or doughnut aoe, look at her staff
+	if there are rings around it, it's a doughnut, otherwise point-blank
+
+mist rune - spawns four puddles in mid and four in the corners, that all start counting down
+	if there is no player in them when the countdown finishes, a spirit of dew add will spawn and the puddle disappears
+	assign clock spots to everyone, with melees on cardinals and ranged on intercardinals
+	go to your respective puddle
+
+flame rune - summons a flaming fist that does a fiery stack on each healer
+	split into light parties based on clock spots and stand in the east/west puddles to gain fire resist
+
+divination rune - a big conal tankbuster
+
+chain of brambles - tethers each support to a dps with a bramble that needs to be broken
+	stack in mid first, then have supports run NE and dps run SW
+
+phantom rune
+
+midsummer night's dream - changes the arena to the forest
+
+thunder rune - spawns a passable tether on a random player that hits six times, doing a lightning aoe and giving lightning vuln
+	assign an order of six players to take the tether in order
+	have everyone stack behind the boss, with player 1 slightly in front to guarantee they get the tether first
+
+fae light - a triple-hit conal tankbuster that needs to be shared with the other tank
+
+growth rune - summons big star aoes in two opposite corners that spawn giant vines that grow across the arena in lines
+chain of brambles - ensure that you stack mid first and go to the safe corners from the vines
+
+tankbuster
+
+frost rune - spawns a spiral of nine icy aoes that explode in sequence, just dodge
+
+uplift - a spread aoe on every player
+
+phantom rune
+
+add phase - spawns mustardseed in the east, puck north and peaseblossom west
+	tanks pick up puck and peaseblossom, while the party focuses down mustardseed, then puck, then peaseblossom
+	mustardseed
+		leafstorm - three cone aoes towards a random player
+		whispering wind - wipes the raid if the cast goes off
+	puck
+		gentle breeze - a line aoe towards a random player
+		pummel - tankbuster that gives vuln
+	peaseblossom
+		peasebomb - spread aoes on four random players
+		hard swipe - tankbuster
+	adds then grow big, same priorities as before, but they still cast abilities after dying
+	big mustardseed
+		leafstorm is now seven much larger cones
+		whispering wind is now just a raidwide
+	big peaseblossom
+		peasebomb aoes are much larger now
+	big puck
+		puck's breath - a stack on a random player
+		puck's rebuke - a knockback from the centre of the arena
+			this should be used to break chain of brambles and get knocked towards the safe sides from the giant vine tentacles
+		puck's caprice - raidwide
+being mortal - big transition raidwide
+
+mist rune - wait for phantom rune before moving
+phantom rune
+
+flame rune + growth rune - growth runes spwan on opposite cardinals
+	if they spawn east/west, then both light parties need to rotate clockwise
+
+phantom rune
+raidwide
+fae light
+frost rune + uplift
+raidwide
+thunder rune
+growth rune + chain of brambles
+phantom rune
+phantom rune - opposite of previous?
+raidwide
+enrage

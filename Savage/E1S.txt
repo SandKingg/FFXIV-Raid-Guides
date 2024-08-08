@@ -1,0 +1,70 @@
+eden's gravity - raidwide (% damage)
+
+vice and virtue (dps) - each dps gets a puddle under them, drop away from the boss
+eden's flare - doughnut aoe, inside the hitbox is safe
+
+vice and virtue (tanks) - each tank gets a line aoe tankbuster
+spear of paradise - two massive tankbuster hits with a vuln applied by the first, tank swap
+
+vice and virtue (healers) - each healer gets a prey marker that should be passed to the tanks, since it does big damage + dot
+
+pure light - the boss teleports to a corner and will eventually cast a big roomwide cleave in front of it
+
+delta attack - creates an icy point blank aoe and a thunder plus aoe centred on the boss, each player also gets a fire spread aoe
+	assign pair stacks for each quadrant with melees staying further in and ranged further out
+
+dimensional shift - big raidwide (% damage) and phase transition, also creates 8 orbs in a circle around the boss
+
+paradise lost - spawns 5 sets of puddles under the 4 furthest away players, have healers and ranged bait them
+pure beam - each orb fires a line aoe towards the closest player, assign clock spots for this
+
+pure light
+dimensional shift
+
+fragor maximus - big raidwide and phase transition, go south for proximity markers
+	two guardians of paradise spawn that each tank should pick up, drag south and face away from the party
+	focus one down then the other
+
+mana boost - interruptible cast that tanks should interrupt
+mana burst - big raidwide
+mana burst
+unto dust - add enrage
+
+eternal breath - fall asleep
+
+paradise regained - alters/enhances everything (indicated by reg)
+
+vice and virtue (tanks) (reg) - light party stacks, line aoes targetted on tanks, first in line gets a physical vuln so tanks BEHIND party
+
+vice and virtue (dps) (reg) - each dps stacks with one support to share the damage of the aoes
+
+delta attack (reg) - big doughnut aoe means party stays in, tanks spread NE and NW in the doughnut to spread lightning aoes, party stacks behind boss for unmarked stack
+
+vice and virtue (healers) (reg) - healers should pass their debuffs to dps this time, since it gives vuln, dot and healing down
+
+tankbuster
+dimensional shift 3 - spawns 4 light orbs and 4 arcane spheres
+
+arcane spheres - meteors that should be destroyed before they hit
+pure beam 2 - each light orb fires a three-pronged attack towards the closest player that turns in the indicated direction
+	assign baiters to each orb and they should bait the first hit towards the outside such that it turns AWAY from the centre
+
+pure light
+dimensional shift
+raidwide
+eden's flare
+vice and virtue (tanks)
+tankbusters
+vice and virtue (dps) - bait away from delta attack safe spots (bait to cardinals)
+delta attack
+vice and virtue (healers)
+dimensional shift 4 - same as 3
+arcane spheres + pure beam
+pure light
+dimensional shift 5
+raidwide
+eden's flare
+paradise regained
+vice and virtue (tanks) (reg) - light parties
+vice and virtue (dps) (reg) - partner stacks
+enrage

@@ -1,0 +1,92 @@
+-- PHASE 1 --
+emerald shot - tankbuster
+
+optimized ultima - raidwide
+
+aetheroplasm production - spawns 4 blue and 4 yellow orbs around the room that tether and slowly move towards the boss
+	players need to pair up in their colour pairs and take one blue and one yellow orb
+		blue gives magic vuln and yellow gives phys vuln
+	look east/west to see if pairs rotate clockwise or anticlockwise
+
+emerald beam - dodge the spinning beams and rings
+	get away from the edge after, it disappears
+
+magitek magnetism - spawns three mines and marks both tanks with flares, two mines will be repelled apart
+	tanks choose a side of the single orb to run to
+	party stacks behind the close orbs to be in the safe spot after they repel
+
+magitek magnetism 2 - spawns five mines, one pair get repelled, one pair get attracted and one is single
+	stand near the repelled mines to stay safe
+
+emerald beam
+raidwide
+
+emerald hands (in) - spawns emerald hands
+	if they remain out, dodge the doughnut
+	if they get pulled in, dodge the point-blank
+
+divide et impera - a double stack tankbuster, with spread aoes on the other players
+
+split - splits in half with either the top or bottom half staying
+
+expire - point-blank aoe
+
+red smash - stay away from the red aoe, as it expands greatly
+
+emerald hands (out)
+
+magitek magnetism 3 + pulse laser - mine pattern is similar to 2
+	two players get marked for pulse laser, they need to bait the line aoes away from the safe spot before quickly dodging in
+
+raidwide
+emerald hands (in?)
+divide et impera
+raidwide
+enrage
+
+
+-- PHASE 2 --
+divide et impera - now does cones on non-tanks instead of spreads
+
+primus terminus est - six players get marked with an arrow and they will be knocked forward in that direction
+	set up markers near each corner for players to stand on so everyone gets knocked clockwise
+	non-marked players stand in the middle
+
+tertius terminus est - spawns three pairs of swords that explode into cross or plus aoes
+	dodge from the third aoe into the first after it explodes
+
+legio phantasmatis - spawns gaius for a mini phase
+	mechanized maneuver - spawns several sky armor adds that will do exaflares in the order of their number
+		dodge from 4/5 into 1/2
+	magitek cannon - a knockback from the x marker
+		this is slightly off-centre so try to get knocked away from the add
+
+raidwide
+divide et impera
+
+split + tertius terminus est - another small miniphase based on which split occurs
+	top
+		sidescathe - half room cleave on the glowing side
+		drop down - a knockback from the red aoe marker
+			use knockback resist or get knocked into the first dodge spot
+	bottom
+		expire
+		red smash - dodge away from the expanding aoe too
+
+legio phantasmatis 2
+	full rank - summons three ranks of gunmen with the adds
+		there will always be a safe spot to dodge at north
+		look for the gaps in the ranks to dodge the line aoes
+		move away from north quickly to dodge the last exaflares
+		if it's left -> left dodge, then you need to swap exaflares (i.e. move from before 4 to after 1 or before 5 to after 2)
+			may need to do this even for right -> left
+	magitek cannon
+
+secundus terminus est - marks each player with either a cross or plus aoe
+	plus aoes should go into corners, while cross aoes go to the cardinals
+	after the aoes are dropped, go mid
+
+split + tertius terminus est - the other split phase
+primus terminus est
+divide et impera
+enrage

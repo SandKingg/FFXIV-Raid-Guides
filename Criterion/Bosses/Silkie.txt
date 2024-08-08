@@ -1,0 +1,68 @@
+fizzling suds - boss becomes yellow
+soap's up - discharges an effect based on the colour of the boss
+	yellow causes cone aoes to fire off at intercardinals based on where the boss is facing
+
+dust bluster - knockback from the centre of the room
+
+fresh puff - spawns three puffs at north, SE and SW that are either blue or yellow
+bracing suds - boss becomes green
+squeaky clean - does two small front cleaves, then a front/side cleave
+	dodge behind then to the side he first lands on
+	this also paints any puff it hits green
+chilling suds - boss becomes blue
+slippery soap - a line stack on a random player that paints puffs, but will not hit behind the player that got marked
+	the boss moves towards the marked player and does a random effect on everyone it hits based on the colour of the suds
+	chilling (blue) - deep freeze, make sure you're moving
+	bracing (green) - knockback
+	fizzling (yellow) - forked lightning, spread out
+	then the boss executes the sud effect from its position
+	blue causes line aoes to fire at cardinals from the boss's position
+	look at the non-green puff
+		if blue - take the stack to the SW/SE green
+		if yellow - take the stack north
+carpet beater - tankbuster and the boss jumps to the tank
+soaping spree - causes all puffs to execute mechanics based on their colour
+	green causes a doughnut aoe centred on that puff
+	everyone stack under the remaining green puff
+
+total wash - heavy raidwide + bleed
+
+chilling/bracing suds
+fresh puff 2 - spawns four puffs at cardinals or intercardinals, two blue (opposite) and two yellow (opposite)
+	the puffs tether to each player and move two tiles towards them
+	place the puffs based on where they spawn and the colour of the boss
+		green cardinal - yellow out to edge, blue sideways away from mid
+		green intercardinal - yellow sideways towards mid, blue out to edge
+		blue cardinal - all out to edge, safe spots relative left and right of the yellows
+		blue intercardinal - all out to corners, safe spots diagonally in front of the yellows
+soaping spree
+
+random suds + slippery soap
+raidwide
+
+fresh puff 3 - spawns a 2x4 rectangle of puffs with random colours
+eastern ewers - three ewers spawn at north, that go through the arena and wash the puffs clean, dodge into the gap
+soaping spree - look at the two unclean puffs to determine the safe spot
+	yellow + green - stack on green
+	yellow + blue - dodge east or west of yellow
+	yellow + yellow - dodge either right in the middle of the two puffs or far to the east/west
+chilling suds
+tankbuster - take the boss all the way east or west
+slippery soap - always on the healer, they need to run all the way to the opposite end of the arena to make sure boss goes through all puffs
+bracing suds
+soaping spree - make sure boss is positioned in the gap away from the puffs and stack under him
+
+dust bluster - from north this time
+
+bracing suds
+fresh puff 4 - spawns four blue puffs in a vertical line towards south
+	these puffs tether to players, stack on the puffs you get tethered to
+squeaky clean - move slightly over to the safe side to move your puff there, then dodge the cleave
+soaping spree - stack under the boss
+
+raidwide
+random suds
+slippery soap
+random suds
+slippery soap
+enrage

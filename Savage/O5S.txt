@@ -1,0 +1,75 @@
+ghost block - spawns two blocks containing a ghost in the middle column that act as walls
+	try to always keep one at north
+
+spotlight (2) - spawns one or more spotlights on players marked with crosshairs that follow them for a short time before exploding and destroying ghosts within them
+
+diabolic whistle (knockback) - spawns a ghost on the east or west side that casts all in the mind
+	all in the mind - need to use kb resist or get knocked into a ghost block to survive
+
+doom strike - tankbuster
+
+head on + diabolic wind - a proximity aoe from the front of the arena that knocks back every player
+	diabolical wind aoes should position themselves so they don't overlap after the knockback
+	MT needs to be careful due to connectivity increasing the damage they take when outside of melee range of the boss
+
+acid rain - raidwide
+
+diabolic whistle (dodge) - spawns an array of ghosts on the east and west that float through the arena
+	dodge around them as getting hit transports you to a passenger car
+		inside the passenger car you need to destroy an add to be freed
+spotlight (2)
+
+diabolic headlamp - a knockback line stack
+
+diabolic whistle (tethers) - spawns ghosts that tether to players, chasing them for a while until they enrage and auto-capture them
+	getting captured sends you to a passenger car again
+spotlight (2) - kite the ghosts into the spotlights to destroy them
+
+diabolic light - marks the MT and a healer with placeable proximity markers
+	can either drop them both at south, requiring a tank swap, or healer drops south and MT drops in opposite north corner
+	for second strat, party stays towards the opposite north corner
+
+tankbuster
+raidwide
+
+add phase - launches waves of putrid passengers that cast wallop aoes
+	dps get diabolic wind first, then supports
+	doom chimney - get onto the train and destroy it
+	ghosts - each role should get hit by a specifc ghost
+		tanks - take the big black ghosts with yellow insides, then use mitigation for true agony and kill the ghost
+		healers - take the small purple/white ghosts, then heal with the add dies and esuna the debuff on you
+		dps - take the small red ghosts, then kill the add inside
+
+ghost blocks
+diabolic light + diabolic headlamp - ensure no one is knocked off or towards the proximities
+spotlights (2)
+tankbuster
+diabolic whistle (tethers)
+spotlight (1)
+diabolic whistle (knockback)
+diabolic headlamp - make sure to run fast enough to not get knocked off
+head on
+spotlight (2)
+ghost blocks - four blocks this time, clear out the back ones
+diabolic whistle (dodge) + diabolic headlamp - try to stay north for stack first then dodge the ghost
+diabolic wind - don't overlap
+diabolic whistle (tethers)
+spotlight (2) + diabolic wind
+diabolic light
+tankbuster
+raidwide
+diabolic headlamp
+spotlight (2)
+raidwide
+diabolic whistle (tethers)
+spotlight (2) + diabolic wind
+ghost blocks - one right in the back
+diabolic light + raidwide
+tankbuster
+diabolic whistle (knockback)
+diabolic headlamp
+head on + diabolic wind
+raidwide
+ghost blocks - four blocks
+diabolic whistle (dodge) + diabolic headlamp
+enrage

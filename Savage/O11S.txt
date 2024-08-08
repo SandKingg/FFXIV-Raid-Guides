@@ -1,0 +1,89 @@
+atomic ray - raidwide
+	
+mustard bomb - tankbuster + bleed
+
+flame thrower - small cone aoes on every player that hit a second time afterwards, clock spots then dodge
+
+larboard/starboard wave cannon x2 - does a ~210 degree cleave on the left (larboard) or right (starboard) of the boss, also turning the boss 180 degrees
+	make sure to dodge the second cleave, either stay still or move through the boss
+	if it's the same name for both cleaves, you move through, if it's different you stay still
+
+peripheral synthesis - spawns either a blue or yellow fist on every healer and dps, need opposite colour fists to smash into each other
+	stand on clock spots to start, ensure we have one healer and 2 dps each side, preferably 1 melee 1 ranged if possible
+	dps look at their fist and healer fist, if opposite then they stack on healer (ranged priority) otherwise stack behind the boss
+	if all fists on one side are the same colour, one side moves over to the other side
+	fists drop electric puddles that give damage up to players
+tankbuster
+
+program loop - enters add phase
+	executable + ferrofluid - spawns magnet markers on everyone and towers around the arena, 2 close and 2 far
+		supports start NE and dps start SW (these are tower priorities)
+		magnets that get repelled go to far towers, magnets that get attracted go to close towers
+		each tower needs 2 people
+	executable 2 - furthest 2 players get a massive tether between them, everyone else needs to soak a tower
+		tethered players should stand on the edge of the arena E/W and nobody should move into the tether
+		other players look at their debuffs to see which tower they take, shortest debuffs first
+		first tower spawns close NW (if executable 1 close towers were N/S) or close SE (if executable 1 close towers were E/W)
+		after that, towers spawn clockwise
+		meanwhile tethered players need to take outer towers that spawn N/S and E/W alternating
+		everyone rotates 90 degrees clockwise after each inner tower is taken
+	reset - point blank aoe
+	reformat - doughnut aoe
+	enrage
+
+delta attack - tank lb3 and heal to full after to avoid petrification
+
+flame thrower + ballistic missile - everyone gets aoes that leave behind fire puddles, need to drop these outside and make sure everyone dodges clockwise
+larboard/starboard wave cannon x2
+
+mustard bomb - this also has a tether that the OT needs to take and run to a corner, since it does a massive aoe
+	the tether reduces max hp a lot and gives anyone else hit a doom (also gives doom if not taken by anyone)
+raidwide
+
+peripheral synthesis 2 - summons 4 big fists on th eoutside of the arena that will charge through, knocking anybody hit a large distance away
+	these target 1 tank, 1 healer and 2 dps, the second set target the other 4 players
+	go to the outside of the arena and make sure to keep the middle safe
+electric slide - stack up right in the middle to avoid moving omega
+peripheral synthesis 2 (2nd set) - make sure to tank swap
+larboard/starboard wave cannon x2
+
+update program - enhances abilities
+flame thrower (update) - now leaves a dot on everyone
+larboard/starboard wave cannon surge - cleaves one side indicated by the name then immediately the opposite side, so quickly move through after the first cleave
+
+pantokrator - a series of mini-mechs to solve
+	mrv missile kyrios - constant raidwide damage
+	party starts south and baits 4 sets of puddles while rotating clockwise to north
+	engage ballistics systems - a line stack
+	wave cannon kyrios x2 - four line aoes that target the closest 4 players
+		everyone stand clock spots, supports stay in first to bait the first set, then dps go in and supports go out
+		dodge puddles while doing baits
+	long needle kyrios - a proximity aoe from the middle, take the boss to a consistent corner
+
+mustard bomb - just a tether this time, OT takes it while MT repositions omega in the middle
+raidwide
+
+peripheral synthesis 3 - summons a red fist on everyone which need to be slammed into each other
+	cheese strat - tank LB3 and stack in the middle
+	actual strat - using clock spots from earlier, each pair stack both their fists one by one starting NE/E and going clockwise, ending with NW/N
+
+mustard bomb - just a buster this time
+raidwide
+flame thrower + ballistic missile
+larboard/starboard wave cannon surge
+
+pantokrator 2 - similar to pantokrator 1, with more mechs
+	assign one ranged player to bait the large aoe puddles, they start north
+	party starts under the boss, dodges south from the puddles until we know which way the cone aoes rotate, then dodge that way
+	stack for engage ballistics systems
+	tanks move through the boss immediately and spread out to take the repeated cone busters
+	use clock spots to assign 2 sets of 3 other players to bait the line aoes, while the others stay safe
+	long needle kyrios
+
+larboard/starboard wave cannon surge x2
+
+charybdis - sets hp to 1
+
+tankbuster + tether
+raidwide x3
+enrage

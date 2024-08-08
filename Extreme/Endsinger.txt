@@ -1,0 +1,79 @@
+elegeia unforgotten - big raidwide, summons a head in the middle of the arena and two planets on the outside
+	the planets will rotate around, one slow and one fast, until they collide at an intercardinal
+	blue planets do a big knockback, orange planets do a big point blank
+		go towards or opposite the planets respectively
+	the head casts diairesis which is a half-room cleave, need to dodge that and the planet mechanic
+
+katasterismoi - spawns two columns of four towers, assign supports to one side and dps to the other, melees in front
+grip of despair - chains supports to dps, need to stack together and then run away to break them
+elenchos - either does a big line aoe through the middle column of the arena or two line aoes at the side columns
+	look at the boss, vomiting is mid aoe and crying is side aoes
+
+telos - raidwide
+hubris - tankbusters on top two aggro targets
+
+elegeia unforgotten
+eironeia - two stack markers on each of the healers, split into light parties to soak
+	will need north/south priority for later in the fight
+
+fatalism - repeats the previous planet mechanic twice, without the head
+	double orange - dodge one aoe then the other
+	double blue - get knocked directly to the next one
+elenchos
+
+twinsong's aporrhoia (aka 5head) - summons five heads on the arena, four near the corners and one in the middle
+	the middle head casts the diairesis half-room cleaves
+	the corner heads cast either necrotic fluid or wave of nausea
+		these are either a doughnut or point blank aoe
+	move into a doughnut and dodge the half-room cleave
+aporrhoia unforgotten - 'records' each of the aoes
+	this pattern happens three times, moving one spot clockwise each time
+theological fatalism - spawns rings around each of the heads that signals how many instances are being 'rewinded'
+	first look at the middle head to see which half is safe
+	then look for a head that was previously doughnut with either 1 or 3 rings OR a head that was previously point blank with 2 rings
+elenchos
+
+tankbusters
+
+despair unforgotten - each of these casts will do one of three patterns, all of which happen once each
+	1 - everyone gets a big point blank aoe under them
+		move to clock spots
+	2 - supports get flare markers, one dps gets a stack and the others get doughnut aoes
+		supports move out, dps stack in the middle
+	3 - one support gets a stack and the others get doughnut aoes, dps get flare markers
+		dps move out, supports stack in the middle
+despair unforgotten
+elenchos
+despair unforgotten
+theological fatalism 2 - players get rings signalling how many rewinds are happening
+	if your rings take you back to a stack or doughnut, stack in the middle, otherwise stay on the outside
+
+telomania - multihit raidwide with a bleed at the end
+
+endsong's aporrhoia (aka 6head) - summons six heads in a hexagon pattern around the room, then rings fly towards four heads at a time causing them to cast endsong, a point blank aoe
+	run towards the heads that don't have rings flying towards them
+	this happens three times, with the first time coming form endsinger herself and the other times from the heads
+	for the first time, one side (east/west) will have one ring and one side will have three rings, go to the side with one ring
+elenchos
+
+raidwide
+tankbusters
+elegeia unforgotten
+eironeia
+
+fatalism x2 - will either be double blue into double orange or vice versa
+	if blue into orange, make sure to use the second knockback to get close to the safe spot
+	final impact is very delayed
+katasterismoi
+elenchos
+
+telomania
+twinsong's aporrhoia
+eironeia + elenchos - use your north/south priority from earlier
+tankbusters
+endsong's aporrhoia
+elenchos
+raidwide
+fatalism x2
+raidwide
+enrage

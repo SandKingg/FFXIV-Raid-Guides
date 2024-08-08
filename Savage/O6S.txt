@@ -1,0 +1,103 @@
+demonic howl - raidwide
+
+demonic shear - tankbuster
+
+possession - demon and goddess each possess one of the paintings and activate an effect
+possession 1 (fire + wind) - demon fire does a big fiery raidwide, goddess wind spawns a wind aoe that needs to be stacked on
+	paint the blue picture for fire resist up, then stack in the wind aoe
+
+raidwide
+
+poltergeist - spawns a reaper add that tethers to one healer and moves towards them if they aren't looking at it
+
+tankbuster
+
+divine lure - a gaze attack from the goddess, tethered healer should minmax their looking time to avoid dying to the reaper
+
+raidwide
+
+demonic pain - two pairs of players are tethered with proximity tethers and need to move away until it turns purple
+
+raidwide
+
+release - both the goddess and demon return to the middle of the room
+
+possession 2 (wind + earth) - demon wind creates a bunch of easterly adds, goddess earth creates baited puddles under every player
+	players should stack on one side of the boss to bait puddles
+	then one player paints the pink picture to turn into typhon and blow the adds away from the other side
+	everyone stack on the other side of the boss where it's safe to keep uptime
+
+tankbuster
+raidwide x2
+
+last kiss - a random player gets an orange marker that is passed to the OT who treats it as a buster
+	everyone else stay away from those players
+
+raidwide
+poltergeist
+tankbuster
+divine lure
+
+demonic storm - a stack on a random player
+
+raidwide
+release
+
+possession 3 (fire, earth + water) - demon fire does fire raidwide, demon earth does a ground-based raidwide, goddess water does two big 'side' aoes
+	paint the blue then black pictures to get fire resistance and air force to dodge the aoes
+	then stack right next to the earth painting (or in the thin safe spot in the middle of the arena) to avoid the water aoes
+materialize - creates a clone by the second demon-possessed painting
+
+demonic pain
+
+lullaby - gives everyone a debuff that zeroes out their MP
+	assign four people to pick up the four paint colours and paint the siren painting
+	the siren then removes the debuff and restores all MP
+
+raidwide x2
+tankbuster
+
+prey - two dps get targeted by orange crosshairs and spawn following aoes, run them away
+
+last kiss
+raidwide
+release
+
+possession 4 (wind, water + earth) - demon wind spawns easterlies, demon water does a water raidwide, goddess earth spawns baited puddles
+	stack to bait puddles away from safe spot
+	paint the yellow painting to spawn a boulder to hide from the water aoe (boss is NOT at water painting, beware)
+	typhon player blows adds away from the safe spot
+
+raidwide
+materialize
+
+demonic spout + demonic storm - two sets of baited puddles under players and a stack marker
+	bounce from two sides of the boss to bait puddles while staying all together
+
+raidwide
+demonic pain
+last kiss
+
+flash flood - a big line aoes from the water painting, stay close to the boss
+
+raidwide
+tankbuster
+release
+
+possession 5 (fire, earth + wind) - demon fire does fire raidwide, demon earth does a ground-based raidwide, goddess wind spawns a wind aoe that needs to be stacked on
+	paint the blue and black pictures (in that order?) to dodge aoes, then stack on the wind stack
+
+raidwide
+tankbuster
+materialize
+poltergeist
+prey
+raidwide
+divine lure
+tankbuster
+demonic pain
+raidwide
+release
+possession 6 (wind, water + earth) - same as 4
+raidwide
+enrage

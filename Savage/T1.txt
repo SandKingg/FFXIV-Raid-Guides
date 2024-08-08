@@ -1,0 +1,35 @@
+whip back - a cone aoe behind the boss, stay away
+
+regorge - spits a puddle towards a random player that persists on the ground
+
+steel scales - the boss gains a stack of steel scales, giving it a damage up which can stack up to 8 times
+
+whip back
+regorge
+
+platforms - several of the platforms will glow and, after a few seconds, spawn a dark matter slime for each player standing on them
+	these slimes follow whichever player spawned them and will explode if they get too far away
+	the boss will eat any slimes that go near it, removing one stack of steel scales and healing based on the slime's hp
+	damage the slime to near death, then bring it to the boss
+
+whip back
+regorge
+whip back
+steel scales
+regorge
+platforms
+
+loops until ~66% hp
+
+split - the boss splits in two, with each having half hp and damage
+	if the bosses are too close, they will merge and enrage
+	split into two light parties and keep the bosses at each end of the arena
+	if only one is alive, it will rapidly gain steel scales stacks, so try to kill them at the same time
+
+whip back
+regorge
+steel scales
+platforms
+regorge
+
+loops from whip back after split until enrage

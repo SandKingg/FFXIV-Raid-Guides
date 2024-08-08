@@ -1,0 +1,68 @@
+quadruple crossing - a cone aoe on the closest four players that gives vuln, this then repeats before both of the first two cones recur
+	assign four players to be 'in' first, and four players 'out' then switch for the second hit
+	remember to dodge the repeat hits after the first two
+
+biscuit maker - tankbuster that gives slashing resist down, make sure to swap
+
+nine lives - buffs the next cast, causing it to be repeated by clones in the future
+one-two paw - one claw will glow and then the other, indicated the order that her left and right will get hit by half-room cleaves
+soulshade - spawns two clones that will eventually cast the previous mechanic
+
+nine lives + double/quadruple swipe - double is a stack on each healer, while quadruple is a stack on all supports or all dps assign light parties and colour pairs for this
+soulshade - this is delayed until after the next mechanic
+
+leaping quadruple crossing - does quadruple crossing, but she will leap to another location
+	ensure that the baits are done correctly around that location
+	the soulshade will do double swipe immediately after
+
+bloody scratch - raidwide
+
+mouser - progressively indicates tiles that will be hit by aoes, getting hit by one will crack a tile and two will break it
+	eventually there will be a zig-zag pattern of four tiles left, so there will always be a safe spot to dodge near the centre
+
+copycat - summons a clone that will cast elevate and eviscerate, marking a player with a paw marker and doing either an uppercut or a slam
+	look at the clone to determine which move she is doing
+	a slam needs you do be on a safe platform, an uppercut needs you to be knocked forwards by one tile to a safe platform
+	both moves also done a line aoe along tiles in the same row or column, so stay away
+	this will happen four times, targeting either all supports or all dps
+
+tankbuster
+
+shockwave - a large radial knockback from the centre of the arena
+	the ring is being repaired, but some corners are finished faster than others, ensure you get knocked to a fast-respawning corner
+	every player will get a spread aoe after, so stay spread
+
+nine lives + leaping one-two paw - does one-two paw but moves across to another location first, the dash is also copied to the shade
+soulshade - this shade is asleep, so the attack will be delayed
+nine lives + leaping quadruple crossing
+soulshade - also delayed
+
+tempestuous tear/nailchipper - they occur in either order, depending on which clone is activated first
+	tempestuous tear is two line stacks on each healer, these need to be soaked while dodging the shade's leaping one-two paw
+	nailchipper marks all supports or all dps for aoes around them, then repeats for the other role
+		this is dodged in tandem with the shade's leaping quadruple crossing
+		the marked players cannot bait, as their aoes give vulns so quickly adjust if necessary
+		the second round of aoes goes off along with dodging the repeated hits
+
+nailchipper/tempestuous tear
+raidwide
+mouser
+copycat - this targets the opposite role to the previous copycat
+
+overshadow - a line stack that cannot hit the player doing copycat, make sure to dodge their lines too
+
+splintering nails - a cone aoe on a random tank, healer and dps that is not being targeted for copycat
+	split into role stacks, but make sure to dodge the line aoes from copycat
+
+overshadow
+splintering nails
+tankbuster
+shockwave
+
+raining cats x4 - creates two passable tethers that do cleaves towards their targets, inflicting slashing resist down, while also doing a stack on the closest and furthest players
+	rotate through every player taking the tether once, or just have tanks invuln some of the hits
+	magic vulns from close far stacks are reducing with how many in the stack? (instead of damage?)
+
+copycat - this copycat will cast predaceous pounce, marking several aoes around the room that will explode in quick succession
+one-two paw - try to stay near the middle to dodge this if possible
+enrage

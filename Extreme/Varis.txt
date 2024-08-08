@@ -1,0 +1,79 @@
+altius - spawns a garlean cross behind every player that will shoot forwards in a line after a delay
+	usually try to have these firing north/south
+
+alea iacta est - turns to a random player and does four cleaves in front of the boss and one behind
+
+citius - double stack tankbuster
+
+ignis est - turns to a random player, casting a fiery garlean cross which shoots forward combined with a point-blank aoe
+festina lente - targets both healers with stack markers, split into light parties
+	make sure to stay out of the ignis aoe
+
+electrified gunshield + altius + ignis est - charges up his shield and does a knockback at 100
+	bait altius north/south first
+	then move out and either quickly back in or use kb resist at ~85
+
+reinforced gunshield + tankbuster - charges up his shield and does a directional parry at 100
+	will either be sides safe or front/back safe
+	stop attacking slightly before to avoid getting hit
+	MT should not move the boss in case front/back are shielded
+
+loaded gunshield + ventus est - charges up his shield and does spread aoes on each player at 100
+	then turns to a random player and does a windy garlean cross which shoots forward combined with a doughnut aoe
+	stay in then go to clock spots, whoever has the cross on their spots needs to wait at someone else's spot first
+
+vivere militare est - tanks use a cooldown and click on the interactible, party kills the cross
+
+enhanced gunshield mechs are in a random order here
+electrified gunshield + reinforcements + terminus est - calls in some adds
+	magitek turret i - shoots line aoes, just kill them
+	magitek turret ii - does a tankbuster tether on a player
+	terminus est - line aoes from north, go into the safe column
+	remember the knockback at the end
+
+alea iacta est
+
+reinforced gunshield + altius + ventus est - bait altius north/south, then wait for ventus before moving and make sure to stop attacking for reinforced
+
+tankbuster
+
+loaded gunshield + ignis est - clock spots and out, much easier to dodge the cross here
+
+festina lente + terminus est - have a north/south priority for the light parties in the safe column
+tankbuster
+
+gunshield - mini phase, kill the gunshield
+	magitek torch/magitek spark
+		torch - a line stack
+		spark - does thin cone aoes on each player, need to spread
+			have tanks closest to mid, then melee, ranged and healers for each light party on their respective sides
+	magitek spark/torch - the opposite to first cast
+	nothing
+	literally nothing
+	enrage
+
+loaded gunshield + fortius - do the fortius dance, then stay spread
+	clock spots and out first to drop puddles
+	then in, then step slightly to the side, then back to where you were
+	stay spread
+festina lente
+
+tankbuster
+
+electrified gunshield + terminus est + fortius - fortius dance, then into safe column, then knockback
+
+altius + terminus est + festina lente + ventus est + alea iacta est - lots of mechs here
+	first bait altius north/south in mid
+	light parties go into the safe column with their n/s priority
+	stay in the safe column to dodge the cleaves
+	stay close to varis to dodge the ventus doughnut
+	you can safely stand in front of the ventus cross for the back cleaves but NOT for the front cleave, be careful with baiting
+
+tankbuster
+
+ignis est + alea iacta est - go quickly out after moving through, the ignis goes off right after the final cleave
+
+loaded gunshield + fortius + festina lente
+tankbuster
+electrified gunshield + terminus est + fortius
+enrage?

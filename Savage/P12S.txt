@@ -1,0 +1,115 @@
+-- PHASE 1 --
+on the soul - raidwide
+
+paradeigma - spawns four anthropoi from yellow octahedra either in north or south
+	these target the two nearest players with lasers that give magic vuln
+	the easy strat is just to have tanks stack on the anthropoi side and invuln
+		beware that the MT will have a magic vuln for the next autoattack so needs either a quick swap or heavy mitigation
+	the normal strat is to have supports bait first, with tanks closer, while the dps stay away then swap over
+trinity of souls - causes one of each of her three sets of wings to be indicated with a thorny circle
+	she then does a big half-room cleave on the sides indicated by the circles
+	if the rings appear starting at the bottom, she also between each cleave, so for the second you dodge INTO the side the circle indicated
+	if the rings appear starting at the top, it's the same as normal
+
+paradeigma 2 - spawns four anthropoi from blue 'gemstone shapes' and two from red dodecahedra
+	the four blueborn anthropoi tether to four players with either light or dark tethers that need to be stretched
+	each role will get one light tether and one dark tether
+engravement of souls - gives the four untethered players either a light or a dark debuff
+	again, each role gets one light debuff and one dark debuff
+	this debuff spawns a tower when it expires that needs to be taken by a player with the opposite element tether
+	after taking the towers, the red anthropoi will do two line aoes through the arena, make sure to dodge
+
+raidwide
+
+glaukopis - a double hit line tankbuster that gives magic vuln, make sure to swap during the cast
+
+superchain theory i - spawns an arrangement of shapes that tether to activation spheres before moving towards them
+	green sphere - a point blank aoe
+	blue doughnut - a doughnut aoe
+	orange stellated shape - cone aoes on every player that give magic vuln, assign clock spots
+	purple six-pointed shape - shareable cones on all supports or all dps, assign pairs
+engravement of souls - gives a big array of debuffs to everyone
+	either all supports or all dps will get spread debuffs
+		they will also get a light or dark aligned debuff
+	from the non-spread role
+		two players get marked for line stacks, one dark and one light
+		two players get marked for tower spawning, one dark and one light
+
+	the first pair of shapes is in/out + pairs/clocks
+	quickly run to the doughnut and separate into stacks for the two line aoes
+		the dark line stack needs the three light players in it and vice versa
+	the final pair is in and out in either order
+	after this the final debuffs go off in quick succession
+		towers spawn and need to be taken by the non-spread role
+		then spreads go off, melees should run through the boss and ranged run away
+
+trinity of souls
+
+peri/apodialogos - jumps towards a player, doing a shared tankbuster and leaving a bleed
+	also does a stack on another player
+	peri - jumps to closest, stack on furthest
+		have tanks stay mid while everyone else stacks at the edge of the hitbox
+	apo - jumps to furthest, stack on closest
+		have tanks run to the edge while everyone else stays mid
+
+raidwide
+
+paradeigma 3 - spawns four anthropoi from blue 'gemstone shapes' and two from yellow octahedra
+engravement of souls - gives debuffs to all supports
+	one gets a plus aoe, one gets a cross aoe and the other two players spawn towers of the same element
+unnatural enchainment - gives life to four panels in a zigzag pattern, killing anyone on them and removing them from the arena
+	also spawns one tower on each of the safe platforms which are taken by supports usually
+	the light and dark tethers of the same element will always come from the same side, make sure to stretch them
+		these tethers need to be crossed to avoid clipping players
+		if the tether can be stretched perfectly horizontally, do so, otherwise adjust
+	the two aoe players should go to the front and back platforms and take the towers there
+	the two tower players take the towers on the middle platforms
+	after the towers, the plus goes to the outside corner while the cross goes to the inside corner
+		after that, these two players need to bait the lasers from the yellowborn anthropoi
+		the two players not spawning or taking towers also need to bait the lasers
+	the other players need to make sure the towers are soaked by players with opposite-element tethers
+		have the tower player on the platform with the correct elements just place it near the middle
+		the tower player on the platform with incorrect elements needs to place it right in the middle corner so the players on the other platform can reach it
+		convention is that 'crossed' tether player soaks the middle tower
+
+raidwide - respawns the platforms
+tankbusters
+
+ultima blade - a big transition raidwide
+
+palladion - marks every player with a number from 1 to 8 and dashes between them, doing proximity damage that needs to be shared by two players
+	each dash also leaves a persistent puddle behind
+	have 1 and 3 pair, 2 and 4 pair etc, this means odds will be opposite of where the boss starts and evens will be closer towards it
+	the eight adds will spawn mid, doing cleaves to prevent anyone from being mid and firing lasers at the two closest players
+	the baits should be some semi-opposite to the dashes
+		5 and 7 first, then 6 and 8, then 1 and 3, then finally 2 and 4
+		make sure you spread a bit when baiting so you don't overlap the lasers
+
+theos's ultima - destroys the middle four platforms, then does a massive raidwide split between all players alive (and respawns the platforms)
+
+superchain theory iia - spawns another array of shapes with three activation spheres in north, mid and south
+	the first is always pairs
+	the second is always in
+	the third is either clocks or pairs
+trinity of souls - look which side is getting cleaved first and solve the first shapes on the safe side
+	quickly move in when running to the final activation sphere, staying on the safe side from the cleaves
+	then keep running and solve the final shape
+
+peri/apodialogos
+raidwide
+
+superchain theory iib - spawns another array of shapes with six activation spheres towards the cardinals, one pair of cardinals having doubles
+	the first two go off at the same time, one in and one out
+	the second two go off at the same time, one out and either clocks or pairs for the other
+	the final two spawn very close to the first two, one out and one in/out + pairs/clocks
+paradeigma 4 - spawns two anthropoi from red dodecahedra
+	start on the doughnut activation sphere
+parthenos - does a big line aoe in front and behind her
+	run to the side which doesn't have the sphere and do clocks/pairs
+	immediately dodge the line aoes from the redborn anthropoi
+	then run to the final activation sphere and do clocks/pairs in or out
+
+unnatural enchainment 2 - destroys 7 of the 8 platforms, leaving just one next to the final activation sphere of the previous mechanic
+raidwide - respawns the platforms too
+raidwide
+enrage

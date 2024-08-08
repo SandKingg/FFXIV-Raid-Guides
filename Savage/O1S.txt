@@ -1,0 +1,58 @@
+twin bolt - tankbuster on the MT and closest player, OT be close
+
+the classical elements - starts a combo mechanic
+	fireballs spawn in mid
+	downburst - a knockback that pushes players and fireballs away
+	the floor becomes icy, slide in to dodge fireballs
+	levinbolt - a spread aoe on every player
+		slide out to clock spots
+
+roar - raidwide
+tankbuster
+
+clamp - an aoe knockback in front of the boss
+
+fireballs x2 + levinbolt - stay in to dodge outer fireballs, then go to clock spots to dodge inner fireballs and spread aoes
+
+blaze - a stack marker on a random player
+
+tankbuster
+raidwide x2
+charybdis - sets hp to 1
+raidwide
+
+the classical elements 2 - this combo has 7 fireballs with a gap somewhere
+	look which spot does not have a fireball on it (cardinal?)
+	use downburst to get knocked into the safe spot
+	then slide in and slide to clocks for levinbolt
+
+fireballs + breath wing + clamp - go in front of the boss to avoid getting knocked off or into the fireballs
+	then slide to the sides of the boss to dodge clamp
+
+blaze
+raidwide
+charybdis
+tankbuster
+
+fireballs x2 + levinbolt - go to clock spots to dodge inner fireballs and spread aoes then go in to dodge outer fireballs
+clamp
+
+raidwide x2
+
+the classical elements 3 + blaze - this combo has outer and inner fireballs
+	stay in first then get knocked to a safe spot by downburst
+	quickly slide back in for blaze
+
+raidwide
+tankbuster
+clamp
+fireballs x2 + levinbolt - in then out
+blaze
+the classical elements 4 - same as 1
+raidwide
+charybdis
+tankbuster
+fireballs x2 + levinbolt - out then in
+clamp
+raidwide x2
+enrage

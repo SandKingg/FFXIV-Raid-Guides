@@ -1,0 +1,83 @@
+flare star x2 - baited puddles under every player, stack up then move
+
+the purge - transition raidwide
+
+wave cannon - a blue marker above a random player's head that then shoots a big line aoe towards them that leave a bleed
+	move to the side of the boss to avoid clipping other players
+
+loops until <90% hp
+
+soar - three images of zurvan either fly off in a regular pattern or squished pattern
+	if regular, then they fly back at six regular points around the arena
+	if squished, then they fly back more squished around north
+	every tank and dps then gets a big spread aoe, so they move to assigned spots around the arena
+		healers follow another player
+		if squished pattern, then move towards the B and 2 markers without overlapping
+	then one healer gets a stack and one healer gets a red marker
+	everyone stacks in the middle of the arena except the red marker healer
+
+the demon's claw + wave cannon - a big knockback on the MT, which should be towards south
+	then a large line aoe that needs to be stacked in, with the OT in front using cooldowns
+	OT should provoke to avoid cleaving the party afterwards
+
+loops until <75% hp
+
+hitbox becomes a frostbite zone, stay out
+
+biting halberd - a massive 330-degree cleave towards a random player, go behind him
+
+southern cross - invisible baited puddles under every player, stack up then party rotates 90 degrees clockwise while MT rotates anticlockwise
+
+random ability - one of three
+	biting halberd
+	tail end - a point blank aoe, move out past the rune ring
+	ciclicle - a doughnut aoe, stay in
+
+add phase - three waves of adds
+	wave 1 - 4 execrated thews, 1 execrated will
+		thew - mini adds that don't do anything
+		will - big adds that hit harder and gain stacking damage ups, must be tanked by tanks (preferably one each later)
+	wave 2 - 1 execrated wit, 1 execrated wile, 2 execrated wills
+		wit - casts meracydian meteor, a big raidwide that cannot go off, focus this first
+		wile - casts meracydian fear, a gaze attack, look away
+	wave 3 - 1 execrated wit, 1 execrated wile, 1 execrated will, 3 execrated thews
+
+infinite fire/ice - gives every player a fire or ice tether to one other player
+	if the tether is stretched too far, it becomes purple and starts giving vulns and big damage
+	party stacks behind the boss, MT north and player tethered to MT east
+
+wave cannon - goes west, then back into the party
+
+tyrfing - multi-hit tankbuster
+
+southern cross - MT and partner stack, then immediately separate (MT norther, partner souther) after puddles spawn
+	one pair of opposite tethers to MT cross over to the other side
+
+broken seal - causes pairs of fire and ice meteors to spawn in one of three patterns that do not repeat until all are seen once
+	1 - a plus shape at east and west
+	2 - cardinals close to zurvan in the middle
+	3 - cardinals around the edge of the arena
+	players need to stand next to their partner in a pair of the SAME colour as their tether
+	MT and crossing pair get north/east prio, the others get south/west prio
+
+random ability - based on the broken seal pattern
+	1 - biting halberd
+	2 - tail end
+	3 - ciclicle
+
+infinite fire/ice
+wave cannon
+tankbuster
+southern cross
+broken seal
+random ability
+soar
+the demon's claw
+infinite fire/ice
+wave cannon
+tankbuster
+southern cross
+broken seal
+random ability
+
+loops from most recent infinite fire/ice until enrage

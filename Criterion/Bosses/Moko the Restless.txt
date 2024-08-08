@@ -1,0 +1,58 @@
+kenki release - raidwide
+
+triple kasumi-giri - a series of 3 270-degree cleaves, look at the safespot indicator to know RELATIVE TO THE BOSS' POSITION where the safe spot is
+	boss turns after every cleave, always ends up facing directly opposite of the safe spot
+	if water, need to be in; if fire, need to be out
+triple kasumi-giri
+
+lateral slice - cone tankbuster
+
+scarlet auspice - point blank fire aoe, get out of the hitbox
+boundless scarlet - creates two diagonal lines through the middle and two lines at the north and south edges, go to the sides to dodge
+	eventually these lines explode in very large aoes
+invocation of vengeance - marks everyone with a spread and two players with a stack, assign support dps or melee/ranged pairs
+fleeting iai-giri - one player is tethered to the boss signalling he will jump to them and do a cleave, look at the indicator to see how to orient yourself
+	the jump will always be behind the player and facing towards them
+	run to the first safe corner (away from first explosions) and bait the cleave + do spread/stack
+	WAIT FOR SPREAD/STACK AND AOES
+	run to the second corner and do the other stack/spread
+
+raidwide
+
+shadow-twin - boss creates two clones that tether to two players, split into pairs again so that each pair has one tethered player
+	clones will always do first cleave in front, then second cleave random, tethered players look for second cleave safe spot
+moonless night - summons two hands either north/south or east/west that do massive aoes
+	assign N/W and E/S priority to each pair
+near edge/far edge - the closest/furthest two players get a small aoe bind around them
+	can also look at boss, if the icon above his head is close then untethered players stay close, if apart then stay far
+	pairs go into the safe directions, making sure the untethered player is closest for near edge or furthest for far edge
+	the tethered player should bait their clone to make sure the untethered player is safe, then both dodge the second cleave
+
+moonless night + near/far edge 2 - the two players who didn't get tethers before, get tethers here so keep same pairs
+	hands spawned are random, may need to change corners
+	the rest of the mechanic is the same
+
+raidwide
+
+azure auspice - doughnut water aoe, get into the hitbox
+boundless azure - creates two diagonal lines through the middle and two lines at the north and south edges, go to the sides to dodge
+	eventually these lines start propagating outwards one at a time
+
+triple kasumi-giri
+raidwide
+
+soldiers of death - summons soldiers around the arena that do aoes on the ground, red ones do normal aoes and the blue one does a big aoe
+	look for the blue soldier to see which two cardinals are safe
+	will always be one of north/south and one of east/west
+shadow-twin 2 - summons four clones in the arena that tether to each player
+	this time the first cleave is semi-random, either left or right safe and the second cleave is always behind safe
+	supports will always get opposite safe spots for their first cleaves, same for dps
+	assign supports and dps north/south or east/west priority
+	players should stand with in the corner of their safe zone and look out at the side walls
+
+triple kasumi-giri
+raidwide
+tankbuster
+raidwide
+raidwide
+enrage

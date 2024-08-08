@@ -1,0 +1,178 @@
+-- PHASE 1 --
+synthetic shield + beyond defense - spread out on east or west and omega-m will charge to a random player, giving them magic vuln in an aoe
+	melee can take cardinal positions around the boss and ranged can either be intercardinal further out, or around the edge of the arena
+suppression - the eye will fire a big line aoe through the middle of the arena
+pile pitch - an untargeted stack on a random player, stack up immediately after beyond defense, except the magic vuln player/s
+
+subject simulation f - turns into omega-f and does a big knockback
+
+synthetic blades + superliminal motion - creates a 330 degree cleave, leaving a thin cone safe spot behind her
+	have melee stack tightly at the front and ranged pre-spread near the back
+advanced suppression - the eye does a big point blank aoe in front of it and then teleports to another location
+optimized fire iii - an untargeted spread on each player, melee go to cardinal positions and ranged should be pre-spread mostly
+
+subject simulation m + electric slide - two stacks target each healer, split into light parties
+	light parties should be one opposite the eye and one clockwise 90 degrees from the eye (though both 90 degrees either way from the eye works too)
+	run to where omega-f spawns for knockback
+
+firewall - roughly marks the closest light party (tank, healer 2 dps) to each omega to only be able to attack that omega
+
+resonance - will be either remote or local
+	if local, both omegas should be tanked at opposite ends of the arena
+	if remote, both omegas should be tanked together
+	the opposite-of-eye light party should adjust (or assign one if doing double 90-degree light parties)
+
+fundamental synergy + advanced suppression - the omegas mark their firewall-ed players with blue squares (m) or purple triangles (f) 1 to 4 and charge them in that order
+	the charges deal distance-based damage so 1 and 3 run to the opposite side of the arena from their boss while 2 and 4 stay
+	convention is one light party always stands ON the cardinal markers, and the other stands slightly to the side, away from the eye
+	1 and 2 should be slightly in front of 3 and 4, then switch positions after being charged
+	make sure to immediately tank them again in the correct positions
+
+laser shower - double raidwide
+solar ray - double tankbuster
+
+synthetic blades/synthetic shield - signals which version of operational synergy will be cast, tanks should have moved bosses to the middle by the time this is cast and faced them north
+operational synergy (blades) - superliminal steel > optimized blizzard iii + pile pitch > superliminal motion > efficient bladework > optimized fire iii > laser shower
+	first stay mid for superliminal steel, then go to a consistent intercardinal for pile pitch and blizzard dodge
+	then go into the cone safe spot, as close to the centre as possible, omega-m jumps on a random player for efficient bladework
+	dodge out and spread roughly to clocks for the fires
+operational synergy (shield) - optimized blizzard iii > beyond defense > pile pitch > optimized fire iii > beyond strength > efficient bladework > laser shower
+	first go into the same colour intercardinal as your clock spot and spread apart a bit
+	then everyone stack mid except the vulns and immediately spread to clocks, stay on the inner ring that touches the 1234 markers
+	run into the doughnut, stay near the edge and immediately run out afterwards
+
+raidwides
+firewall - debuffs will swap over
+resonance - will be the opposite of whatever the first one was
+fundamental synergy + advanced suppression
+raidwides
+tankbusters
+synthetic blades/shield + operational synergy - opposite of the first one
+raidwides
+
+suppression
+optimized meteor + optimized sagittarius arrow - one tank will get a flare and one will get a line aoe towards them
+	have the party pre-position east to avoid suppression, then flare tank runs over
+	party cannot be between omega-m and line tank
+	both tanks should use cds
+
+cosmo memory - massive raidwide, needs mitigation
+raidwides
+
+optimized bladedance - big tankbusters on each tank
+
+advanced suppression
+optimized meteor + optimized sagittarius arrow - same as before, but adjust to new eye and avoid the point blank instead of line
+cosmo memory
+raidwides
+optimized bladedance
+enrage
+
+
+-- PHASE 2 --
+target analysis - marks a random target from the first two in aggro for magic vuln then blasts them with a line aoe
+	tanks should be top two and the non-vuln tank stands in front, use a short cd
+
+patch - tethers each dps to a support with either a green (close=break) or blue (far=break) tether
+	one tank and one healer get a green tether and one tank and one healer get a blue tether
+	breaking a tether gives magic vuln so break them one at a time
+	everyone should position south of the boss
+	green tank will insta-break, meaning only the green healer needs to move north through the boss
+	blue tank moves north and breaks after diffuse
+	green healer breaks after oversampled
+	blue healer breaks after the previous break
+
+diffuse wave cannon - does two massive cleaves either front/back or sides
+	look at the boss to determine which directions the cleaves are
+	you want to be facing the THIN side of the strange halo bits, NOT facing the big, flat side with lights
+	rotate if needed, then rotate back to be south
+
+oversampled wave cannon - the boss crates monitors on one side and targets the two closest people on that side for tankbusters
+	blue tank who just broke stays northern, other tank stays southern
+
+ion efflux - massive raidwide
+
+hello, world - gives everyone debuffs that need to be resolved properly (relies on specific markers)	
+	tanks
+		critical overflow (circle) - start on C, wait for circle explosion, then go to 4 and provoke
+		latent defect (dna) - provoke (if needed), start on 1, take the short stack then take the next stack alone with a cooldown, then go to 4
+	healers
+		latent defect - start on 3, wait for circle explosion, then go to B, wait for circle explosion, then go to 4
+			needs to heal the latent defect DPS and themselves
+		nothing - start on 4, wait for circle explosion, then go near B, wait for circle explosion, then go to B, wait for circle explosion, then go to 4
+			needs to heal the stacks
+	dps
+		latent defect - start on 3, wait for circle explosion, then go to A, wait for circle explosion, then go to 4
+		critical synchronization (short stack) - start on 1 with tank, wait for stack, then go to 2, wait for stack again, then go to 4
+		critical synchronization (long stack) - start on 2, wait for your stack, then go to 4
+		nothing - start on 4, wait for circle explosion, then go near A, wait for circle explosion, then go to A, wait for circle explosion, then go to 4
+	taking an overflow or synchronization renders you immune to that ability
+critical error - gives anyone not immune to overflow a critical overflow, this should be 1 tank and both stack dps
+	tank goes on C, short stack on A, long stack on B
+raidwide
+
+archive peripheral - spawns three arms that rotate line aoes in random directions (though there will always be a safe spot)
+	find which direction/s they rotate in and stand in the slice that won't be cleaved
+
+target analysis
+diffuse wave cannon
+oversampled wave cannon
+
+index and archive peripheral - spawns three arms that tether to random players and fires wave cannons at everyone else
+	tethered players go directly opposite their arm while everyone else goes close to omega
+
+target analysis
+patch
+diffuse wave cannon
+oversampled wave cannon
+raidwide
+
+archive all - spawns six fists equidistant at the edge of the arena that cast colossal blow, and a rotating laser aoe in the middle of the arena
+electric slide - omega turns to one direction of the laser and leaps there dealing massive proximity damage
+	party runs to the opposite direction, stacking right in the corner of the aoe behind its rotation
+	start killing the fist there
+delta attack - spawns baited puddles under every player, spread aoes on four players and a stack on another player
+	baits should be right in the corner of the laser and the edge, spreads move out and stack moves back to the corner
+	stay in the safe spot from colossal blows
+
+diffuse wave cannon
+
+hello, world 2 - gives everyone debuffs with an extra debuff on the healer that would have got nothing in previous hello, world
+	these are the differences in movement between hello, worlds
+	tanks
+		critical overflow (circle) - after moving to 4, wait for solo stack to explode, then move to 1
+		latent defect (dna) - none
+	healers
+		latent defect - gets rot passed to them on B, wait for circle explosion, then go to 4 and pass rot, then quickly move to 2 to explode rot
+			needs to heal the latent defect DPS and themselves
+		critical underflow (rot) - start near B, wait for circle explosion, then pass rot to the other healer, wait for circle explosion and rot explosion, then go to B, wait for circle explosion, then go to 4
+			needs to heal the stacks
+	dps
+		latent defect - go to 1 after solo stack explodes
+		critical synchronization (short stack) - none
+		critical synchronization (long stack) - none
+		nothing - go to 1 after solo stack explodes
+critical error - also spawns three large circles from east to west, standing in them when they explode gives cascading latent defect
+	having rot explode cleanses the cascading latent defect debuff, so the three people who get circles from critical error need to take the towers
+	short stack takes west tower, long stack takes east tower, tank takes mid tower
+	move to spots for circles right after
+
+raidwide
+archive peripheral
+target analysis
+diffuse wave cannon
+oversampled wave cannon
+index and archive peripheral
+target analysis
+patch
+diffuse wave cannon
+oversampled wave cannon
+raidwide
+archive all + electric slide
+delta attack
+diffuse wave cannon
+
+program: omega - ramping damage ups after each raidwide
+
+raidwide x4
+enrage

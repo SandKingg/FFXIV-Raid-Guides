@@ -1,0 +1,107 @@
+deepshadow nova - raidwide
+
+implosion - look at boss to determine front or back
+	raised head = front, raised tail = back
+	look at shadow to determine position
+		the graphic is showing the shadow's BACK i.e. if graphic is southern, shadow faces NORTH
+		can turn camera to behind graphic and go from there
+
+throne of shadow - the boss stands up and does a big, untelegraphed point-blank aoe
+
+giga slash - boss raises up one hand, then shadow slashes that side of the arena
+
+umbra smash - 4 hit big tankbuster, use invuln and swap before 2nd part (green marker)
+2nd part - either shadow's edge or darkness unleashed
+	shadow's edge - big line aoe
+	darkness unleashed - targeted group soak, NOT with the first tank
+
+shadow cleave - targeted cone aoes on each player, spread to clocks and place them close to the edge
+	also creates clones directly on each player that tether to them
+	these clones will do cleaves towards players if they are too close, so stay away
+	two clones at a time get numbered with 1, 2, 3
+dualspell - a three hit stack
+	players with the respective numbered clone get magic vulns with that hit so they should stay out i.e. 1 players out on 1st hit, 2 players out on 2nd hit etc.
+shadowkeeper - all clones 'nothing personell' behind players before doing a small cone in front of them
+	start max melee at N/S, then rotate clockwise
+
+tankbuster combo
+
+shadow servant + giga slash - all dps or all supports get shadows on them
+	look at the unsafe side, then position so that your shadow cleaves the outside
+	once again, the graphic shows the shadow's BACK i.e. if graphic is western, shadow faces EAST
+	tips:
+		east/west-facing shadows go to the north/south of the boss and vice versa (which specific compass point depends on cleave side)
+		all shadows should point either clockwise (right cleave) or anticlockwise (left cleave)
+	players get bound, then should run into the middle after it wears off
+
+shadow servant + giga slash 2 - the other 4 players get their turn
+
+distant scream - the boss sits down, doing a raidwide + knockback (can use kb immune once sword poofs)
+
+umbral orbs - 2 solo purple orbs and 2 orange orb clumps spawn on cardinals, then eventually slam into the closest player/s
+	purple need to be tanked, orange need to be stacked
+	split into 2 light parties, 1 starts north, 1 starts south
+	the 'correct' player/s stay/s north or south and the 'incorrect' player/s rotate/s to their correct side
+	if opposite orbs are the same, always go clockwise, other patterns it's obvious
+
+spawn shadow + shadow warrior - four clones spawn at cardinals and jump 5 times, including potential double backs
+	follow the clone that got tethered to the boss then stand at that edge
+umbral orbs 2 - assign relative leftmost/rightmost orbs to tanks and light parties then stand in those positions on the safe edge to be the closest players
+
+raidwide
+
+fade to shadow - spawns 4 puddles in the corners, 2 with straight tethers and 2 with curved tethers
+	puddles explode once the pulse goes along the tether and reaches them
+implosion - this makes one side unsafe
+	stand in a corner with a CURVED tether, away from the implosion
+	then rotate to avoid the other implosions
+
+raidwide
+implosion (quadruple) - all 4 use the same telegraph (head or tail) so dodge all the same way
+raidwide
+throne of shadow
+tankbuster combo
+
+voidgate + shadow servant - four puddles spawn that need to be soaked by 2 players each
+	loosely assign spots for each player, then the ones that get shadow servant adjust to their correct position and take the closest puddle
+giga slash - run in after soaking the puddles puddles
+voidgate 2 + shadow servant + giga slash - rotate clockwise from 1st soak to get starting positions
+	soak the intercardinal puddles first, then adjust to shadow servant positions
+
+pitch bog - every player gets an aoe that drops a puddle after a few seconds, standing in this puddle spawns a clone
+	these should be placed in specific spots near the cardinals (i.e. keep intercardinals safe) with supports slightly clockwise of cardinals and dps long clockwise from their intercardinals
+umbral orbs 3 + distant scream - same as 1 but on the intercardinals this time, 1 light party starts NE, 1 starts SW and rotate from there
+	knockback immune AFTER prepositioning, timing is tight
+
+implosion (double) - both use the same telegraph
+raidwide
+
+shackled apart - tethers all supports to all dps, make sure to stay apart
+	have supports stack north and dps stack south
+umbral orbs 4 + fade to shadow - start on squiggly safe spots, assign one light party to move clockwise, one light party to move anticlockwise
+	for two out of three patterns, you do light party movements first then 'role' movements - i.e. tanks move towards purple orbs, everyone else towards orange
+	if the SQUIGGLY line completely separates the purple and orange orbs (i.e. one half as both purple, one has both orange) then you do role movements FIRST and light party after
+
+raidwide
+throne of shadow
+pitch bog - use the same spots as last time, this is where it's important
+giga slash (quadruple) - all use the same telegraph, dodge the same way
+	as soon as the final cleave is over, move into the pitch bog puddle you placed
+
+voidgate amplifier - spawns 8 puddles needing 2 players each, 4 outside on the intercardinals need soaking first, then 4 inside on the cardinals
+	need to go into the pitch bog puddles to spawn a shadow clone each that will take a puddle
+shadowkeeper - stand slightly outside your tower, on the corner closest to the boss, while facing the boss
+	this means your clone will be teleported inside the tower and take it
+	two strats for this:
+		1 - have ranged + their clones take outside puddles, while melee + their clones take inside puddles
+		2 - pair up and bait 2 clones in the outside puddles, then have 2 players in the inside puddles
+	strat 2 is generally preferred
+
+shadowy eruption - puddles underneath each player, place these roughly in pitch bog spots
+voidgate 3 + shackled together - supports are tethered to dps again but they need to stay close this time
+	supports go to their respective colour-coded puddle and dps adjust to whichever support they get tethered to
+
+tankbuster combo
+umbral orbs 5 + distant scream - same as 3 but no bogs
+raidwide x3
+enrage

@@ -1,0 +1,68 @@
+cetacean rage - bismarck slams into the island, dealing 11 damage to its vitality and staggering every player
+	use the magitek field generator to put up a shield, reducing the damage to 5 and removing the stagger
+	this first one cannot be shielded though
+
+adds - vanu vanu adds spawn to protect bismarck
+	vuk'maii vundu
+		powerful gust - a quick cast hit on the tanks
+		extreme wind - an aoe targetted at a random player
+	lan'maii vundu
+		howling wing - a line aoe
+
+baleen bomb - a watery aoe that spawns randomly on the arena
+
+cetacean rage
+baleen bomb
+
+loops until dragonkillers are fired properly
+
+dragonkillers - a message appears on scren indicating that the dragonkillers can be used
+	two players need to activate the dragonkillers to reel in bismarck
+	need to activate before the next baleen bombs hit them, disabling them
+
+chitin carapace - kill the carapace, make sure to be on bismarck to be able to deal damage
+	while on bismarck, players gain stacks of turbulence, which is a stacking dot and vuln up
+		players should aim to never get more than 3 stacks
+	if bismarck begins shaking, jump back onto the platform, but one round should be enough to kill the carapace
+
+add phase - two sanuwas spawn, which need to be tanked, ul'sanuwa is water and so'sanuwa is wind
+	make sure to keep the sanuwas apart and face the cleaves away from the group
+	baleen bombs will keep occuring without being cast by bismarck in this phase
+
+	tornadoes - tornadoes will spawn and move around the arena, getting hit deals damage and knocks you into the air
+
+	dead wind/water - gives everyone a wind or water debuff
+		attack the add that has the opposite element of your debuff
+
+	dead wind/water - rerolls everyone's debuffs, you might get the same or different so pay attention
+
+	loops from dead wind/water until enrage
+
+breach blast - a big transition raidwide that also destroys the magitek field generation
+
+adds 2 - spawns the same two adds as in the first phase, with a new add as well
+	nat'maii vundu
+		death blossom - a small point-blank aoe around it
+
+cetacean rage
+
+windcaller - indicated by a message saying bismarck seizes control of the clouds, different mechanics happen based on the weather
+	vapor bubbles spawn in all weathers, causing many more baleen bombs to appear
+
+	thunder - weather is thunderstorms
+		lightning bolt - aoes on three random players, make sure to spread out
+		thunderhead - two bigger hitting aoes on any vapor bubbles alive
+			if no vapor bubbles are alive, then players take these hits instead to leave the bubbles alive for thunder
+	wind - note that the weather is SHOWERS here, despite not being the rain phase
+		sharp gust - a knockback from the middle of the platform
+		rain storm - a doughnut aoe where the middle of the platform is safe
+	water - weather is rain
+		primal tears - a large blast of water in the middle of the platform that deals damage and gives vuln up to anyone hit
+		deep draught - gives a damage up to any surviving vapor bubbles, make sure they are dead by then
+
+dragonkillers
+
+corona - exactly the same as chitin carapace phase except the corona has more health, you'll likely need two rounds to kill it
+	if you need two, make sure to wait after the first to let your debuffs wear off
+
+loops from adds 2 until the island dies

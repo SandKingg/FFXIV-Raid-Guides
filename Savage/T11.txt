@@ -1,0 +1,87 @@
+resonance - an untelegraphed shared tank cleave, make sure both tanks are standing in front of the boss
+
+nerve gas x3 - three cleaves in a random order, but will always be:
+	1 - a 120-degree cleave in front of the boss
+	2 - a 180-degree cleave SE
+	3 - a 180-degree cleave SW
+
+resonance
+loops from first resonance until <90% hp
+
+barofield - creates an aoe under the boss that heavies, gives vuln and deals high damage
+	ensure that nobody ever goes under the boss
+
+seed of the sea + rivers - the middle head and both side heads spit out meteors in a random order
+	the middle head indicates seed of the sea - a stack on a random player indicated by a marker above their head
+	the side heads indicate seed of the rivers - spread aoes on two random players
+	the tanks will never get the stack but can get the spread
+
+resonance
+
+primary head + secondary head - stuns the MT, then casts a large tankbuster on them
+	OT needs to swap during the cast and mitigate
+
+resonance
+nerve gas x3
+resonance
+loops from seed of the sea + rivers until <60% hp
+
+add phase - the boss walks to the middle of the arena and summons three nodes
+	weapons node (sphere) - does cleaves on the tank, stay away from them, also takes 50% less magical damage and has a damage up
+		as this node has more hp than the gravity node, you should have more players attacking it
+		weapons and gravity nodes must die at the same time or they merge with the electric node
+		repelling cannons - a shared aoe around the node, have most players stack on the weapons node
+	gravity node (cube) - takes 50% less physical damage and has guaranteed crits
+		only have the tank and one caster attacking this node
+		void zone - summons a void zone under players that heavy and deal damage, avoid them
+	electric node (egg) - cannot be tanked and rotates anticlockwise around the arena, you need to be in melee range to damage it
+		tanks should rotate their adds too to avoid merging them
+		forked lightning - places a debuff on a random player that paralyses players around them when it expires
+	security nodes (untargetable) - these just fire line aoes
+
+emergency mode - does three aoes around the boss and gains the buffs from the adds
+	this means that you need to be in melee range to attack the boss AND ALSO TO APPLY MITIGATIONS
+
+nerve cloud - a big raidwide that has guaranteed critical strike for this first hit only
+
+final phase has two distinct patterns that it randomly selects between after every raidwide
+pattern 1
+	nanospore jet - tethers four players to the boss, applying a tether debuff to them
+		two players get blue tethers and two players get green/red tethers
+		players with similar colour tethers need to stack, and also stay far away from the opposite colour tether
+			breaking these rules applies vulns and high damage
+			also, if one tethered player dies, their partner instantly dies too
+		if one tank gets a tether, it will always be the other tank who gets the same colour
+			this means we can put tank tether north and other tether south
+		if tanks aren't tethered, then tethers need to split east and west
+
+	nerve gas x3 - in this final phase, it's always the front cleave first, but targeted on a random player instead of a tank
+		to dodge the cleaves with tethers, you should always dodge towards the closer side
+		for the frontal cleave, prioritise clockwise if you get targeted
+
+	resonance
+
+	seed of the sea + rivers - for dodging with tethers, spread just far enoguh apart so as not to overlap spread aoes
+		for stacking, if a tethered player gets the stack, the two untethered players go to them
+		if an untethered player gets the stack, they choose which side to stack with
+
+	resonance
+	tankbusters
+
+	loops once
+
+	raidwide - not a guaranteed crit anymore
+
+pattern 2
+	nanospore jet
+	resonance
+	seed of the sea + rivers
+	nerve gas x3
+	tankbusters
+	resonance
+
+	loops once
+
+	raidwide
+
+loops until enrage

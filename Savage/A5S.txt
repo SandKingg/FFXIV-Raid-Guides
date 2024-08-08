@@ -1,0 +1,73 @@
+headache - a four-hit combo that stacks a debuff on the MT, need to provoke after four stacks when MT gets concussion
+gobstraight/gobcut - either a massive line aoe + knockback, or a stack marker on the new MT
+	concussed tank should not stack with the group
+	from now on gobstraight/gobcut will alternate each time
+
+prey + gobrush - boss marks a player for prey and then rushes towards them, dealing proximity damage
+	taking any damage at all gives a damage down, so they need shields
+
+glupgloop x2 - a random player gets marked for a puddle drop, take it to the edge and away from the group
+
+adds (cobras) - two glassy-eyed cobras spawn in the NE and SE corners, can be stunned
+	anti-coagulant - targets ranom players, giving them a debuff that stacks up over time
+		run into the green puddle to remove it
+	steel scales - gives a damage up stack
+
+shock therapy x2 - raidwide
+
+bombs away - spawns two smartbombs that explode after some time
+	assign one player to go into the red puddle and turn into a gorilla
+	will also spawn spiked bombs that explode in bomberman-style plus aoes, make sure to dodge
+	gorilla player knocks the smartbombs away towards the spiked bomb
+
+boost - charges up and does a bit multi-hit raidwide that gives vulns
+	players need to go into the purple puddle to turn into birds to avoid it
+	will also spawn four spikebombs in a diagonal line that explode in the order they spawn in
+	wait by the first bomb which is always in a corner and move into it after it explodes
+
+prey + gobrush
+
+gobhook - a massive cleave in front of the boss targetted on a random player, get behind him
+
+headache + gobcut/gobstraight
+
+adds (gobbledygroper) - summons a gobbledygroper that tethers and fixates on a random player
+	fixated player runs into blue puddle to remove it, then OT picks up the add
+
+glupgloop
+
+bombs away 2 - spawns two spiked bombs this time in opposite corners of each other
+	gorilla player knocks the smartbombs into the second spiked bomb
+	the group move sinto the first bomb corner after it explodes
+
+raidwide x5
+boost 2 - this time the bombs are all placed at once, leaving one safe spot
+gobcut + prey x2 - first prey moves out, second prey waits where the group is
+gobrush x2
+gobhook
+headache + gobstraight/gobcut
+
+adds (minotaur+pigs+goblins) - spawns a glassy-eyed minotaur in NW, six yorn pigs in NE and a gobbledygawker in SE and SW
+	OT picks up the minotaur and keeps it there as it will eat the pigs if near and gain damage ups
+		10-tonze slash - frontal cleave, dodge behind
+		10-tonze swipe - point-blank aoe, move away
+	pigs should be taken to the group and killed
+	gobbledygawkers cast random aoes on players
+		oogle - a gaze attack
+
+glupgloop
+
+adds (cobra+pigs) - spawns a cobra in NE that the minotaur must eat to kill it, also spawns some pigs in NW
+	disorienting groan - a raidwide from the minotaur that gives him a damage up
+
+raidwide x5 - maybe a good time to refresh debuffs to avoid it falling off
+
+adds (shabti) - spawns a shabti in SE, needs to be tanked as every attack crits
+	burn it down before tankswap needed
+
+headache + gobcut/gobstraight
+adds (gobbledygroper)
+glupgloop
+bombs away 3 - same as 2
+raidwides
+enrage

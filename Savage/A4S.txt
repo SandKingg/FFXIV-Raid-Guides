@@ -1,0 +1,65 @@
+this fight is split up into four mini 'leg phases' and then a final phase at the end
+no real timeline for mechanics, and some come in and out of the rotation as legs die
+so mechanics will just be listed out for leg phases, but final phase has more of a timeline
+start on right hindleg and go clockwise from there
+
+first leg
+	discoid - marks a player with an orb above their heads and causes other orbs to move towards them
+		players need to intercept these orbs by running into them
+	seed of the sky - dodge aoes
+	perpetual ray - one leg will start steaming and needs to be stunned, otherwise this cast does more damage and drains mp
+	quarantine - drags the OT and one random player into a side arena where they must kill an add to be released
+
+mortal revolution - big raidwide cast between leg phases, gets more powerful each cast
+
+second leg
+	seed of the sky
+	perpetual ray
+	quarantine
+	carnage - marks a player with five tethers, of which three will eventually fire lasers
+		intercept the tethers so the player doesn't get blown up by all three lasers
+
+raidwide
+
+third leg
+	seed of the sky
+	perpetual ray
+	carnage
+	jagd/straf dolls - summons three jagd dolls at east, south and west and a big straf doll in the centre
+		OT picks up the straf doll while dps pick up the jagd dolls
+		if the jagd dolls die, they will revive a few seconds later with full hp
+		instead they need to be brought low and kited over to the straf doll, where they explode (based on remaining hp) and disappear
+		luminous aetheroplasm - a stacking debuff pulsed by the jagd dolls, four stacks is a wipe
+		wirbelwind - the straf doll casts this after 30 seconds, removing all of everyone's mp, feed dolls and kill it beforehand
+
+raidwide
+
+fourth leg
+	discoid
+	seed of the sky
+	perpetual ray
+	carnage
+	jagd/straf dolls
+	judgment nisi - gives one player a blue debuff and one player an orange debuff
+		these debuffs deal small damage and lose stacks (and potency) over time
+		running into another player spreads the debuff to them
+		if a player has both debuffs, they immediately die
+		the intended strat is to pass these around in a specific manner, but we just let them die out (or keep one colour alive)
+
+raidwide
+
+final phase
+	carnage zero - random players explode, so stay spread
+	discoid - now empowered with a final big orb at the end that needs to be stacked upon by the party
+	seed of the sky
+	carnage zero - the stack orb from discod is taken right after this
+	royal pentacle - spawns six coloured adds that are either orange or blue
+		the intended strat is to have players with the correct coloured nisi run into the same coloured add to remove it
+		however, you can sprint through two with no nisi (or wrong nisi) before dying so three dps can sacrifice to clear each pentacle
+	perpetual ray - during royal pentacle, the MT gets spammed with heavy damage, just invuln
+	carnage
+	jagd/straf dolls
+	seed of the sky
+	carnage zero
+
+	loop from first carnage zero until enrage

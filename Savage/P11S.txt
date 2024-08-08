@@ -1,0 +1,131 @@
+eunomia - raidwide + bleed
+
+dike - two tankbusters on the top 2 in aggro, 1st gets light and 2nd gets dark, these give vulns
+	these then hit again, so you need to tank swap during the cast
+	if swapping back after, don't provoke until BOTH hits have gone off
+	these DO NOT cleave, so tanks can stack
+
+jury overruling - imbues with light or darkness then sends a clone towards every player, doing a line aoe
+	assign clock spots to everyone
+	light - leaves a small point-blank aoe underneath each player where they were hit
+	darkness - leaves a small doughnut aoe underneath each player where they were hit
+inevitable law/sentence - based on whether the previous overruling was cast with light or darkness
+	light - does inevitable law, a light party stack on each healer
+		assign east/west sides for each light party
+	darkness - does inevitable sentence, pair stacks on either all dps or all supports
+		assign dps or supports to rotate for colour pairs
+
+upheld overruling - different based on light/dark imbue
+	light - targets a random player with a tether then jumps to them, doing a big stack
+		have the player move to the middle of the hitbox to avoid moving the boss
+		at the end, does a big point-blank aoe centred on the boss
+	darkness - targets a random tank then jumps to them, doing a massive aoe tankbuster
+		have the tank move to the middle of the hitbox to avoid moving the boss while everyone else moves out, pre-position with pairs
+		at the end, does a big doughnut aoe centred on the boss
+inevitable law/sentence
+
+divisive overruling - imbues with light or darkness, then charges through the arena, doing a big line aoe
+	light - the line aoe expands outwards, indicated by lines on the floor
+	darkness - the sides that weren't hit by the line aoe get hit this time
+inevitable law/sentence
+
+styx (5) - a multi-hit stack marker on a random player, each cast hits for one extra time starting at 5
+
+arcane revelation - imbues with light or darkness, then creates four arcane 'spheres' at north and four at east
+	two of each will be light and two will be darkness and will always be in the patterns LDDL and DLLD (though which is where is random)
+	whichever element he imbues will be the colour that fires the lasers, so stay away from them
+dismissal overruling - imbues with light or darkness, then does a knockback, get knocked into the safe spots from the lasers
+	light - does a large point-blank aoe, safe spot is max melee
+	darkness - does a large doughnut aoe, safe spot is a bit smaller than the hitbox
+inevitable law/sentence
+
+shadowed messengers - creates two clones of themis that cast both versions of divisive overruling, then creates two more clones that cast both versions of upheld overruling
+	find a safe spot then immediately dodge into the darkness clone's dash
+	MT needs to point the boss towards the light clone, to make dodging the next mechanic easier
+	MT SHOULD NOT MOVE UNTIL DIVISIVE OVERRULING IS LOCKED IN
+divisive overruling + inevitable law/sentence - this is cast during the break between both sets of clones
+	make sure to solve inevitable law/sentence before moving for the second two clones
+	for the upheld ruling clones, the tank goes north to the edge of the arena while the other player goes to the middle
+	after the stack, everyone runs north into the doughnut aoe and away from the point-blank
+
+jury overruling + inevitable law/sentence
+styx (6)
+
+lightstream - spawns three rotating arcane cylinders equally spaced around the arena
+	look for the directions they're spinning in and go to the correct safe sixth
+	find two adjacant cylinders that are rotating in opposite directions, move between them and go to the section not covered by the third cylinder
+
+divisive overruling + inevitable law/sentence
+raidwide
+upheld overruling + inevitable law/sentence
+
+dark and light - tethers all dps to all supports with either a same-element or double-element tether
+	each tank and each healer will get different tether types to each other
+	same-element tethers need to spread apart, while double-element tethers need to stand close together
+	have supports line up more north and dps line up more south
+	mechanics where this is in effect are labelled (D&L)
+
+	for kindred strat, these are the markers (essentially yellow/purple are for shorts and red/blue are for longs; letters for supports and numbers for dps)
+		A - long tank (potentially tankswap if OT gets long, to keep boss facing north)
+		B - short healer
+		C - long healer
+		D - short tank
+		1 - long dps paired with C
+		2 - short dps paired with B
+		3 - long dps paired with A
+		4 - long dps paired with D
+
+arcane revelation 2 (D&L) - imbues with light or darkness, then spawns two light and two dark arcane spheres
+	the spheres of the same element he imbued will explode into big point-blank aoes
+	stand on a sphere of the opposite element to be safe
+	make sure everyone rotates in the same direction to keep tethers correct
+	move back to starting positions afterwards
+
+jury overruling + inevitable law/sentence (D&L)
+	light - long players sprint and rotate CW to east/west
+		short players rotate slightly anticlockwise to east/west
+		make sure to move away to dodge the big-point blank from the boss and the smaller ones on the markers
+	darkness - long supports rotate CW to 1 and 3 and share with the dps there
+		short pairs rotate CW all the way to A and C to share there
+		short pairs may need to use sprint here, for supports it may be mandatory to get there in time
+	move back to starting positions afterwards
+
+divisive overruling + inevitable law/sentence (D&L)
+	light - long players sprint? and rotate CW to east/west
+		short players rotate slightly anticlockwise to east/west
+	darkness - long supports rotate CW to their partners
+		short players just stack with their pair
+
+emissary's will - dispels the dark and light tethers, and kills anyone who did not solve them properly
+
+styx (7)
+tankbusters
+
+dark current - spawns three point-blank aoes in a line that rotate in the direction indicated by the circle being drawn on the arena
+	the aoes either start north to south or east to west
+blinding light - gives every player a spread aoe
+	split into light parties, with priority for each side and dodge behind the aoes as they travel around
+
+jury overruling + inevitable law/sentence
+upheld overruling + inevitable law/sentence
+divisive overruling + inevitable law/sentence
+raidwide
+
+letter of the law - spawns two clones of themis that cast both versions of upheld ruling
+twofold revelation - imbues with light or darkness, then summons the arcane spheres from each version of arcane revelation
+	again, whichever element he imbued will be the ones that explode and fire lasers
+	the party should stack on one sphere of the opposite colour, while the tethered tank goes to the other and moves a little closer to mid afterwards
+heart of judgment - four towers spawn that each require two players to soak
+	run across to the doughnut aoe under the tank before going to towers
+	take the towers in your colour pairs
+	then two more clones spawn that cast both versions of divisive ruling
+	find a safe corner, then dodge into the darkness clone's charge
+dismissal overruling + inevitable law/sentence
+
+styx (8)
+lightstream
+divisive overruling + inevitable law/sentence
+tankbusters
+jury overruling + inevitable law/sentence
+raidwide
+enrage

@@ -1,0 +1,104 @@
+actualize - raidwide, later on this will return the platform to normal
+
+multidirectional divide - creates two line aoes in a plus shape that cut the arena into four quadrants
+	the lines have small thorns that will extend into line aoes
+	the big lines will extend into bigger line aoes as well
+	the safe spots are in a checkerboard pattern
+forward/backward half - one of his two blades will glow, indicating which side will be cleaved
+	he will also jump to the side indicated by the cast and cleave in front of him
+	essentially if it's forward go to a quadrant in front of him and backward, go to a quadrant behind him
+	IF IT'S FORWARD HE WILL TURN AROUND, SO THE BLADE INDICATES THE SAFE SIDE
+	make sure you also dodge the checkerboard pattern
+
+multidirectional divide
+regicidal rage - two tethers appear on random players, that do tankbusters
+	tanks should take the tethers and move away from the party
+	make sure to mitigate
+
+dawn of an age - a raidwide that also shrinks the arena to a smaller square, and creates four outer squares next to it
+
+vollok - spawns four blades on each of the outer squares such that every smaller square is filled
+
+sync - selects to adjacent outer squares to sync into reality, causing the swords to be translated over onto the arena square and deal damage in their smaller square
+	these are NOT MIRRORED, THEY ARE TRANSLATED
+	since each square is covered by exactly one sword, look at one square that is NOT being synced and stand in a sword square there
+half full - one blade will be raised and start glowing, indicating there will be a half-room cleave on that side
+	stand in a safe spot on the other side
+
+greater gateway - spawns tethers from the outer squares to the arena square
+	the southern two squares will have blue normal tethers
+	the northern two squares will have fire and wind tethers
+blade warp - spawns blades on either the eastern or western platforms
+forged track - causes the blades to fly through the tethers
+	for the normal tethers, they are always in the same pattern so if the blades are adjacant, the safe rows/columns will be alternating and vice versa
+	for the wind tether, there will be a knockback from the line the blade goes through
+		stand as close as possible on the long side of the line, without standing in the line itself
+	for the fire tether, both adjacent lines will also be unsafe, so stand in the only safe line at the edge
+chasm of vollok - gives every player a yellow pyramid marker that causes the square they are on to explode
+	spread out into assigned squares so that every player has their own square
+
+actualize
+
+projection of triumph x2 - spawns an array of 16 sword in a 4x4 grid and sends two lines along them
+	one line will be point-blanks and the other line will be doughnuts
+	either stand on a sword for the doughnut line or away from swords for the point-blanks
+	the point-blanks are small enough to dodge half way between two swords
+forward/backward half - continue dodging the aoes while getting to the correct safe spot
+	the correct sword will always be one of the 8 edge swords, never in the centre or a corner
+
+actualize
+
+projection of turmoil - spawns a moving line from north that does a stack explosion on anybody hit that also gives magic vuln
+	also gives everyone a debuff that gets removed when you move through the line, meaning you can run through the line safely from then on
+	either split into light parties and cleanse one person at a time
+	or do the congaline strat where tanks take first hit solo with mits, then join every subsequent hit with more and more players
+	(congaline may be preferable due to the second iteration of this mechanic later)
+
+bitter whirlwind - a triple-hit tankbuster that gives magic vuln, eithe rinvuln or do a double tank swap
+
+dawn of an age - this time only a single other square is spawned
+
+drum of vollok - gives enumeration markers to either all supports or all dps
+	assign support-dps pairs for this
+	the players who do not have the markers will get launched back through the air from the centre of the marker, and they need to land on the other platform
+	make sure everyone is positioned correctly in a line to avoid overlapping pairs
+
+vollok - spawns two larger swords, one on each platform, that take up four squares each
+sync + chasm of vollok - both the swords AND each player's explosion get synced across the platform so make sure nobody is overlapping
+	have melees take the row closest to the boss and ranged the row behind
+
+aero iii - creates a tornado circle on each platform that launches players similar to the enums from before
+	getting launched gives a wind resist down debuff, meaning you cannot get launched again
+
+forward/backward half - based on which way the boss is facing, one role needs to get launched onto the opposite platform
+	the cleaves will always hit the first row of squares and the two columns on the side the boss is cleaving
+
+duty's edge - a multi-hit line stack that gives increasing magic vulns with each hit
+
+burning chains - chains all dps to all supports, which need to be broken
+	stack up first, then the role that didn't get launched by the tornadoes before, needs to get launched now
+	you may need to run back more to break the chains
+
+actualize
+projection of triumph x2
+
+half circuit - one blade will be raised and glow, indicating a half room cleave
+	at the same time, two blades will appear either in his hitbox or out of his hitbox
+	these indicate a point-blank and doughnut aoe respectively
+
+regicidal rage
+projection of turmoil
+half full x3
+tankbusters
+dawn of an age
+vollok
+sync
+chasm of vollok - this doesn't go off until after the sync, so you have time to adjust
+duty's edge
+greater gateway
+blade warp + forged track
+chasm of vollok
+actualize
+multidirectional divide
+forward/backward half
+enrage

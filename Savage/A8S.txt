@@ -1,0 +1,228 @@
+seed of the sky - drops puddles on random players, dodge
+
+mega beam - turns to a random player and charges up a laser, look where it's firing and move away
+
+execution - spawns four square sludge puddles in the four corners and a steam regulator in each
+	assign one dps per corner and have them go inside and kill the regulator
+	moving outside or dying is an instant wipe
+	healers make sure to heal the dps as the nisi debuff does damage
+
+seed of the sky
+mega beam
+
+perpetual ray - a massive multi-hit tankbuster, either invuln or swap during the cast as the first hit leaves a nasty vuln
+
+mega beam
+
+legislation - gives each dps 1, 2, 3 or 4 stacks of final punishment, indicating how many times they need to get hit
+discoid - spawns tethered orbs on all dps and one healer
+	running into an orb explodes it which deals more damage the more people take the explosion
+	running into your own orb instantly kills you
+	orb order:
+		1+4 -> healer
+		2+3 -> 4
+		2+4 -> 3
+		3+4 -> 2
+		3+4-> 1
+
+seed of the sky
+mega beam
+perpetual ray - invuln this so healers don't cry
+
+robot phase - blaster + brawler, then swindler, then vortexer spawn in order
+	have OT take blaster, while MT takes brawler
+		MT is whoever PULLED onslaughter
+	kill order is blaster > brawler 50 > swindler + vortexer 60 > brawler > swindler 10 > wait for enums > vortexer 10 > swindler + vortexer
+	OT pulls swindler back east after killing blaster, then pulls vortexer east too
+	MT provokes vortexer after brawler is killed and pulls him south
+	
+	blaster
+		mind blast - interrupt
+		blaster mirage - spawns at 50% hp and needs to be taken by brawler tank otherwise they tether and become immune
+			will despawn once blaster is killed
+	
+	brawler
+		weapon change - equips one of four different weapons and does an attack based on the weapon equipped
+			single buster - a big tankbuster
+			double buster - a line stack on the MT
+			single drill - a proximity-based attack on a random player, move away
+			double drill - two big explosions on the closest and furthest players, assign specific people to bait
+				brawler's tank and a ranged player bait
+				far bait will always be done in a corner
+		auxiliary power - a big aoe buff that gives regen to any robot inside it
+		orb phase - triggers once brawler is at 50% hp
+			power plasma gamma - need to be soaked by brawler's tank
+			power plasma beta - choose one to stun/slow so they stagger their hits as they are big raidwides
+	
+	swindler
+		height - the platforms are either raised or lowered and each player has high or low vuln
+			make sure you stand on the platform type that does not give you vuln
+			an easy trick to remember is red debuff = red platform (red is stand on higher platforms which glow red slightly)
+		bio-arithmeticks - big raidwide at 50% hp
+		enumeration - will either require 2, 3 or 4 players to stand in the big circle, indicated by the number of orbs
+			this is always one ONE of the tanks, split into light parties and assign a priority order
+			e.g. T+M > R > H
+
+	vortexer
+		super cyclone - big raidwide and knockback at 50% hp
+		elemental jammer - gives a random player compressed lightning that needs to be passed on to exactly one other player on expiry
+			hopefully you skip this with our kill order :)
+		earth missiles - after a while fire puddles will drop down leaving persistent lava goop, dodge away from them
+
+	self-detonate - the last robot alive casts this, wiping the raid if it goes off, so make sure to bring swindler and vortexer down together
+
+transform - big transition raidwide + knockback
+
+flarethrower - an uncast aoe tankbuster
+
+double rocket punch - a double stack tankbuster
+
+short needle + long needle + seed of the sky - party starts east next to the boss to bait puddles
+	one player gets marked for a stack while two get marked for preys
+	meanwhile everyone takes periodic raidwide damage
+	party and non-marked players move clockwise towards west while preys move away
+flarethrower - MT can stack after this potentially
+
+mega beam
+
+super jump - jumps onto the furthest away player, stunning and knocking back anybody else caught
+	have the OT bait this west
+
+apocalyptic ray - turns towards a random player and does a multi-hit cone aoe towards them
+	THIS CAN BE THE OT, MAKE SURE TO PAY ATTENTION AS PARTY MAY NOT NEED TO MOVE
+
+flarethrower
+double rocket punch
+short needle + long needle + seed of the sky
+flarethrower
+mega beam
+super jump
+apocalyptic ray
+
+intermission 1 - party pre-positions south
+	j-kick - a big transition raidwide
+
+	mirages - spawns blaster mirages on four random players that turn to random players and charge towards them
+		spread out on the south edge to avoid overlapping, then WAIT UNTIL THEY TURN before moving
+
+	100-megatonze shock - a proximity raidwide from the centre of the arena when onslaughter slams down
+
+	weapon change (double buster) - partys moves slightly north to stack for this
+
+	mega beam + steam chakrams - spawns four steam chakrams in random positions at the edge that fly through the arena
+		dodge into a safe spot after the stack
+
+	height + earth missiles + ice missiles - four players get ice missiles, four players get earth missiles
+		spread roughly to assigned clock positions, do height properly and drop your puddle
+		ice missile puddles will expand, so be careful
+
+	mega beam
+	weapon change (single buster) - stay away from MT
+
+flarethrower
+double rocket punch
+short needle + long needle + seed of the sky
+flarethrower
+mega beam
+super jump
+apocalyptic ray
+
+loops from first flarethrower after intermission until dead
+	may need to stall for LB3
+
+intermission 2 - MT prepositions north, OT SE and party south
+	j-kick
+	100-megatonze shock
+
+	mines - two tank mines spawn in the middle four squares that the MT takes with invuln hopefully
+		other mines spawn on the outer edges, so stay away from those
+		if a mine spawns in the SE corner, OT moves ALONG THE SOUTH EDGE as this is less distance gained towards brawler
+		if a mine spawns south, party moves NORTH ONE SQUARE so they don't get the far bait
+
+	weapon change (double drill) - MT baits close and OT baits far in the SE corner
+	mega beam
+
+	mirages 2 - spawns mirages on four random players that tether to random players and either hold their hands up or crouch down
+		if they hold their hands up, look away from them
+		if they crouch down, look towards them
+
+	weapon change (single drill) - stay at the edge
+	steam chakrams + mega beam - OT should use tank LB3 to help this mechanic not kill everyone
+
+	double enumerations - these will be on one tank and one healer
+		essentially treat these as melee and ranged enums, and assign a priority order for each
+		usually both tanks and both healers are always in
+	ultra flash - vortexer spawns west and does an insta-kill aoe that needs to be line of sighted behind onslaughter's legs
+		his legs are tilted slightly, beware
+
+justice - refills brute justice's hp and grants him wings
+
+verdict - gives everyone debuffs and spawns a lot of stuff around the arena
+	assignments
+		tanks
+			1 - max hp + 4 final punishment
+			2 - min hp + 4 final punishment
+		healers
+			1 - penalty 1 + 3 final punishment
+			2 - penalty 2 + 1 final punishment
+		dps
+			1 - nisi a + 1 final punishment
+			2 - nisi b + 1 final punishment
+			3 & 4 - penalty 3 + 2 final punishment
+
+	debuffs
+		max hp - need to be full hp + shields
+		min hp - need to be almost at death
+		penalty 1, 2 & 3 - need to have this many debuffs
+			INCLUDES ITSELF
+		nisi a & b - need to sttack the respective add
+
+	adds
+		steam regulators A & B - these spawn east and west along with their sludge squares
+		tornadoes - these spawn in the four corners
+		discoid orbs - two spawn north and two spawn south
+
+gavel - later in the phase, this checks that all debuffs have been resolved properly, otherwise it's a wipe
+	tanks
+		OT provokes after MT loses their final punishment stacks
+		1 needs to ensure they have aggro after all final punishments are done
+		1 needs to have full hp + shields
+		2 needs to take SW tornado as gavel is cast to ensure they have minimum hp
+	healers
+		1 takes SE orb quickly, then takes the northern orbs with the nisi dps
+		2 takes SE tornado once their debuff has <30 seconds left
+	dps
+		1 & 2 immediately go to their adds and kill them
+		3 & 4 take NE and NW tornadoes once their debuffs have <30 seconds left
+		1 & 2 soak an orb each with the healer
+		right at the end the last south orb is taken by 3 & 4
+
+j-kick
+
+link-up - empowers abilities and gives one dps compressed water
+	this is supposed to be a stack, but instead this dps will sacrifice themselves to the mine later
+	pull boss north, party stacks east, OT west
+
+final punch - a massive tankbuster + bind, OT needs to provoke here
+final apocalypse - point this west, away from the party and MT
+final beam - a big stack beam and knockback, get knocked east
+
+long needle + seed of the sky + mine - one player gets a stack and two players get prey markers
+	preys move out while the stack is resolved behind the boss
+	compressed water player moves into the mine to explode it and sacrifice themselves
+flarethrower
+
+steam chakrams + enumeration - enum is always on a tank? dodge chakrams
+	if not doing the sac strat, compressed water needs to be taken here too
+	move away from the tornado if it has spawned
+
+mega beam
+super jump
+flarethrower - if there's a tornado, point this towards it to evaporate it
+short needle
+final punch + final apocalypse + final beam - can potentially invuln this all
+j-kick
+
+j-waves - ramping damage pulses from the boss, kill it before you die
+
+enrage

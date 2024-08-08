@@ -1,0 +1,82 @@
+tiferet - raidwides, can be multi-hit
+
+ein sof (4) - summons four green orbs in a T shape that expand, making one half of the arena unsafe
+	MT drags the boss directly opposite, into the safe half
+fiendish rage - one dps and one healer get a stack marker which gives physical vuln
+	have all dps take one stack, and all supports (except MT) take the other
+	support stack CW of the boss, dps stack ACW of the boss
+
+raidwides
+
+chesed - uncast tankbuster, watch for when he raises his arms
+
+ein sof (1) - only a single green orb spawns, go between it and the boss
+raidwide
+
+ain + ratzon - sephirot turns towards a random player and eventually casts a massive half-room cleave towards them, meanwhile players get green or purple aoes
+	everyone goes behind sephirot and the purple (larger) aoe goes directly to the opposite edge, while the green aoes spread around to avoid overlap
+	free players can get hit by one aoe, but not two
+
+raidwides
+tankbuster
+
+loops from ein sof (4) until 65% hp
+
+add phase - summons waves of smaller binahs and bigger cochmas, assign one tank for each as the cochmas give magic vuln and the binahs deal magic damage
+	the adds also explode one death, so alternate killing them
+	wave 1 - 3 binahs & 1 cochma
+	wave 2 - 3 binahs
+	wave 3 - 1 cochma
+	wave 4 - 3 binahs
+	wave 5 - 3 binahs
+ein sof ohr - big transition raidwide
+
+yesod - a yellow flash indicates every player's position has been snapshot and will explode in an aoe shortly
+	immediately move away when the flash occurs and don't overlap where someone else was standing
+
+force field - gives four players a green/blue physical vuln down and four players an orange magical vuln down
+
+spirit/life force - move into the half with the SAME colour as your debuff
+
+fiendish wail - spawns two towers, one on each half of the arena
+	have one player call out they go opposite, or assign dps/supports to one side specifically
+
+da'at + ein sof (5) - have all green players stack at the front of the boss to pick up the da'at tethers
+	orange players retreat to the edge of the arena into a safe spot from the expanding aoes
+
+fiendish wail - may need to pop sprint here to reach your tower in time
+spirit/life force
+
+yesod + earth shaker - one healer and one dps get proximity tethers, have healers run west and dps run east
+	meanwhile everyone moves to avoid yesod
+
+da'at - fires aoes at every player, dealing damage based on their aggro position, basically a mini buster on the MT
+
+fiendish wail - tank towers now, since debuffs have fallen off, assign a side for each tank
+spirit/life force - essentially just a raidwide with no debuffs
+
+yesod + pillar of mercy + ein sof (3) - pre-stack in the middle of sephirot's hitbox to bait the aoes into the first knockback circle
+	start by getting knocked east, dodge the aoe and get knocked east again
+	then finally get knocked SW into the disappearing aoe
+
+earth shaker
+da'at + yesod
+fiendish wail
+spirit/life force
+
+malkuth - a massive knockback from north, stack in sephirot's hitbox
+
+adds - spawns a storm of words at south and two sets of two binahs at NE and NW
+	party focus the storm while tanks pick up the adds on their side
+	kill the storm before it casts revelation to leave a wind puddle on the ground
+	can caster lb all adds
+
+spirit/life force
+fiendish wail + yesod - tanks need to very quickly dodge into their towers
+spirit/life force
+yesod
+spirit/life force
+
+pillar of severity - sephirot swipes his arms across the arena, killing anybody not knocked up by the storm of words' puddle
+
+loops from first yesod until enrage

@@ -1,0 +1,129 @@
+critical hit - tankbuster
+
+spellblade holy - tethers two players with aoes and tethers another two players with an aoe and a stack
+pole shift - the tethers switch the players' positions afterwards, so everyone stacks on the aoe tethered to the stack
+
+the queen's waltz (ballroom) - does a thin cone aoe on every player, spread to clock spots
+
+haste + spellblade - quickcasts a random ability
+	fire iii - a doughnut aoe, be far away or in her hitbox
+	blizzard iii - a point-blank aoe
+	thunder iii - a line aoe
+
+dimensional wave - raidwide
+
+the playing field - spawns six role-marked tiles
+oink - stack with at least one other person to avoid being turned into a big
+the game - stand on a tile marked with your role
+	every tile must have at least one player on, so assign positions beforehand
+
+panel swap - switches to garden phase
+
+the queen's waltz (garden) - tethers dps to supports
+	stack mid first then move to safe corners (without brambles)
+	dps go to the southern corner, supports go to the northern corner
+spellblade fire iii
+
+haste + spellblade thunder iii
+tankbuster
+raidwide
+
+place token - spawns a white flame add that the OT picks up
+	drag the flame south and boss north
+	white wind - a big aoe heal that MUST NOT hit the boss
+spellblade blizzard iii
+
+mindjack - gives every player a forced march
+the queen's waltz (garden) - make sure your forced march takes you to the correct corner
+spellblade fire iii
+
+raidwide
+
+panel swap - switches to cave phase
+
+place token - spawns a dragon add that should be tanked in the southeast
+
+the queen's waltz (cave) - causes all non-blue tiles to erupt in stalagmites, stay on a blue tile
+
+ribbit - turns to a random player and does a big cleave that turns anybody caught in it into a frog
+
+raidwide
+tankbuster
+
+place dark token - spawns a reaper add in the middle, plus three reaper adds on the outer edges
+	the edge reapers do line aoes and the middle reaper does a point-blank aoe
+	one blue tile will be safe, if it's mid then stay away from the point-blank too
+the queen's waltz (cave)
+
+haste + spellblade
+raidwide
+
+panel swap - switches to library phase
+
+the queen's waltz (library) - causes a book to fall on every tile that has a player on, for each player
+	taking two books is lethal so we assign everybody a tile in the middle two rows
+	for later, we assign it to be HTTH on the northen row and RMMR on the southern row
+
+oink
+
+place token - spawns apanda that should be tanked in mid for melee uptime
+
+the queen's waltz (library)
+magic hammer - spawns a big circle aoe under every player
+	have all melee stand in their tiles as close to dead centre of the arena as possible
+	ranged stand right at the far edge in the corners close to mid
+	then move into the safe corner of your tile once the puddles spawn
+	NEVER EVER OVERLAP ANOTHER PERSON'S TILE
+
+squelch - look away or you get turned into an imp
+
+tankbuster
+raidwide
+
+spellblade holy 2 - four players get aoes, 2 players get stacks
+the queen's waltz (library)
+	players with aoes need to go to the northern green books and stand in separate tiles
+	players with stacks take the middle two southern blue books and stand as close to the outer edge of their tile as possible
+	players with nothing take the outer two southern blue books and stand as close to the inner edge of their tile so they stack with the stacks
+
+panel swap - switches to final phase
+
+the playing field 2 - spawns six animal-marked tiles
+	ribbit, oink & squelch are cast in a random order
+	healers fail the first mechanic, tanks fail the second and dps fail the third
+	make sure to do all mechanics after you fail correctly
+	then go to the tile with your animal on it, same side priority
+
+the queen's waltz (final) - the boss jumps to a random tile and casts that version of the queen's waltz
+
+spellblade holy 3 - same as 1
+
+mindjack + place dark token 2 - spawns a reaper add in mid, four reaper adds on the outside edges and four reaper adds on the corners of the middle tiles
+	the outer reapers make all outer tiles unsafe
+	four players get tethered to the middle reapers
+	ensure your forced march takes you next to a middle reaper (the only safe spots) and opposite your tethered one if applicable
+
+the queen's waltz (final)
+raidwide
+haste + spellblade x2
+raidwide
+
+place token - spawns an iron giant and several ninjas
+	MT takes the giant, OT takes the ninjas
+	can caster lb or burn them down
+	overheat - interruptible cast on the giant
+haste iii + raidwide x4
+
+the queen's waltz (final)
+spellblade
+raidwide
+tankbuster
+the queen's waltz (final)
+spellblade holy 4 - same as 1
+tankbuster
+mindjack + place dark token 3 - same as 2
+the queen's waltz (final)
+raidwide
+haste + spellblade x2
+raidwide
+enrage

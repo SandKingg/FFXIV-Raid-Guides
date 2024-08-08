@@ -1,0 +1,121 @@
+stonecrusher - a triple-hit tankbuster that gives a vuln up
+	either do a double swap or invuln
+
+weight of the land - makes certain tiles unsafe and gives everyone a yellow pyramid marker
+	the yellow pyramids indicate pulse of the land aoes, which mean everyone should spread onto their own tile
+	assign everyone to a tile at relative north (looking out of the arena)
+
+evil earth - creates two expanding aoes either from opposite corners or two diagonally opposite mid tiles
+	corners are the 'slow' pattern, mid is the 'fast' pattern
+	at the same time everyone gets marked with an orange cube for force of the land, which is a stack
+	everyone should stack up in the corner perpendicular to two aoes then move diagonally into the mid tile
+	on the slow pattern, you move immediately after the 3rd blast
+	on the fast pattern you move immediately after the 2nd blast
+
+voice of the land - raidwide
+
+geocrush - titan jumps to a random edge tile (not corner) doing a massive knockback
+	make sure you get knocked towards the furthest away corner, or use knockback resist
+	at the same time players get either yellow or orange cubes
+	1 tank, 1 healer and 1 dps will get yellow and everyone else gets orange
+split based on armaments
+
+timeline 1
+	earthen gauntlets - titan gets big fists, making only the squares in fornt of him safe
+		yellows will go to the tiles further away in the order titan > dps > tank > healer while oranges stack up
+		quickly move out after the initial blast as the squares in front of him explode with aftershocks
+	
+	raidwide
+
+	landslide - titan turns to a random cardinal and jumps there, doing a T shaped aoe
+		the safe spots are the two sets of two further away edge tiles from the cardinal he jumps to
+		at the same time, bomb boulders drop down
+		make sure to quickly go back to titan to avoid the aftershocks
+
+	leftward/rightward landslide - titan will cleave to his left or right, then aftershocks explode the other safe area
+		dodge to one side, then quickly to the other
+		make sure you stay on the correct bomb boulders to avoid the explosions
+
+	crumbling down - marks two sets of two players, one support and one dps, that drop boulders with proximity aoes
+		the first two should go west and the second two should go east
+		place the boulders directly in the middle of each quadrant, very slightly towards the corner
+		this means none will be considered too close and crumble
+	bomb boulders - three sets of three boulders drop down in vertical lines, that then explode in the order they were dropped
+		the centre line will always drop first
+	seismic wave - a big aoe form titan that needs to be line-of-sighted
+		first go east towards the non-glowing boulder and hide behind it to dodge the wave
+		then move into the small safe spots from the centre line, directly south (or north) of the boulder
+		then quickly dodge into the centre line once it explodes, be very quick if it's a 2-to-1 dodge
+
+	raidwide
+	tankbusters
+	geocrush - tanks DO NOT knockback resist this
+	
+	earthen wheels - titan turns into a car and charges the squares in front of him, knocking players back
+		this means the squares on the bigger side of him are safe
+		use the same order for yellow cubes and orange cubes stack
+		orange tank NEEDS aggro here
+		remember to dodge the aftershocks, they propagate one column at a time
+
+	fault line - titan charges the highest in aggro, dealing proximity based damage
+		after stacking, the orange tank should move to the 3rd tile in titan's column (counting titan's current tile as the 1st tile), while the party stays away so they don't get run over
+		use a cooldown for this
+
+	magnitude 5.0 - a doughnut aoe, along with more yellow markers
+		assign clock spots to spread out to after the doughnut
+		move one tile away to keep uptime
+
+timeline 2
+	earthen wheels
+	fault line
+	magnitude 5.0
+	crumbling down + bomb boulders
+	seismic wave
+	raidwide
+	tankbusters
+	geocrush
+	earthen gauntlets
+	raidwide
+	landslide
+	leftward/rightward landslide
+
+earthen fury - a big raidwide
+
+earthen fist + weight of the land - titans fists glow in the order that they will punch the sides of the arena
+	dodge the fist punches, as well as the unsafe tiles
+
+dual earthen fists - a big knockback circle at north, plus two earthen anguish tankbusters and a blue pyramid marker
+	tanks should go NE and NW and knockback resist with cooldowns
+	everyone else can do the knockback properly
+	the blue pyramid is weight of the world, which explodes all adjacent (and diagonal) tiles as well
+		it also gives a magic vuln meaning you can't be hit by another one
+	that player gets knocked SW into the corner while everyone else gets knocked SE
+
+megalith - a stack tankbuster
+
+tectonic uplift - marks two opposite quadrants that will rise up, while the other two stay down
+	dps should go north and supports should go south
+	one dps and one support get blue markers, they should fall into the lower platforms and move to the corners while everyone else stays up
+	then blue, orange and yellow markers are spread to 1 dps and 1 support each such that everyone has a marker
+	the blue markers stay up, making sure to stand in the corners
+	the yellow markers fall into the lower quadrant with one weight of the land and spread to different tiles
+	the orange markers fall into the lower quadrant with two weights of the land and stack on one tile
+
+raidwide - this also removes the risen platforms
+
+rock throw - marks both healers for gaols, have one go north and one go south
+
+plate fracture x3 - titan rears back one fist, destroying a random quadrant on that side
+	ensure that both gaols are placed on the safe side
+	for the second plate fracture, it will always target the same north or south as the first, destroying the other quadrant there
+	make sure to free this healer first before focusing on the other
+	the final plate fracture is random again
+
+raidwide
+
+tumult - a mulit-hit raidwide
+
+dual earthen fists
+earthen fist + evil earth - dodge the expanding aoes along with the fists
+
+tectonic uplift 2

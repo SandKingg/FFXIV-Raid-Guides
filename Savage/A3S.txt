@@ -1,0 +1,93 @@
+protean wave - small baited cone aoes on players, followed by another cone on every player
+	assign clock spots to spread for these
+
+sluice - targeted aoes on some players, with baited aoes on other players, spread out
+
+form shift - changes to hand form
+
+fluid strike - an untelegraphed tankbuster that needs to be shared with the party, make sure everyone is stacked
+
+wash away - a big knockback in a random direction, use knockback resistance for the first one and go to clocks
+
+digititis - gives three debuffs to random players that can be transferred for a short time before becoming locked in
+	one tank gets vuln up
+	one healer gets healing down
+	one dps gets damage down
+	everyone go in clock spots and dps rotate clockwise, this solves the mechanic no matter what
+	two players can transfer their debuffs to each other 'swapping' them, essentially
+
+partybuster x2 - dps with vuln stays out of the stack
+wash away
+
+boss splits in two, MT continues tanking living liquid, OT takes liquid limb and tank them on the middle ring
+	tankbusters now apply vulns to the tanks, DO NOT get hit
+
+hands of prayer/parting - one hand will either become a fist or an open palm
+	the bosses should be separated or brought together respectively
+	the timing here is very tight
+
+digititis
+
+equal concentration - one hand steals hp from the other and players must target this healthier hand
+hand of pain - if the hands aren't within 4% hp from each other after 25 seconds, this wipes the raid
+
+form shift - changes to tornado form
+
+tornado phase - several waves of adds that need to be killed
+	wave 1 - 2 piston lubricants
+		drainage - tanks take the orange tethers from players and spread
+	wave 2 - 3 gear lubricants
+	wave 3 - 2 gear lubricants, 1 piston lubricant
+		ferrofluid - marks two pairs of players with magnet markers, either spread (if opposite) or stack (if same) to avoid getting stunned
+	wave 4 - 4 gear lubricants
+		drainage
+	wave 5 - 3 gear lubricants
+		ferrofluid
+	wave 6 - 4 piston lubricants
+
+form shift - changes back to human form
+
+cascade - a massive raidwide that spawns three water puddles (one slightly offset from the other two)
+
+ferrofluid - everybody gets a marker this time
+sluice - try to spread close to your clock spot
+protean wave - stay on your spot
+sluice
+digititis - try to pass debuffs appropriately
+cascade - use these as tankswaps now, as the untelegraphed busters still leave vulns
+
+liquid gaol - targets a random healer for a stun that pulls anybody nearby into the grasp of a hand
+	the hand will move towards the edge from where it spawns, make sure it doesn't go through a puddle or it gets a massive regen
+	the hand can be stunned and heavied so kill it ASAP
+
+digititis
+cascade - the puddles spawn liquid rage tornadoes this time
+	one casts drainage - just a single tether
+	one casts protean wave - just a single one
+	one casts throttle - an esunable debuff that one shots if not removed in time
+
+drainage + protean wave + throttle (tornado)
+ferrofluid
+
+embolus - a small orb emerges from the throttle tornado, make sure it does not hit the boss or any player
+
+drainage + protean wave (tornado) + sluice
+protean wave (tornado) + embolus
+cascade
+ferrofluid
+sluice
+protean wave
+sluice
+digititis
+cascade
+liquid gaol
+digititis
+cascade + liquid rage
+drainage + protean wave + throttle (tornado)
+ferrofluid
+embolus
+drainage + protean wave (tornado) + sluice
+protean wave (tornado) + embolus
+cascade
+ferrofluid
+enrage

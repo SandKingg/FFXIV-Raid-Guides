@@ -1,0 +1,91 @@
+reprimand - raidwide
+
+nightfall - a voiceline and a sound effect indicated the ability that will be cast
+	gun ("beg for mercy") - lead of the underworld, a line stack on a random player
+	spear ("your end is near") - steel of the underworld, a cleave on a random tank, healer and dps
+		split into role stacks, tanks north, dps south, healers to the side
+
+nightfall - opposite of previous
+raidwide
+
+nightbloom - a big transition raidwide
+
+add phase - three waves of adds
+	wave 1 - 6 specters of the homeland, 1 specter of the matriarch, 1 specter of the patriarch
+		for the first two waves, drag ranged adds to melee adds so they can be aoed
+	wave 2 - 6 specters of the empire, 1 specter of asahi
+	wave 3 - specter of zenos
+		concentrativity - a raidwide + knockback + down for the count
+			get knocked south so you have less to run
+		dispersivity - uncast raidwides
+nightbloom
+
+supreme selenomancy - splits the room into a dark half and a light half and gives everyone 4 stacks of the light or dar debuff
+	getting 5 stacks gives you doom and kills you, so everyone needs to run onto the opposite half of their debuff
+	there are two orbs that do lunar halo doughnut aoes, so stand inside them if you run to that half
+	after this, one side begins eclipsing the other, MT should pull the boss towards the smaller side
+	you can try to juggle your debuffs on 1 stack until nightfall finishes
+
+nightfall (gun) - stay on the bigger side for debuff optimisation
+
+meteors - OT, one healer and one dps get meteor markers that spawn meteors on their positions
+	tank and dps meteor should be placed north and south respectively, on the SMALL colour
+	healer meteor should be placed directly east or west on the BIG colour (i.e. opposite of the boss), use sprint here if needed
+	the meteors do massive aoes shortly after landing, so go to the safe spot quickly to get the debuff tick before midnight rain
+	ideally you should get one debuff tick on your meteor colour, then the next should be on the smaller colour, ensure neither of these kill you
+
+midnight rain - fully makes the arena light or dark (based on which side which larger before)
+	dodge the lunar halos
+	the meteors then explode once more leaving a puddle of the colour they absorbed previously
+
+antitwilight/perilune - a raidwide that kills anybody not on the opposite colour to the arena
+	antitwilight kills if not on dark, perilune kills if not on light
+	this also removes the glowing floor and any dark/light debuffs
+
+raidwide
+
+zashiki-asobi - places fans on the ground that do aoes around them shortly after
+	this pattern makes one large half unsafe, then the smaller half
+
+nightfall
+
+torment unto death - a cone aoe tankbuster with a swap
+
+supreme selenomancy
+nightfall (spear) - do role stack towards meteor spots
+meteors
+midnight rain
+perilune/antitwilight - opposite of previous
+
+loops from first supreme selenomancy until 35%
+
+dance of the dead - transition raidwide
+
+full/new moon - the next blade attack will have a point-blank/doughnut aoe respectively
+
+bright/dark blade - a large 200-degree cleave on one side of the boss
+	make sure boss is pointing north, then bright means east safe and dark means west safe
+	make sure to dodge the moon attack as well
+
+full/new moon
+bright/dark blade
+raidwide
+full/new moon
+
+tsuki-no-kakera - the fans spawn sequentially around the arena, start towards the last one and dodge into the first
+lunacy - a multi-hit stack marker on a random player
+	dodge fans together to mitigate damage
+
+bright/dark blade
+tankbuster
+full/new moon
+
+zashiki-asobi + hagetsu - three spread markers on random players
+	make sure you stay spread in the safe half
+
+bright/dark blade
+raidwide x2
+
+loops from full/new moon into tsuki-no-kakera + lunacy until enrage
+
+enrage

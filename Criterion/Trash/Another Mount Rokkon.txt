@@ -1,0 +1,39 @@
+-- TRASH 1 --
+shishu raiko - tank this group close to the edge
+	disciples of levin - a point-blank aoe
+	barreling smash - a line aoe focused on a random player
+		charges towards them and reduces their hp to 1, make sure not to clip anybody else with the charge
+	howl - raidwide
+	master of levin - a doughnut aoe, will overlap with bloody caress cleaves
+		either focus this or focus the small ones to avoid a bad overlap
+shishu furutsubaki
+	bloody caress - a cleave targetted on a random player
+
+shishu fuko - tank this group in the SE corner, drag it over after the cleave, don't aggro before the cleave though
+	scythe tail - a point-blank aoe
+	twister - a stack on a random player
+	crosswind - a knockback from the add, get knocked into the SW corner
+red shishu penghou
+	tornado - an aoe targetted on a random player
+
+shishu yuki - patrols around the room in a figure-of-8, will one-shot unless both the raiko and fuko are defeated
+	left/right swipe - a half-room cleave on the indicated side
+		will cast this any time it walks through the middle after coming from the SE
+
+
+-- TRASH 2 --
+wind sprite - moves around the arena, casting line aoes
+	make sure to always keep an eye on these
+
+shishu kotengu - pull it to the SE corner
+	right/left/backward blows - does a cleave in front, then in the indicated direction
+	wrath of the tengu - raidwide + bleed
+	gaze of the tengu - look away
+
+shishu onmitsugashira - tank it east
+	juji shuriken - a line aoe on a random player, watch where he's turned to
+	issen - a tankbuster
+	huton - massively increases the cast speed on the next shurikens
+	juji shuriken x4
+
+shishu kotengu 2 - tank it in the NE corner

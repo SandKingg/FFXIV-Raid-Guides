@@ -1,0 +1,173 @@
+-- PHASE 1 --
+mana charge - casts a fire, ice or thunder ability and stores it for later
+	watch the orbs for if it's a troll or not
+flagrant fire - displays either a stack or spread marker
+	if it's a troll, do the opposite of the marker
+
+hyperdrive - tankbuster
+
+mana release - casts the exact same ability (maintaining whether it was a troll or not) that was charged
+thrumming thunder - displays intersecting line aoes
+	if it's a troll, stand where two lines intersect
+
+ultima upsurge - raidwide
+
+graven image - pull boss north and stack up to bait 3 sets of puddles
+	four random players get orange tethers, they should use knockback resist as soon as the tethers go out
+	also two random line aoes hit players
+	after the third puddle, players stack in support + dps pairs towards the south, careful not to overlap
+		these pairs should be tank+melee and healer+ranged for later
+timely teleport - kefka very roughly teleports to the furthest away side of the arena from where he is and unleashes a big cleave through the room
+
+light of judgment - big raidwide
+
+mana charge + thrumming thunder + blizzard blitz - for ice, spawns a point blank or doughnut aoe
+	if ice is a troll, stand in the aoe marker
+
+graven image 2 + mana release - the statue leans to one side and charges up a knockback
+	the knockback MIGHT zap to the other side, be careful
+	after the knockback, dodge the mana release
+
+raidwide
+tankbuster
+
+graven image 3 - pull boss north again
+	all supports and all dps get tethered to one side of the statue each
+	top-left side casts pair-stack puddles, mid-right side casts spread rock aoes
+	need to stack in pairs with melee pairs closer to north and ranged pairs closer to south
+	once the pair stack puddles go off, supports dodge north/south and dps dodge east/west
+	stay spread until the rocks go off then look at the statue
+	stay away from the glowing side to dodge the cleave
+	repeat the puddle + rock dodges, with tethers being swapped now
+aero assault - massive knockback from kefka, go behind if he's far enough north or use knockback resist
+
+light of judgment
+mana charge + flagrant fire
+raidwide
+
+graven image 4 + mana release + thrumming thunder - dodge the cleave along with the mana release
+
+raidwide
+tankbuster
+
+graven image 5 - stack up to bait the puddles and watch the statue's eye
+	if it's a purple eye, look away, if it's a gold eye with a question mark, then it's a troll so look at the statue
+	again supports and dps get tethered to one side of the statue each
+	right side will cast sleep, left side will cast confusion
+	tethers to the right side need to stack in mid, tethers to the left side need to go out to their respective intercardinal (or cardinal, depending on strat)
+	DO NOT USE SPRINT
+timely teleport - there's another gaze mechanic paired with this, be careful
+
+light of judgment
+raidwide
+mana charge + thrumming thunder + blizzard blitz
+
+graven image 6 + mana release - look away from/at the statue and dodge mana release
+
+raidwide x3
+enrage
+
+
+-- PHASE 2 --
+heartless angel - sets hp to 1
+
+ultima - raidwide
+
+hyperdrive - tankbuster + bleed
+
+celestriad - does a thunder plus aoe, an icy point-blank centred on the boss, a stack on a healer and spread aoes on all dps then an icy doughnut centred on the boss
+	make sure boss is pulled north to offset the point-blank
+	choose one side of the boss for the stack to go to, have 3 dps go the other side and 1 the same side but more north
+	stay out a bit first, then go in but don't overlap
+
+raidwide
+
+forsaken - big raidwide and mini-phase starts
+	three 2-person towers spawn and each dps gets tethered to a head
+	heartless archangel - need to be full health otherwise the normally 2s incurable becomes 12s
+	healers take the middle tower, dps take the tower closest to their head
+	heal up then dps run into their heads to explode them
+	wings of destruction (double) - buster aoes on the closest and furthest players
+		MT takes close bait, OT takes far bait
+		party stays MAX MELEE to avoid clipping the aoes
+	raidwide
+	towers + heads + heartless archangel
+	light of judgment
+
+trine (small) - spawns three sets of small triangles whose corners explode into aoes in order
+wings of destruction (single) - does a big cleave on the side of the boss with the glowing wing
+
+wings of destruction (double)
+raidwide
+
+pasts forgotten/futures numbered - both start with an untargeted stack on a random player, stack behind the boss
+	past - does a cleave behind kefka, stay where you are
+	future - does a cleave in front of kefka, move through
+ultimate embrace - double tankbuster stack, but can have one tank invuln which clips the next buster too
+
+tankbuster
+raidwide
+
+forsaken 2 - another mini-phase
+	two ranged should preposition far away to bait preys on the two furthest away players
+	then they run north with their following aoes
+	spawns two 2-person towers, tanks take east, healers take west
+	starstrafe - spawns baitable puddles under the melee dps
+		bait five puddles in total very slowly walking north to avoid putting puddles in the north tower
+	past's/future's end - spawns a clone on every support that will turn to face them after a delay
+		after towers spread south to place clones
+		if past, point clones in, if future point them out
+	all things ending - clones will do a cleave in front of/behind them for future and past respectively
+	after clones, tanks take the two eastern towers, healers the two western towers and dps the north 4-person tower
+	then go mid for the proximity aoe and a stack on dps
+	tanks can try and stack for this too but need to stay in their tower
+	light of judgment
+
+celestriad - make sure boss is already north
+wings of destruction (single)
+raidwide
+
+trine (big) + pasts forgotten/futures numbered - go to the side of the big triangle that has no small triangle, or mid if all sides have triangles
+	do the stack and potentially move through at the safe spot
+
+wings of destruction (double)
+ultimate embrace
+tankbuster
+raidwide
+
+forsaken 3 - another mini-phase split into 4 segments
+	segment 1 - spawns three towers and the first graven statue
+		healers take west tower, tanks take east tower, dps take south tower
+		knockback resist if you get an orange tether
+		raidwide
+		ultimate embrace
+	
+	segment 2 - spawns two towers and the third graven statue
+		tethers to the right eye need to stay in towers, tethers to the left eye need to go out to intercardinals
+		tanks have east tower priority and healers west
+		dps should have e/w priority based on their graven 3 positions
+		supports should decide who goes north/south if they need to be out
+		raidwide
+
+	segment 3 - forsaken 1 again, solve almost the exact same way
+		heartless archangel
+		wings of destruction (double)
+		dps need to be in the 4-person tower at this point
+		raidwide
+		turn boss east/west
+
+	segment 4 - spawns the second graven statue
+		wings of destruction (single)
+		dodge into the correct quadrant to avoid the wings cleave and the statue cleave
+		light of judgment
+
+trine (small) + wings of destruction (single)
+wings of destruction (double)
+trine (big) + pasts forgotten/futures numbered
+tankbuster
+raidwide x2
+
+forsaken 4 - forsaken 3 again, no changes
+
+raidwides x4 + damage up
+enrage

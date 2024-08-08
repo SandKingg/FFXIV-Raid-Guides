@@ -1,0 +1,98 @@
+gluttony's augur - raidwide
+
+ravening (mage) - switches forms and does a raidwide
+
+duality of death - two elemental tankbusters on the top 2 in aggro, 1st gets fire and 2nd gets wind, these give vulns
+	these then hit again, so you need to tank swap during the cast
+	if swapping back after, don't provoke until BOTH hits have gone off
+
+dualspell (fire+ice) - does spread aoes on either all supports or all dps and creates an icy doughnut
+	assign clock spots and have one role rotate for colour pairs
+	either fire or ice will flash on screen, signalling that they expand
+	if fire expands, go out on the second ring on the floor
+	if ice expands, go in on the first ring on the floor
+
+dualspell (thunder+ice) - does a line aoe on every player and creates an icy doughnut
+	stay in clock spots this time
+	if thunder expands, go out on the second ring on the floor
+	if ice expands, go in on the first ring on the floor
+
+dualspell (fire+ice) - will expand the opposite of previous
+ravening (martialist) - spawns walls on the cardinals or intercardinals
+
+ascendant fist - tankbuster that gives a vuln, make sure to swap
+
+archaic rockbreaker - does a knockback from the centre of the arena, and aoes on all supports or all dps
+	stick to colour pairs and get knocked into the walls from ravening
+	MT waits until this is being cast before moving to avoid potentially turning the boss
+	then look at the lines being drawn, stay near the non-glowing lines either inside or outside based on the combination aoe
+front/rear combination - randomly starts with a marked doughnut or point blank then cleaves in front or behind
+	then the opposite aoe will happen, so if doughnut first then point-blank and vice versa
+
+archaic demolish - two stack aoes on both healers, split into light parties
+
+raidwide
+tankbuster
+ravening (chimera) - spawns walls again
+
+levinstrike summoning - summons an orb next to each of the walls
+scrambled succession - marks the orbs with odd numbers and four players with even numbers, unmarked players will get blue markers throughout the mechanic
+	one boss will alternately kick the orbs into the opposite wall, spawning a tower then rush towards a player, doing a proximity-based fire aoe and hitting anyone in line
+	the other boss will leap to each of the four unmarked players, doing a massive ice aoe
+	for jp strat, party starts on the first ring, opposite of the 1 & 3 orbs then swaps over once those orbs have been kicked
+	fire aoes will be placed behind the party at the edge, ice aoes will be placed right at the opposite edge to the party (these spots swap when party does)
+	first ice aoe is marked shortly before the cast completes
+	fire aoes are done 2-4-6-8
+	towers are soaked 6-8-2-4
+
+two minds - for some reason the name has changed, but this is just dualspell
+raidwide
+ravening (beast)
+
+charybdis - spawns four tornado aoes either on the cardinals or intercardinals
+
+comet - spawns four proximity markers on the opposite spots to the tornadoes, which drop meteors onto their positions, stack mid
+	two will be cracked and two will be uncracked
+
+beastly bile - a light party stack cast on the furthest player, this needs to be baited on one of the cracked meteors
+	assign either all dps or all supports to go out first and bait
+	assign a way of seeing which meteor to bait on first, e.g. look north then clockwise
+	after this hits (after thunderbolt), move out from the aoe it spawns
+
+thunderbolt - aims a cone towards the four closest players which gives lightning vuln
+	the opposite role from beastly bile will stand on their colour spots and bait the cones towards the tornadoes
+thunderbolt 2 - this needs to be baited by the opposite role, while the others go and bait the uncast beastly bile on the other cracked meteor
+	essentially the roles swap over
+
+ecliptic meteor - marks one of the two remaining meteors with a red marker, indicating that's where the ecliptic meteor will drop
+	hide behind the other meteor and line of sight the blast
+	then run away from the aoe
+
+beastly fury - raidwide
+
+ravening (chimera) - walls spawn again
+duality of death
+archaic rockbreaker - try to dodge close to where you started and stay in colour pairs for dualspell
+dualspell (fire+ice) - dodge the second set of cracks first, then adjust quickly
+raidwide
+
+chimeric succession - marks the four furthest away players with 1 to 4 that get massive ice aoes in order
+	ideally melees will get the numbers so ranged stay in the hitbox
+	MT pulls the boss north while ranged go south
+	1 goes to 1, 2 goes to 2 while 3 & 4 wait on the first ring before going to 1 and 2 respectively
+	1 and 2 go back to the first ring after exploding
+front/rear firestrikes - the boss jumps to the a random unnumbered player, doing a big proximity-based stack on them
+	move through if it's rear, or stay a bit if it's front
+swinging kick - the boss turns to a random unnumbered player and does a half-room cleave either in front of behind it, based on the firestrikes name
+	move to dodge after the cast starts
+
+two minds
+ravening (mage)
+dualspell
+raidwide
+dualspell - opposite of previous, i.e. fire if previous was thunder
+duality of death
+dualspell
+raidwide
+ravening (chimera)
+enrage

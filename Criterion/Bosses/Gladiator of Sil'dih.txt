@@ -1,0 +1,54 @@
+flash of steel - raidwide
+
+specter of might - summons two clones at NE and NW that cast rush of might
+	each clone pulses 1, 2 or 3 times, indicating how far it will charge
+	1 pulse - to mid
+	2 pulses - to the middle of the sword pattern
+	3 pulses - to the decoration at the end of the sword pattern
+	dodge north of the intersection of the markers, then south
+specter of might - this time the clones are summoned SE and SW
+
+sculptor's passion - a heavy line stack that needs the tank in front
+
+mighty smite - tankbuster
+
+curse of the fallen - gives everyone a spread debuff, one person a stack and one person a repeating aoe
+	look for if the stack or spread goes off first
+	assign cardinal positions for the spread
+ring of might - summons three rings in the arena and pulses 1, 2 or 3 times, indicating the ring to dodge at
+	first attack is a point-blank, then a doughnut
+	make sure to resolve stack and spread while doing this, repeating aoe stays away
+	repeater needs to move out of their repeating aoe, it DOES NOT follow them
+
+raidwide
+
+hateful visage - spawns eight heads that do gold and silver line aoes across half the arena
+	each quadrant will have exact one smaller quadrant inside it that is safe
+	assign players to quadrants and they stay in the safe spot there
+wrath of ruin - summons orbs at the edge of the arena that do checkerboard aoes
+nothing beside remains - marks every player for a spread aoe
+
+raidwide
+
+accursed visage - summons the same eight heads, but also gives players two debuffs
+	can either be two gold, two silver, or one of each
+	need to get hit by the opposite colours of the debuffs
+wrath of ruin + nothing beside remains - ensure you stay in your own quadrant
+
+raidwide
+
+curse of the monument - marks everyone for chains and gives two people a 1 debuff and two people a 2 debuff
+	supports will be chained together, as will dps
+	stack mid for chains then melees go north and ranged go south
+sundered remains - spawns nine aoes in an S pattern starting from mid
+	dodge from the last aoes in the corners to the 2nd aoes at the sides
+colossal wreck - spawns two sets of two towers in mid towards opposite cardinals and explodes players
+	1 debuffs explode first, then 2 debuffs
+	this means 2 debuffs need to take first towers while 1 debuffs stay at the wall in the non-tower cardinals
+	then switch over
+
+raidwide
+specter of might x2
+sculptor's passion
+raidwide
+enrage

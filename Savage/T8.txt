@@ -1,0 +1,105 @@
+diffusion ray - an untelegraphed cleave on the MT that gives an esunable bleed
+
+towers (north + west) - periodically, towers placed at the four cardinals will activate and begin charging
+	if two towers charge to the same level together, the boss gains a stack of damage up and vuln down
+	if two towers reach full charge together, it's a wipe
+	if a player stands in the  indicated area next to a tower, they immediately increase its charge by 1, take some damage and get a vuln
+		this vuln ONLY affects taking towers, nothing else
+	each tower will do something when it reaches full charge
+	north - spawns a dreadnaught add that needs to be killed, careful of its cleaves
+	east - spawns three landmines that need to be soaked by the OT
+	south - raidwide
+	west - raidwide
+	assign three players to be tower soakers, with a potential backup for later
+	for the two tower patterns, the player assigned to the towers in priority N > E > W will charge their respective tower once
+
+homing missile - a random player gets tethered to the boss, which will cause them to explode later and deal aoe damage
+	this tether can be intercepted by anyone
+
+gaseous bomb - a stack on a random player, indicated by a white-ish icon
+
+dreadnaught - should be picked up by the OT and killed
+
+homing missile
+gaseous bomb
+
+defensive reaction - tower raidwide
+
+towers (east + west)
+homing missile
+gaseous bomb
+
+landmines - OT should sprint around and soak these
+	they knockback any player near them, so be careful when soaking
+
+homing missile
+gaseous bomb
+raidwide
+
+ballistic missile - targets two random players, binding them and giving them either a small or a big circle
+	small circles require exactly two players, big circles require exactly three
+		if this is not satisfied, everyone in the circles dies
+	everyone should be stacked up (except MT) and immediately spread once the circles spawn
+	assign three players in priority order to help for the big circles
+		player 2 goes in if player 1 is bound, player 3 goes in if both player 1 and 2 are bound
+	2 small - nobody goes in, the two players satisfy their own circles
+	1 small, 1 big - player goes into the big circle, being careful not to also be in the small circle
+	2 big - player goes into the circles
+
+towers (north + west)
+
+brainjack - mind controls the MT, causing them to run towards and auto-attack the closest player
+	assign one player to 'tank' the MT, they should stand inside the boss's hitbox and slightly south
+	this way the boss never turns and cleaves the party, and the 'tank tank' also doesn't get cleaved
+
+homing missile
+gaseous bomb
+dreadnaught
+brainjack
+raidwide
+homing missile
+ballistic missile
+gaseous bomb
+towers (east + west)
+brainjack
+homing missile
+gaseous bomb
+landmines
+brainjack
+raidwide
+homing missile
+ballistic missile
+
+allagan field - debuffs a random player, which explodes at the end of its duration, amplifying all damage taken by that player in a raidwide
+	this person should not take ANY damage
+	they should never take a tether, never step in a tower, but they can take a ballistic missile as successfully doing it deals 0 damage
+
+homing missile - the tether now always goes onto the allagan field player at first, so needs to be taken away
+
+towers (east + south + west) - now there are three towers that need activating
+	using the same priorities as before, the top priority tower needs two players to charge it twice and the second priority tower needs charging once
+	the player whose tower is not activated will be the second player into the tower
+	if a tower-taker has allagan field, the backup needs to take it instead
+
+gaseous bomb
+allagan field
+homing missile
+gaseous bomb
+landmines
+raidwide
+allagan field
+homing missile
+raidwide
+gaseous bomb
+towers (north + east + west)
+allagan field
+homing missile
+gaseous bomb
+dreadnaught
+landmines
+allagan field
+homing missile
+raidwide
+gaseous bomb
+
+loops from first triple-tower until enrage

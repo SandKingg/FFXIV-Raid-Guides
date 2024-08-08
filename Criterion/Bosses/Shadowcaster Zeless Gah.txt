@@ -1,0 +1,68 @@
+show of strength - raidwide
+
+infern brand - creates two portal lines in north and two in south in a plus formation
+	fireballs will travel through the portals later and do point-blank aoes
+cryptic portal - indicates which directions the portals will rotate in, and prevents players from travelling through portals
+	have melees go north and ranged go south
+	supports will go opposite where the vertical portal rotates to, at the edge on the south/north corner of the top-most/bottom-most tile
+	dps need to flex either diagonally opposite to supports or, if that will be exploded on, directly east/west in the middle of the two tiles
+
+firesteel strike - the boss jumps to two random players, giving magic vulns and knocking anyone else hit far away
+
+blessed beacon - does a line aoe towards the players that got jumped on, in the same order
+	players without vulns need to stand in front of them (one each)
+
+firesteel fracture - cone aoe tankbuster
+
+infern brand 2 - spawns two sets of four numbered lines, one orange and one blue and gives everyone a debuff 1 to 4
+	players need to move to the quadrant closest to both of their numbered lines (always NE/SW?)
+	also two sets of line aoes spawn at the edges, one before the other, use this to decide which tethers to cut first
+cryptic flames - activates the debuffs
+	players need to cut in the order 1, 2, 3, 4
+	cutting gives a magic vuln so be careful
+	then dodge the first set of lines and wait for the vulns to drop off
+cast shadow - spawns two sets of six cone aoes that go off one after each other
+	dodge first, then cut, don't rush
+	cut the second set and dodge line aoes
+
+tankbuster
+raidwide
+
+infern brand 3 - spawns four portals, two north and two south along with four staves, two outer and two inner, and laser lines for later
+infern wave - activates the two sets of staves, either outer first or inner first
+	eventually, each staff fires two large cones towards the closest two players
+banishment - indicates the rotation directions of each portal and gives every player a rotating portal along with a debuff that must be cleansed by going through a portal
+	one portal out of each set (north/south) is safe, both players must go through that one first
+	either stand on the start (inner first) or where the end rotates to (outer first)
+	to work out whether to go north or south (for inner first, reverse for outer first):
+		Blue East - North
+		Blue West - South
+		Orange East - South
+		Orange West - North
+infern ward - activates the laser aoes
+	after teleporting, one player moves across the staff to bait the second cone
+	then your portals take you across the lasers to bait the second staff's cones
+
+tankbuster
+
+infern brand 4 + cryptic portals 2 - spawns three portals at east, mid and west with line aoes attached to them
+	the portals rotate giving four tiles as safe spots
+	assign each player intercardinal priority, i.e. they go to the 'northwest-most safe spot' etc.
+
+firesteel strike
+blessed beacon
+raidwide
+
+infern brand 5 + infern wave 2 - spawns four staves at the cardinals, along with four sets of two lines (two orange sets, two blue sets)
+	players also get the 1234 debuffs again
+	watch which staff glows first, that sets the order for the whole mechanic
+cryptic flames 2 - the 3 and 4 players will bait the first staff (pre-position), while the 1 and 2 players cut the lines in front of it
+	3 and 4 then cut the lines opposite to allow 1 and 2 to bait the next staff
+pure fire - a puddle underneath each player, 1 and 2 stay to bait while 3 and 4 go back to their staff to bait so mid is free
+	wait for magic vulns before 1 and 2 cut the next lines so 3 and 4 can bait
+cast shadow - dodge the cones
+	3 and 4 wait for vulns then cut the lines, while 1 and 2 quickly bait
+
+tankbuster
+raidwide
+enrage

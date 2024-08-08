@@ -1,0 +1,111 @@
+weapon change - switches to either sword or staff stance, look at her buff or her quote
+	sword stance inflicts blunt resist down, staf stance inflicts slash resist down
+	you'll either need 1 tank strictly per stance, or just swap each time
+	timelines based on which weapon she equips
+
+	sword - a blade of ice to defend my brothers
+		icebrand - a massive cone on the MT that needs to be shared by the party
+			this is untelegraphed, so make sure to stack quickly
+
+		heavenly strike - a raidwide + knockback
+
+		glacier bash - a dodgeable frontal cone that stuns anyone it hits
+			MT should move to the side and slightly behind the boss
+
+	staff - the cycle ends here and now
+		hailstorm - spread aoes on every player
+			can assign clock spots for this or just do a rough spread, it's very wing-able
+
+		absolute zero x2 - raidwide
+
+icicle impact - spawns two sets of large aoes, with one in the middle and seven around the edges of the arena
+	only one cardinal or intercardinal spot will remain safe
+	the aoes appear in two waves, so don't move too early until you're sure which one is safe
+
+dreams of ice - grants a stacking damage up, once it reaches 11 stacks, she enrages and wipes the party
+
+weapon change - will do the other phase
+
+loops until <80% hp
+
+adds - summons four ice soldiers that need to be grouped up and killed
+
+dreams of ice (2)
+weapon change (sword) - always sword
+icebrand
+
+glacier bash
+heavenly strike
+
+diamond dust - a big transition raidwide
+
+dreams of ice (3)
+
+icicle impact (sword/staff) - creates four circles at either the cardinals or the intercardinals
+	then follows up with four circles on the previously unsafe spots + one in the centre
+weapon change (staff) - always staff
+hailstorm - this overlaps with the second wave of icicle impacts, so assign players to colour spots with close/far priority
+	two players can fit in each safe spot without overlapping the aoes
+
+raidwide x2
+
+dreams of ice (4)
+
+now we get slightly different weapon phases, with a new weapon too
+
+bow phase - a new weapon here (quote is arrows of frost to keep my enemies at bay)
+	icicle impact (bow) - spawns the circles going clockwise or anticlockwise, including one in mid, that explode in the order they appeared
+		just dodge from the last one to appear into the first
+
+	this phase doesn't give vulns but does a lot of damage as her autos will always crit
+
+	glass dance - a 270-degree cleave in front of her, make sure to dodge behind her after she swaps
+
+	avalanche - marks a random player with a blue marker, then blasts them with a line aoe that knocks them back
+		either stand at the side with kb resist, or get knocked through most of the arena
+		if not using kb resist, tanks need to position her at the edge to allow for easier execution
+
+	permafrost - coats the arena floor in ice, making it slippery and giving every player a small dot
+
+sword phase
+	icicle impact (sword/staff) + icebrand - stack up to share the damage, then move to a safe spot
+	permafrost
+	glacier bash
+
+	whiteout - a doughnut aoe
+
+	heavenly strike
+
+staff phase
+	icicle impact (sword/staff) + hailstorm
+	permafrost? - either before the raidwide spam or after
+	raidwide x4
+	permafrost?
+
+
+
+dreams of ice (5)
+
+sword/staff phase
+
+dreams of ice (6)
+
+bow phase
+
+dreams of ice (7)
+
+sword/staff phase
+
+dreams of ice (8)
+
+bow phase
+
+dreams of ice (9)
+
+sword/staff phase
+
+dreams of ice (10)
+
+bow phase
+
+enrage

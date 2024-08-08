@@ -1,0 +1,81 @@
+this fight has two 'parts' with a small phase in the middle
+which part comes before and after the middle is random
+
+part 1 - water > earth
+longitudal/latitudinal implosion - does two sets of ninety-degree cleaves on opposite sides
+	longitudinal - front/back cleaved first, then sides
+	latitudinal - sides cleaved first, then front/back
+
+tsunami - sides become unsafe and gives everyone a doughnut aoe debuff
+	supports go off first, then dps
+
+umbra smash - the boss jumps to the further away point out of north or south, dealing proximity damage
+	stay stacked for the doughnuts, then quickly run behind the boss
+damning edict - a massive cleave through everything in front of the boss
+	stay stacked after for the second doughnuts
+
+chaotic dispersion - a tankbuster with a swap
+
+tsunami
+
+knock down (flares) - marks both healers with flares
+	healers should choose who goes north and who goes south, party stacks mid for doughnuts
+big bang - causes the area around the flares to explode, everything stack mid to avoid and dodge doughnuts
+
+fiendish orbs (busters) - spawns two orbs at north and south that do tankbuster tethers
+
+earthquake - makes the south half unsafe and gives all supports a heal to full debuff and all dps a beyond death debuff
+	there will be a knockback towards south afterwards
+implosion - dps need to get hit by BOTH implosions to die, while supports do it correctly
+
+tankbuster
+earthquake + knockback
+
+knock down (stacks) - assign support-dps pairs and spread out at north to get knocked back safely
+big bang - causes the area around the stacks to explode, dps should stay in to die, supports dodge
+fiendish orbs (lines) - dodge the four sets of line aoes
+
+part 2 - fire > wind
+damning edict
+
+inferno - makes a safe circle in the middle of the arena and marks everyone with an aoe debuff
+	getting hit by a debuff that isn't your own does a big knockback
+	supports stay out first, then dps
+
+implosion - DPS STAY OUT AFTER THIS
+tankbuster
+inferno
+knock down (stacks) - place as close to the edge as possible, then dps explode
+big bang
+fiendish orbs (lines)
+
+cyclone - makes an unsafe circle in the middle of the arena and gives everyone a wind debuff
+	supports get headwind - look away from knockbacks
+	dps get tailwind - look towards knockbacks
+	pull boss towards a consistent corner
+
+umbra smash
+damning edict
+tankbuster
+cyclone
+knock down (flares) - healers choose which corner each goes to, remember the knockback too
+big bang
+fiendish orbs (busters)
+
+intermission
+bowels of agony - sets everyone to 1 hp and starts the intermission phase
+	supports will get tsunami doughnuts and cyclone headwinds
+	dps will get inferno point-blanks and earthquake beyond deaths
+	everyone should stand max melee around the crystal at the cardinals in their colour pairs
+	supports should be slightly in front of dps to get hit by the aoes and knocked forwards
+	supports then move forwards after getting knockback in order to hit each dps once with their doughnut
+	everyone then kills the crystal
+soul of chaos - big raidwide
+
+second 'part'
+
+inferno - these four are cast in a row, spread for inferno
+tsunami - stack mid for doughnuts
+cyclone - just tank damage downs :(
+earthquake - dps rip?
+enrage

@@ -1,0 +1,90 @@
+single charge (stack/spread) - shows an icon above the boss's head and does an ability that corresponds to it
+	green, a big ring - gobswipe conklops, a doughnut aoe
+	red, three thinner rings with a triangle in the middle - gobspin whooshdrops, a point-blank aoe
+	orange/brown, arrows pointing together - bomb toss, a stack on a random player
+	blue, arrows pointing apart - critical wrath, a spread aoe on every player
+
+trap (spikes) - the boss jumps to one of the traps around the arena, activating it
+	crystal - two line aoes that shoot across the long edges of the arena, stay in the middle
+	ball - three massive spike balls slam down through the middle column of the arena, go to the edges
+	spikes - spikes jut up, binding everyone and inflicting a mild dot
+
+single charge (spread/stack)
+
+gobslash slicetops - a proximity tether on the MT that shoots a line aoe towards them
+	OT should provoke and MT needs to run as far away as possible while also making sure not to cleave the group with the line
+	can also just invuln this, but still need the swap as it gives a physical vuln up
+
+gobrush rushgob - a multi-hit tankbuster
+
+discharge + trap (crystal) - three aoes appear through the middle of the arena, paired with the crystal trap
+	dodge the aoes first, then move to the middle to dodge the crystals
+
+gobsnick leghops - gives every player extreme caution, don't take any action while the debuff is active
+
+lameprix strikedocks - a clone of the boss appears as he leaps away, OT should pick it up and face it away from the group
+	party should focus it down
+
+single charge (doughnut)
+
+gobswish spraymops - a 270-degree cleave cast by the clone, make sure it is facing away from the party
+
+tankbuster
+trap (ball) + discharge - stay in the discharge aoes first to dodge the trap, then move into the safe spots
+	make sure not to accidentally activate a trap here
+gobslash slicetops
+
+double charge (in/out) - does two of the charge mechanics back-to-back in the order their icons appear
+
+gobsnick leghops
+
+add phase - the gobpress spawns at north, slowly moving through the arena, if it's not destroyed by the time it reaches the other side, it's a wipe
+	brighteyes - prey markers on each healer that drop two fire puddles and give magic vuln
+		after the first set, they need to be passed to other players to drop them
+		the first set should be dropped close to the boss, the second set should be dropped close to the gobpress
+
+	illuminati hand cannon - a line aoe on a random player, just dodge
+
+	steam roller - a big aoe in front of the gobpress that turns part of the arena into lava and makes it move forward
+	
+	loops from brighteyes until enrage (running out of room)
+
+tankbuster
+
+triple charge - does three charge mechanics back-to-back-to-back
+	there are only two patterns: out > spread > in / in > out > stack
+	you can tell which one it's going to be from the first icon
+
+lameprix strikedocks + single charge (doughnut) - this clone will tether to the boss if too close, and get a damage up
+gobswish spraymops
+
+gobspin zoomdrops - the boss goes invulnerable and starts spinning, then tethers to a random player and moves towards them
+	while spinning, he does periodic raidwides
+	the tether can be passed around and the boss needs to be kited into the crystal trap (which should be activated by a different player)
+
+gobswish spraymops - maybe you see this second cleave if dps on the clone is low
+tankbuster
+
+gobslice mooncrops - the boss jumps north and eventually casts a big aoe that knocks everyone back into the electric fields
+	a player needs to activate the spike trap to bind everyone and nullify the knockback
+
+single charge (doughnut)/gobsnick leghops
+
+chainsaws - summons three chainsaws that divide the arena into four sections with their line aoes
+	the boss should be dragged to one of the middle sections
+
+brighteyes - healers and their partners should go into the north and south sections to drop fire puddles and pass preys
+illuminati hand cannon
+single charge
+gobslash slicetops
+tankbuster
+discharge + trap (crystal) + trap (ball) + discharge - essentially a four-part mechanic, just dodge like you did before
+
+adds - spawns a hedge gobknight and two goblins of fortune
+	the OT should pick these up and drag them middle into the ball trap to remove their vuln downs
+	party needs to kill the adds quickly or they will wipe the raid
+
+gobsnick leghops
+chainsaws
+
+loops from first tankbuster after add phase until enrage

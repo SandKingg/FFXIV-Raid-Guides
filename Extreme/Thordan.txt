@@ -1,0 +1,104 @@
+meteorain - bait puddles then dodge
+
+ascalon's mercy - dodge the slices, either stand behind him or position precisely in between
+
+the dragon's eye - grants a damage up stack
+
+the dragon's gaze - look away
+
+lightning storm - spread aoes on every player
+
+the dragon's rage - a stack marker on a random player
+
+ancient quaga - raidwide
+
+heavenly heel - tankbuster
+
+add phase - the knights team up to send multiple attacks at you
+	charibert + hermenost
+		heavensflame - fiery puddles that follow random players
+		burning chains - need to move away to break them, so stack mid first
+		conviction - spawns four towers at random cardinals or intercardinals, assign clock spots to take them
+	zephirin
+		sacred cross - deals damage based on his remaining health, get him as low as possible
+	paulecrain + vellguine + ignasse
+		spiral thrust - each knight spawns at the edge of the arena and charges all thr way through
+			go to the magical safe spot
+		skyward leap - cast AFTER the next knights spawn, targets three players for dive markers
+			these deal proximity damage, so the players go north > south > north to spread damage out
+	adelphel + janlenoux - each tank should provoke one add and take them to the edge
+		divine right - grants either a sword (damage up) or shield (vuln down) buff, party attacks sword knight
+			if they tether due to being too close, they get both buffs
+		holy bladedance - tankbusters, sword tank invulns, shield tank uses a cd
+		(skyward leap casts now)
+		divine right - switches their buffs
+		holiest of holy - raidwide
+		holy bladedance
+		loops divine right > holiest of holy > holy bladedance until dead
+	paulecrain + vellguine + ignasse + grinnaux + haumeric
+		spiral pierce - tethers to three random players and charges towards them, dealing proximity damage
+		hiemal storm - marks non-tethered players with spread ice aoes that leave puddles behind, take them to the edge
+		dimensional collapse - causes black puddles to appear under every player, stack mid to bait them then run to clock spots
+		faith unmoving - a knockback from the centre of the arena, run in and get knocked away from the ice puddles
+	noudenet + guerrique
+		holy meteor - spawns a big meteor circle and several smaller comet circles, focus the comets first then the meteor
+			some players get small aoes around them, try not to overlap but it's not that much damage
+		heavy impact - three expanding 270-degree cleaves from the middle of the arena
+	thordan + heavens' ward
+		the light of ascalon - a series of 7 small raidwides and small knockbacks
+		ultimate end - big raidwide
+
+the dragon's eye (north) - now also spawns a big eye at a random cardinal or intercardinal, first is always north
+
+knights of the round (janlenoux + adelphel + zephirin) - each knights of the round is a series of smaller mechanics
+	holy shield bash x2 - marks and stuns a random healer, they should go on the north edge of the arena
+	spear of the fury - does a line aoe towards the stunned healer, dealing tankbuster damage to the first player hit
+		party stacks up in front of the healer, with the OT first in line using mits
+		if ANYBODY dies (including MT) during this, it's a wipe
+tankbuster
+
+the dragon's gaze - now need to also look away from the big eye
+raidwide
+the dragon's eye - move thordan next to where the eye spawns
+
+knights of the round 2 (guerrique + hermenost + grinnaux)
+	conviction - party spread and soak towers closest to them
+	heavy impact - dodge the cleaves, may need to stay in a tower first, dodge first, or move slightly inside the tower, depending on timing
+	the dragon's gaze
+	dimensional collapse - these puddles now expand, dodge then go mid
+	the dragon's rage + faith unmoving - stand mid so everyone gets knocked back together, then stay stacked
+		MT should quickly get back to the boss as there's a cleave next
+
+the dragon's eye - don't move thordan, there's no gaze with the next combo
+
+knights of the round 3 (paulecrain + vellguine + ignasse)
+	lightning storm - don't spread too far
+	spiral thrust + spiral pierce - party stays away from the knight at the edge, tethered player moves away from the party to a safe edge
+	skyward leap - marked player moves away from the party
+	the dragon's rage - party stacks up away from the charging knight
+
+tankbuster
+the dragon's eye
+
+knights of the round 4 (noudenet + charibert + haumeric)
+	burning chains - everyone stacks behind thordan at the beginning
+	holy meteor + heavensflame + the dragon's gaze - a lot of player-targeted mechanics, run away from thordan to break chains and place ice puddles at the edge
+	hiemal storm + ascalon's mercy
+
+raidwide
+tankbuster
+raidwide
+the dragon's eye
+
+knights of the round 5 (heavens' ward) - mega raidwides
+	holiest of holy x2
+	heavensward leap x3
+	sacred cross - party switches to zephirin as thordan is now invulnerable
+	pure of soul
+	absolute conviction
+	the dragon's gaze
+
+raidwide
+tankbuster
+mini-buster spam on the MT
+enrage

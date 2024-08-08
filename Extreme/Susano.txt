@@ -1,0 +1,73 @@
+churning deep - places acceleration bombs on four random players, stay still when the countdown ends
+
+yata-no-kagami - gives a random player a red marker, knocks them back and does two large aoes either side of the line they were knocked back down
+brightstorm - a stack marker on the knocked-back player, make sure to get back to the party in time
+
+churning deep
+
+rasen kaikyo - puddles appear under random players, dodge away
+
+thunderhead + yata-no-kagami - summons a cloud that fires a line aoe (the parting clouds) towards the knocked-back player
+	make sure to bait the line to cover as little of the safe spot as possible
+	getting hit paralyses and leaves a lightning resist down debuff
+
+???
+
+blade's shadow - an interactable that must be clicked by a tank with a cooldown
+
+ame-no-murakumo - the tank needs to do the active time manoeuvre while the party kills the blade
+	the blade is doing pulsing sheer force raidwides
+	meanwhile the other tank needs to start NE and soak orbs with a cooldown
+
+blade's shadow - swap tanks
+ame-no-murakumo
+
+ame no murakumo - a big transition raidwide that leaves a persistent line through the middle of the arena
+	players standing in it will sink down until they die
+
+stormsplitter - a line aoe tankbuster that gives a vuln, make sure to tank swap
+
+levinbolt - marks four players one after another with purple markers
+	after a few seconds, the side they are on deals raidwide damage so they need to move over to the other side
+	standing in the middle zone hits both sides, don't do that
+	quote - hark you to the tumultuous heavens
+
+ukehi - a double-hit raidwide
+
+thunderhead + yata-no-kagami + brightstorm
+tankbuster
+levinbolt
+raidwides - there are three hits from here on out
+
+ama-no-iwato - traps a random player in stone, summoning three decoy stones that switch places randomly
+	have the trapped player mark themselves so the party can focus down the correct stone
+	the player dies if the stone is not killed in time
+
+rasen kaikyo
+tankbuster
+
+levinbolt + stun - now each of the four players are stunned, meaning the party needs to adjust instead
+	quote - now cometh our part, make way
+
+raidwides
+churning deep
+yata-no-kagami + brightstorm - the acceleration bomb runs out right after the knockback, don't move too early
+rasen kaikyo
+tankbuster
+random? levinbolt - listen for the quote to tell?
+raidwides
+churning deep
+rasen kaikyo x2
+tankbuster
+levinbolt + thunderhead + rasen kaikyo x2
+thunderhead + yata-no-kagami + brightstorm
+raidwides
+ama-no-iwato
+tankbuster
+levinbolt + thunderhead + yata-no-kagami
+rasen kaikyo
+thunderhead + yata-no-kagami + brightstorm
+rasen kaikyo
+raidwides
+
+loops from first amano-iwato? until enrage

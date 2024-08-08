@@ -1,0 +1,81 @@
+this fight consists of four phases against four different bosses
+
+blaster
+	mind blast - an interruptible cast that confuses everyone if it goes off
+	mines - spawns two visible mines (orange) and one hidden mine (blue)
+		the off tank should explode the hidden mine, being careful not to get knocked back into other mines
+		MT will have magic vulns, so can't take mines
+	mirages - spawns mirages on four random players that will turn and charge towards random players
+		bait them in a nice line, then move away
+
+	loops from mind blast until 50% hp
+
+	add phase - spawns four small mirages and one big mirage that need to be killed before their casts go off
+
+	mind blast
+	mines
+	mirages 2 - these mirages tether to random players and either hold their hands up or crouch down
+		if they hold their hands up, look away from them
+		if they crouch down, look towards them
+	
+	loops from mind blast after add phase until dead
+
+brawler
+	weapon change - equips one of four different weapons and does an attack based on the weapon equipped, weapons will not repeat until all have been seen
+		single buster - a big tankbuster
+		double buster - a line stack on the MT
+		single drill - a proximity-based attack on a random player, move away
+		double drill - two big explosions on the closest and furthest players, assign specific people to bait
+			usually the MT and a ranged player bait
+	chakram - spawns a chakram that slowly rotates around the arena, doing aoes underneath it
+	weapon change
+
+	loops from first weapon change until 1 hp
+
+	orb phase - brawler goes immune and runs to the centre of the arena while spawning waves of orbs, also does weapon changes during this
+		wave 1 - 2 power plasma alphas, 2 power plasma gammas
+			power plasma alpha - need to be killed by the party
+			power plasma gamma - need to be soaked by tanks
+		wave 2 - 2 power plasma alphas, 2 power plasma betas, 1 power plasma gamma
+			power plasma beta - choose one to stun/slow so they stagger their hits as they are big raidwides
+		wave 3 - 2 power plasma alphas, 1 power plasma gamma
+		wave 4 - 3 power plasma alphas, 1 power plasma gamma
+
+swindler
+	height + enumeration - gives everybody height along with one support and one dps enumeration
+		height - the platforms are either raised or lowered and each player has high or low vuln
+			make sure you stand on the platform type that does not give you vuln
+			an easy trick to remember is red debuff = red platform (red is stand on higher platforms which glow red slightly)
+		enumeration - will either require 2, 3 or 4 players to stand in the big circle, indicated by the number of orbs
+			assign a priority order for supports and dps for who should stand in or not
+	bio-arithmeticks - raidwide
+	adds 1 - spawns loads of adds that should just be aoed down quickly (or caster LBed) while the MT invulns
+	height
+	enumeration
+	raidwide
+	adds 2 - spawns four gunners in the cardinals that should be immediately killed
+	height
+
+	loops from height + enumeration until dead
+
+vortexer
+	elemental jammer - marks one player for water and one player for thunder
+		when they expire, water is a group stack while thunder is a two-person stack
+		OT will take first thunder while the rest of the group takes water on C
+		the debuffs will pass on to another player on expiry and give vulns to the players they were on
+		previous water always takes next thunder while previous thunder just becomes one of the gorup for next water
+		water also spawns a tornado on expiry that will tether to people cloe to it and deal massive damage
+	fire beam + fire puddles - marks four players for line aoes and spawns a fire puddle under every player
+		wait for puddles, then spread before going to spots for lightning+water
+	pass debuffs
+	ice missiles - two players spawn expanding icy aoes under them
+		place these near the tornado so when they expand, they freeze it
+		DO NOT GO TOO CLOSE
+	pass debuffs
+	fire beam + fire puddles - this time at least one player needs to shoot their line aoe through the tornado from the second debuff pass to evaporate it
+		wait for puddles before moving
+	super cyclone - get knocked to spots for debuff passing
+	pass debuffs - they expire after this
+	ultra flash - instantly kills any player in line of sight of the boss, hide behind the frozen tornado
+
+	loops from elemental jammer until enrage

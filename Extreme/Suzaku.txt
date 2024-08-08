@@ -1,0 +1,67 @@
+screams of the damned - raidwide
+
+rout - suzaku appears at the edge of the arena and charges through, spread out to either side to avoid overlapping the rekindle aoes
+
+fleeting summer - a big cone aoe on a random player
+
+cremate - tankbuster
+
+phoenix down - spawns 4 scarlet plumes and 4 scarlet tail feathers on either the cardinals or intercardinals respectively
+	assign clock spots with one support and one dps for each colour pair
+	focus down the scarlet plumes (small feathers)
+	dps get aoes that should overlap with their respective bird
+	kill the revived scarlet ladies
+tankbuster
+
+eternal flame - ddr phase, face the direction of the arrow to soak the orbs
+
+southron star - raidwide
+
+mesmerizing melody - a draw in mechanic, use knockback resist or go to the edge
+
+well of flame - a line aoe on a random player, plus some spread aoes on random players, followed by a scathing net stack
+
+phantom flurry - a multi-hit tankbuster with a vuln, followed by a big half-room cleave, make sure to swap and stay behind her until after the cleave
+
+phoenix pattern (8 rune) - suzaku summons a phoenix that rotates clockwise around the edge of the arena, causing platforms to explode when it passes the rune of its colour
+	there are two patterns for the 8-runes
+		1 - either a double clockwise or double anticlockwise rotation
+		2 - a diagonal pattern (e.g. 1324) which is then reversed (e.g.13244231)
+	every phoenix pattern will always have 2 patterns to go through
+2nd phoenix pattern (8 rune)
+
+ruthless refrain/mesmerizing melody - ruthless refrain is a knockback
+
+close-quarter crescendo - every player is tethered to an orb with a large arrow underneath, the arrow points in the direction they will move
+	make sure to position yourself so you don't walk off the arena or into the hole
+	the arrow is NOT relative to your character, it is static, i.e. if it points north, you will walk north no matter what
+	don't sprint
+
+well of flame
+tankbuster
+refrain/melody + phoenix pattern (8 rune)
+raidwide
+2nd phoenix pattern (8 rune)
+tankbuster
+raidwide
+
+incandescent interlude + ruthless refrain - spawns four towers in the cardinals, then gives each all dps or all supports spread aoes
+	the players without aoes should take the tower in their colour direction, while those with aoes go in between
+	use the knockback to get to the towers/safe spots, or use knockback resist
+
+well of flame
+phoenix pattern (4 rune) + well of flame - the 4 rune patterns are simple versions of the 8-rune patterns
+	1 - either a single clockwise or anticlockwise rotation
+	2 - a diagonal pattern (e.g. 1324)
+2nd phoenix pattern (4 rune) + close-quarter crescendo - need to get moved into the 1st or 2nd platform to explode, from the 3rd or 4th
+refrain/melody + phoenix pattern (4 rune)
+tankbuster + 2nd phoenix pattern (4 rune)
+raidwide
+refrain/melody
+well of flame
+tankbuster
+raidwide
+refrain/melody
+raidwide
+tankbuster
+enrage

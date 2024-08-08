@@ -1,0 +1,78 @@
+shadowreaver - raidwide
+
+winged reprobation (tethers) - two dps get tethered to swords, which will quickly move towards them
+	take the tethers far away to give you time to dodge
+	also dodge the three-pronged spread when it reaches your location
+
+righteous bolt - tankbuster and swap
+
+winged reprobation (tethers)
+
+rightful reprobation - summons swords that fly out to the edge of the arena, then fly back through the entire arena
+	this first pattern makes one quadrant, then two quadrants unsafe
+
+winged reprobation (rotation) - spawns three curved line aoes that rotate in the direction they are pointing
+drop of light - two random players get massive aoes, spread out
+
+tankbuster
+
+winged reprobation (lines) - summons three sets of three line aoes that should be dodged
+rightful reprobation - these aoes are towards the cardinals and intercardinals, make sure to stay in a safe slice dodging the lines
+
+light pillar - a line stack on a random player
+
+raidwide
+
+winged reprobation (tethers + rotation) - this rotation has two line aoes with gaps in that always overlap with the golden ring on the arena
+
+add phase - summons two forgiven veneries at east and west and one forgiven shame at south
+	tanks each pick up a venery, while the rest of the party focuses the shame
+	scold's bridle - raidwide
+	holy sword - tankbuster that gives a stacking damage up
+flaming sword - big transition raidwide
+
+starbirth - spawns three big stars in the intercardinals that explode whenever they get hit by the boss's abilities
+raidwide - explodes the stars, so position in the corner without a star
+
+winged reprobation (rotation) - three aoes with gaps this time
+rightful reprobation
+
+beatific vision - a proximity-based line aoe, move to the side from where the boss starts
+
+tankbuster
+
+starbirth + drop of light x2 - only two stars spawn, take the aoes to the safe corners each time
+
+light pillar - point away from the stars
+beatific vision - to the side and away from the stars, as they explode here
+rightful reprobation
+
+god ray - spawns three thick, expanding pizza slices with small safe spots
+	this is then repeated three times, the safe spot moves a little bit at first, then you cross over into the final safe spot
+
+raidwide
+tankbuster
+
+starbirth - spawns four stars, pull the boss moderately east or west
+winged reprobation (lines) - dodge the lines
+light pillar - point it at one of the stars on the opposite side of where the boss is
+	do not clip the stars close to where you are, which is why the boss is not all the way east or west
+raidwide - move into the safe spot you created
+
+tankbuster
+winged reprobation (lines + tethers)
+winged reprobation (rotation)
+starbirth + beatific vision - only one safe spot here, stay in the corner to minimise proximity damage
+rightful reprobation + drop of light x2 - put aoes in the safe quadrants from the swords
+winged reprobation (tethers)
+tankbuster
+starbirth + drop of light x2
+light pillar
+beatific vision
+rightful reprobation
+god ray
+raidwide
+tankbuster
+starbirth
+winged reprobation (lines)
+enrage

@@ -1,0 +1,75 @@
+storm pulse - raidwide
+
+heavenly strike - tankbuster
+
+state of shock - grabs the highest enmity and resets their enmity
+highest stakes - slams the target into the ground as a stack marker, you can't soak both
+	assign light parties for each
+	MT should provoke back ASAP
+state of shock + highest stakes
+
+unrelenting anguish - starts shooting out three rotating waves of orbs
+raidwide
+ominous wind - marks one tank, healer and dps with a red bubble that explodes if they touch another person with it
+fire and lightning - a big line aoe
+
+hakutei phase - OT picks up hakutei and goes south, MT takes byakko north
+	crosshair players drop aratama puddles at the edge
+
+raidwide
+tankbuster
+
+distant clap + white herald - byakko does a doughnut while hakutei leaps away and marks its tank with a flare
+
+fire and lightning
+raidwide
+
+the roar of thunder - burn down hakutei while picking up the orbs
+	casters and healers get priority since they give phys damage down
+	get hakutei below ~50% to survive
+
+intermission sleep phase
+
+tankbuster
+
+hundredfold havoc - two sets of four exaflares that travel to the cardinals and intercardinals or vice versa
+
+state of shock + highest stakes x2
+
+sweep the leg - 270-degree cleave and knockback, go behind him
+
+unrelenting anguish - now does four waves
+raidwide - now hits twice
+gale force - marks one tank, healer and dps with aoe markers that expand
+	take these to the edge, roughly at equal distances around the arena
+	if two of them hit, they explode
+ominous wind
+fire and lightning x2
+
+hakutei phase 2 + aratama puddles
+distant clap + white herald
+fire and lightning + distant clap
+fire and lightning
+tankbuster
+the roar of thunder
+raidwide
+fire and lightning
+raidwide
+gale force + hundredfold havoc
+state of shock + highest stakes x2 - the aoes disappear before 2nd stack
+sweep the leg
+tankbuster
+raidwide
+distant clap
+tankbuster
+unrelenting anguish
+raidwide
+gale force
+ominous wind
+fire and lightning x2
+raidwide
+hundredfold havoc
+state of shock + highest stakes x2
+sweep the leg
+raidwide - hits four times
+enrage

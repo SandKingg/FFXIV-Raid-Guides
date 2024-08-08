@@ -1,0 +1,39 @@
+shared abilities
+	vulnerability up - applies vuln up to the MT and anyone near them, swap after around 4? stacks
+	repelling cannons - a point-blank aoe
+	high voltage - a raidwide vuln and paralysis that can be interrupted
+
+sector 1 - monitoring node
+	vacuum wave - a small raidwide
+	damage up - killing this node grants damage up to all other nodes
+
+sector 2 - sanitary node
+	ballast - an expanding 270 degree cleave that knocks back anyone hit
+	sequence ap1 - killing this node grants piercing resistance to all other nodes
+
+sector 3 - defense node
+	chain lightning - an aoe on a random player that will jump to any nearby players, make sure to spread out
+	sequence as1 - killing this node grants slashing resistance to all other nodes
+
+sector 4 - attack node
+	gravity field - spawns a puddle under a random player that gives a bleed and heavy to anyone standing in it
+	sequence ab1 - killing this node grants blunt resistance to all other nodes
+
+sector 5 - disposal node
+	firestream - five line aoes in a rough star pattern from the boss
+	magic vulnerability down - killing this node grants magic vuln down to all other nodes
+
+sector 6 - quarantine node
+	allagan rot - gives a rot debuff to a random player that wipes the raid if allowed to expire
+		running into another player gives them the debuff and causes you to become immune
+		the debuff needs to be passed around between players until the boss dies
+	haste - killing this node grants haste to all other nodes
+
+sector 7 - ads
+	each node killed removes that ability from the pool used by the boss except vacuum wave
+	vacuum wave - same as sector 1, always used
+	allagan rot - starts at 75% hp, and moves every other ability down by 25%
+	gravity field - starts at 75% hp
+	firestream - starts at 75% hp
+	ballast - starts at 50% hp
+	chain lightning - starts at 50% hp

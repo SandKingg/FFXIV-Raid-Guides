@@ -1,0 +1,103 @@
+the worm's heart - a targetable extra entity that slowly charges energy, the next raidwide will wipe if not destroyed before 100 energy
+
+earthen fury - a big raidwide that cracks some tiles and destroys the east and west tiles
+
+tidal wave + burning chains - chains players together with another player of their role, and does a big knockback from one side of the arena
+	can pre-assign spread positions and HIGHLY recommended to use kb resist for the wave
+	make sure to stack until the chains have spawned
+	tidal wave also spawns several puddles on tiles
+
+tail slam (healer) - a green marker appears above a player's head, then the tail slams down on their location a few seconds later
+	first tail (healer) goes to the SE tile
+	party focuses tail once it appears
+
+summon icicle - summons three icicles at the back of the arena that fly through either the left or right sides of every tile
+
+hypernova/levinbolt - either a stack inside a puddle or a spread away from puddles
+
+the worm's heart
+
+central slam - a big aoe on the central tile, move away
+
+ice storm - a big raidwide
+
+akh morn + akh rhai - a shared tankbuster and a repeated aoe on a random player, move away from the akh rhais
+
+hellfire/judgment bolt + summon icicle - a raidwide that requires players to be in or out of puddles respectively
+	make sure to be on the correct side of the tiles
+	weirdly judgment bolt has a small chance of paralysing any player, which can be esuna-ed off
+
+tail slam (dps) - either stay centre or, if centre is cracked, go to the NW tile
+levinbolt
+ice storm
+the worm's heart
+burning chains - only on supports this time
+
+earth breath - cone aoes on a random dps and healer that leave a dot, assign each role either NE or NW corners to avoid hitting the party
+
+akh morn + akh rhai
+ice storm
+
+diamond dust - a raidwide that also makes the floor slippery, stack mid and don't move, also spawns more puddles
+burning chains - both healers will be chained, assign one to slide to a corner to break the chain, then back to mid
+
+reiryu - spawns three reiryu adds that tether to non-tank players and prevent them from getting healed
+	healer need to heal the heads to full hp to destroy them
+
+tail slam (tank) - go to the SW tile
+the worm's heart
+summon icicle + akh morn - MT can invuln this to make it easier, but stay on the safe side and dodge icicles
+
+aerial blast + burning chains - three small knockbacks from the centre, followed by a much larger knockback
+	get knocked to your spread spots for chains
+
+earth breath
+ice storm
+
+divebomb - shinryu dashes from one corner to the opposite one, killing anyone hit, move to one of the safe corners
+	shinryu may shift to a different side now, be careful
+	also, more puddles have spawned
+
+the worm's heart
+hypernova/levinbolt
+akh morn + akh rhai
+levinbolt
+tidal wave
+
+dark matter - press your buttons to escape
+touchdown - a proximity aoe from the centre of the platform, all move north to get knocked over to the other platform
+
+add phase - spawns three waves of adds from poximity aoe markers
+	wave 1 - 4 ginryus, 1 hakkinryu
+		ginryu - small add that just attacks
+		hakkinryu - big add that does death sentence tankbusters
+			fireball - a puddle under a random player
+			blazing trail - a line aoe in front of it
+	wave 2 - 3 ginryus, 2 hakkinryus
+	wave 3 - 5 ginryus
+		this wave is spawned form player-placed aoes, put them at the edge and do not overlap them
+protostar - big transition raidwide
+
+tail spit - a knockback from the centre that impales the tail into the tile
+	walk across the tail onto the other platform, either everyone uses sprint or nobody does
+	dodge the lasers
+
+tera slash - a tankbuster with a swap
+
+atomic ray + burning chains - either all supports or all dps get stack markers
+	pre-assign pairs of 1 support, 1 dps and have the ranged spread back from shinryu and the melee spread forward around shinryu to break chains
+
+hypernova/levinbolt + ice storm - everyone stacks up and either stays still if hypernova or keeps moving if levinbolt
+	hypernova will unfreeze people from ice storm or moving will prevent freezing entirely
+
+wyrmwail/benighting breath - either a tight doughnut aoe that requires going into the doom zone under shinryu, or a massive cone aoe
+
+tankbuster
+reiryu
+
+loops from tera slash until <25% health
+
+enrage phase - shinryu's wings become targetable and begin casting hellfire and judgment bolt
+	two blue aoes spawn in the east and west that allow players to jump onto shinryu's back
+	make sure to kill the faster-casting wing first, or just caster lb3 them
+	then jump off shinryu and kill him before the enrage goes off

@@ -1,0 +1,40 @@
+magitek gobwalker g-vii - an interactable that puts the player into a gobwalker, needed for certain mechanics
+	can apply vulns (stacks up to 5)
+	can stun adds (need to stun soldiers when gobwidows are around)
+	can pull bombs away to safe parts of the arena
+	need to recharge from defeated gobwalkers
+
+this fight is a series of 'waves' of adds
+
+wave 1 - 2 gordian soldiers
+	gordian soldier - just autoattacks for now
+		eventually will gain a buff when near a gobwidow that causes them to explode on death
+		need to stun them first, then kill them
+
+wave 2 - 2 gordian soldiers, 1 gordian sniper, 1 gordian hardmind
+	gordian sniper - just spams damaging ranged attacks
+		gets big aggro from healers, be careful
+	gordian hardmind - gives nearby adds a magic vuln down buff, focus these if possible
+
+wave 3 - 3 gordian soldiers, 1 gordian sniper, 1 gordian hardmind, 1 gordian hardhelm
+	gordian hardhelm - gives nearby adds a physical vuln down buff, focus these if possible
+
+wave 4 - 2 gordian soldiers, 2 gordian snipers, 1 boomtype magitek gobwalker g-vii
+	boomtype magitek gobwalker g-vii - these continuously apply vulns to their target, focus these if possible
+		leave at ~15-10% so the gobwalker player can drain them
+
+wave 5 - 2 gordian soldiers, 2 magitek gobwidows g-ix
+	magitek gobwidow g-ix - casts bangyzoom, a small buster and marks people with preys for boomcannon
+
+wave 6 - 1 gordian hardhelm, 1 boomtype magitek gobwalker g-vii, 1 jagd doll
+	jagd doll - hits hard and does random kaltstrahl cleaves, also does targeted aoes on players
+
+wave 7 - 4 jagd dolls
+	each tank picks up 2 dolls (both north or both south), party kills 1, 2, 2, 1
+
+wave 8 - 2 gordian soldiers, 2 gordian snipers, 1 gordian hardmind, 1 gordian hardhelm
+	stun and kill the snipers first, then the hards, then the soldiers
+
+wave 9 - 2 gordian soldiers, 2 gordian snipers, 1 boomtype magitek gobwalker g-vii, 1 jagd doll, 2 magitek gobwidows g-ix
+	one tank takes the doll with their widow, one tank takes the gobwalker with their widow
+	dps should take the soldiers and stun and kill them quickly, with the snipers too

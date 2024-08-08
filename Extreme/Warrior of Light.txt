@@ -1,0 +1,104 @@
+terror unleashed - sets hp to 1 and must be healed to full or you die
+
+to the limit (fixed) - charges up lb3
+
+solemn confiteor - baitable aoe puddles under each player, stack together to make dodging easier
+absolute stone iii - fires a rocky cone aoe at every player, go to clock spots after dodging aoes
+
+limit break (lb3) - summons massive aoes on all dps or all supports, go to corners in pairs to avoid overlap
+
+imbued saber x2 - imbues his sword with elements, the first is always earth but the second can be fire or ice
+	earth - clock spots
+	fire - stop everything
+	ice - keep moving or jumping
+imbued coruscance - activates the imbued elements along with a point blank or doughnut aoe
+	if there are rings around his sword then it's in, otherwise out
+
+to the limit (fixed) - charges up lb2
+
+sword of light - summons three swords that draw triangle aoes in the arena, making one side safe
+absolute holy - stack on one player
+
+limit break (lb2) - big line aoes on each healer, split into light parties and don't take both
+
+to the limit (fixed) - charges up lb1
+imbued saber x2 - this time the first is always light and the second is the opposite of the first set's second imbue
+	light - stack together
+imbued coruscance - opposite of the first set's out or in
+
+limit break (lb1) - big cone cleaves on one tank, healer and dps, split into role stacks
+
+the bitter end - tankbuster and swap
+
+summon wyrm + solemn confiteor - summons a big dragon that eventually dashes through one half of the arena, dodge puddles too
+absolute flash - a gaze centred on one specific player, look away from them
+
+elddragon dive - raidwide
+
+specter of light - goes into add phase
+	spectral warrior/spectral dark knight - two adds spawn that are taken by each tank
+		fatal cleave/blade of shadow - tankbusters
+		berserk/deep darkside - interruptible buff that needs to be interrupted
+	spectral bard - spawns flares on every dps that need to be taken to the corners
+	spectral black mage/spectral white mage - these cast twincast that spawns two towers that each need two players to soak
+		after running to the corners with their flares, dps take the towers
+	spectral ninja - casts katon: san that targets both healer with a stack marker that should be taken with their tank, DO NOT OVERLAP THE TOWER
+	spectral summoner - summons four dragons that tether to random players and cast flare breath
+		supports need to take their respective tethers and point them into the corners, tanks interrupt adds FIRST
+ultimate crossover - charges up lb4, tanks need to lb3 after the 4th bar fills to survive the cast
+
+-- THIS PHASE IS ACTUALLY 4 MINI-PHASES THAT ARE RANDOM, WITH SMALL INTERMISSIONS THAT ARE FIXED --
+
+mini-phase 1
+	imbued saber (light/earth) - random imbue now, remember for later
+	specter of light (ninja) + solemn confiteor - summons a ninja that casts suiton: san and katon: san
+		split into your pairs for the stacks and use knockback resist after the solemn confiteor puddles
+	imbued coruscance
+
+intermission 1
+	raidwide
+	tankbuster
+	quintuplecast - casts the following attacks in a random order: fire, blizzard, stone, holy, flash
+		these are dodged the same as for the imbues (or normally, for flash)
+		can preposition in clock spots very close to the centre of the boss's hitbox, which satisfies both stone and holy
+	sword of light
+	raidwide
+
+mini-phase 2
+	imbued saber (fire/ice)
+	specter of light (summoner + warrior) + solemn confiteor - summons a summoner that creates the four dragons, and a warrior that casts perfect decimation
+		split into pairs, either all supports or all dps will get markers for perfect decimation cones
+		if you have a marker, you DO NOT take the tether, otherwise take the tether
+		marked players go to cardinals to bait cones, tethered players go to intercardinals to point tethers away
+		dodge the solemn confiteor puddles
+		then swap over, so previously tethered players get markers next and previously marked players get tethers next
+	summon wyrm
+	imbued coruscance - remember to dodge the wyrm too
+
+intermission 2
+	raidwide
+	tankbuster
+
+mini-phase 3
+	to the limit - random now, remember for later
+	specter of light (dark knight + bard) + solemn confiteor - summons a dark knight and bard
+		stack mid to bait solemn confiteor first
+		all dps get placeable aoes that grow over time, these go to the corners
+		one tank, healer and dps get marked with a flare, and one other player gets an absolute holy stack
+		flares should go to the edge (using lb1 role positions) and everyone else stack mid
+	limit break
+
+intermission 3
+	tankbuster
+
+mini-phase 4
+	specter of light (black mage + white mage) + to the limit - summons a black mage and white mage that cast twincast
+		to the limit is cast AFTER the spectres
+		eight towers will appear one after the other and each needs to be soaked by two players
+		use pairs such that 1A soak 1st and 5th towers, 2B soak 2nd and 6th towers etc.
+	summon wyrm
+	coruscant saber - in or out, but with no elements
+		stay on the safe side away from the wyrm
+	limit break
+	
+enrage

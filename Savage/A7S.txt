@@ -1,0 +1,98 @@
+corporal punishment - spawns two sets of two magic hammer puddles under players that remove mp and apply a bleed, dodge them
+
+sizzlebeam - marks a player with a purple marker, then fires a beam towards them, giving a nasty dot to anyone hit, move to the side
+
+sizzlespark - raidwide that gives a small lightning vuln up, don't be on spikes for this
+
+bombs (8) - drops a bomb on every player that follows behind them, getting hit gives a magic vuln
+	assign spots, with ranged in the outside corners and melee at the cardinals in mid
+	ranged should run into their corner to drag the bomb as far as possible
+
+bombs (1) - drops a bomb on a single player, they should take it away from the group
+	also indicates the jails you get:
+		healer bomb - healer/tank jails
+		dps bomb - dps jails
+
+jails - spawns two jails based on the bomb that require different roles to do different tasks
+	tank (white) - mitigate the tankbusters, don't get knocked into the wall and kill the add
+	healer (green) - stand on the small hole leaking poision to stop it, while briefly stepping off to heal yourself
+	dps (purple) - kill the add before you die to the debuff
+	caster (red) - raid needs to kill the padlock to stop the pyretic debuff, then kill the add with a big physical vuln down
+zoomdoom - the boss lifts up from the air, giving hp down to players near him
+	one player is marked for a prey and one player is marked for a tether, these will get players to enter jails
+	prey should be passed to the correct role in the middle, everyone else stay away from middle
+	tether should be passed close to the jail corner in mid
+	the boss stuns and grabs the prey player, so do not be near them
+adds - adds spawn during the jail phase
+	panzer doll - should be tanked and killed before they explode after 30 seconds
+	sturm doll - should be tanked and kugelblitz needs to be stunned
+
+raidwide
+
+uplander doom - a repeated 4-to-6-hit tankbuster than gives physical vuln up, wait for the full hits then swap
+
+bombs (1) - will be the opposite of the first one
+jails + zoomdoom + adds - opposite of first one
+sizzlebeam
+raidwide
+tankbuster
+
+cat phase - the spikes disappear, two weight of the world balls spawn, along with shanoa
+	weight of the world - these balls roll around the arena, bouncing off walls and damaging players that get hit
+	true heart - shanoa casts this, which spawns a heart add that can be stunned and must be killed
+		if it reaches the boss, he gains 4 damage up stacks which is basically a wipe
+	raidwide
+	flamethrower - targets a random healer and fires a flamethrower towards them giving anybody hit a searing wind debuff
+		they should go away from the party as the debuff pulses big damage and knockbacks
+	true heart
+	sizzlebeam - always on 2nd in aggro
+
+bombs (1) - in this phase the jails are different pairs
+	healer bomb - healer/caster jails
+	dps bomb - tank/dps jails
+jails + zoomdoom + adds
+tankbuster
+raidwide x2
+bombs (1) - opposite of previous
+jails + zoomdoom + adds - opposite of previous
+sizzlebeam
+raidwide x2
+sizzlebeam
+bombs (8)
+raidwide x3
+tankbuster
+flamethrower
+
+corporal punishment 2 - the middle of the arena becomes electrified, so the boss gets dragged to a corner
+	four sets of two magic hammer puddles spawn under players so we run clockwise around the corner to dodge
+
+raidwide
+corporal punishment 3 - same as before, run clockwise to dodge
+raidwide x3
+sizzlebeam
+raidwide x2
+
+cat phase 2
+	weight of the world
+	flamethrower
+	true heart
+	sizzlebeam - always on a dps
+	flamethrower
+	true heart
+	raidwide x3
+
+here the fight splits into two small timelines that occur in either order
+timeline 1
+	sizzlebeam
+	jails + zoomdoom + adds - tank/caster jails
+	raidwide
+	sizzlebeam
+	raidwide x3
+
+timeline 2
+	bombs (2) - always on a healer and a dps
+	jails + zoomdoom + adds - healer/dps jails
+	tankbuster
+	raidwide x3
+
+enrage

@@ -1,0 +1,64 @@
+inferno theorem - raidwide
+
+angular addition - grants the boss a 3 or 5 buff that shows how many times he rotates 90 degrees
+	treat them as -1 and 1 respectively
+arcane blight - does a 270-degree cleave that rotates in a specific direction base don the angular addition debuff
+
+analysis - gives everyone a mustadio-esque 'unseen' debuff, point your hole towards specific mechanics
+arcane array - spawns two sets of creeping tiles in opposite corners that slowly fill in four out of five rows/columns
+	also spawns two orbs that explode when the tiles reach them
+	point your hole towards the orbs as they explode
+angular addition - also gives each player a 3 or 5, check which way your hole rotates
+arcane blight - careful of the creeping tiles here, don't stand in them
+targeted light - ensure your hole gets rotated to point towards the boss at the end
+
+strategic strike - tankbuster
+
+planar tactics - gives everyone a forced march (forward) and a 3 or 5 debuff, along with a debuff that requires you to get hit a certain amount of times
+	one player needs 1, two players need 2, one player needs 3
+	additionally, two players get a stack
+arcane mine - spawns a pattern of eight tiles with one corner of the 3x3 missing [https://raidplan.io/plan/CvYKFFetf2O-oG80]
+	taking the missing tile as NW, there are two patterns:
+	pattern 1 - exactly one 2 has a stack
+		3 goes SE, angles to move north, in tile stay middle east
+		1 goes NW, angles to move east, in tile stay NW at the edge
+		one 2 goes mid-W, angles to move east, in tile stay SW at the edge
+		other 2 goes SW, angles to move east, in tile stay NW at the edge
+	pattern 2 - both 2s or neither 2 have stacks
+		3 goes NE, angles to move south, in tile stay SE
+		1 goes NW, angles to move east, in tile stay SW at the edge
+		one 2 goes mid-W, angles to move east, in tile stay NW at the edge
+		other 2 goes SW, angles to move east, in tile stay SW at the edge
+
+raidwide
+tankbuster
+
+spatial tactics - gives everyone a debuff showing how many times they need to get hit: 1, 2, 3 or 4 times
+arcane array 2 - spawns two sets of creeping tiles in opposite corners, along with one orb and six cubes
+	the orbs explode when touched by a tile, hitting EVERYONE
+	this means you subtract 1 from your debuff to see how many cubes you get hit by
+	the cubes explode bomberman-style, 2 and 3 get easy jobs as they can stay in the row hit by 1 and 2 cubes respectively
+	4 needs to dodge into a 3rd row and 1 needs to dodge away from cubes
+angular addition + arcane blight
+
+raidwide x2
+
+symmetric surge - marks two players for stacks (always both dps?)
+constructive figure - spawns three golems on one side that will eventually do line aoes through their respective rows/columns
+arcane plot - spawns two more creeping tiles that will make two columns/rows unsafe (always perpendicular to golems)
+arcane point - marks every player, causing them to drop a tile underneath them
+	at this point there is a 2x4 grid safe from the tiles and two 1x2 parts of that safe from golems, drop tiles there
+	one pair (melees?) take the mid-most tiles, the other pair (ranged?) take the outermost tiles
+	after dropping the tiles, everyone moves the same direction into their new safe spots
+explosive theorem - marks everyone for a spread aoe that should be placed in two corners adjacent on the LONG edge (i.e. spread aprt but NOT diagonally opposite)
+	these drop puddles too, so go to the safe spot afterwards for the stack
+	healing/mits is very heavy here
+
+tankbuster
+raidwide
+analysis + arcane array
+angular addition + arcane blight
+targeted light
+tankbuster
+raidwide
+enrage

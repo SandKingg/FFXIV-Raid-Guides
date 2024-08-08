@@ -1,0 +1,93 @@
+diamond rain - deals damage and applies a vuln for each player on a platform
+	need to split into two light parties of four players on each platform to survive
+
+adamant purge - grows claws towards one platform, which will be cleaved, while also doing a follow-up attack
+	one light party needs to teleport to the other platform to dodge
+	watch the boss or look at the dialogue (dialogue for first phase only):
+		ruby/nothing - diamond rain immediately after the cleave, the group that did not teleport before needs to go across (will only happen once in first phase)
+		sapphire/chest laser - diamond flash line stack on a random player
+		emerald/shoulder pads glowing - homing laser aoes on every player, spread out
+	this first one is either sapphire or emerald
+
+photon burst - marks both tanks for flares, stay far away from the other players
+
+adamant purge - always ruby
+diamond rain
+adamant purge - opposite of first
+photon burst
+
+code chi-xi-stigma - transforms into the second phase
+
+auri cyclone - leaps onto both platforms, doing a massive knockback from the blue circles
+	also hands tether to every player with proximity tethers
+	players need to get knocked back onto the opposite platform to where their hand is
+	stand behind the knockback to stay on the platform, or directly to the side to switch
+
+airship's bane - leaps onto one of the airships, destroying it
+
+outrage x2 - raidwide
+
+auri arts (charges) - leaps to the glowing orbs around the airship, charging across between them, then does a final charge across one half of the airship
+	stay behind the boss at first on one of the red triangles, wait for the charges then go mid
+	look which direction the boss is facing and move out of the way of the charge from the orb it's facing
+
+raidwide
+
+auri doomstead - tankbuster with a swap
+
+auri arts (leaps) - leaps to an orb at one edge of the airship and readies a point-blank aoe
+	look at the other end, if there is an orb there, the boss will charge to that and then back to where it started to do the aoe
+	stay at the side to avoid the charge
+	if there is no orb, then the aoe will be opposite of where the boss starts
+	dodge accordingly
+
+vertical cleave - leaps to the final orb on one of the long edges of the airship, doing a knockback
+	either use knockback resist or position to not get knocked off
+	though it's probably better to save knockback resist for the second one
+
+raidwide
+
+articulated bits - spawns mini hand adds that will do line aoes across one half of the arena
+
+auri arts (charges) 2 - if the hands cover behind the boss, dodge in front but to one of the side triangles to avoid the cleaves
+	there will be more line aoes with interspersed safe lines for the final charge
+
+raidwide
+tankbuster
+articulated bits
+auri arts (leaps) 2 - one half of the arena will have line aoes again, so go to the safe spot on the other half
+vertical cleave 2 - best to use knockback resist here, don't stand in the line aoes
+raidwide
+
+flood ray - marks every player from 1 to 8 and cleaves them in order
+	have 1, 2, 3 and 4 go to the markers on the inner airship corners
+	one airship is the 'odd' airship, the other is the 'even' airship, can even match colours
+	the rest will wait directly in the middle to avoid getting cleaved
+	after each player has been cleaved, the next one takes their place
+	5 goes to 1, 6 goes to 2 etc
+	stay on the platforms you are on, these are new light parties
+
+photon burst
+articulated bits
+adamant purge - first hands make half of the airships unsafe, wait before teleporting, then dodge hands with the follow-up
+diamond rain
+articulated bits - hands make one half of the airships unsafe
+
+diamond shrapnel - marks every player for a follow aoe
+	stand far back on the unsafe side of the airships, wait for first puddles to spawn, then teleport
+	aoes reach slightly into the other platform, so stay safe there
+
+adamant sphere - spawns four towers on each platform while the hands do line aoes through them
+	one side needs to stand next to the towers first, then go into them after the line aoes happen
+	other side goes straight into the towers
+
+photon burst
+articulated bits
+adamant purge
+diamond rain
+flood ray
+photon burst
+articulated bits
+adamant purge
+diamond rain
+enrage

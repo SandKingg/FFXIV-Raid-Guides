@@ -1,0 +1,37 @@
+-- TRASH 1 --
+beware the tornadoes as they move, and don't res people into their path
+
+aloalo kiwakin - just tank it where it is
+	lead hook - multi-hit tankbuster
+	sharp strike - a follow up tankbuster that gives an esunable bleed
+
+aloalo snipper - tank it a bit east to avoid the tornado overlap
+	water iii - a stack on a random player
+	bubble shower - a small cone in front of it
+	crab dribble - a fast follow-up cone behind it
+aloalo crab - these just auto-attack
+
+aloalo ray - tank it a bit west, to avoid the tornado overlap
+	hydrocannon - a line aoe in front of it
+	expulsion - a point-blank aoe
+	electric whorl - a doughnut aoe
+aloalo paddle biter - these just auto-attack
+
+aloalo monk - tank it a bit more north, but not in the alcove
+	hydroshot x3 - marks a ranom non-tank and shoots water at them, knocking them back and inflicting a dot
+	cross attack - a tankbuster
+
+
+-- TRASH 2 --
+aloalo wood golem - start NW, tank the add roughly WNW
+	ancient aero iii - an interruptible cast
+	tornado - marks a random player and binds them in place, which must be esuna-ed
+	ovation - a line aoe towards the bound player
+
+aloalo islekeeper - tank this one all the way SE from west
+	ancient quaga - raidwide + bleed
+	gravity force - a stack on a random player
+	isle drop - turns towards a random player and casts an aoe on them
+
+aloalo wood golem 2 - tank this one NE
+aloalo islekeeper 2 - tank this wherever, usually north

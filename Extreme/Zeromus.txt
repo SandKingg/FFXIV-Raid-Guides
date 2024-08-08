@@ -1,0 +1,87 @@
+abyssal nox - reduces every player's hp to 1 and gives them a doom that is removed by healing to full hp
+abyssal echoes - sends lines towards random cardinals and intercardinals that do big point-blank aoes at the tips
+	the patterns mean this is only ever north > nw dodge or nw > north dodge
+
+sable thread - a multi-hit line stack that deals higher damage to the first two targets hit, so have tanks in front
+
+dark matter - three-hit tankbuster on both tanks
+
+visceral whirl - tentacles cleave across the arena indicated by lines, go to the safe triangle
+miasmic blast - leaves three crosses on the arena that do big line aoes diagonally, find the safe spot and run there
+
+flare - creates two stack towers, one NW and one SE
+	melees (+potential fake melee) go into NW tower, ranged into SE tower
+	run out as soon as you take damage, then dodge the lines coming from the towers
+		will either be mid, east/west or NE/SW
+
+void bio - summons a row of poison orbs that float one by one through the arena, getting hit leaves an almost-unhealable dot
+visceral whirl + miasmic blast
+
+big bang - makes loads of puddles on the floor and marks everyone with a spread aoe
+	at the end of the cast, everyone gets several debuffs for later, including a dot and max hp reduction
+	debuffs are explained when they resolve in the fight
+
+void meteor - summons an array of meteors in the north half of the arena, plus a couple in the south half
+meteor impact - all supports, then all dps (or vice versa) get targetted for proximity tethers, then meteors fly towards each of them
+	meteors need to be placed away from other meteors or it's a wipe (red aoe marker)
+	if you're too close or stand in someone else's tether, you get one shot
+	players are bound shortly before meteors hit them, just in case
+	assign meteor positions from left to right with melees towards the left and ranged towards the right
+	these pairs will be used later too
+	finally, the meteors explode in point-blank aoes
+
+big bang (chains + acceleration bomb) + visceral whirl + miasmic blast - supports and dps are chained together
+	stack mid at the start, then dps go to the north safe spot while supports go to the south safe spot
+	stay still for acceleration bomb, then move to the miasmic blast safe spot
+
+big bang (spread) - immediately spread out from the safe spot to avoid overlapping
+
+big bang (forked lightning + stack) + tankbusters - dps with forked lightning DO NOT stack
+
+black hole - marks a player to place the black hole
+fractured eventide - faces a direction where the giant laser beam will start from before moving across the arena
+	black hole player places the hole in the northern corner zeromus is facing towards, then IMMEDIATELY MOVES WHEN THE MARKER DISAPPEARS
+	getting hit by the black hole is a one shot
+	everyone runs tightly behind the laser beam to dodge
+
+big crunch - functionally the same as big bang, but only gives the dot, and removes the max hp penalty
+	abyssal nox is next, so don't heal too much
+
+abyssal nox + abyssal echoes
+sable thread
+
+sparking/branding flare - creates two stack towers in mid, have the red and purple pairs take the western tower and the yellow and blue pairs take the eastern tower
+	the lines will always make the cardinals unsafe, so players run to assigned corners immediately
+	if sparking - spread aoes target every player
+	if branding - pair stacks target all dps or all supports
+nox - marks two players for big following aoes, they need to stand directly in the corner and move across one edge of the arena
+	use your eyes and don't move into someone else's following aoe
+
+void bio + visceral whirl + miasmic blast
+tankbusters
+branding/sparking flare + nox - opposite of the first one
+
+loops from abyssal nox + abyssal echoes until 25% hp
+
+rend the rift - big multi-hit raidwide that transitions to phase 2
+
+dimensional surge x4 - four sets of baited puddles under each player
+
+nostalgia - another big multi-hit raidwide
+
+flow of the abyss - causes a line aoe to hit either north, south or mid, look west to see where it's coming from
+	then one of three effects will happen
+		umbral rays - everyone stacks up
+		umbral prism - two-player enumerations, use the same meteor/flare pairs in the rough same order as meteors
+		akh rhai - spread out, then move into a safe space since the spreads hit multiple times
+
+chasmic nails + dimensional surge - look west for the line aoe, then watch the five cones on the ground to see which order they hit in
+	dodge from a later one into an earlier one
+	there are also semi-baited puddles, so careful not to screw yourself out of space
+
+dimensional surge x2
+flow of the abyss
+chasmic nails + dimensional surge
+
+loops from dimensional surge x4 until enrage
+enrage

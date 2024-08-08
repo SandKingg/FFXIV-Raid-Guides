@@ -1,0 +1,57 @@
+enkyo - raidwide
+
+stormcloud summons - summons a ring of stormclouds around the arena and some through the middle
+	boss then eats once, twice or three times
+		one-pattern is differentiable from the others by the single line through the middle, the other have 2 lines
+rokujo revel - boss summons line aoes through the middle that hit the stormclouds and make them explode into aoes, dodge based on how many times he ate
+	- 1-pattern
+		if there's a single gap in the mid line, start in that gap and move through as the aoes happen
+		if there's no gap, start in one of the gaps around the edge and move around as the aoes happen
+	- 2-pattern
+		move to the side with only one cloud hit by the line
+		dodge that first aoe, then move around as the aoes happen
+	- 3-pattern
+		identify where the cloud hit by the first line is
+		move to the opposite half of the room, onto the third line aoe, but stay close to the first
+		move around as the aoes happen
+
+splitting cry - thick line aoe tankbuster, don't get clipped
+slither - immediately after buster, a cone aoe behind the boss
+
+noble pursuit - boss charges through sets of rings, each ring set does a line aoe either side of it
+	the diagonal line eliminates two safe spots, use the other lines to find the correct one
+	safe spots are towards the corners, but not all the way
+
+raidwide
+
+unnatural wail - everyone gets a spread, two players get a stack
+	pre-assign spread spots for everyone, dps and supports stack for those
+	identify if it's stack first or spread first
+haunting cry - four wraiths spawn at cardinals or intercardinals
+	find the two adjacent wraiths facing 'out' from each other and go there
+	four more wraiths spawn, in the other positions to the first set
+	look at the two furthest safe spots and see which one has the two wraiths facing 'out' from each other
+
+stormcloud summons 2 - summons a ring of stormclouds around the arena
+lightning bolt - causes each cloud to start firing off line aoes, dance around them to avoid damage
+
+unnatural wail - look for stack or spread first
+in/out - watch cast bar
+	eye of the thunder vortex - out first, then in
+	vortex of the thunder eye - in first, then out
+
+raidwide
+
+haunting cry 2 - summons four ghosts that tether to each player
+	ghosts will slowly move towards them, doing repeating aoes around them
+vengeful souls - two towers that need to be soaked by non-marked players
+stygian aura - two players get markers and will explode in massive aoes, stay away from others and towers
+
+thunder vortex - go in
+
+tankbuster
+stormcloud summons 3 + rokujo revel - can be either of the other 2 patterns
+stormcloud summons 4 + lightning bolt - will be bigger aoes this time, either 2 or 3 eats
+unnatural wail + in/out 2
+
+enrage

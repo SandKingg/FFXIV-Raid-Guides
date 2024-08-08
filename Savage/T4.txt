@@ -1,0 +1,19 @@
+wave 1 - 6 clockwork bugs
+	clockwork bug - these just attack with a bit of lifesteal, aoe them down
+
+wave 2 - 2 clockwork knights, 2 clockwork soldiers
+	clockwork knight - these reflect all magical damage, so casters should not attack them
+	clockwork soldier - these have a stoneskin that absorbs physical damage
+		once the stoneskin is fully absorbed, they are stunned and can take damage normally
+
+wave 3 - 4 clockwork bugs, 1 clockwork dreadnought
+	clockwork dreadnought - does a large cleave, so point it away from the party
+		it will also eat any nearby bugs, healing and gaining a damage up, so keep them away
+
+wave 4 - 4 clockwork bugs, 2 spinner-rooks
+	spinner-rook - these cast pox, which is a frontal cleave ability that reduces max hp
+		there is no telegraph, so keep them pointed away
+
+wave 5 - 1 clockwork knight, 1 clockwork soldier, 1 clockwork dreadnought
+
+wave 6 - 1 spinner-rook, 1 clockwork knight, 1 clockwork soldier, 2 clockwork bugs

@@ -1,0 +1,117 @@
+spikesicle - draws arcs on the ground one by one that will fire line aoes, leaving behind exploding ice blocks
+	run to the opposite side that the first line shoots towards, then run side to side through the arena three times
+
+skyruin (fire) - changes the element of the arena, dealing damage and leaving a fiery dot
+
+triscourge - a big raidwide that gives everyone debuffs that expire throughout the phase, these will be explained when they happen
+	everyone gets lightning
+	everyone gets ice, but dps and supports have different durations
+	both healers get empowered fire
+
+volcanic eruption - a volcano begins erupting in the background on either the west or the east
+	this does a persistent aoe on that side of the arena
+	it also spawns three sets of three puddles under random players
+
+animation attack - does one of three different attacks based on his animation
+	strangling coil - circles around the arena, doing a doughnut in the middle
+	slithering strike - rears up its claws, doing a massive point-blank in front of it
+	susurrant breath - gathers energy in its beak, doing an incredibly wide cone attack, only leaving the northern corners safe
+charring cataclysm - stacks on either all supports or all dps, assign pairs for this
+	for doughnut, you can stack on the edges and be far enough away to avoid clipping
+	for point-blank and cone, you can use RMMR or similar for ordering
+
+triscourge (ice) - counts down to doing a persistent deep freeze
+	you need to keep moving for a couple of seconds to avoid freezing
+
+mountain fire - spawns six tankbuster towers one by one at the front of the arena, then spews fireballs towards them from its location
+	the fireballs give fire resist down and leave a short dot, so tanks need to alternate each strike
+	the closest player to the tower (not in the tower) will create a small cone safe spot if they are on the correct side
+		the 'correct side' being in line with valigarmanda > tower > player
+		so left if the boss is on the right and vice versa, and in the middle if the boss is in the middle
+	rampart will not cover the entire duration, so both cooldowns need to be used in sequence to ensure tanks don't die
+	being in the wrong place and getting hit by the fire aoe will one-shot you, and failing to soak a tower deals massive raidwide damage and gives a vuln
+
+triscourge (empowered fire) - stacks on both healers, split into light parties
+	as this is the fire phase, they are empowered and hit three times, leaving a puddle each time
+	staying in the puddle gives a dot, so move out as soon as the puddle spawns
+		don't move too quickly though or the puddle spawns as you're moving, leaving less space
+	can use the edge of the boss's hitbox as a guide
+
+triscourge (ice) - the other role does their ice
+volcanic eruption
+animation attack + charring cataclysm
+
+triscourge (lightning) - a small spread aoe on every player
+
+disaster zone - a raidwide that returns the arena to normal
+
+ruin foretold - a big raidwide that spawns three beacons that need to be destroyed
+calamitous cry - two line stacks that alternate being on both tanks or both healers each cast, along with cone aoes to dodge
+	the line stacks deal more damage to the first target, so have tanks in front
+	split into light parties that destroy the northern beacons first then kill the middle beacon
+	the stacks also do more damage each time, so try to get through this as quickly as possible
+
+tulidisaster - a triple-hit raidwide of ice, lightning and fire that also leaves a permanent dot at the end
+
+skyruin - can now be one of two options
+skyruin (ice) - changes the arena to ice, and leaves a frosty dot
+
+triscourge - once again gives everyone debuffs
+	everyone gets lightning, but supports and dps have different durations
+	both tanks get empowered ice
+	both healers get fire
+
+triscourge (fire & empowered ice)
+	empowered ice are massive aoe tankbusters, so have tanks go to the northern corners
+	everyone else should stack in light parties, non-empowered fire only hits once and doesn't leave a puddle
+
+avalanche - arrows signify where a large line aoe will go through the platform
+animation attack + arcane circles - spawns five arcane circles of ice after the aoe that shoot out line aoes towards the cardinals and intercardinals
+	find the safe spot, not in an unsafe column or row
+
+triscourge (lightning) - only one role
+spikesicle + avalanche - normal dodge, just don't exaggerate movements for the avalanche
+animation attack + arcane circles
+avalanche
+
+freezing dust - an icy aoe that freezes anyone not moving, remember to stay moving until the debuff drops
+
+triscourge (lightning) - the other role
+disaster zone
+
+ice talon - an aoe tankbuster on the top two in aggro, so OT needs to make sure they are 2
+
+skyruin (lightning) - changes the arena to lightning and leaves a thundery dot
+
+triscourge - once again gives everyone debuffs
+	everyone gets empowered lightning, but supports and dps have different durations
+	everyone gets ice, but supports and dps have different durations - these will always be opposite of lightning
+	both healers get fire
+
+triscourge (fire)
+
+hail of feathers - creates six proximity aoes in each of the non-floaty platforms in sequence that drop down feathers
+	one feather needs to be killed before blighted bolt which should be the first to spawn
+	respect the proximity damage though
+
+blighted bolt - does a point-blank aoe on each feather, as well as one-shotting anyone on a floaty platform
+
+triscourge (ice & empowered lightning) - ice cannot freeze people on floaty platforms and empowered lightning one-shots on floaty platforms
+	so one role needs to spread on the non-floaty platforms while the other just stands on a floaty platform
+
+animation attack + crackling cataclysm - now does baited puddles on every player
+	make sure to move instantly, and not to where someone else was standing
+
+arcane spheres + thunderous breath - the lightning arcane spheres do line aoes from either side, so stay in the safe row
+	thunderous breath needs to be avoided by being on a floaty platform
+
+triscourge (ice & empowered lightning) - the roles are swapped now
+animation attack + crackling cataclysm
+disaster zone
+
+ruinfall - spawns a two-person tankbuster tower in the middle of the arena, then does a big knockback from north while tornado puddles spawn in south
+	tanks take the tower and everyone just uses kb resist to ignore the mechanic
+
+wrath unfurled - a big raidwide
+mountain fire
+enrage

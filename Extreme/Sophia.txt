@@ -1,0 +1,86 @@
+thunder ii - a big frontal cleave, dodge to the side
+
+daughter (knockback) - spawns the daughter head at a random corner that does a massive knockback, use kb resist or position to go to the opposite corner
+
+arms of wisdom - a tankbuster with a knockback and swap, don't stand at the edge
+
+aion teleos - spawns clones around the arena that tether to sophia and gain her abilities
+	will either be a thunder ii pattern (with a clone N/S) or a thunder iii pattern (clones all in corners)
+
+thunder ii/iii - thunder iii is a doughnut
+
+aero iii - a point-blank aoe that knocks back as well
+
+execute - causes all clones to use the ability that they gained while tethered to sophia
+	stand behind a thunder ii clone or underneath a thunder iii clone
+
+tankbuster
+
+cloudy heavens - add phase, spawns the first, second and third demiurges and zombifies players that die during it
+	the first demiurge - should be killed last and tanked by the MT
+		horizontal/vertical kenoma - gains directional parry on the sides or front/back respectively, stop attacking on vertical
+		infusion - a targetted line aoe on a random player, everyone else needs to stack directly in the middle with the tank first in line
+	the second demiurge - should be killed first and has no aggro table
+		divine spark - a gaze attack, look away
+	the third demiurge - should be killed second and tanked by the OT towards the corner
+		gnostic spear - a line aoe on a random player
+		ring of pain - a point-blank aoe that spawns an ice puddle underneath it, make sure this is placed in the corner
+		gnostic rant - a 270-degree cleave in front of the add, stay behind it
+
+scales of revelation - tips the arena from side to side, always start NE
+the scales of wisdom - big transition raidwide
+
+quasar (proximity) - spawns three orange meteors on one scale and one blue meteor on the opposite (this informs players that 3 orange = 1 blue) and baits proximity aoes under random players
+	staying in NE, bait puddles then run SW
+	no knockback as the meteors cancel out
+
+aero/thunder iii
+
+quasar (always short tilt) - from now on, the meteors will not balance each other out and players need to go to the correct side
+	always dodge AWAY from the blue meteors
+	to see if it's a long or short tilt, look at the parity of the tethers: even = long tilt, odd = short tilt
+	for long tilt go all the way to the edge, for short tilt stay ~75% towards the edge
+
+cintamani - a multi-hit raidwide
+tankbuster
+
+{immediately skips to here when below 75% hp}
+thunder ii
+quasar (always long tilt) + sophia rush - dodge the dash attack on the safe half of the arena
+
+sin and punishment - marks all dps and all supports with either black or white auras
+	each aura needs to stack with one of the opposite colour, so pre-assign support-dps pairings
+
+raidwides
+tankbuster
+aion teleos
+raidwides
+thunder iii - always iii
+aero iii
+tankbuster
+
+execute + daughter (beam) - the daughter appears at the side of the arena and will shoot a laser through two clones
+	wait until you see which of the thunder iii clones are safe, then move there
+
+raidwides
+tankbuster
+quasar + daughter (beam)
+thunder iii
+tankbuster
+quasar + daughter (beam) + sophia rush
+raidwides
+tankbuster
+thunder ii
+sin and punishment + daughter (knockback) - highly recommended to use kb resist here
+tankbuster
+quasar + sin and punishment
+aion teleos
+raidwides
+tankbuster
+thunder ii - always ii
+aero iii
+quasar (proximity) - find the empty corner and always start opposite of there on the long edge, then quickly move into it when aoes drop
+tankbuster
+sin and punishment + execute - stay tight in the safe spots but don't overlap colours
+
+loops from immediately after execute + daughter (beam) until enrage

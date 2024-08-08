@@ -1,0 +1,99 @@
+terrastorm - summons two massive boulders that fly towards opposite corners and do huge point-blank aoes
+	stand in the two opposing safe corners
+
+lingering spark - invisible baited puddles under every player
+	stack first (except MT), wait until the cast is finished then move away
+
+phases of the blade - turns to a random player doing a massive half-room cleave in front of him, then behind him
+	make sure to quickly move through after the first cleave
+
+binding cold - raidwide + dot
+
+gale sphere - spawns four clones towards the cardinals that correspond to the order that the orbs shoot line aoes through the arena
+	the first two clones are north/south in either order and the last two are east/west in either order
+arctic assault - spawns two walls of icicles in the middle of the room that will shoot in the direction they're facing
+	this makes two quadrants unsafe (for this mechanic, it's always two diagonally opposite ones)
+	dodge this at the same time as the second set of gale spheres
+
+phases of the blade
+raidwide
+
+void meteor - multi-hit tankbusters on both tanks, where the final hit does way more damage than the rest
+
+azdaja's shadow + black fang - big transition raidwide
+
+azdaja's shadow - imbues his blade with azdaja's power, either showing particles close to him or all around the arena
+	if close, then prepare for a point-blank aoe on phases of the shadow
+	if everywhere, then prepare for a doughnut aoe on phases of the shadow
+	also makes the next three auto attacks do tankbuster line aoes
+	if one person takes all three hits, they die, so make sure to swap somewhere
+	can either do a pseudo-swap where OT takes the 2nd hit and MT provokes back, or a proper swap after the 2nd hit
+		if doing a pseudo-swap, don't use shirk until the 2nd azdaja's shadow later in the fight as this aligns them better
+
+phases of the shadow + immolating/burning shade - casts phases of the blade with either a point-blank aoe or doughnut aoe centred on the boss
+	this is based on the azdaja's shadow particle effects
+	if point-blank then you get immolating shade, if doughnut, then you get burning shade
+	immolating shade - a stack marker on each healer, split into light parties with east/west priority
+		healers move slightly in after the aoe so melees can keep uptime
+	burning shade - a spread aoe on every player, stay in then move to clock spots
+
+double meteor - marks one healer with a knockback centred on them, one support and one dps for a flare, and spawns two towers in opposite corners
+	the northern tower needs three people, while the southern tower needs two
+	the knockback healer will stand directly in the middle of the arena, while everyone else positions around them
+	flares will get knocked into the non-tower corners, everyone else get knocked into a tower
+	dps get knocked north, supports get knocked south
+	finally, the knockback healer will get a baitable line aoe which they need to bait directly south
+
+azdaja's shadow - opposite of the previous effect
+
+void stardust - spawns two exaflares in opposite corners that cover one half of the arena each
+	light parties should have north/south priorities for this
+	go next to the exaflare in its final spot (indicated by the brief aoes), then dodge into it once the first aoe goes off
+abyssal quasar - enumerations on either all supports or all dps
+	have melee pair with melee and ranged pair with ranged in each light party
+	melee should dash to the boss once it's safe, to maintain uptime
+
+eventide fall/triad - one of two abilities
+	eventide fall - a line stack on each healer, stay in light parties
+	eventide triad - a cleave towards a random tank, healer and dps
+		role stack with tanks north, dps south and healers at the side
+
+raidwide
+tankbusters
+phases of the shadow + burning/immolating shade - opposite of the previous
+
+terrastorm + arctic assault + void blizzard iii - void blizzard iii is a stack marker on each healer
+	arctic assault will make one of the safe quadrants unsafe, so everyone goes to the sole safe quadrant
+	assign close/far priority for each light party
+
+raidwide
+
+gale sphere + void tornado/void aero iii - the first dodge is paired with one of two mechanics
+	void tornado - a stack marker on each healer
+		use the same north/south or east/west priority for light parties
+	void aero iii - enumerations on either all support or all dps
+		have melees be closer to the boss and ranged be closer to the edge
+arctic assault
+void aero iii/void tornado - opposite of the first mechanic
+	this is paired with the final dodge, so try to preposition on the 3rd dodge
+	this also means each mechanic can be done either horizontally or vertically
+
+phases of the blade
+raidwide
+azdaja's shadow
+void stardust 2 + abyssal quasar - this time the exaflares start closer to the middle and end up at the edge
+lingering spark
+eventide triad/fall - opposite of the previous
+phases of the shadow + immolating/burning shade
+double meteor
+tankbusters
+gale sphere + void tornado/void aero iii
+arctic assault
+void aero iii/void tornado - opposite of previous
+phases of the blade
+raidwide
+azdaja's shadow
+phases of the shadow + immolating/burning shade
+raidwide x2
+tankbusters
+enrage

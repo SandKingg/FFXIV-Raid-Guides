@@ -1,0 +1,36 @@
+-- TRASH 1 --
+aqueduct belladonna - tank close to the entrance arch
+	atropine spore - a doughnut aoe with a fairly lenient safe spot
+	deracinator - a massive tankbuster
+	front affront - a gaze attack
+
+aqueduct kaluk - tank between the middle and left packs
+	left/right sweep - a large aoe on one side of the add
+	creeping ivy - turns to a random player and does a cone aoe
+
+aqueduct udumbara - tank where they are, face the udumbara towards the party to help dodging honeyed left/right
+	honeyed left/right/front - either a big diagonal 180-degree cleave for left/right or a cone aoe in front
+aqueduct sapria
+	bloody caress - turns to a random player and does a large telegraphed cone aoe
+
+aqueduct dryad - tank where they are
+	arboreal storm - a large point-blank aoe
+	acorn bomb - a large aoe targeted on a random player
+aqueduct odqan
+	uproot - a telegraphed point-blank aoe
+	gelid gale - a large aoe targeted on a random player
+
+
+-- TRASH 2 --
+aqueduct armor - wait until it's near the NW corner and tank it there, slightly south to avoid accidental aggro
+	hells' nebula - sets everyone's hp to 1
+	infernal weight - a raidwide that heavies everyone
+	dominion slash - turns to a random player and does a cone aoe
+
+sil'dihn dullahan - tank in the same NW corner
+	infernal pain - raidwide + bleed
+	blighted gloom - a point-blank aoe
+	king's will - gives it a massive damage up buff
+
+aqueduct armor 2 - pull it into the same corner
+sil'dihn dullahan 2 - just tank it wherever it is

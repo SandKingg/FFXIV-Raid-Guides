@@ -1,0 +1,90 @@
+-- PHASE 1 --
+optimized ultima - raidwide
+
+magitek bit - summons adds that shoot line aoes, bait these away from safe spots first
+
+flexiclaw - first is always helicoclaw
+	helicoclaw - creates three curved lines of point blank aoes, make sure to bait lines then move
+		safe spots are slightly further along than the 'dimple' between two aoes
+		this happens twice
+
+stamp - tankbuster + swap
+
+flexiclaw - second is always ravensclaw
+	ravensclaw - creates four short and four long lines that explode at the tips
+		assign clock spots such that there's one melee and one ranged in each colour pair
+		may need to switch in colour pairs based on short/long positioning
+	ruby sphere + mechanic - spawns three aoes under each player, placed differently based on the mechanic
+		liquefaction - causes the ground to become quicksand except the lines
+			melees take short lines and ranged take long lines to place aoes on
+		undermine - causes the lines to erupt into aoes, so stand away
+			place aoes in a 'triangle' formation in the corners of the safe spots
+
+ruby ray - faces a random player and blasts a big line aoe towards them, go behind
+
+flexiclaw + liquefaction - turns some of the arena to quicksand, keeping a safe spot in mid
+ravensflight - a series of line aoes through the room
+	first dodge towards the corner outside of the initial charge and the perpendicular charge
+	then look for the safe side from the cleave and dodge to there
+	then sprint over to the opposite side, as the quicksand shifts to be only in mid and the outer ring is now safe
+
+raidwide
+tankbuster
+
+ruby dynamics - stay inside the boss's hitbox and go into light parties for stacks
+
+cut and run - the boss charges through the middle doing a series of big cones in front of it, while every player has a spread marker
+	split into the same sides and light parties, tanks closest to the boss then melee, ranged and healers
+	go north/south for the proximity blasts at the end, tanks should be north so the boss isn't stuck on the edge
+
+ruby ray
+raidwide
+flexiclaw + ravensclaw 2 - this time the opposite liquefaction/undermine will be cast with ruby spheres
+ruby ray
+raidwide
+flexiclaw + liquefaction
+ravensflight 2 - this time it's out safe first then mid, players should run mid and dodge to the safe side from the claw
+raidwide
+tankbuster
+ruby dynamics
+cut and run
+ruby ray
+raidwide
+enrage - also cast once the boss gets to low enough hp
+
+
+-- PHASE 2 --
+meteor project - starts a bar charging up to 100, will do a raidwide once full
+
+negative personae - summons two adds, one blue and one orange and gives everyone a debuff
+	attack the add of the opposite colour to the debuff
+	keep them apart on opposite sides, slightly further north
+meteor stream - aoes on dps that need to be spread out
+greater memory - spawns coloured heads that tether to dps and need to be kited into the add of the opposite colour
+lunar dynamo/iron chariot - in/out respectively
+meteor stream
+ruby claw - multi-hit tankbuster
+change of heart - switches everyone's debuffs
+greater memory
+dynamo/chariot
+tankbuster
+
+negative aura - look away from the boss
+
+meteor project
+
+meteor mine + magitek meteor - marks each player with 1 to 8 and eventually spawns a proximity marker in that order
+	players should spread to clocks at the edge except number 8 who should be close to the edge of the hitbox
+	move in to mid after the proximity spawns
+screech - GET KNOCKED BACK behind the rock that number 8 spawned for magitek meteor
+	then run away as each meteor explodes
+
+mark ii magitek comet - spawns two comet markers that move along the ground before falling down
+	tanks need to stand in the final circles with mitigation and players destroy the meteors
+bradamante - marks two players for line aoes that need to be shot away from the tanks
+
+meteor project
+outrage x2 - raidwides
+meteor stream x2
+outrage x2
+enrage

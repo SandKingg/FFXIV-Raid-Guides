@@ -1,0 +1,75 @@
+earthquake - ground aoe, need to levitate to avoid
+
+gravity - spawns aoes on the MT and one random player, use these to return to the ground
+
+antilight - spawns a pattern of blue (ground based) orbs and yellow (floating) orbs, dodge the respective colour
+	the first pattern has a safe spot on the ground in the centre of the arena
+
+gravitational wave - raidwide
+
+gravitational manipulation - creates a blue (ground based) and yellow (floating) stack marker on a dps and healer
+	assign all supports to go up and all dps to go down
+	the stacks will REPOSITION YOU if you get one, so make sure to preposition to avoid the ground stack going up
+aetherial rift - turns the floor into voidy quicksand, levitate to avoid death
+
+paranormal wave - a slow 3-hit tankbuster that kills if you reach three stacks, swap after the 2nd hit
+	these notes will mark when the 2ND HIT OCCURS
+evilsphere - tankbuster
+
+maniacal probe - marks each support with a tentacle marker that should be taken to the cardinals
+death's gaze - look away
+epicenter - channels energy into each tentacle, eventually one will stop charging and become safe
+raidwide
+gravity - make sure people stay stacked while running to the safe spot so they can be brought down to the ground
+main quake - the unsafe tentacles will explode into big aoes
+
+raidwide
+gravitational manipulation
+paranormal wave
+tankbuster
+
+-100 gs - creates safe zones in the north and south and marks players with spread aoes, don't overlap
+	melees north, ranged south and try to have aoes at the sides of the safe spots
+death's gaze
+gravity
+
+antilight 2 - go to the centre safe spot, supports will get unstable gravity debuffs meaning they explode later
+raidwide
+the long drop - a stack marker on a random dps
+	will knockback any floating players affected by unstable gravity
+	supports need to levitate and get knocked towards their cardinal spot
+
+gravity
+antilight 3 - levitating is unsafe here
+earthquake - don't get baited, wait for the antilight to go off
+
+maniacal probe 2 - this time dps get their turn to place tentacles
+death's gaze
+epicenter
+gravitational manipulation - solve this AT THE SAFE TENTACLE
+
+antilight 4 - same as 2, but dps get unstable gravity this time
+gravity
+the long drop - dps make sure to levitate and get sent to cardinal spots
+
+paranormal wave
+tankbuster
+antilight 5 + gravity - get brought down to avoid the orbs
+maniacal probe 3 - same as 1
+death's gaze
+gravitational manipulation
+antilight 6 - same as 2
+gravity
+the long drop
+death's gaze + aetherial rift
+raidwide
+antilight 7 + gravity - same as 5, careful for paranormal
+paranormal wave
+tankbuster
+gravitational manipulation + aetherial rift
+antilight 8 + gravity - same as 5
+earthquake - quickly levitate again
+raidwide
+-100 gs
+earthquake
+enrage

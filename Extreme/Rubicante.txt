@@ -1,0 +1,76 @@
+inferno - raidwide
+
+ordeal of purgation - summons three concentric rings on the arena with some rotating around
+	there are runes at the edges that summon a cone (triangle) or half-room cleave (rectangle)
+	follow the fireball's path with your eyes to see which r une it ends up at and activates
+	the runes WILL move with the outer ring
+	you get bound before the effects go off so no adjusting
+ordeal of purgation 2 - summons two fireballs that will both activate a rune
+	this pattern always has a safe spot on the quadrant opposite the 'arrow' (two lines at 90 degrees)
+
+shattering heat - tankbuster
+
+arch inferno - summons big rotating aoes around the arena and a constant aoe in the middle
+	split into light parties for upcoming mechanics
+random mechanic - can be any one of three
+	fourfold flame - a stack marker on each healer
+	twinfold flame - enumerations on all supports or all dps, split into melee/ranged pairs
+	spike of flame - spread markers on every player
+conflagration - a line aoe, you have time to dodge through it
+random mechanic - will be different to the first one you saw
+
+radial flagration - a thin cone aoe on every player, go into clock spots
+
+raidwide
+
+ordeal of purgation 3 - all runes are triangles this time
+	will either be two adjacent runes or with a gap of one
+	safe spot always halfway between them, need to be further back for adjacent patterns
+ordeal of purgation 4 - all runes are rectangles this time
+	look for the 'cat ears' and go into the second ear that the arrows rotate into
+
+add phase - spawns five flamesent and one greater flamesent
+	greater flamesent - casts ghastly torch that stacks up burns on everyone, focus this one down
+	flamesent (south) - cast ghastly wind tethers on random non-tanks that should be pointed away
+	flamesent (NE/NW) - cast shattering heat tethers on random players that need to be picke dup by the tanks
+	flamesent (north middle) - casts ghastly flame puddles that should be avoided
+blazing rapture - big transition raidwide
+
+flamespire brand - marks everyone with a spread, either all supports or all dps with flares and one of the opposite group with a stack
+flamerake - spins a four-pointed arrow that will eventually explode into cascading line aoes, starting either cardinals or intercardinals
+	everyone starts on colour pairs and dodges the first aoes
+	stack and free players move into the middle to take the stack while flares move to the other marker of their colour and towards the edge of the arena
+	free players move out a bit towards the marker they started at, flared players move in a bit on their markers
+
+inferno (empowered) - does a spread aoe on every player
+
+scalding signal/ring - either a point-blank or doughnut aoe respectively, also casts scalding fleet line aoes on every player
+	need to be in clock spots for the lines and out or in respectively
+sweeping immolation - faces a random cardinal or intercardinal and displays either a big star or multiple little stars on his cloak
+	there will be a big half-room cleave in the direction he's facing so go behind him
+	if it's a big star, then everybody stacks for total immolation
+	if it's multiple little stars, then assign spread positions for partial immolation, two per slice of the arena
+	the scalding fleet lines will happen again but going through the whole arena this time, from where they ended up
+	don't be too close or you get clipped by the thick lines
+
+dualfire - two very wide cone aoes on the tanks, have MT on 1 and OT on 2 with party behind the boss
+
+ordeal of purgation 5 - just use eyes for this one
+ordeal of purgation 6 - will be one rectangle and one triangle next to each other
+	the safe spot is at the other rectangle adjacent to the active triangle
+	but be on the other side of the line to dodge the half-room cleave
+
+raidwide
+
+flamespire claw - marks every player from 1 to 8 and spawns two tethers, then cleaves each player in order
+	the player with 1 goes to 1 and 2 goes to 2, with odds and evens on their respective parity's side
+	7 and 8 will stay close to the boss at south to bait the tethers on them
+	after a player has been cleaved, they pick up the tether and the next person takes their place at 1 or 2
+
+inferno (empowered)
+scalding ring/signal - the opposite of the first pattern
+sweeping immolation - stack/spread will be opposite of the first pattern
+tankbusters
+ordeal of purgation 7 - same as 3
+ordeal of purgation 8 - same as 4
+enrage

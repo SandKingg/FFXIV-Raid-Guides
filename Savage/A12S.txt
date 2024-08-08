@@ -1,0 +1,143 @@
+punishing heat - a heavy-hitting tankbuster, with a divine ray cleave before and after it
+	good to pre-pop some mitigation for this so it's up later
+
+blazing scourge - marks two players for preys that hit multiple times, dealing a lot of damage
+
+incinerating heat - a stack on a random player
+
+mega holy x2 - raidwide
+
+gravitational anomaly - places small black puddles on the arena that will expand into bigger aoes
+	make sure to stay well away from them
+
+sacrament/radiant sacrament - one of two abilities
+	sacrament - fires four big line aoes towards the cardinals in the direction the boss is facing
+	radiant sacrament - a doughnut aoe, run into the boss's hitbox
+
+tankbuster combo - from now on a combo means there are divine spears, otherwise it's just the tankbuster by itself
+
+add phase - three waves of adds
+	wave 1 - 8 arrhidaeus's lanners
+		these just auto-attack, group them up and aoe down
+	wave 2 - 4 general's wings
+		these cast almost holy, a big raidwide
+		each cast gives them a stacking buff that increases more and more each time
+		start north and kill them going clockwise
+		use mitigation for the last one or two
+	wave 3 - the general's time + the general's might
+		the general's time - casts half gravity, a tankbuster
+			make sure to tank them apart so the giant aoe doesn't overlap
+			gains increasing magical damage up stacks
+		the general's might - auto-attacks and does uncast physical tankbusters
+			gains increasing physical damage up stacks
+divine judgment - a massive transition raidwide, use tank LB3 at 4-5 seconds remaining to survive
+
+chronofoil - gives the boss wings
+
+temporal stasis - gives players debuffs then stops time at the end of the cast and executes them
+	three random dps get defamation, a massive point-blank aoe
+	the tanks are tethered with either blue (restraining order) or red/green (house arrest)
+		blue tether needs to be stretched as far as possible, red/green tether is a stack essentially
+	one healer and the remaining dps get shared sentence
+		this is a pair stack
+	tanks
+		one tank flexes, the other stays static
+		static tank always goes north to A, while flex tank adjusts for the tether
+	dps
+		assign one dps each to east, south and west while the final dps adjusts
+		if a dps gets defamation, they go to their spot
+			if flex dps gets it, they go to whichever spot isn't taken
+		shared sentence dps goes north and stacks with one or both tanks on A
+	healers
+		healers will stack north, a bit away from the tank/dps stack, on B
+
+gravitational anomaly + sacrament/radiant sacrament - depending on positioning you may need to rotate to dodge the aoes and sprint can be useful here
+raidwide
+tankbuster combo
+
+temporal stasis 2 - different debuffs this time
+	one tank and one healer get defamation
+	the other tank and healer get a tether
+	two dps get shared sentence
+	the other two dps get another tether
+	tanks
+		tether tank always flexes here either to south or on B
+		defamation tank goes east
+	healers
+		tether healer always goes north on B
+		defamation healer goes west
+	dps
+		tether dps go north on A, unless one needs to flex south for the tether
+		shared sentence dps go north, away from each other and stack with the two tethers, one on A and one on B
+
+gravitational anomaly + sacrament/radiant sacrament - always opposite of the previous sacrament
+raidwide
+tankbuster combo
+
+timegate - sends adds into four portals on the intercardinals
+	one dps each goes into the NE and NW portals and destroys the general's wing
+	OT goes into the SW portal and destroys the general's might, watch out for the tankbusters
+	one healer goes into the SE portal and destroys the general's time, heal through the damage
+	if the adds are not killed in 60 seconds, it's a wipe
+
+judgment crystal - marks a random player that didn't go into the timegate and drops a crystal on their position
+	we want these crystals in specific places to help with inception later
+	starting north, place them two 'teeth' clockwise of the cardinals
+	MT should be moving the boss to help with positioning here
+	if the boss moves next to a crystal, it explodes with proximity-based damage
+
+incinerating heat
+judgment crystal
+sacrament/radiant sacrament
+judgment crystal
+tankbuster
+judgment crystal
+
+inception - the boss disappears and turns invisible, then reappears on a random cardinal or intercardinal
+	the nearest crystal will begin displaying a proximity marker, indicating where alexander is near
+sacrament - this is cast instantly when alexander reappears
+	you need to dodge 135 degrees away from the crystal to avoid getting blasted by the sacrament beam
+radiant sacrament - run in as fast as possible
+
+tankbuster combo
+gravitational anomaly + incinerating heat - always stack mid here
+
+inception 2 - this time players get debuffs as well
+	one tank gets defamation
+	one healer gets shared sentence
+	every other player is tethered
+	defamation tank always goes left, looking at the crystal
+	shared sentence healer always goes right, looking at the crystal
+	all short tethers go right, while long tethers need to adjust on the fly, going to opposite safe spots
+sacrament
+radiant sacrament
+
+tankbuster combo
+gravitational anomaly + incinerating heat
+
+summon alexander - summons a massive alexander in north that empowers some abilities
+
+void of repentance - spawns two wormhole puddles at east and west
+	these need to be soaked three times each to disappear
+	soaking gives a healing magic down and magic vuln up so healers should not soak unless it is an emergency
+	each soak deals more damage than the last too
+	the order is melee > ranged > tank with players assigned to each side
+
+incinerating heat - only healers and melee dps can take this, everyone else has magic vuln
+
+holy bleed - an uncast big raidwide
+
+holy scourge + chastening heat - a massive prey marker on the MT followed by a big tankbuster
+	this is always invulned, with a swap after
+
+void of repentance 2 + communion - this time, every dps gets tethered and will drop puddles
+	soaks need to be co-ordinated properly without overlapping any puddles
+
+sacrament - the boss should be pointed away from the puddles
+incinerating heat
+holy bleed
+raidwide
+holy scourge + chastening heat
+
+loops from void of repentance 2 + communion until enrage
+enrage

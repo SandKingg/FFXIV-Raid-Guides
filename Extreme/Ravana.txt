@@ -1,0 +1,61 @@
+blinding blade - uncast stack tankbuster, need both tanks in front
+
+the seeing left/right/wings - gains directional parry from three sides, except the one indicated by the cast
+	left - hit ravana's right
+	right - hit ravana's left
+	wings - hit ravana's front
+
+tapasya - a dodgeable 3-hit tankbuster, move to the side after the first hit
+
+the seeing left/right/wings
+
+prelude to liberation - a long cast point-blank aoe, followed by line dodges and big aoes on random players
+	the lines leave fire puddles, so be careful
+
+liberation - a big 270-degree cleave in front of ravana followed by four clones spawning on the edge that dash through the arena
+
+warlord shell - grants a buff that reduces damage, need to deal enough damage to break the shell or there's a big knockback
+
+the seeing left/right/wings x2
+tapasya
+
+adds - spawns many spirit ganas and some moon ganas, these must be killed quickly but prioritise the moon ganas
+
+the seeing left/right/wings
+tapasya x2
+the seeing left/right/wings
+
+bloody fuller - a big transition raidwide, gives vulns if ganas are not killed in time
+	also destroys some of the outer railings, beware
+
+pillars of heaven - a knockback from the centre, don't get knocked off
+laughing rose - a strange-looking white marker that's just a stack, everyone quickly back to centre after the knockback
+
+surpanakha - a prey marker on a random player that should be passed to the MT
+	the marked player will have several big cleaves fires towards them, so stay away
+	continues firing after the rose of conviction and hate
+
+rose of conviction - spawns five tethered orbs that tether to random players, kite them away from others by moving around the edge of the arena
+rose of hate - a line aoe on the main tank
+
+swift liberation - marks four random players with swords from 1 to 4 then dashes to them in sequence
+	have 1 go north, 2 go east etc while the raid stays in mid behind ravana
+	AS SOON as you see the dash, move towards mid as it gives a vuln which kills you if you get hit twice
+	this is followed by a cross aoe to dodge along with more big aoes on each player, can assign quadrants if needed
+	the cross aoe leaves fire behind, be careful
+
+final liberation - marks two players with preys for dashes and, after the first dashes, three players get big aoes and he will dash again
+	have the preys go north and south while party stacks east
+	big aoes spread out around east while two non-aoes pick up the preys
+	new preys move between north/south and west as the dashes come from where the first preys got hit, not mid
+	everyone else goes mid, while aoes and preys join then as soon as they can
+	dodge the doughnut in mid, then quickly get out to dodge the point-blank aoe and knockback
+
+warlord shell
+the seeing left/right/wings x2
+tapasya x3
+pillars of heaven + laughing rose
+surpanakha
+rose of conviction + rose of hate
+random liberation - picks one of the four
+enrage

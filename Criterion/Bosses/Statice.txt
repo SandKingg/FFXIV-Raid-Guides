@@ -1,0 +1,71 @@
+aero iv - raidwide
+
+trick reload - loads eight bullets into her gun
+	the first and last bullets are spread (loaded) or stack (bonked), always opposite of each other
+	the middle six show which aegments are unsafe (loaded) or safe (bonked), there will always be one safe segment
+
+trapshooting - stack/spread as appropriate
+
+trigger happy - move into the safe segment
+
+ring a ring o' explosions - forms a pattern of six bombs, five around the outside and one in the middle, linked by two triangles with one bomb glowing
+	the glowing bomb indicates that EVERY bomb in that triangle will explode
+	move into the safe triangle
+
+trapshooting - spread/stack as appropriate
+trick reload
+ring a ring o' explosions
+
+dartboard of dancing explosives - turns the arena into a dartboard and gives three random players a dart debuff
+	the bombs will also rotate around the outside 3 or 4 times
+	at the end, players with darts need to be on three different colours
+	assign one dps to flex, then have tank on blue, healer on yellow, dps on red
+	flex dps goes to the colour that doesn't have a dart
+
+trapshooting
+
+surprise balloon - spawns two massive balloons in east and west that will eventually explode and knock players back
+	use knockback resist for this (use it slightly after beguiling glitter is cast to dodge first kb)
+
+beguiling glitter - gives every player a forced march debuff for later
+
+trigger happy + surprise needles - small line aoes fly at players or the balloons
+	they will pop the balloons, causing the knockbacks
+
+trapshooting - forced march activates right before this, assign spots for spreads and mid for stack
+raidwide
+
+intermission - spawns more bombs in a similar pattern to before and two surprising missiles around the edge
+	present box - summons many irritating objects
+		four surprising staves on the cardinals will do faerie ring doughnut aoes, meaning only the intercardinals are safe
+		two seeking claws will tether to players while the missiles tether to the other players
+		these claws slowly move towards players, instantly killing them if they get too close
+		missiles will eventually do massive aoes centred on their tethered players
+		one of each role will get a claw and a missile
+	fireworks - summons chains on the missiled players, and a two-person enumeration on one of the clawed players
+		free player and enumeration player move to the intercardinal opposite the one that is exploded by a bomb, kiting their claws
+		chains start directly mid, then go towards the two opposite intercardinals remaining
+	the pattern may work out that the safe spots are a lot tighter or looser than others, so be careful
+
+shocking abandon - tankbuster
+
+pinwheeling dartboard - turns the arena into a dartboard again, giving two players dart debuffs and having a fixed dart spot on the inner circle somewhere
+	three flares spawn at 120 degrees to each other and will start rotating around the arena, one flare always starts north or south
+	find the flare whose outer segments are both different colours to the fixed dart spot, this is relative north
+fireworks - this time the chains will randomly target one dps and one support and the enumeration targets another random player
+	default supports run east, dps run west
+	enumerations will run directly north (relative) and stand together on different segments
+	if both dps or both supports have a dart, enumeration players swap segments
+	meanwhile, chained players wait mid, then run directly east/west to break chains before moving very slightly south into their segments
+	keep dodging flares afterwards
+
+raidwide
+beguiling glitter - gives two different forced march timings, a short and a long one
+trick reload
+trapshooting
+present box - spawns the four surprising staves from the intermission
+ring a ring o' explosions
+trigger happy - shorter forced marches need to move into the safe segment while dodging the doughnuts, ignore bombs for now
+trapshooting - longer forced marches need to resolve the stack/spread and dodge bombs
+raidwide x2
+enrage

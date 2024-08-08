@@ -1,0 +1,77 @@
+kokytos - sets hp to 1
+
+paradeigma (birds) - spawns adds
+	birds do doughnut aoes
+	behemoths do point-blank aoes
+	snakes do line aoes
+
+styx (6) - multi-hit stack marker, each cast has one more hit
+
+ania - aoe tankbuster with a swap
+
+exoterikos (triangle) - spawns a shape at the edge/s of the arena
+	triangles do cone aoes and squares do half room cleaves in front of them
+esoterikos - spawns a shape on the northern edge
+
+paradeigma (birds+behemoths)
+algedon - a big charge from one corner of the arena
+	go into the doughnuts and stay on the half away from the charge
+
+phobos - raidwide + bleed
+
+paradeigma (snakes) + exoterikos
+astral flow - rotates the arena 90 degrees in one direction
+	find a safe spot from the aoe and the snake lines
+
+tankbuster
+
+paradeigma (snakes)
+adikia - slams fists down, doing massive point blank aoes on the east and west sides
+	stay north to avoid, and make sure to dodge snake lines
+
+roiling darkness - add phase
+	there are four orbs to kill, 2 in front and 2 at the back
+	focus back ones first as you need to go front to dodge aoes
+	three aoe patterns
+		1 - square esoterikos + 2 esoteric rays
+			dodge south, in the middle third
+		2 - triangle esoterikos + 2 esoteric rays
+			dodge north, right next to the triangle
+		3 - esoteric ray + 2 triangle esoterikos
+			dodge to the sides, next to the triangles
+
+astral eclipse - look at the three star patterns, imagine them like a laptop lid closing onto the arena floor
+	dodge into the three safe spots
+
+triple esoteric ray - spawns one ray mid then two at the sides or vice versa, dodge from one safe spot into the other
+	dodge all astral eclipse explosions first, though
+
+paradeigma (birds + behemoths) + astral flow (firebar) - the firebar will make either the N/S triangles unsafe or the E/W triangles unsafe based on rotation direction
+	make sure to stay in the correct half of where the birds end up to dodge the flames
+
+tankbuster
+exoterikos (square) + algedon
+paradeigma (birds + snakes) + astral flow (firebar) - exactly one eighth of each circle will be safe
+styx (7)
+
+trimorphos exoterikos - casts exoterikos on each of the three sides of the arena (this is EXOterikos, so never north) which resolve in sequence
+	even if south is a triangle, you can still get melee uptime by staying at the edge either NE or NW
+
+adikia
+astral eclipse
+algedon
+tankbuster
+paradeigma (snakes) + exoterikos + astral flow (firebar) - exoterikos will always be east or west
+
+phlegethon - drops three sets of puddles under every player, make sure to stay stacked for baits
+
+styx (8)
+exoterikos + triple esoteric ray
+paradeigma (birds + behemoths) + exoterikos + astral flow (firebar) - exoterikos will always be south, no melee uptime if triangle :(
+raidwide
+trimorphos exoterikos
+algedon
+styx (9)
+paradeigma (birds) + exoterikos + astral flow (firebar) - exoterikos will always be south, still no melee uptime if triangle :(
+styx (10?)
+enrage

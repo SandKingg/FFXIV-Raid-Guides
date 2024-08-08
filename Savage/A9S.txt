@@ -1,0 +1,67 @@
+stockpile - gathers scrap to rebuild a part of his body, this first one always reassembles his right arm
+
+scrap bots + power generators - scrap bots will drop down in two quadrants, along with two power generators
+	players can pick the generators up and place them down, where they will cast energy discharge, which activates any bots nearby
+	bots will tether to the player whose generator activated them, they need to kite them into the glowing lava quadrant where they need to die
+	assign two players to pick up the generators and activate the bots in each quadrant
+
+scrap rocks - three players get markers above their heads and will drop scrap rocks onto the arena
+	these should be played close to the boss
+scrap burst - a big raidwide that kills any player not hiding behind a rock
+
+stockpile
+
+scrapline - a 270-degree cleave in front of the boss, hide behind him
+	MT needs to use a cooldown for this, there's not enough time to dodge
+
+scrap bots + power generators - bots will only be in one quadrant this time, but spread out enough that both generators are still needed
+
+acid rain - marks four players with blue markers, then does a point-blank aoe around them
+	make sure to spread out to avoid overlap
+
+scrap bomb - a stack marker on a random player
+
+stockpile
+scrapline
+
+panzer vor - full-metal faust drops down, dealing proximity damage from its impact point
+	OT should immediately pick it up, as it needs to be tanked
+		gives a stacking physical vulnerability with its tankbusters
+	the lava quadrants will activate much faster during this phase, make sure to tank it in the final one to activate
+	if it touches the lava, or the boss successfully stockpiles full-metal faust, it's a wipe
+
+scrapline
+acid rain
+scrap rocks + scrap burst
+stockpile
+
+scrap bots + power generator + alarum - three groups of scrap bots, but only one generator
+	make sure to take the generator to the largest group of scrap bots
+	the alarum drops a puddle that inflicts minimum on anyone who walks into it
+
+scrap rocks + scrap burst
+scrap bomb
+stockpile - this is guaranteed to reassemble his left arm if not done already, as well as add 1 point towards reassembling the main hull
+
+double scrapline - scrapline evolves into this once the boss has both arms
+	normally this is an unavoidable cleave, but if you are afflicted by minimum, it doesn't hit you
+
+scrap bots + power generators + alarum + bombs - the bombs explode in point-blank aoes, make sure to dodge and don't get the alarum destroyed by them
+
+acid rain x2
+stockpile
+double scrapline
+scrap bots + power generator + alarum + bombs - now there are two lava quadrants at once, be careful not to get the alarum destroyed
+scrap bomb
+scrap rocks + scrap burst
+stockpile - guaranteed to add another point towards reassembling the main hull
+double scrapline
+scrap bots + power generators + alarum + bombs
+acid rain x2
+stockpile
+double scrapline
+scrap bots + power generator + alarum + bombs
+scrap bomb
+scrap rocks + scrap burst
+stockpile - guaranteed to reassemble the main hull
+enrage

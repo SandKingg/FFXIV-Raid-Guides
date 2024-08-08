@@ -1,0 +1,87 @@
+cauterize - nidhogg leaves the arena, reappearing on the north or east edge and doing a charge through the arena
+horrid roar - creates puddles under four random players, and gives markers to four other players
+	dodge the puddles and dash, and spread out to avoid overlapping the markers
+
+cauterize + horrid roar
+
+touchdown - nidhogg slams down, doing raidwide damage
+
+hot wing/tail - turns to a random player, casting this ability
+	wing - two large aoes to the sides of him, stay in line with the boss
+	tail - a line aoe through the arena in the direction he's facing, move to the sides
+
+hot tail/wing + horrid roar (puddles) - always the opposite
+
+loops from cauterize until <80% hp
+
+add phase - summons three adds that need to be killed in the order brobinyak > falak > dragon
+	shadow brobinyak - should be tanked
+		the serpent's apple - a tankbuster that gives physical vuln, make sure to use cooldowns
+		original sin - a magic attack that inflicts heavy
+			starts casting this after ~3 tankbusters
+			since the falak gives magic vuln up, the falak tank can never swap to this add, which is why we kill it first
+	shadow falak - should be tanked
+		electric predation - a tankbuster that gives magical vuln, make sure to use cooldowns
+			brobinyak tank should provoke after brob is dead, to avoid too many stacks
+	shadow dragon - cannot be tanked, assign one player to bait
+		fireball - targets the furthest away player, doing a delayed aoe where they are standing that gives damage down
+			need a ranged player to bait
+		ripper claw - an aoe cleave in front of it that gives damage down
+
+mortal chorus + final chorus - a big transition raidwide
+
+high jump - marks four random players with aoes that leave behind puddles, take these to the edges
+
+geirskogul - a line aoe from each of the four puddles, as well as the boss
+soul tether - a purple tether on a random player that needs to be intercepted by the OT
+	use a cooldown, it's a buster
+
+ala morn - tankbuster
+
+nidhogg's fang/claw - creates a red claw and blue fang that chain to three random players each
+	MT will ALWAYS get a blue chain, meaning a tankswap is needed
+	the claw can only be damaged by red-chained players taking damage, the fang must be killed normally
+	if blue-chained players take damage, they heal the fang, so avoid this at all costs
+orbs - three orbs spawn randomly around the arena, exploding and dealing damage in an aoe when a player runs into them
+	red-chained players need to take these to damage the claw
+eye of the tyrant - a stack marker on a random blue-chained player, have red players stack with them
+	NO OTHER BLUE-CHAINED PLAYERS CAN TAKE THIS STACK
+fang/clawbound - the chains are randomly reassigned again, requiring another tank swap
+loops until fang & claw die or enrage
+
+tankbuster x2
+
+high jump + darkdragon dive + soul tether - both healers get high jump, and four towers spawn near the corners of the arena
+	split into pairs with tanks and healers going to the north corners and dps going to the south corners
+	tanks should take towers while healers place their puddles far in the corner
+	dps can have both in the tower
+	tanks need to intercept the soul tether that targets the healers
+high jump - four more random players get high jump puddles that need to be placed at the edge
+geirskogul - line aoes spawn from each of the puddles, make sure to dodge
+super jump - a proximity marker that spawns on a random puddle, run as far away as possible
+
+tankbuster
+
+bloodrage - a transition raidwide
+
+cauterize + horrid roar - this time six players get horrid roar puddles and six get markers too
+touchdown
+
+bitter hate - a stacking debuff on the MT that kills them if it reaches 8, usually there is a swap after each akh morn (not the first)
+
+akh morn - a multi-hit stack marker that increases in hits each time it's cast, starting at 5?
+
+scarlet orbs - places two sets of scarlet orbs on opposite corners, then one set in mid
+	these will eventually explode in the cardinal directions, bomberman style
+horrid roar (puddles) - place them on the edge of nidhogg's hitbox, then immediately run to the centre
+hot wing - as soon as hot wing goes off, run to your assigned corner (same as for darkdragon dive)
+horrid roar (markers) - spread out to avoid overlap
+
+akh morn
+
+scarlet orbs 2 - this time the orbs spawn in one at a time, with mid being first, then two opposite corners
+	run to the corner of the final orbs to spawn and stand right in the corner
+horrid roar (puddles) - move just out of the puddles' aoes once they're placed, then run diagonally forwards once the first orbs explode
+hot tail
+
+loops from first akh morn until enrage

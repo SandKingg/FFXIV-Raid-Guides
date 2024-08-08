@@ -1,0 +1,56 @@
+tidal roar - raidwide + bleed
+
+spring crystals 1 - places four crystals that do line aoes, lines are based on the thick faces not the thin ones
+bubble net - encases every crystal in a bubble and gives players one of two debuffs, also does a lot of damage
+	bubble - will be encased in a bubble when it expires
+	bind - will be bound when it expires
+hydro ability - either hydrofall or hydrobullet
+	hydrofall - a stack on either both dps or both supports
+	hydrobullet - a spread on everyone
+fluke gale - marks each quadrant with either a 1 or 2, signifying the order in which the gales will push things in bubbles
+	first, identify crystal safe spots (which can be done as soon as they spawn) by treating them as two pairs, vertical and horizontal
+	if the two crystals in a pair are 2 rows/columns apart then the safe rows/columns are the other two
+	if the two crystals in a pair are 3 rows/columns apart then the safe rows/columns are those
+	then, if spreads, every player starts in a 2 quadrant with binds standing in a safe spots and bubbles getting pushed 2 squares to a safe spot in the 1 quadrants
+	if stacks, binds go to the safe spots in 1 quadrants and bubbles go 2 squares away and get pushed to them
+
+hydrofall/hydrobullet - can be in either order, look at which is first (stack is always both dps?)
+blowing bubbles - creates sets of bubbles on the outer edges that move through the arena
+hydrobomb - puddles appear one after another under every player
+	if spread first, assign each player a quadrant to stay in to dodge bubbles and puddles, then slowly move to mid to stack with their pair
+	if stack first, both players dodge in the same quadrant, then one moves mid and back to that quadrant, while the other follows behind the bubbles on the outer edge
+
+hydrofall
+strewn bubbles - creates two sets of four watery line aoes that cover two squares each, the second set covering the safe spots from the first
+twintides - either encroaching or receding
+	encroaching twintides - in, then out
+	receding twintides - out, then in
+	dodge with your stack pair
+
+hydrobullet
+roar - summons four adds near mid in each of the cardinals
+spring crystals 2 - summons four line aoe crystals
+	safe spots could be all corner squares, north/south mid squares or east/west mid squares
+bubble net - assign pairs (one bubble, one bind per pair), also encases two adds in bubbles
+updraft - will send everything in a bubble upwards
+	the adds will turn to closest players and cast hundred lashings, a big cleave
+	binds need to bait bubbled adds and vice versa
+	assign N/W and E/S priority to the pairs (treat corners consistently as one or the other)
+	'correct' player in the pair spreads to the back corner in the direction we rotate
+	'incorrect' player spreads in the front corner closest to the direction they need to rotate to bait the add
+	in case both directions are correct, go clockwise
+
+hydrofall/hydrobullet - look which comes first
+angry seas - a big knockback from the centre line that leaves a line aoe bisecting the arena
+spring crystals 3 - spawns spherical crystals that do aoes
+bubble net - encases the aoe crystals in bubbles, along with spawning empty bubbles and towers
+	there will be three towers on one side and one on the other, assign one player to take a bubble to the other side
+fluke typhoon - a big gust of wind pushes everything bubbled to one side of the arena
+	make sure the bubbled player is in line with a tower not covered by an aoe
+	dodge first then take towers
+
+spring crystals 4 - same as crystals 1
+bubble net + hydro ability + fluke gale
+hydrofall + strewn bubbles + twintides 2
+raidwide
+enrage

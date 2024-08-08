@@ -1,0 +1,123 @@
+ultima - raidwide & bleed
+
+soul grasp - multi-hit double stack tankbuster
+
+dividing wings - spawns two staves in the middle of the arena
+steel web - one support and one dps get tethered to the staves and one other supports and dps get stack markers
+	tethered players go north and slightly to the side from their staff to bait a large cone aoe
+		can also go directly east/west and stack groups go dps north and supports south
+		this is generally more consistent
+	everyone else stacks in their respective role's stack, making sure to stay at the edge of the marker
+	the stacks will tether everyone in them together with webs that need to be broken by moving through them
+	if the webs are too close, they are unbreakable, and if left for too long, the players die
+
+circles of pandaemonium/pandaemon's holy - one of two random abilities
+	circles of pandaemonium - a massive doughnut aoe, not all the hitbox is safe, you need to be closer to the middle of it
+	pandaemon's holy - a point-blank aoe from the boss, don't be in the hitbox
+
+wicked step - spawns two tankbuster towers at east and west that knock any players inside flying across the arena
+	tanks want to be knocked onto the small platforms opposite of their towers
+
+entangling web - gives both tanks, one healer and one dps webs that drop beneath them after a short time
+	tanks need to move close to the pegs on their platforms, and the other two players close to the corresponding pegs on the main platform
+	make sure the aoes overlap, otherwise the bridge won't be made
+	move away after the webs drop and tanks move over the bridge
+
+pandaemoniac pillars - spawns eight towers in rows of 3, 3 and 2
+	tanks take NE and NW, healers take centre and centre-north, melees take E and W, ranged take SE and SW
+	afterwards, the towers will either chain down or float up
+	chain means a point-blank, floating up means a doughnut
+	the two southern towers will always do a line aoe, making that region unsafe
+circles of pandaemonium/pandaemon's holy
+	identify which of the two rows is safe, and dodge there
+
+silkspit - gives every player a web aoe that tethers together if you're too close to another player
+	players need to spread out on the main platform and smaller platforms to avoid tethering together
+	melees take the small platforms, with dps closer to the main platform
+	healers go north/south and ranged go east/west on the main platform
+
+daemoniac bonds - gives players two out of three debuff 'sets'
+	1 - every player gets a spread
+	2 - all supports or all dps get stacks
+	3 - one dps and one support gets a stack
+	for spreads, assign positions on the small platforms for everyone, usually supports west and dps east with melees north and ranged south
+	for stacks, either do pair stacks or role stacks, with supports all stacking and dps all stacking
+	will always be spreads + one of the other two
+
+pandaemoniac meltdown - a line stack on a random player and two markers on other players
+	markers stay out of the stack and don't overlap their line aoes
+
+touchdown - spawns a massive expanding black aoe in the main platform that forces all players onto the side platforms to dodge
+	resolve the bonds on the small platforms
+
+raidwide
+tankbusters
+daemoniac bonds 2 - always spreads and pair stacks, but a random order
+
+pandaemoniac turrets - spawns four towers at north and four at south on the main platform
+	melees take north towers, ranged take south
+	tanks and ranged dps outside, healers and melee dps inside
+	the turrets will then get numbered from 1 to 4, each number appearing twice
+	this is the order that they will snapshot towards the closest player, doing a line stack aoe towards them
+	tanks can take the lines solo, but other players need one more person with them to soak safely
+	the first player in line gets a debuff meaning they cannot soak another line at all
+	assign an order (usually melee > ranged > healer > tank) that players will be the first in line, and tanks ALWAYS help soak lines
+	make sure players know if they're going for the leftmost or rightmost of the two numbers for their role
+	in the cursed pattern (1133 4422, i.e. consecutive numbers are NOT opposite) make sure to aim the third laser diagonally towards 4, every other laser is vertical
+	BONDS GO OFF RIGHT AFTER, BE PREPARED
+
+pandaemoniac ray - a big cleave on one side of the room that leaves arcane turrets behind
+	these turrets do line aoes on both sides, so make sure you're standing in the lines between them to dodge safely
+
+raidwide
+tankbusters
+wicked step
+entangling web
+silkspit
+daemoniac bonds 3 - always spreads and role stacks, but a random order
+pandaemoniac pillars + circles of pandaemonium/pandaemon's holy
+pandaemoniac ray - bonds go off at this point, so do your spreads and stacks while dodging the cleave and line aoes
+	this is INCREDIBLY tight, so try to pre-position as much as possible and spread into as many safe spots as you can, to avoid clumping up in one line
+
+dividing wings 2 - this time the wings spawn on the small platforms
+	tethers MAY go onto players in the opposite group, in this case only tethered players adjust not the groups
+steel web - dps will go onto the east platform, supports onto the west platform
+touchdown - bait the cleaves SOUTH while the stacks go more north on the small platforms
+	don't forget to stay at the edges to keep your webs breakable, a triangle formation is recommended
+
+pandaemoniac meltdown
+tankbusters
+
+dividing wings 3 - staves are in the middle again now
+pandaemoniac web - three players get marked for entangling web puddles while one player gets a steel web stack
+pandaemon's holy - players with puddles go directly south while the stack stays middle, outside of the hitbox
+	south players make sure that the outer players overlap with the pegs AND the inner player, inner player overlap with both, otherwise the web wall won't be created
+	tethered players bait the cleaves directly east/west to avoid hitting others
+	after the steel web goes off, those players get entangling web puddles
+	quickly break them free, then they place their puddles south again
+	DO NOT BREAK THE SOUTH WEB
+	instead, place the puddles very slightly north, but still making sure they overlap with each other and the pegs
+
+daemoniac bonds 4 - fully random again
+
+harrowing hell - a gigantic multi-hit raidwide that deals higher damage to the closest two players
+	make sure tanks are in front and mitigate as much as you can
+	tank LB3 can make this a lot safer
+	there's a knockback at the end, make sure you get knocked back towards your role side (supports west, dps east) as bonds go off immediately after you regain control
+
+raidwide
+tankbusters
+wicked step
+entangling web
+
+parted plumes - spawns a puddle in the centre of the platform that shoots out two rotating cone aoes
+	start on the final one and quickly move into the first after it's fired
+	exactly the same as normal, just a bit faster
+pandaemoniac ray
+
+circles of pandaemonium/pandaemon's holy
+silkspit
+pandaemoniac pillars + circles of pandaemonium/pandaemon's holy
+pandaemoniac meltdown
+harrowing hell - technically a soft enrage, you can mitigate through the damage but the knockback pushes everyone off as there's no wall
+enrage

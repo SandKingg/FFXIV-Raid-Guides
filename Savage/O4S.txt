@@ -1,0 +1,171 @@
+-- PHASE 1 --
+dualcast + blizzard iii - two sets of puddles under 5 random players each, can stack to minimise movement
+
+dualcast + thunder iii - a double tankbuster, needing a swap and mitigation
+
+dualcast + fire iii - spread aoes on all dps, then all supports, don't overlap
+
+white hole - petrifies anyone not at full hp and kills anyone under half hp
+
+the decisive battle - mini-phase, summons roots and exdeath's tree form
+	start at the last root to appear and rotate into the first root
+	make sure to stand slightly in front of the root to not die to the proximity or knockback
+	immediately move to dodge the cleaves
+	holy - a stack marker on a random player
+	flares appear on one tank, healer and dps
+		can have healers stay still, tank flare rotate backwards and dps flare keep rotating
+		can also have each go to preset positions
+	exdeath then appears on a random player
+
+void ability - depends on what he casts, should be further away in case of thunder iii
+	void + fire iii - pyretic, stay still
+	void + blizzard iii - deep freeze, keep moving
+	void + thunder iii - massive point blank, run away
+
+vacuum wave - massive knockback
+white hole
+
+black hole + dual fire iii + holy - summons multiple static black holes and inflicts hp penalty on everyone
+	every tank and healer will get a tethered black hole that follows them
+	if anybody touches a black hole, they instantly die and the hole disappears
+	have supports go to cardinals and rotate around the arena
+	dps stay near the middle on intercardinals for spreads
+	after support spreads, quickly go to middle to stack
+white hole
+tankbusters
+meteor - big raidwide
+the decisive battle
+void ability
+vacuum wave
+white hole
+
+black hole + dual blizzard iii + flare - same as before, supports go to clocks and rotate
+	dodge puddles and spread the flares away
+white hole
+tankbusters
+raidwide
+
+
+-- PHASE 2 --
+almagest - VERY heavy raidwide and bleed
+
+aero iii - minibuster on the main tank
+
+delta attack - dualcasts fire iii, blizzard iii and thunder iii
+	everyone stacks first, then spreads to pre-assigned positions
+		melees close to the boss, ranged further away
+	off tank needs to provoke mid-cast
+
+grand cross alpha - gives everyone hysteria and inflicts several debuffs
+	allagan field - all damage taken by the player is dealt as a big raidwide at the end
+	off balance - any damage taken results in a big knockback
+	acceleration bomb - need to stay still at the end
+	black/white wound - take increased damage from black/white antilight
+flood of naught (terminal antilight) - a big raidwide from neo exdeath's position that deals decreasing damage based on the order it hits players	
+	stack mid for the cast to avoid running off the arena
+	have everyone stack close to neo exdeath in this order
+		tank without allagan field
+		tank with allagan field
+		party without allagan field
+		party with allagan field
+	stay still for acceleration bomb
+flood of naught (black/white antilight) - get hit by the opposite colour of your debuff
+
+double attack - a proximity-based double tank stack with a knockback
+	either take this in the middle of the arena or use invuln
+
+emptiness - spawns three exaflares that go through the arena
+flood of naught (inner/outer antilight) - need to go either mid or sides, while dodging exaflares
+
+minibuster
+
+grand cross delta - inflicts several debuffs
+	beyond death - must 'die' to cleanse this, will leave you at 1 hp instead
+	cursed shriek - a gaze attack, look away from these players
+	forked lightning - a lightning point blank on these players
+	off-balance
+	acceleration bomb
+	black/white wound
+strat
+	take neo exdeath's position as 'north'
+	healer with forked goes 1 marker clockwise of 'north'
+	tank with gaze + forked goes 1 marker clockwise of 'south'
+	healer with stack and dps with death go 'south'
+	dps with acceleration bomb stay 'north'
+	look 'north' to avoid the gazes, stack will knock people from 'south' to 'north'
+flood of naught (random) - dps with death fail, others do correctly
+
+raidwide
+minibuster
+
+earth shaker - two cone aoes on the top 2 in enmity, go to each side and use a cooldown
+vacuum wave - a point blank centred on the boss, move away
+
+emptiness
+
+light and darkness - puts a stack on one healer and a flare on the other healer, 1 tank and 1 dps
+	have the stack stay 'north', healer flare go 'south', tank flare 'east' and dps flare 'west'
+flood of naught (inner/outer)
+
+meteor - summons 4 arcane spheres that need to be destroyed
+flood of naught (black/white)
+
+charybdis - sets hp to 1
+
+double attack
+raidwide
+vacuum wave
+minibuster
+emptiness
+grand cross alpha + flood of naught (terminal)
+delta attack
+flood of naught (inner/outer)
+
+grand cross omega - gives everyone hysteria and inflicts several debuffs
+	beyond death
+	off balance
+	acceleration bomb
+	allagan field
+	forked lightning
+	compressed water
+	cursed shriek
+the final battle - neo exdeath disappears and reappears in 3 directions, casting floods of naught
+	everyone stacks mid for hysteria, then play like light and darkness
+	take 'north' as where neo exdeath was before disappearing
+	forkeds go to the same role spots as light and darkness
+	stack and non-forkeds stay 'north'
+	then, deaths need to fail one of the floods of naught while everyone else does them correctly
+	remember to be close to the boss for failing since you get knocked back with off-balance
+	after all three floods of naught, stay still and look away from gazes
+		gazes can try to be middle to make it easier
+flood of naught (terminal) - finally, play this like the end of grand cross alpha
+
+raidwide
+emptiness + flood of naught (inner/outer)
+minibuster
+grand cross delta + flood of naught (random)
+raidwide
+minibuster
+earth shaker
+vacuum wave
+emptiness
+light and darkness
+flood of naught (inner/outer)
+meteor + flood of naught (black/white)
+charybdis
+double attack
+raidwide
+vacuum wave
+minibuster
+emptiness
+grand cross alpha + flood of naught (terminal)
+delta attack
+flood of naught (inner/outer)
+
+neverwhere - gives a stacking damage up buff
+
+charybdis
+
+frenzied fist + frenzied sphere - big raidwides, while gaining the damage up, going to 16 stacks
+
+enrage

@@ -1,0 +1,86 @@
+adds - lakshmi starts with two dreaming kshatriya adds
+	vril - surrounds one in a bubble of vril, this will be important later
+	inner demons - a point-blank gaze attack, look away or move out of the aoe
+
+hand of grace - marks three random players with large plus aoes, spread them out
+
+the pull of light - mini tankbuster
+
+stotram - raidwide
+
+tankbuster
+
+the path of light - a large cone aoe on the second in aggro, which should be the OT
+
+alluring arm - marks some players for hand of grace plus aoes and others for hand of beauty point-blank aoes
+	keep the point-blanks further away as they leave puddles behind
+
+tankbuster
+raidwide
+
+the pall of light - a stack marker on a random player
+
+tankbuster
+
+chanchala - empowers lakshmi's abilities meaning that vril is mandatory to survive
+
+divine denial - a knockback from the centre of the arena, stay close and use vril to not get knocked off
+
+hand of beauty (empowered) - marks both healers for point-blank aoes that leave behind expanding puddles
+	place them away and leave the puddle quickly
+	if you don't use vril, the puddle will heavy you meaning you take a lot of bleed damage while trying to run away
+
+tankbuster (empowered) - use vril and a big cooldown as this hits hard now
+the path of light (empowered) - use vril
+
+divine desire - a draw-in towards the centre of the arena where there's a bleed aoe, also stuns anyone not using vril
+	use vril and go to the edge of the arena to not get stunned and pulled into the bleed zone
+
+tankbuster
+the path of light
+raidwide
+
+add phase - spawns dreaming shudras and dreaming brahmins
+	vril will surround one add at a time
+	adds should be brought to around 20% hp but not killed unless they have the vril bubbles
+	killing adds with vril will refresh three random party members' vril
+	once three vrill adds have been killed, the add phase ends
+	water iii - marks random players for point-blank aoes, spread apart
+alluring embrace - a transition raidwide, use vril to avoid being one-shot
+
+chanchala
+
+divine doubt - a confuse on every player that causes them to attack the nearest ally
+	spread out to maximise the distance between players and use vril to reduce the duration
+
+the path of light (empowered)
+tankbuster (empowered)
+
+blissful spear (Z + line) - spawns a pattern of aoes with vril orbs to refresh players' vril
+	move into an orb but don't get hit by the aoes
+	can be a Z pattern, a straight line through the middle or a circle around the edge
+
+tankbuster
+the path of light
+the pall of light
+alluring arm
+tankbuster
+the path of light
+raidwide
+chanchala
+divine doubt
+the pall of light (empowered) - hits harder and leaves a bleed on anyone not using vril
+blissful spear (circle + Z)
+divine desire - don't go into the vril aoe, stay on the edge, there is room to not get pulled in too far
+the pall of light (empowered)
+raidwide (empowered) - insta-kills anyone with a bleed and does very heavy damage otherwise, use vril to survive
+alluring arm
+the pall of light
+the path of light
+raidwide
+tankbuster
+
+loops from alluring arm after empowered raidwide
+
+chanchala
+enrage

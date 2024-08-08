@@ -1,0 +1,64 @@
+the scourge of meracydia - twintania spawns with three adds that must be killed immediately
+	liquid hell - spawns a fire puddle underneath a player that gives a fiery dot to anyone inside
+
+death sentence - a tankbuster that gives infirmity, causing the target to take less healing meaning a swap is needed
+	healers beware there can be an auto attack paired with this which might one-shot a tank even with mitigation
+
+loops until <85% hp
+
+neurolink - drops a neurolink beneath the boss that grants damage reduction against certain abilities but also negates the use of certain actions
+	make sure that no neurolink overlaps, or is too close to another one to help with spacing later
+
+fireball - a triangle marker above a person's head that indicates they are being targetted for a stack
+	the boss gains a damage up for each player in the stack, so you want to have maximum four players in a stack
+	assign lighter parties, while the OT always soaks
+
+tankbuster
+
+conflagration - a blue marker above a person's head indicating they are about to be engulfed in a conflagration
+	this also fetters anyone near the marked player, so be careful
+	take this directly under the boss and dps focus the add down
+
+fireball - each second hit should run into the conflagration to avoid too many damage ups
+
+loops from first fireball until <55% hp
+
+neurolink - ensure this is dropped away from the first
+
+divebomb x3 - marks a player with a green marker, then charges towards them, dealing damage and a huge knockback to anyone hit
+	dealing with this properly is a massive pain, so instead just find the safety hole on the NE-ish and stay in until you hear the sound effect and move out after
+	repeat for each of the three divebombs
+
+adds - spawns one asclepius and two hygieiae right next to the safety hole
+	hygieia - these explode when killed, inflicting vuln ups to anything nearby
+	asclepius - this takes way less damage and needs the vuln ups from the hygieiae to kill
+
+divebomb x3
+adds - spawns two hygieiae on the opposite side of the arena, use them to kill the asclepius
+
+aetheric profusion - twintania reappears and does a massive raidwide that kills anyone not in a neurolink
+	make sure the MT is in a separate neurolink to the rest of the party as plummet will kill anyone next to them
+
+twister - spawns twisters under random players which explode when anyone get close and do a massive knockback
+	keep moving to avoid detonating your own twister prematurely
+
+dreadknight - a dreadknight spawns in the middle of the arena and fixates on a random player, stunning them and walking towards them
+	if it reaches its target, they instantly die
+	the dreadknight needs to be stunned and killed immediately
+
+tankbuster
+
+loops from twister until <30% hp
+
+neurolink - spawns another neurolink that should be away from the first two
+tankbuster
+
+hatch - targets a random player and spawns a black orb that travels towards them, indicated by small orbs around their character
+	running into the orb while not inside a neurolink instantly kills you, so the OT should stand in the newest neurolink and soak all orbs
+
+liquid hell - now spawns five puddles in quick succession, make sure to bait them in good places
+
+hatch
+liquid hell
+
+loops from tankbuster until enrage

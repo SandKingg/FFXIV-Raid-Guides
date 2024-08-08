@@ -1,0 +1,171 @@
+magitek ray - fires a dodgeable beam towards a random player
+
+arm and hammer - tankbuster
+
+atomic ray - raidwide and marks all dps for orb drops
+	dps should spread away from the boss as the orbs explode afterwards
+
+missile - marks one player with a prey and gives them a nasty dot
+
+load - begins loading the program on the big screen and casts an ability
+	there are two different timelines that it can do
+	each timeline is a series of connected mini-phases
+
+bibliotaph
+	load (bibliotaph) + demon simulation - spawns four summoning circles that require four players in each
+		have the melees take the north and east circles while the ranged take south and west
+		need to lock them before demon simulation is cast
+
+dadaluma
+	load (dadaluma) - does a big knockback from the boss, either stand close or use knockback resist
+
+	missile simulation + chakra burst - dodge the missiles while standing in the yellow towers
+		assign clock spots for players and take the tower on your spot
+		melees can be intercardinal, ranged cardinal?
+	
+	run program (dadaluma) - spawns dadaluma, should be tanked close to the boss
+	
+	magitek ray + wave cannon - dodge the ray and whoever gets the blue marker goes to the side of dadaluma away from the boss
+	tankbuster + wave cannon
+	missile
+	magitek ray
+
+ultros
+	load (ultros) - does big spread aoes on each player, go to rough clocks
+	
+	diffractive plasma - raidwide
+
+	tentacle simulation - spawns tentacle aoes under every player that will do line aoes in the direction they were facing after a delay
+		stack up behind the boss and face towards it, then move to the side
+
+	run program (ultros) - spawns ultros, drag the boss over to ultros
+	stoneskin - interrupt ultros
+
+	air raid - the boss flies up, becoming untargetable and fires at a random player
+		this can be baited into the corner
+	main cannon - after a few shots, there will be a proximity aoe on the bait spot so make sure you've run to the opposite corner in time
+
+	raidwide
+
+air force
+	load (air force) - does a point-blank aoe that stuns
+		the snapshotting is INCREDIBLY unfair here, get out quickly
+
+	missile simulation + run program (air force) - dodge missiles while dps get tethered by air force adds
+		need to go towards your add and point it away from the party to bait the big cone aoe
+
+	bomb deployment - two bombs spawn with a red and blue loop
+		one loop lights up and you stand in that loop to defuse
+		gives a fire resist down so two people need to defuse the bombs
+
+	tankbuster
+	magitek ray
+
+
+timeline 1
+	load (bibliotaph)
+
+	skip program (dadaluma) - skips over the current program and loads the next program instead
+
+	retrieve program (ultros) - retrieves the previously skipped program and loads it
+	copy program (ultros) - copies the current program for much later
+
+	load (air force)
+
+timeline 2
+	load (dadaluma)
+
+	skip program (bibliotaph)
+
+	retrieve program (air force)
+	copy program (air force)
+
+	load (ultros)
+
+
+skip program (virus) - tethers each dps to a support and gives them magnet debuffs plus another debuff
+	these debuffs can be baited by staying far away/close respectively
+	searing wind - a massive aoe blast that is given to players with LIKE charges
+		if you get this, go to the edges of the arena right into the corners
+		support tether can go west, dps tether can go east
+	abandonment - need to be stacking with at least one other player at the end of the debuff
+		if you get this stay close to the boss which should be in mid
+		dps slightly behind the boss, supports slightly in front
+		make sure to stay tightly stacked with the player of the same role, they are who you stay with for abandonment
+	aether rot - afflicts one player who has abandonment
+		will pass to another player if they move into you
+		cannot take it again after it has been taken from you
+		keep passing this around
+		five? passes are needed
+
+raidwide x2
+missile
+
+viral weapon - removes the rot debuff and applies misdirection to everyone
+
+magitek ray
+air raid + main cannon
+
+diffractive radar - stop moving, but can remain attacking or casting
+
+tankbuster
+raidwide
+
+from now on, mini-phases will be enhanced with added mechanics
+enhanced bibliotaph
+	load (bibliotaph) + demon simulation + diffractive radar
+	run program (bibliotaph) - spawns bibliotaph, be careful of its busters
+	raidwide x3
+	missile
+	magitek ray
+	raidwide
+
+enhanced dadaluma
+	load (dadaluma)
+	diffractive radar
+	missile simulation + chakra burst + atomic ray - dps place bombs right in their corners first, then go to their towers
+	missile
+	magitek ray
+	raidwide
+	
+enhanced ultros
+	load (ultros)
+	tentacle simulation
+	bomb deployment + atomic ray - dps spread to corners while supports explode bombs
+		be careful of the tentacles here
+	magitek ray
+	raidwide
+	run program (ultros)
+	missile simulation
+	stoneskin
+	air raid + main cannon
+	raidwide
+
+enhanced air force
+	load (air force) + diffractive radar
+	raidwide
+	run program (air force)
+	bomb deployment
+	tankbuster
+	raidwide
+
+
+timeline 1
+	paste program (ultros) - uses the copied program from earlier again and does that mini phase
+	
+	skip program/load (bibliotaph/dadaluma)
+
+	retrieve program/load (dadaluma/bibliotaph)
+	
+	load (air force)
+
+timeline 2
+	paste program (air force)
+	
+	skip program/load (bibliotaph/dadaluma)
+
+	retrieve program/load (dadaluma/bibliotaph)
+
+	load (ultros)
+
+enrage

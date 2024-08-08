@@ -1,0 +1,61 @@
+unenlightenment - raidwide with a fiery dot
+
+seal of scurrying sparks - marks two players with aoes, need to split into support/dps or melee/ranged pairs
+	assign two 'flexers' and two 'statics', one static gets NW priority and the other gets SE priority
+	the flexers switch based on which pair it is
+	this will help on future mechs too
+flame and suplhur - summons fiery line aoes and rocky point-blank aoes
+brazen ballad - either expands or splits the aoes, look at the boss
+	purple means expand, go to one of the corners away from a rock (2 safe spots always opposite corners)
+	blue means split, go to one of the rocks with a line fully going through it
+
+impure purgation - big cone aoes towards each player, move after they hit to dodge the second hit
+
+thundercall - summons six orbs (four in the corners, two in the middle) that will do point blank aoes
+humble hammer - marks the healer with a purple marker that will shrink them and any orb they are near, go near the orb away from the rest to make a safe zone
+flintlock - a big line aoe targeted on the marked healer, tank needs to soak with a cooldown while dps stay away
+
+torching torment - tankbuster with a fiery dot
+
+rousing reincarnation - each player gets two debuffs that are either 1 3 or 2 4, then also either orange or blue
+malformed prayer - towers spawn in sequence in a circular pattern near the middle
+pointed purgation - two switchable tethers that do cone aoes on their targets
+	the debuff numbers tell you which order people take towers and the colours tell you to take the same-coloured tower
+	if not soaking then take a tether and point it away from others
+
+raidwide
+
+seal of scurrying sparks 2 - marks everyone with a spread and 2 players with a stack, split into pairs, look if spread or stack first
+cloud to ground - spawns 4 exaflares in mid that go to the middle of each edge, then 2 exaflares each on 2 opposite edges that go across to the other side
+	use the flexer/static assignments to decide which sides to go to
+	statics will always be in the corner safe spot for spreads, flexers will always be in the middle safe spot for spreads
+
+fighting spirits - knockback while 1-4 limit cut markers appear
+	1 gets knocked north, 2 gets knocked east, 3 gets knocked west, 4 gets knocked southwest
+	boss jumps on players in number order then back to mid, doing a massive plus shaped aoe each time (getting hit by 2 kills you)
+	every runs to a corner after taking their jump, 4 also runs to south after 2's jump
+
+tankbuster
+
+malformed reincarnation - players get 4 debuffs: the first indicates the colour of the tower they place under them, then the final 3 indicate the order of the towers to soak
+	of the final 3, either all will be the same or the final one will be different
+	either all players have the 'different' set or 2 have 'same' 2 have 'different'
+		if all have different, use the support/dps or melee/ranged pairs as before
+		if 2 have same, then those players get NW prio, the different players get SE prio
+malformed prayer 2 - creates 2 sets of 4 towers, 4 in mid, then 1 in each corner
+	one half of the room will be orange, one blue
+	players go to opposite edges, such that for each pair, one player can be on the orange side and one on the blue side
+	'same' players stand in the same colour as their tower drop, 'different' players stand in the opposite colour
+	then, soak the towers in this order:
+		mid, diagonally from your tower drop
+		closest corner
+		tower your pair partner dropped
+	dodge the two checkerboard aoes too
+
+seal of scurrying sparks 3 - same as 1
+flame and sulphur + brazen ballad 2
+raidwide
+enrage
+
+
+

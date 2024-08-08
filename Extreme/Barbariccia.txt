@@ -1,0 +1,90 @@
+void aero iv - raidwide
+
+savage barbery - points an arrow to a random cardinal and then either lifts her sword over her shoulder, or points it towards the ground
+	if it's a lift, then she does a line aoe perpendicular to the arrow, stay out of her hitbox
+	if it's a point, then she does a doughnut aoe, stay in her hitbox
+	the arrow indicates where she'll throw her sword to do a big point-blank aoe, so always dodge opposite of the arrow
+
+hair raid + hair spray - either crouches down or floats in the air, along with marking players with spreads or stacks
+	if she crouches, then she will rush to the wall she threw the sword to and do a big roomwide cleave, we need to be at the wall to her sides
+		if stacks, assign light parties and each light party takes a specific side
+		if spreads, use the same light party sides, but have melees+tanks next to her, then ranged dps, then healers, tanks move out as soon as the cleave goes off
+	if she floats, then she will do another doughnut aoe
+		if stacks, assign light parties and stay in her hitbox, don't overlap
+		if spreads, stay in her hitbox and preposition to your assigned clock spots, then move after the doughnut aoe goes off
+
+savage barbery - opposite of the first one
+hair raid + hair spray - both opposite of the first one
+raidwide
+
+void aero iii - tankbuster + swap
+
+teasing tangles - marks areas in each cardinal then each drag two players towards them, exiting will drag them back to the middle of the area and leave a nasty dot
+	two players get enumeration markers, four players get big aoes and two players get nothing
+	enums and nothing go towards the 2 and 4 markers, big aoes go far away and towards the 1 and 3 markers
+secret breeze - does four cone aoes towards each cardinal, then another cone on each player
+	make sure you spread out quickly after the aoes go off to avoid overlapping cones
+
+raidwide
+
+curling iron - transforms into the second phase, while making her hitbox unsafe
+katabasis - big transition raidwide
+
+brutal rush (supports) - marks every support for a line aoe, preposition in clock spots and dodge to the side after she punches towards you
+
+boulder break - double stack tankbuster, usually just invulned
+
+boulder + brittle boulder - marks everyone with baited puddles, then for spread aoes
+	everyone goes mid until the puddles are baited, then go to clock spots
+	mind the curved line aoes and leave space for people to run to
+
+upbraid - either all dps or all supports get enumeration markers, have one set rotate clockwise to stack with their partners
+	don't make healers rotate unless you have a BLM or something
+
+brutal rush (dps)
+
+knuckle drum - a series of big raidwides, stack at A during this
+
+blow away + brutal rush - baits four puddles under each player, run clockwise from A during this to dodge the burtal rushes at the same time
+
+impact + bold boulder - marks both tanks with flare markers, and a random healer with a stack, then does a knockback from the centre
+	party stacks at C while tank flares go to 1 and 4 and use a cd
+	remember the knockback here, don't go to the edge (unless you used kb resist)
+
+brutal rush (dps) - spread quickly after the stack to help dodging
+teasing tangles 2 - this time four players get enumerations but it always works out that you can resolve them at the numbers
+	dodge the small tornadoes, as well as the two sets of three puddles that are ROUGHLY baited near players
+	you get time to move after the final puddle goes off, but be quick
+knuckle drum
+
+iron out - moves back to first form
+
+entanglement - marks everyone with a playstation symbol then entwines them in a small tangle, leaving early drags you back and gives a nasty dot again
+	go to the intercardinal same colour as the marker (greens are yellow markers)
+secret breeze - choose a side of the tangle to dodge to, staying in intercardinals and remaining spread for the player cones
+
+savage barbery
+hair raid + hair spray
+raidwide
+tankbuster
+entanglement + upbraid - two tangles with have both players get enumeration, find a way to resolve, you get plenty of time
+savage barbery - opposite of the previous
+hair raid + hair spray - both opposite of the previous
+curling iron
+brutal rush (supports)
+knuckle drum - stack on A
+blow away + brutal rush
+boulder + brittle boulder - immediately go mid after the fourth puddle is baited, then go to clock spots
+brutal rush - opposite of the one during blow away
+impact + hair spray (spread) - get knocked back to your clock spot
+brutal rush
+lots of aoes - party should make their way towards C, tanks should make their way towards 1 and 4
+boulder break - hopefully the other tank can invuln here
+bold boulder - there is no knockback here, go to the edge immediately
+knuckle drum
+iron out
+entanglement + secret breeze
+savage barbery
+hair raid + hair spray
+raidwide
+enrage

@@ -1,0 +1,100 @@
+tidal roar - raidwide
+
+rip current - a double hit tankbuster that needs a swap
+
+tidal wave - a splash on one side of the arena, followed by a knockback from that side later
+	use the markers to find the safe spots
+undersea quake - breaks the two side columns of the arena
+
+temporary current - fires a diagonal blast of water across the arena, leaving two safe spots in opposite corners
+
+drenching pulse - baited puddles under each player followed by freak wave spread aoes on each player
+	stack max melee first for puddles, then move to assigned positions
+	it helps to assign positions for this for later
+
+temporary current - opposite of previous
+
+maelstrom - leviathan disappears and charges twice across two halves of the arena
+	at the same time expanding aoes spawn that deal damage and afflict players with heavy, so avoid them
+
+raidwide
+
+tsunami - gives each player two debuffs that resolve in a specific order
+	both healers get smothering tsunami stacks, everyone else gets a swirling waters doughnut
+	one player gets a sundering tsunami line knockback (in the direction they are facing) and everyone else gets splashing waters which kills them if not hit by sundering tsunami
+	stack next to his hitbox with the knockback player at max melee, knocking everyone north
+undersea quake 2 - this time the middle two arena columns get broken
+	assign light parties to split off into each side
+temporary current - stack on healers in the safe spot
+
+raidwide
+tankbuster
+temporary current - opposite of previous
+raidwide
+
+refreshing shower - empowers some of leviathan's previous abilities
+
+tidal rage - new name for the raidwide
+tidal wave
+undersea quake 3 - same as 1
+
+temporary current (empowered) - after the first blast, leviathan will shoot a second blast through the opposite diagonal
+	quickly move into the opposite safe spot
+
+drenching pulse (empowered) - the freak wave spread aoes now leave persistent puddles behind
+	for this we use our light party sides with players in a specific order: tanks > melee > healers > ranged
+
+temporary current (empowered)
+
+maelstrom (empowered) - mostly the same but he charges 3 times now, with the final charge being on the opposite half of the first
+
+raidwide
+tankbuster
+
+stormy horizon - multiple small raidwides hit the group while each player drops five puddles under them
+	start in the NW corner and rotate around the hitbox
+breaking wave - one tank gets a flare marker and should run directly south
+temporary current (empowered) - party should quickly adjust their trajectory to end up in the safe spot
+	don't forget to move over, flare tank should dodge both at south
+plunging wave - a multi-hit line stack on a random player
+	can angle this to point south after the second temporary current to help out the tank
+
+raidwide x2
+drenching pulse + freak wave (empowered) - place the puddles on the outer edge of the arena to ignore them later
+undersea quake 4 - same as 1
+
+tsunami (empowered) - once again everyone gets two debuffs
+	everyone gets the splashing waters debuff
+	one tank and one dps get sundering tsunami
+	the other tank gets a scouring tsunami massive point-blank aoe
+	one healer and one dps get smothering tsunami
+	the other healer and one dps get sweeping tsunami cone aoes on the furthest players from them
+	one dps gets a surging tsunami radial knockback
+strat - start north, get knocked back by surging dps
+	tanks move to assigned north corners, healers + surging dps in left stack, other dps in right stack
+	cone players stay northmost players in their respective stacks
+	after the cones, go north again get knocked back by sundering dps
+	sundering tank knocks everyone back north while scouring tank runs all the way south
+	sundering tank needs to remember to run north too
+
+temporary current (empowered)
+raidwide x2
+tankbuster
+
+roiling pulse - stack to bait puddles first, then tanks get breaking wave flares and healers get killer wave stacks
+	tanks should run south to their light party sides while everyone else stacks north on their light party sides
+
+black smokers - tanks get hit by a repeating cone tankbuster while the two furthest players get hydrothermal vent aoes
+	tanks should invuln while everyone else deals with hydrothermal vents
+	ranged should start the mechanic as the furthest two players, to bait the blasts
+	four aoe puddles are spawned, one after each blast that need to be soaked by another player
+	soaks are done healer > melee > healer > ranged
+		or melee > healer > melee > ranged
+
+temporary current (empowered)
+raidwide x2
+
+the calm - persistent mini-raidwides that go off until enrage, also gives leviathan a damage up
+
+raidwide x2
+enrage

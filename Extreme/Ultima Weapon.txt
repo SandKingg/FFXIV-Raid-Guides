@@ -1,0 +1,81 @@
+viscous aetheroplasm - a stacking debuff on the MT that kills if it reaches 5 stacks, swap on 4
+
+mistral song - garuda appears in the centre of the arena and does a big cleave in front of her
+vulcan burst - a knockback from the boss, don't get knocked into the cleave
+
+ceruleum vent - a minor uncast point-blank aoe, don't bother dodging
+
+eye of the storm - a doughnut aoe around the edges of the room
+geocrush - proximity damage from the centre of the room, wait for the doughnut to go off, then move to the edge
+
+ceruleum vent
+viscous aetheroplasm
+
+loops from mistral song + vulcan burst until ~80% hp
+
+radiant plume - a set of eight aoes around the edge of the room, go to the middle to avoid them
+weight of the land - a set of four aoes in the middle of the room, go to the edge to avoid them
+
+viscous aetheroplasm
+
+tank purge - a big raidwide
+
+radiant plume + weight of the land 2 - this time you start in the middle, then go to the edge
+
+ceruleum vent
+viscous aetheroplasm
+
+loops from first radiant plume + weight of the land until <65% hp
+
+eruption - spawns five puddles under two random players that explode after a short delay
+	party should stack up and try to run as a group away from the puddles
+
+ceruleum vent
+viscous aetheroplasm
+raidwide
+
+radiant plume + crimson cyclone x2 -spawns two sets of aoes, with ifrit also spawning at the edge of the arena
+	the first set of aoes are four equally space around the edge, the second set is a line through the middle
+	ifrit will dash through the arena from his spawn location, so don't be in line with that
+
+ceruleum vent
+viscous aetheroplasm
+
+loops from eruption until <50% hp
+
+final phase loop - executes these mechanics on rotation, with five mini-mechanics based on hp percentage
+	viscous aetheroplasm
+	ceruleum vent
+	viscous aetheroplasm
+
+	aetheroplasm orb - two random players get a marker, and a green orb travels from the boss towards each of them until it is soaked or it times out
+
+	magitek ray - turn towards a random player and fires three line aoes on the ground one after another
+		will always be fired NW, N and NE relative to ultima's facing direction
+
+	raidwide
+	viscous aetheroplasm
+	ceruleum vent
+	viscous aetheroplasm
+	magitek ray
+
+	loops until enrage
+
+
+aetheric boom - cast at 50%, a big knockback that also spawns tethered orbs that move towards each other
+	orbs are tethered in pairs and need to be soaked by a stack, soaking one orb in a pair also soaks the other one
+	if a pair of orbs touches each other, it's a wipe
+	this first set spawns one orb at each of the cardinals, with opposite-cardinal orbs being tethered
+
+magitek bits - at 40%, spawns in six magitek bits that cast assault cannon, just kill them
+	assault cannon - a dodgeable line aoe
+freefire - calls down two airships in the east and west that deal proximity based damage
+
+aetheric boom 2 - cast at 30%, two longer tethers from east to west and a shorter tether from north to south
+	prioritise the short one first
+
+magitek bits 2 - at ~25%, summons eight magitek bits around the outside of the arena this time
+freefire 2 - summons four ships, each on one of the cardinals, go into the middle to dodge
+
+aetheric boom 3 - cast at 15%, four short pairs towards each of the intercardinals
+	it's usually best to tank LB3 and have people run into the orbs quickly, time is tight here

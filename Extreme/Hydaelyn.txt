@@ -1,0 +1,123 @@
+heros's radiance - raidwide
+
+shining saber - a stack on a random player, everyone go behind the boss
+
+small split based on weapon choice
+
+timeline 1
+	crystallize (water) - does a different ability based on the element
+		water - stacks on each healer, split into light parties
+	dawn mantle (magos) - changes weapons and does an ability based on the new weapon
+		magos - point-blank aoe, go out
+		move back to max melee for crystallize hits
+
+	magos's radiance - raidwide
+
+	lateral/aureole - does two wide cleaves on opposite sides
+		aureole - sides safe
+		lateral - front/back safe
+	
+	crystallize (ice) - spread aoes on every player, assign clock spots in case of in first
+	dawn mantle (mousa) - doughnut aoe, stay in her hitbox
+		move out to clocks for crystallize hits
+
+	mousa's scorn - double stack tankbuster
+
+	lateral/aureole
+
+timeline 2
+	crystallize (water)
+	dawn mantle (mousa) - move out to max melee to avoid overlapping stacks
+	tankbuster
+	lateral/aureole
+	crystallize (ice)
+	dawn mantle (magos)
+	raidwide
+	lateral/aureole
+
+crystallize (water/earth) - earth is a stack on a random player
+
+dawn mantle (heros) - does a plus aoe centred on hydaelyn, go to corners
+	either full party stack or light party stacks after, based on crystallize
+
+pure crystal - add phase
+	there are six crystals of light that need to be destroyed
+	three start glowing (either north or south) and the party starts there, going clockwise
+	tanks each pick up one of the echo of hydaelyn adds
+	the adds tether to crystals, giving them vuln downs so drag them away
+	tanks and party rotate clockwise around until all crystals are destroyed, then kill adds
+exodus - big transition raidwide
+
+halo - raidwide
+
+lightwave - spawns lightwaves which travel through the room and an array of crystals
+	once the waves reach a crystal, it explodes in a line of sight attack
+	need to hide behind crystals to dodge
+	for the first pattern, hide behind the NE/NW crystal, dodge mid gaze
+	move slightly, dodge opposite NW/NE gaze
+infralateral arc - a cleave on one tank, healer and dps
+	healers stay where they are
+	tanks move to the opposite side crystal
+	dps take the north crystal
+	dodge the south gaze
+
+lightwave 2 - this pattern has four crystals in the corners and one in mid
+heros's glory - a half-room cleave in front of her, stay behind
+	after this do all dodges at the mid crystal
+	look for first lightwave and dodge its first crystal
+	then do the Z dance, go sideways, diagonally through and sideways again
+heros's glory - look for the outer crystal safe from the cleave and dodge mid gaze from there
+
+raidwide
+
+heros's sundering - a cone aoe tankbuster
+
+shining saber
+
+dawn mantle (magos/mousa) - mini-phases based on which is chosen
+magos
+	raidwide
+	crystallize (ice)
+
+	parhelic circle - creates a pattern of lines where the tips (and centre of the arena) will explode shortly afterwards
+		roughly spread into clocks, but dodge lines first
+		then stay spread for the crystallize hits
+
+	lateral/aureole
+
+mousa
+	tankbuster
+	
+	parhelion - throws out three cones of chakrams to the edge of the arena leaving three safe slices opposite them
+		dodge all first, then go opposite the third set to be thrown
+	crystallize (water) - assign one light party to be close to the boss and one to be close to the edge
+	subparhelion - the chakrams fly back through the arena in the same order they were thrown
+		everyone dodges into the first set once they've flown back through the arena
+
+	lateral/aureole
+
+dawn mantle (mousa/magos) - does the opposite mini-phase to the first one
+
+dawn mantle (heros)
+radiant halo - raidwide
+
+lightwave 3 - spawns four lightwaves around the edges, with one slightly offset to make one corner safe
+	also later, four lightwaves spawn in the corners and mid will be safe
+echoes - multi-hit stack
+dichroic spectrum + bright spectrum - a double stack tankbuster + spread aoes on every player
+	tanks stay still, everyone else move
+	stack back mid after
+
+crystallize (water)
+shining saber
+dawn mantle (magos/mousa)
+lightwave 4 - same as 3
+echoes
+dichroic spectrum + bright spectrum
+crystallize (ice)
+lateral/aureole
+dawn mantle (mousa/magos) - opposite of the previous
+crystallize (earth)
+lateral/aureole
+dawn mantle (heros)
+enrage

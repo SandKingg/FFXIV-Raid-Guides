@@ -1,0 +1,58 @@
+hydrothermal missile - a prey on a random player that hits multiple times for high damage
+
+photon spaser - a line aoe on a random player
+
+resin bomb - baited puddles under random players, for this try to bait them under the boss for now
+
+photon spaser
+
+emergency deployment - spawns two alarum adds that tether to and fixate on the first player to damage them
+	after they die, they leave a puddle that minis anything inside it
+
+hydrothermal missile
+photon spaser
+
+oppressor 0.5 - spawns from the north and needs to be tanked, can take the original boss south and tank new boss north
+	will cast the exact same abilities as normal oppressor
+
+3000-tonze missile - marks four random spots in the arena for large missiles to hit and deal big damage
+emergency deployment - now there are four alarums (two from each boss), assign dps specific ones to take
+	need to kill them on the missile spots to mini the missiles
+resin bomb - bait resin bombs first, then go to spots
+
+photon spaser
+hydrothermal missile
+
+hypercompressed plasma - tankbuster
+
+photon spaser
+
+quick landing + resin bomb - both bosses disappear, and mark two proximity markers at opposite sides of the room
+	start on the one that isn't directly in a corner, then move down the edge to the opposite side
+	this baits resin bombs and ensures you end up in a safe spot
+
+3000-tonze missile
+emergency deployment
+resin bomb
+photon spaser
+hydrothermal missile
+tankbuster
+photon spaser
+
+quick landing + resin bomb 2 - this time, both proximity markers are on one side, but the strat is the same, start in a corner close to them and move away to bait bombs
+
+3000-tonze missile
+emergency deployment
+resin bomb
+photon spaser
+hydrothermal missile
+tankbuster
+photon spaser
+quick landing + resin bomb 3 - same as 1
+3000-tonze missile
+emergency deployment
+resin bomb
+photon spaser
+hydrothermal missile
+
+self-destruct - cast as enrage, or when one of them dies, kill before it goes off
