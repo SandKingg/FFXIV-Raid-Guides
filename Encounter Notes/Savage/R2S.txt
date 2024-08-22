@@ -1,0 +1,97 @@
+call me honey - raidwide
+
+splash/drop of venom - imbues her next attack with venom
+	splash - does a spread aoe on every player
+	drop - does pair stacks on either all supports or all dps
+
+honey beeline/tempting twist - one of two abilities, indicated by the moving spear images
+	honey beeline - a line aoe through her
+		this also drops honey puddles vertically along the east and west edges, so stay near the middle column
+	tempting twist - a doughnut aoe
+		this drops honey puddles that make the middle area and cardinals unsafe
+	do spread or pair stacks after
+
+drop/splash of venom - opposite of the previous
+tempting twist/honey beeline - opposite of the previous
+
+killer sting/stinging slash - one of two tankbuster abilities
+	killer sting - a double stack tankbuster
+	stinging slash - two large cone tankbusters on each tank, don't clip people or each other
+		if there is one floor line between you and you're standing on another floor line, that's safe
+
+honey b. live: 1st beat - enters into a mini-phase, doing a raidwide and giving out heart stacks
+	reaching four heart stacks heals the boss and gives her damage up
+	the starting heart stacks are one of two patterns
+		1) everyone gets one heart stack
+		2) two players get two heart stacks, four players get one, and two players get none
+
+center/outerstage combo - a series of three aoe patterns to dodge
+	a doughnut/point-blank aoe with cones towards either the cardinals or intercardinals
+	big line aoes towards the cardinals
+	a point-blank/doughnut aoe with cones towards the opposite positions of the first one
+
+love me tender - spawns a random assortment of eleven towers, with each tower giving one heart stack to whoever soaks it
+	try to end up with five players on two hearts and three on three
+
+loveseeker - a point-blank aoe that gives a heart stack, don't stand in it
+	this also spawns moving sets of hearts to dodge
+	getting hit gives you a heart stack, so avoid at all costs
+
+love me tender 2 - this time it creates a stack marker on a random player with the lowest amount of hearts that gives four hearts, split between the players inside
+	have all non-three heart players take the stack and get the hearts
+	one person will not get hearts if there are five players on two stacks
+
+outer/centerstage combo - opposite of the previous
+
+honey b. finale - a raidwide that resets the stage back to normal
+
+random tankbuster
+
+alarm pheromones - spawns 16 groupbees arouond the edge that do line aoes baited towards random players
+	just dodge
+
+honey b. live: 2nd beat - this time four players start with one stack and four with zero, one light party each
+
+spread love/drop of love - imbues her next attack with love
+	this spawns heart puddles rather than honey puddles, these give stacks
+	spread is spreads, drop is pairs
+
+love me tender 3 - gives two four-heart stack markers to a zero-heart dps and a zero-heart support while also spawning aoes underneath them
+	then spawns two heart towers, and two heart aoes on a one-heart dps and one-heart support
+	stack players can actually overlap the stacks (weird) while rotating around the boss
+	towers will spawn either north/south or east/west and need to be soaked by the non-aoe one-heart players
+
+honey beeline/tempting twist - this is imbued with love from earlier
+honey b. finale
+splash/drop of venom
+
+alarm pheromones 2 - these line aoes are done in a 'shuriken' pattern, creating a safe spot in mid and four small safe spots around the edges
+poison sting - marks two players at a time (one support, one dps) to place aoe puddles that persist and give magic vuln
+
+bee sting - light party stacks on one support and one dps, just stack in roles
+
+random tankbuster
+honey beeline/tempting twist
+
+honey b. live: 3rd beat - nobody starts with any heart stacks, instead supports and dps will get debuffs that explode once they expire
+	one role gets short timers, the other gets long timers
+	these explosions also give one heart stack
+
+spread/drop of love
+outer/centerstage combo - heart towers spawn after this and the first set of debuffs explode
+	take explosions to the edge to avoid clipping tower soakers
+	whichever role is not exploding should soak the towers
+center/outerstage combo - same as before, but roles are swapped now
+honey beeline/tempting twist - imbued with love from earlier
+honey b. finale
+random tankbuster
+
+rotten heart - a raidwide that changes the arena again and gives different debuffs
+	one light party of players will get alpha debuffs and the other will get beta
+	the timers are all different: 8, 24, 40 & 58 seconds
+	if two players of opposite debuffs collide, the debuffs are removed and they explode in a big raidwide that gives magic vuln
+	timers need to explode with each other in ascending order
+	just stay in clock spots and explode mid
+
+raidwide x4 - do the explosions in between each raidwide to avoid wiping from the magic vulns
+enrage

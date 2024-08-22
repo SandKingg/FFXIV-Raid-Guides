@@ -8,7 +8,7 @@ nine lives - buffs the next cast, causing it to be repeated by clones in the fut
 one-two paw - one claw will glow and then the other, indicated the order that her left and right will get hit by half-room cleaves
 soulshade - spawns two clones that will eventually cast the previous mechanic
 
-nine lives + double/quadruple swipe - double is a stack on each healer, while quadruple is a stack on all supports or all dps assign light parties and colour pairs for this
+nine lives + double/quadruple swipe - double is a stack on each healer, while quadruple is a stack on all supports or all dps, assign light parties and colour pairs for this
 soulshade - this is delayed until after the next mechanic
 
 leaping quadruple crossing - does quadruple crossing, but she will leap to another location
@@ -22,8 +22,8 @@ mouser - progressively indicates tiles that will be hit by aoes, getting hit by 
 
 copycat - summons a clone that will cast elevate and eviscerate, marking a player with a paw marker and doing either an uppercut or a slam
 	look at the clone to determine which move she is doing
-	a slam needs you do be on a safe platform, an uppercut needs you to be knocked forwards by one tile to a safe platform
-	both moves also done a line aoe along tiles in the same row or column, so stay away
+	a slam needs you to be on a safe platform, an uppercut needs you to be knocked forwards by one tile to a safe platform
+	both moves also do a line aoe along tiles in the same row or column, so stay away
 	this will happen four times, targeting either all supports or all dps
 
 tankbuster
@@ -38,8 +38,8 @@ nine lives + leaping quadruple crossing
 soulshade - also delayed
 
 tempestuous tear/nailchipper - they occur in either order, depending on which clone is activated first
-	tempestuous tear is two line stacks on each healer, these need to be soaked while dodging the shade's leaping one-two paw
-	nailchipper marks all supports or all dps for aoes around them, then repeats for the other role
+	tempestuous tear - two line stacks on each healer, these need to be soaked while dodging the shade's leaping one-two paw
+	nailchipper - marks all supports or all dps for aoes around them, then repeats for the other role
 		this is dodged in tandem with the shade's leaping quadruple crossing
 		the marked players cannot bait, as their aoes give vulns so quickly adjust if necessary
 		the second round of aoes goes off along with dodging the repeated hits
@@ -49,13 +49,12 @@ raidwide
 mouser
 copycat - this targets the opposite role to the previous copycat
 
-overshadow - a line stack that cannot hit the player doing copycat, make sure to dodge their lines too
+overshadow/splintering nails - one of the two attacks, will happen twice each
+	overshadow -a line stack that cannot hit the player doing copycat, make sure to dodge their lines too
+	splintering nails - a cone aoe on a random tank, healer and dps that is not being targeted for copycat
+		split into role stacks, but make sure to dodge the line aoes from copycat
 
-splintering nails - a cone aoe on a random tank, healer and dps that is not being targeted for copycat
-	split into role stacks, but make sure to dodge the line aoes from copycat
-
-overshadow
-splintering nails
+overshadow/splintering nails x3
 tankbuster
 shockwave
 

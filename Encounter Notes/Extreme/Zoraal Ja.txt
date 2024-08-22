@@ -30,7 +30,7 @@ greater gateway - spawns tethers from the outer squares to the arena square
 	the northern two squares will have fire and wind tethers
 blade warp - spawns blades on either the eastern or western platforms
 forged track - causes the blades to fly through the tethers
-	for the normal tethers, they are always in the same pattern so if the blades are adjacant, the safe rows/columns will be alternating and vice versa
+	for the normal tethers, they are always in the same pattern so if the blades are adjacent, the safe rows/columns will be alternating and vice versa
 	for the wind tether, there will be a knockback from the line the blade goes through
 		stand as close as possible on the long side of the line, without standing in the line itself
 	for the fire tether, both adjacent lines will also be unsafe, so stand in the only safe line at the edge

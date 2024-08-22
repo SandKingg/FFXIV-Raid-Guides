@@ -31,9 +31,12 @@ black hole + dual fire iii + holy - summons multiple static black holes and infl
 	have supports go to cardinals and rotate around the arena
 	dps stay near the middle on intercardinals for spreads
 	after support spreads, quickly go to middle to stack
+
 white hole
 tankbusters
+
 meteor - big raidwide
+
 the decisive battle
 void ability
 vacuum wave
@@ -41,6 +44,7 @@ white hole
 
 black hole + dual blizzard iii + flare - same as before, supports go to clocks and rotate
 	dodge puddles and spread the flares away
+
 white hole
 tankbusters
 raidwide
