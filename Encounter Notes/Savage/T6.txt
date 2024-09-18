@@ -1,0 +1,60 @@
+bloody caress - an unmarked tankbuster occurs throughout the fight that leaves a vuln up on the MT
+	swap at 3 stacks
+
+thorn whip - chains multiple players together with vines that need to be stretched and broken
+	stay stacked for this to avoid making unbreakable chains
+
+briary growth - spawns three dark matter bulbs that create expanding briar aoes
+	try to keep them on one set side and kill any bulbs on the wrong side
+	e.g. keep the left side for briars and right safe, unless impossible
+
+thorn whip
+
+floral trap - marks a random player with a yellow marker, then drags them in and attempts to devour them
+	stand in the briars or use kb resist to avoid getting dragged in
+	the drag-in is a cone aoe so don't get clipped by someone else
+devour - eats any players in melee range and gains a damage up for each player eaten
+
+spit - a raidwide that also releases any devoured players
+
+loops until ~70% hp
+
+blighted bouquet - deals massive damage to anyone moving, casting or attacking
+	the snapshot is very strict here, so don't greed
+
+briary growth
+thorn whip
+floral trap + devour
+spit
+
+viscid emission - a player will be marked with a honey debuff and spawn a dark matter hornet add
+	the add needs to be killed quickly or it will cast final sting and kill the honey player
+	adds will keep spawning as long as the player has the debuff but this isn't an issue with current levels of damage
+		the intended method is to get devoured but this really isn't needed anymore
+
+thorn whip
+
+loops from blighted bouquet until ~40% hp
+
+leafstorm - a big transition raidwide that spawns three dark matter slugs
+	the OT should quickly pick them up and players should get one low but not kill it
+
+acid rain - spawns three puddles under random players that leave behind acidic honey adds
+	these adds occasionally cast acid cloud which gives everyone a stacking dot
+		at 10 stacks you wipe
+	have one slug eat all the acidic honey adds to become a super slug
+	then kill all the slugs quickly before they cast their massive raidwide and wipe the group
+
+thorn whip
+
+swarm - places 4 stacks of a debuff on the MT that deal high damage, so make sure to swap
+
+thorn whip + rotten stench - places a blue marker on a random player and then does a line stack towards them
+	break thorns in a straight line behind the boss so you can stack together
+
+swarm
+thorn whip
+swarm
+thorn whip + rotten stench
+
+loops from leafstorm until enrage

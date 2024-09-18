@@ -8,7 +8,7 @@ savage barbery - points an arrow to a random cardinal and then either lifts her 
 hair raid + hair spray - either crouches down or floats in the air, along with marking players with spreads or stacks
 	if she crouches, then she will rush to the wall she threw the sword to and do a big roomwide cleave, we need to be at the wall to her sides
 		if stacks, assign light parties and each light party takes a specific side
-		if spreads, use the same light party sides, but have melees+tanks next to her, then ranged dps, then healers, tanks move out as soon as the cleave goes off
+		if spreads, use the same light party sides, but have melees+tanks next to her, then healers, then ranged dps, tanks move out as soon as the cleave goes off
 	if she floats, then she will do another doughnut aoe
 		if stacks, assign light parties and stay in her hitbox, don't overlap
 		if spreads, stay in her hitbox and preposition to your assigned clock spots, then move after the doughnut aoe goes off

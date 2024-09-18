@@ -1,0 +1,84 @@
+heavy hand - tankbuster
+
+aetherial shackles - gives one random player a red shackle debuff and one a purple shackle debuff
+	after the debuffs expire, they will explode on the three furthest players and three closest players respectively, as well as their original targets
+	assign clock spots with cardinals in and intercardinals out
+	if you have the red debuff on cardinal or purple on intercardinal, swap with your colour partner
+	the far explosions are much bigger than the close explosions, so be careful
+	the purple debuff player can be a bit closer to middle to avoid a red player being too close
+
+gaoler's flail - puts down two flails on either side, their weapon showing what will happen
+	sickle - a 270-degree cleave with the opposite side being safe
+	mace - a point-blank aoe
+	chakram - a doughnut aoe
+	this first will either be double sickle or mace/chakram in either order
+
+pitiless flail of grace/purgation - a line aoe tankbuster that knocks back the target, make sure to stay close and aim towards a corner
+	the buster gives magic vuln, so a swap is needed
+	the OT will get an ability targeted on them after the swap based on the cast
+		grace - casts true holy, a stack aoe so OT stays with the party
+		purgation - casts true flare, a big proximity damage aoe so the OT needs to run away after provoking
+
+gaoler's flail - will be the opposite pattern to the previous
+
+warder's wrath - raidwide
+
+intemperance - splits the arena into a 3x3 grid of cells, either with a stack of three elements
+	stay in the cell of your clock spot
+intemperate torment - procedurally explodes the elements in their cells either from top to bottom or bottom to top
+	if he is raising his fist in the air, it's top to bottom, if he is holding it to the ground, it's bottom to top
+	when the elements explode you will gian a fire debuff from the fires and an ice debuff from the ices
+	for the second hit, the side cells have lightning, which is an instant kill so everyone needs to either stay in the middle or go north/south
+	staying in the middle will keep your debuff the same, but going north/south will switch it to whichever debuff was there
+		getting hit by the same twice in a row will give you a damage down
+		not having a cell filled will do a big raidwide and give everybody damage down
+		getting hit by the small lines between cells will kill you
+raidwide - this goes off before the second hit, DO NOT GET BAITED
+	in the bad pattern (no stacks with ice on top and bottom) have the dps on 1 and tank on A adjust as follows
+		dps on 1 goes 1 > A > A, tank on A goes A > C > 1
+raidwide - this goes off after the 2nd hit but before the final hit, make sure to get healed up
+
+pitiless flail of purgation/grace - opposite of the previous
+
+shining cells - a raidwide that changes the arena to alternating sectors of red and blue
+
+aetherflail - uses the flails from earlier, in conjunction with red or white orbs around him
+	red orbs explode red sectors, white orbs explode blue sectors
+	the flails will have one mace/chakram and one sickle in either order
+
+pitiless flail of grace/purgation
+aetherflail
+
+shackles of time - gives a random player a shackle debuff, causing the colour they are standing to all explode when the timer runs out
+	have the debuffed player stay still and everyone else adjust
+
+tankbuster
+
+slam shut - a raidwide that transitions the arena back to normal
+
+fourfold shackles - gives everyone a red or purple shackle debuff from aetherial shackles with a different timer
+	there will be a red and purple debuff each with 3, 8, 13 and 18 seconds
+	have red debuffs go out on intercardinals and purple debuffs stay in on cardinals
+	shortest debuffs towards A/1, longest towards D/4 and fill in clockwise like that
+	once you are in position, just stay still until all debuffs have resolved
+		purple player can optionally run a bit closer to middle to avoid memes
+
+raidwide
+intemperance + intemperate torment
+gaoler's flail - this will always be in then out and both flails go off between the 2nd and final hits
+	wait for the 2nd hit, then go in and towards your spot
+	then quickly go out to your spot after the first flail
+raidwide
+shining cells
+shackles of time
+pitiless flail of grace/purgation - this entire mechanic resolves before the shackles debuff goes off, but try to stay in the correct colour anyway
+raidwide
+
+aetherial shackles + aetherchain x2 - explodes either the red or blue sectors depending on the orbs surrounding him
+	the second aetherchain happens right before the shackles resolve so make sure you are in the correct sector in your spot
+
+raidwide
+aetherflail x2
+aetherflail - this one will be mace/chakram in either order, no sickle
+raidwide x3
+enrage

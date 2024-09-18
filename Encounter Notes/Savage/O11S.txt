@@ -44,6 +44,7 @@ peripheral synthesis 2 - summons 4 big fists on th eoutside of the arena that wi
 	these target 1 tank, 1 healer and 2 dps, the second set target the other 4 players
 	go to the outside of the arena and make sure to keep the middle safe
 electric slide - stack up right in the middle to avoid moving omega
+
 peripheral synthesis 2 (2nd set) - make sure to tank swap
 larboard/starboard wave cannon x2
 

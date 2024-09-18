@@ -1,0 +1,42 @@
+cursed voice - gives one tank, healer and dps each a debuff that causes them to emit a petrifying cone aoe in the direction they are facing when it expires
+	don't petrify the boss or her adds as it gives them stacks of damage up
+
+circle of flames - spits a fireball on random ranged players, make sure to stay spread to avoid overlapping them
+
+circle blade - a point-blank aoe
+
+renaud - a cyclops add spawns in the arena, tethering to the first player that damages it and slowly walking towards them
+	these can be petrified by the cursed voices, so assign one role (usually healers) to petrify, and a rough spot to kite the add to
+	hitting a petrified cyclops with any damage will instantly kill it, so be careful
+		however, you want to make sure there is only one petrified renaud at once, as they will become incredibly dangerous once the patrify wears off
+
+circle of flames
+cursed voice
+circle of flames
+circle blade
+
+loops from first cursed voice until ~80% hp
+
+lamia deathdancer - spawns a deathdancer add that needs to be picked up and focused down, they also cast circle blade
+	these adds do untelegraphed cleaves and deal high damage
+	having two up at once is likely a wipe
+
+cursed shriek - marks a random non-tank player for cursed shriek which is a massive aoe petrify
+	the shriek player needs to hide behind the petrified renaud to avoid petrifying the raid
+
+the boss continues this rotation, adding in a cursed shriek every 2nd? set of cursed voices
+
+lamia fatedealer x4 - at ~60% four lamia fatedealers spawn, one at each cardinal, which should be picked up and focused down
+	they cannot move, so dps needs to be careful wheich add they are focusing to avoid getting hit by the cursed shrieks
+
+glowy poison aoes? - at ~60% the arena begins glowing in one of the three segments (inner circle, middle ring, outer ring)
+	around 15 seconds later this segment explodes, dealing high damage to anybody inside
+	be careful when moving the boss out of the outer ring as there could be a cleave on the MT at that point
+
+lamia prosector - at ~30% hp this add spawns and must be picked up, it deals high damage and casts petrifaction
+	petrifaction - a gaze attack that petrifies anybody looking at the boss
+		the boss will begin to cast this as well after the add is killed
+
+venomous tail - at ~25% hp the boss begins casting this, putting an esunable poison debuff on a random player
+
+continues looping until enrage
