@@ -1,0 +1,78 @@
+murky depths - raidwide
+
+doubled impact - a double-stack tankbuster
+
+sewage deluge - a big raidwide that will make only three platforms and the drains between them safe
+	party should start on the safe platform opposite the unsafe platform
+
+spoken/winged cataract - the head and body will each face different directions, then do a half-room cleave and line aoe respectively
+	spoken - the head cleaves in front of it
+	winged - the head cleaves behind it
+	this can always be dodged on a platform, but don't be too close to the body
+
+coherence - spawns a tether on a random player that will do a massive proximity aoe, then does a wild charge line stack on a random other player
+	have one tank take the tether opposite the party, standing next to the unsafe platform is still fine
+	the other tank stands in front of the party to take the first hit of the wild charge
+	both tanks need to mitigate the hits
+	remember to group back up on the platform opposite the unsafe one afterwards
+
+raidwide
+
+ominous bubbling - eventually does stack markers on both healers, assign light parties for this
+shockwave - the boss turns towards a safe platform next to the unsafe one, then leaps there and knocks everyone back
+	make sure you get knocked to the safe platform, not the unsafe one
+	one light party should move onto the drain to avoid overlapping the stacks afterwards
+	can also use kb resist
+	group back on the usual platform afterwards
+
+predatory avarice - gives one tank and one dps spread aoe debuffs that knock back anyone hit, and one healer a stack debuff
+spoken/winged cataract - dodge as normal, then have the debuffed tank move one way and the debuffed dps move the other way to avoid overlap
+	the water will recede after this, making the arena safe again
+
+channeling flow - gives everyone a line aoe knockback, with an arrow pointing in the direction they will be knocked back, such that there are two of each arrow
+	getting hit by the opposite direction knockback will reduce the distance you get knocked back
+	make a plus shape (minimum safe distance is roughly the edge of the platforms) so each person hits one person of the opposite direction
+
+tankbuster
+raidwide
+sewage deluge
+shockwave
+
+kampeos harma - four players get blue square markers from 1 to 4 and four players get purple triangle markers from 1 to 4
+	the body will charge the blue markers, dealing damage reduced by distance, while the head will hit the purple markers, doing a big aoe
+	both hits give physical vuln up, but the body hits are not aoe (its charge is, though)
+	have the 1234 markers on cardinals and the purple players go there
+	the blue 2 and 4 markes should stay on the platform the boss jumps to, while the blu 1 and 3 markers go opposite
+	1 and 2 stay slightly in front, then switch over after the first hit
+
+tankbuster
+raidwide
+
+channeling overflow - gives everyone a knockback arrow like before, but some people have longer timers and some have shorter
+	shorter timers should position to do the knockbacks across the adjacent edges to the platform opposite the unsafe one
+tainted flood x2 - two sets of spread aoes, first targetting the longer timers, then the short
+	the long timers getting knocked north/south should go to the north/south safe edge and the east/west ones go to the east/west safe edge
+		safe edges being adjacent to the unsafe platform
+	after the first set of knockbacks and spreads go off, switch over
+	there's also a safe spot right in the corner of the safe platforms, closest to the boss but it is tight
+
+spoken/winged cataract - sprint is very useful here to get to the safe spot in time
+
+predatory avarice + dissociation - the head flies away and cleaves from north to south either on the east side or west side
+	stay on the safe side for this
+spoken/winged cataract - dodge into the safe corner from the cataract and have the debuff players spread along the north or south edge to avoid hitting the party or each other
+
+dissociation + sewage eruption - three baited puddles under every player, move along the boss in the safe side away from the head
+
+tainted flood - spreads on every player this time
+coherence
+tankbuster
+raidwide
+sewage deluge
+channeling overflow + coherence - tank with the longer timer needs to take the tether, the other long timers use the corner safe spot
+	this means it's much easier to group up for the wild charge
+dissociation + sewage eruption
+ominous bubble + shockwave
+tankbuster
+raidwide x2
+enrage

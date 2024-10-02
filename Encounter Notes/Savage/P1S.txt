@@ -35,7 +35,8 @@ intemperate torment - procedurally explodes the elements in their cells either f
 		getting hit by the small lines between cells will kill you
 raidwide - this goes off before the second hit, DO NOT GET BAITED
 	in the bad pattern (no stacks with ice on top and bottom) have the dps on 1 and tank on A adjust as follows
-		dps on 1 goes 1 > A > A, tank on A goes A > C > 1
+		top to bottom - dps on 1 goes 1 > C > A, tank on A goes A > A > 1
+		bottom to top - dps on 1 goes 1 > A > A, tank on A goes A > C > 1
 raidwide - this goes off after the 2nd hit but before the final hit, make sure to get healed up
 
 pitiless flail of purgation/grace - opposite of the previous
@@ -65,9 +66,8 @@ fourfold shackles - gives everyone a red or purple shackle debuff from aetherial
 
 raidwide
 intemperance + intemperate torment
-gaoler's flail - this will always be in then out and both flails go off between the 2nd and final hits
-	wait for the 2nd hit, then go in and towards your spot
-	then quickly go out to your spot after the first flail
+gaoler's flail - this will always be in/out in either order and both flails go off between the 2nd and final hits
+	wait for the 2nd hit, then dodge both flails, trying to stay towards your spot to minimise movement
 raidwide
 shining cells
 shackles of time

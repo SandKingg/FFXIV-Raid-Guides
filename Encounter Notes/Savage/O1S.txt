@@ -8,6 +8,7 @@ the classical elements - starts a combo mechanic
 		slide out to clock spots
 
 roar - raidwide
+
 tankbuster
 
 clamp - an aoe knockback in front of the boss
@@ -18,7 +19,9 @@ blaze - a stack marker on a random player
 
 tankbuster
 raidwide x2
+
 charybdis - sets hp to 1
+
 raidwide
 
 the classical elements 2 - this combo has 7 fireballs with a gap somewhere
@@ -33,10 +36,8 @@ blaze
 raidwide
 charybdis
 tankbuster
-
 fireballs x2 + levinbolt - go to clock spots to dodge inner fireballs and spread aoes then go in to dodge outer fireballs
 clamp
-
 raidwide x2
 
 the classical elements 3 + blaze - this combo has outer and inner fireballs

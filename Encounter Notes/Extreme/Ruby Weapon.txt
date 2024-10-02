@@ -14,7 +14,7 @@ flexiclaw - second is always ravensclaw
 	ravensclaw - creates four short and four long lines that explode at the tips
 		assign clock spots such that there's one melee and one ranged in each colour pair
 		may need to switch in colour pairs based on short/long positioning
-	ruby sphere + mechanic - spawns three aoes under each player, placed differently based on the mechanic
+	ruby sphere + liquefaction/undermine - spawns three aoes under each player, placed differently based on the mechanic
 		liquefaction - causes the ground to become quicksand except the lines
 			melees take short lines and ranged take long lines to place aoes on
 		undermine - causes the lines to erupt into aoes, so stand away
@@ -39,7 +39,8 @@ cut and run - the boss charges through the middle doing a series of big cones in
 
 ruby ray
 raidwide
-flexiclaw + ravensclaw 2 - this time the opposite liquefaction/undermine will be cast with ruby spheres
+flexiclaw + ravensclaw 2
+ruby sphere + undermine/liquefaction - opposite of previous
 ruby ray
 raidwide
 flexiclaw + liquefaction
@@ -59,17 +60,24 @@ meteor project - starts a bar charging up to 100, will do a raidwide once full
 negative personae - summons two adds, one blue and one orange and gives everyone a debuff
 	attack the add of the opposite colour to the debuff
 	keep them apart on opposite sides, slightly further north
-meteor stream - aoes on dps that need to be spread out
-greater memory - spawns coloured heads that tether to dps and need to be kited into the add of the opposite colour
-lunar dynamo/iron chariot - in/out respectively
-meteor stream
-ruby claw - multi-hit tankbuster
-change of heart - switches everyone's debuffs
-greater memory
-dynamo/chariot
-tankbuster
 
-negative aura - look away from the boss
+	meteor stream - aoes on dps that need to be spread out
+
+	greater memory - spawns coloured heads that tether to dps and need to be kited into the add of the opposite colour
+
+	lunar dynamo/iron chariot - in/out respectively
+
+	meteor stream
+
+	ruby claw - multi-hit tankbuster
+
+	change of heart - switches everyone's debuffs
+
+	greater memory
+	dynamo/chariot
+	tankbuster
+
+	negative aura - look away from the boss
 
 meteor project
 
@@ -84,7 +92,9 @@ mark ii magitek comet - spawns two comet markers that move along the ground befo
 bradamante - marks two players for line aoes that need to be shot away from the tanks
 
 meteor project
+
 outrage x2 - raidwides
+
 meteor stream x2
-outrage x2
+raidwide x2
 enrage

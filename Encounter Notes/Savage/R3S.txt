@@ -1,0 +1,80 @@
+brutal impact - a multi-hit raidwide
+
+knuckle sandwich - a multi-hit double-stack tankbuster
+
+quadruple/octuple lariat - either a point-blank or a doughnut aoe followed by either cones all all dps or all supports, or cones on every player
+	assign clock spots and pair stacks for this
+	if his arms are glowing, then it's a doughnut, otherwise it's a point-blank
+		this one will always be out
+
+quadroboom/octoboom dive - the boss turns to a random cardinal, jumping towards it and either doing proximity damage or a knockback
+	this is followed by either pair stacks (on supports/dps) or spread aoes on every player respectively
+	if his arms are glowing, it's a knockback, otherwise it's proximity damage
+		this one will always be proximity
+
+raidwides
+
+barbarous barrage - spawns six knockback towers, with three north and three south, followed by a seventh in mid
+	first take the middle two towers with four players in each, then get knocked to the corner towers with two players in each
+		can also knockback resist and run to the corners on the same side
+	then everyone takes the middle knockback tower, requiring eight people
+murderous mist - a big 270-degree cleave in front of the boss
+	make sure to get knocked into the corner the boss is standing in to dodge this
+
+doping draught - boss rps a bit and gains a buff, changing some of his abilities
+	the raidwides and tankbuster stacks hit twice more now
+
+quadruple/octuple lariat - opposite of previous
+quadroboom/octoboom dive - opposite of previous
+raidwides
+tankbuster
+
+tag team - summons two clones on adjacent edges of the arena
+chain deathmatch - the clones will chain to players, indicating that you must get hit by an attack from them
+lariat combo - the clones hold up their arms, indicating which side will be unsafe, bear in mind directly in front of them is also unsafe
+	this means you only need to look at the one you are NOT chained to, to find the safe area - just stand in front of the other one
+	however, you need to dodge the follow-up lariat, run to the safe corner
+
+quadruple/octuple lariat
+raidwides
+
+final fusedown - creates an array of eight bombs around the edge of the arena, with long or short fuses and also gives players long or short fuses
+	players and bombs will explode once their fuse runs out
+	the four short fuse bombs and four short fuse players explode first, then the long fuses
+	the fuses are role based, so either all dps or all supports will get long
+	have the long fuses wait mid while the short fuses run to long fuse bombs for their aoes
+	then short fuse players run back mid while long fuse players run to the new safe spots
+
+quadroboom/octoboom dive
+
+fusefield - spawns a ring in mid with four long fuses and four short fuses attached, while also giving bombarium debuffs to every player
+	one role will have shorter 24-second timers, the other role will have longer 40-second timers
+bombarian flame - spawns flames on all the fuses that slowly head towards mid
+	walking on a flame will deal raidwide damage, give a short magic vuln and remove that player's bombarium debuff
+	short timers should be on short fuses and long timers should be on long fuses
+
+tankbuster
+doping draught - gains a 2nd stack of the buff
+
+quadroboom/octoboom bombarian special - a multi-hit raidwide followed by a point-blank aoe, then a doughnut aoe, then a knockback into either pair stacks or spreads
+
+fuses of fury - spawns the short and long fuse bombs from earlier, but no fuses on players this time
+tag team + chain deathmatch - this time, some players will get chained to the boss as well as the clones, indicating they need to get hit by murderous mist later
+murderous mist
+
+quadroboom/octoboom dive
+raidwides
+tankbuster
+
+fuse or foe - gives fuses to players, either short or long
+infernal spin - the boss spins around, shooting out big cone aoes in front of him, while propagating circle aoes come from two opposite corners
+	after the first two circles go off, two more spawn in the other pair of opposite corners, also propagating outwards
+
+quadruple/octuple lariat
+raidwides
+barbarous barrage + lariat combo - this time use the final tower to get knocked to the lariat safe spot
+tankbuster
+doping draught - gains a 3rd stack of the buff
+
+special bombarian special - the multi-hit raidwide, point-blank and doughnut from the previous one, but no knockback or pairs/spreads
+enrage

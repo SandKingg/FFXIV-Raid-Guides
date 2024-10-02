@@ -59,7 +59,6 @@ ordeal of purgation 5 - just use eyes for this one
 ordeal of purgation 6 - will be one rectangle and one triangle next to each other
 	the safe spot is at the other rectangle adjacent to the active triangle
 	but be on the other side of the line to dodge the half-room cleave
-
 raidwide
 
 flamespire claw - marks every player from 1 to 8 and spawns two tethers, then cleaves each player in order

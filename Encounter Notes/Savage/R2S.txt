@@ -16,8 +16,9 @@ tempting twist/honey beeline - opposite of the previous
 
 killer sting/stinging slash - one of two tankbuster abilities
 	killer sting - a double stack tankbuster
-	stinging slash - two large cone tankbusters on each tank, don't clip people or each other
+	stinging slash - two large cone tankbusters on the top two in aggro, don't clip people or each other
 		if there is one floor line between you and you're standing on another floor line, that's safe
+		MAKE SURE OT IS SECOND IN AGGRO
 
 honey b. live: 1st beat - enters into a mini-phase, doing a raidwide and giving out heart stacks
 	reaching four heart stacks heals the boss and gives her damage up
@@ -67,6 +68,7 @@ splash/drop of venom
 
 alarm pheromones 2 - these line aoes are done in a 'shuriken' pattern, creating a safe spot in mid and four small safe spots around the edges
 poison sting - marks two players at a time (one support, one dps) to place aoe puddles that persist and give magic vuln
+	have supports place west-ish and dps east-ish
 
 bee sting - light party stacks on one support and one dps, just stack in roles
 
