@@ -169,5 +169,5 @@ raidwide x2
 
 forsaken 4 - forsaken 3 again, no changes
 
-raidwides x4 + damage up
+raidwide x4 - each one gives the boss a damage up stack
 enrage

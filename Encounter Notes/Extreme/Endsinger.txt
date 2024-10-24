@@ -10,6 +10,7 @@ elenchos - either does a big line aoe through the middle column of the arena or 
 	look at the boss, vomiting is mid aoe and crying is side aoes
 
 telos - raidwide
+
 hubris - tankbusters on top two aggro targets
 
 elegeia unforgotten

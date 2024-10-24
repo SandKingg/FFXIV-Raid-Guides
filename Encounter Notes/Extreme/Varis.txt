@@ -20,27 +20,28 @@ reinforced gunshield + tankbuster - charges up his shield and does a directional
 
 loaded gunshield + ventus est - charges up his shield and does spread aoes on each player at 100
 	then turns to a random player and does a windy garlean cross which shoots forward combined with a doughnut aoe
-	stay in then go to clock spots, whoever has the cross on their spots needs to wait at someone else's spot first
+	stay in then go to clock spots, whoever has the cross on their spot needs to wait at someone else's spot first
 
 vivere militare est - tanks use a cooldown and click on the interactible, party kills the cross
 
-enhanced gunshield mechs are in a random order here
-electrified gunshield + reinforcements + terminus est - calls in some adds
-	magitek turret i - shoots line aoes, just kill them
-	magitek turret ii - does a tankbuster tether on a player
-	terminus est - line aoes from north, go into the safe column
-	remember the knockback at the end
+the next part is split into three 'enhanced gunshield' mini-phases which happen in a random order
 
-alea iacta est
+electrified mini-phase
+	electrified gunshield + reinforcements + terminus est - calls in some adds
+		magitek turret i - shoots line aoes, just kill them
+		magitek turret ii - does a tankbuster tether on a player
+		terminus est - line aoes from north, go into the safe column
+		remember the knockback at the end
+	alea iacta est
 
-reinforced gunshield + altius + ventus est - bait altius north/south, then wait for ventus before moving and make sure to stop attacking for reinforced
+reinforced mini-phase
+	reinforced gunshield + altius + ventus est - bait altius north/south, then wait for ventus before moving and make sure to stop attacking for reinforced
+	tankbuster
 
-tankbuster
-
-loaded gunshield + ignis est - clock spots and out, much easier to dodge the cross here
-
-festina lente + terminus est - have a north/south priority for the light parties in the safe column
-tankbuster
+loaded mini-phase
+	loaded gunshield + ignis est - clock spots and out, much easier to dodge the cross here
+	festina lente + terminus est - have a north/south priority for the light parties in the safe column
+	tankbuster
 
 gunshield - mini phase, kill the gunshield
 	magitek torch/magitek spark
@@ -66,14 +67,11 @@ altius + terminus est + festina lente + ventus est + alea iacta est - lots of me
 	first bait altius north/south in mid
 	light parties go into the safe column with their n/s priority
 	stay in the safe column to dodge the cleaves
-	stay close to varis to dodge the ventus doughnut
-	you can safely stand in front of the ventus cross for the back cleaves but NOT for the front cleave, be careful with baiting
+	stay close to varis to dodge the ventus doughnut, while also dodging the cleaves
+	you can safely stand in front of the ventus cross for the front cleaves but NOT for the back cleave, be careful with baiting
 
 tankbuster
 
 ignis est + alea iacta est - go quickly out after moving through, the ignis goes off right after the final cleave
 
-loaded gunshield + fortius + festina lente
-tankbuster
-electrified gunshield + terminus est + fortius
-enrage?
+loops from loaded gunshield + fortius + festina lente until enrage

@@ -1,0 +1,48 @@
+ground-razing particle beam - raidwide
+
+the art of darkness - either the cloud or her two tentacles will be glowing
+	cloud - a line aoe on every player, assign clock spots
+	tentacles - a pair stack on all supports or all dps, use colour pairs
+
+the art of darkness - opposite of the previous
+
+devouring dark - a small hit on the MT that gives magic vuln, followed by a massive tankbuster line aoe
+	have the OT provoke for the hit, then provoke back after the vuln wears off
+
+obscure woods - a raidwide and stage transition
+
+flood of obscurity - a knockback that spawns brambles on every player shortly after
+	place them in intercardinals in colour pairs, use marker spots
+
+rejuvenating balm - the boss tethers to either north/south or east/west and does two massive aoes from those directions
+	at the same time players will be tethered to the closest bramble, while also supports and dps get tethered
+	assign a priority for safe spots from the aoes, there is enough time to break tethers even if you are close to the safe spot
+
+anti-air/wide-angle phaser unlimited - the boss moves to the side of the arena she tethered to, then does a three hit combo based on the cast name
+	anti-air - point-blank aoe, followed by massive aoe tankbusters and two light-er party stacks, then a large cone aoe
+	wide-angle - a large cone aoe, followed by line aoe tankbusters and light-er party stacks, then a point-blank aoe
+
+raidwide
+
+the second art of darkness - one tentacle will glow, then either the cloud or both tentacles
+	the single tentacle will do a half-room cleave on that side, followed by either clock spots or pair stacks
+
+wide-angle/anti-air phaser unlimited - opposite of the previous
+tankbuster
+
+empty plane - a raidwide and stage transition
+
+flood of emptiness - a raidwide that also destroys some of the tiles, leaving 12 in a rough diamond pattern
+	also gives everyone a debuff that causes them to shoot a line aoe in the direction they're facing once it expires
+	the tiles will now activate, disappearing either if two players stand on a tile, or if one player stands on a tile for too long
+
+hypercharged condensation - spawns four hypercharged cloud adds, one at each cardinal, that move towards the boss, giving her a damage up stack if they reach her
+	the clouds are heavied by players walking into them and should be killed quickly
+
+full-perimeter particle beam - a doughnut aoe, move into the inner tiles to dodge
+
+the art of darkness - always a half-room cleave, ensure that you wait for players in front of you to move into their tiles before moving
+	the cast is very long, giving you time to adjust quickly
+the art of darkness - either pairs or clock spots, for pairs take them between two tiles, not on the same tile
+
+deluge of darkness - a raidwide and stage transition back to the first platform
