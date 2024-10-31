@@ -1,0 +1,64 @@
+scorched exaltation - raidwide
+
+heat of condemnation - spawns two tankbuster tethers that need to be taken by the tanks
+
+experimental fireplume - summons either one giant orb or eight smaller orbs from the boss
+	giant orb - a massive baited aoe on a random player, ensure that you are all middle to start, then run out
+	eight small orbs - shiva circles, run to the first or second explosions to dodge
+
+left/right cinderwing - a half-room cleave on the side indicated by the castbar
+
+darkened fire - spawns darkened fire adds on all support or all dps, split into pairs for this
+	if the adds are too close, they tether and wipe the raid
+brightened fire - marks every player with an aoe and a number from 1 to 8
+	have 1 stack with 5, 2 stack with 6 etc halfway between two fires
+	the aoes reduce the stacks on the fires by one, and once all four stacks are gone you can kill them
+	make sure to kill all fires before they finish casting darkened blaze
+
+tankbusters
+raidwide
+
+devouring brand - spawns four lines of fire at the cardinals, that slowly move towards the middle before expanding outwards
+
+experimental fireplume - stand middle and move to an intercardinal while dodging the plume
+
+searing breeze - spawns a puddle under every player, make sure to leave these at the edge
+
+left/right cinderwing
+tankbusters
+experimental fireplume
+
+trail of condemnation - the boss appears at the edge and then dashes through the arena
+	if its middle head is glowing, it's a line aoe with spreads on every player
+	if its outer heads are glowing, it's a hot wing aoe with pair stacks on all supports or all dps
+
+add phase - spawns four small sunbirds towards the cardinals in mid
+	split into light parties and have the tanks take north+east and south+west adds respectively
+	kill the adds towards the edge to make sure they don't buff each other upon reviving, then rotate clockwise after killing the first add
+
+	flames of undeath - a massive raidwide that revives the birds and makes them giant
+		if any are too close, they buff
+
+	fireglide sweep - each bird tethers to a player, who is then tethered to another player not tethered to a bird (tethers go bird > player > player)
+		if tethered to a bird, run directly opposite to the edge
+		if not tethered to a bird, run directly opposite the player you're tethered to and be at the edge
+		the birds will charge at the player they are tethered to, dealing proximity damage and leaving a vuln
+		make sure to move after the birds do their first charge to avoid getting clipped by the second charge
+		DAMAGE THE BIRDS DURING THIS PHASE
+		once the charges go off, repeat the process you did for the small adds
+
+	flames of undeath
+
+dead rebirth - a big raidwide that wipes if the adds were too close at the end
+	the boss also begins auto-attacking the 2nd in aggro from now on
+
+tankbusters
+
+fledgling flight - gives one role sparkfledged markers with an arrow pointing in the direction they will do ashen eye half-room cleaves
+	stand on the markers for brightened fire and point the arrows out, while everyone else stacks mid
+
+experimental gloryplume - does the same markers as experimental fireplume but with an additional dark fire marker at the end
+	giant dark fire orb - a stack on one healer and one dps, split into roles
+	eight small dark fire orbs - a spread aoe on every player
+
+fountain of fire

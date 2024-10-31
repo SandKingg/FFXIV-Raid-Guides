@@ -46,3 +46,32 @@ the art of darkness - always a half-room cleave, ensure that you wait for player
 the art of darkness - either pairs or clock spots, for pairs take them between two tiles, not on the same tile
 
 deluge of darkness - a raidwide and stage transition back to the first platform
+
+summon - summons two clones that will copy her next attack
+
+the art of darkness - always a half room cleave, dodge the cleaves from the clones too
+tankbuster
+
+the third art of darkness - a sequence of three arts of darkness
+	the first and last are always half-room cleaves, the second will either be pairs or clock spots
+
+obscure woods
+flood of obscurity
+
+particle concentration - spawns eight towers in an X shape, four closer to mid and four in the corners
+	break tethers then quickly go to your tower, try to keep melee close and ranged far
+
+wide-angle/anti-air phaser unlimited
+raidwide
+rejuvenating balm
+the second art of darkness - there is time to adjust after the half-room cleave to your clock spot/pair spot
+tankbuster
+empty plane
+flood of emptiness
+hypercharged condensation
+full-perimeter particle beam
+the art of darkness - always a half-room cleave
+the art of darkness - pairs or clocks
+the art of darkness - always a half-room cleave
+the art of darkness - pairs of clocks again
+enrage
