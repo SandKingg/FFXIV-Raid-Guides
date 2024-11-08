@@ -21,7 +21,7 @@ geocrush - titan jumps to a random edge tile (not corner) doing a massive knockb
 split based on armaments
 
 timeline 1
-	earthen gauntlets - titan gets big fists, making only the squares in fornt of him safe
+	earthen gauntlets - titan gets big fists, making only the squares in front of him safe
 		yellows will go to the tiles further away in the order titan > dps > tank > healer while oranges stack up
 		quickly move out after the initial blast as the squares in front of him explode with aftershocks
 	
@@ -42,7 +42,7 @@ timeline 1
 		this means none will be considered too close and crumble
 	bomb boulders - three sets of three boulders drop down in vertical lines, that then explode in the order they were dropped
 		the centre line will always drop first
-	seismic wave - a big aoe form titan that needs to be line-of-sighted
+	seismic wave - a big aoe from titan that needs to be line-of-sighted
 		first go east towards the non-glowing boulder and hide behind it to dodge the wave
 		then move into the small safe spots from the centre line, directly south (or north) of the boulder
 		then quickly dodge into the centre line once it explodes, be very quick if it's a 2-to-1 dodge
@@ -84,7 +84,7 @@ earthen fury - a big raidwide
 earthen fist + weight of the land - titans fists glow in the order that they will punch the sides of the arena
 	dodge the fist punches, as well as the unsafe tiles
 
-dual earthen fists - a big knockback circle at north, plus two earthen anguish tankbusters and a blue pyramid marker
+dual earthen fists - a big knockback circle at north, plus two earthen anguish tankbusters on the top two in aggro and a blue pyramid marker
 	tanks should go NE and NW and knockback resist with cooldowns
 	everyone else can do the knockback properly
 	the blue pyramid is weight of the world, which explodes all adjacent (and diagonal) tiles as well
@@ -118,4 +118,23 @@ tumult - a mulit-hit raidwide
 dual earthen fists
 earthen fist + evil earth - dodge the expanding aoes along with the fists
 
-tectonic uplift 2
+tectonic uplift 2 - two opposite quadrants rise again, this time with four orange stacks
+	split into light parties, with one going up north and one going up south, but stay stacked
+	healers are both gaoled again, so place them on your own tile but in melee range of all other tiles
+pulse of the land - make sure everyone has an assigned spread tile in the quadrants
+weight of the world - either both tanks or both healers get blue markers and should go down into the corners
+	then the other role gets blue markers and should stay up in the corners
+	all dps get an orange marker and should go into the north down quadrant to stack
+	avoid the tile aoes too
+
+raidwide
+tumult
+plate fracture
+megalith
+plate fracture - will be either adjacent tile to the first one hit, pay attention
+	this is paired with a blue marker, 3 yellow markers and 4 orange markers
+	the blue marker should go fully south or fully west, whichever is safe
+	the orange markers should stack in one of the north safe tiles, while the yellow markers spread in the rest
+raidwide
+
+orogenesis - titan reappears, while titan maximum remains in the background

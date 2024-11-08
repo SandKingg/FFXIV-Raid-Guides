@@ -1,0 +1,64 @@
+wrath of zeus - raidwide
+
+bewitching flight - the boss grows wings and flies north with lasers from the wings showing the unsafe parts of the floor
+	also look for the gun batteries on the west edge and dodge those too
+	the wing aoes leave electric lines on the arena that grow and eventually explode
+
+electrifying witch hunt - either all supports or all dps get a spread aoe on them and a forked lightning debuff
+	stay out until the forked lightning resolves
+	this also spawns more gun batteries on the east that do line aoes, as well as one in the north
+
+witch hunt - the boss gets a closest/furthest marker, and those four players will get more spread aoes on them
+	make sure the role that wasn't hit first goes out/in and the rest spread their forked lightnings
+
+narrowing/widening witch hunt - the boss does a sequence of alternating closest/furthest markers then a sequence of alternating doughnuts and point-blanks
+	narrowing - doughnut first
+	widening - point-blank first
+	the closest/furthest two players each time will get spread aoes so use a sequence of roles (e.g. THMR) to make sure everyone gets one spread aoe
+
+raidwide
+
+electrope edge - spawns four electomines in the corners of the arena and shifts it to a 4x4 grid of squares
+witchgleam - does three sets of two lightning line aoes, hitting two mines twice and two mines once
+symphony fantastique - causes the mines to begin casting spark or spark ii
+	the mines that are hit twice explode in a 3x3 square, and the ones hit once explode in a 1x1 square
+sidewise spark - does a half-room cleave towards the side the boss is indicating, with either four or eight orbs orbiting her
+	four orbs means pair stacks and eight orbs means spreads
+	go towards the 1x1 mine on the safe side from the half-room cleave
+
+wicked jolt - two line aoe tankbusters that leave a vuln, swap after the first hit
+
+electrope edge + witchgleam 2 - shifts the arena into a 5x5 grid and gives everyone either a 20 or 40 second debuff, then does four sets of four line aoes towards players
+	stay in clock spots to avoid overlapping aoes
+	players hit three times will explode in a 5x5 square, those hit twice will explode in a 3x3 square
+	long debuffs will only get hit once or twice, but will charge up one more later
+lightning cage - does aoes on certain tiles, making them unsafe
+	first, the short debuff players need to go out and explode
+	there are two safe spots in two adjacent corners for the 5x5 aoes
+	the 3x3 aoes go in the 2x2 safe spots, away from the 5x5 aoes
+	the long debuffs go in a 1x1 safe spot on the edge opposite both safe corners to avoid all aoes
+sidewise spark - this will count as another 'hit' for the long debuff players
+	for pairs, the long debuff players are ALWAYS the ones targeted 
+	after this the long debuffs will go out and explode
+
+wicked bolt - a multi-hit stack marker that hits 5 times
+
+ion cluster - gives everyone three stacks of either positron or negatron
+	one tank and one healer will get each debuff, and two dps will get each
+
+stampeding thunder - the boss flies north, creating a cannon and blasting five aoes towards where she's aiming
+	quickly run to the safe side to avoid the floor disappearing
+
+electron stream x3 - does three blasts from her cannon, with each giving some debuffs
+	her cannon has a positive and negative end, players need to get hit by the opposite blasts to their debuff
+	these blasts are wild charges so make sure tanks are closest to the boss
+	debuffs -
+		four players get point-blank or doughnut aoes
+		two players get a near bait (blue arrow) or far bait (green arrow), these are thin cone aoes
+		two players need to get hit by one of these attacks
+		have the aoes position close to the boss near the corners of the middle tile
+		then the bait and 'get hit' players stay near the middle of those two tiles to take the cone baits
+
+tankbusters
+
+electrope transplant
