@@ -54,11 +54,59 @@ dead rebirth - a big raidwide that wipes if the adds were too close at the end
 
 tankbusters
 
-fledgling flight - gives one role sparkfledged markers with an arrow pointing in the direction they will do ashen eye half-room cleaves
+fledgling flight - gives one role sparkfledged markers with an arrow pointing in the direction they will do ashen eye cone aoes
 	stand on the markers for brightened fire and point the arrows out, while everyone else stacks mid
 
-experimental gloryplume - does the same markers as experimental fireplume but with an additional dark fire marker at the end
-	giant dark fire orb - a stack on one healer and one dps, split into roles
+experimental gloryplume - does the same markers as experimental fireplume but with an additional ashplume marker at the end
+	the first hit will always be shivas
+	giant dark fire orb - a stack on one healer and one tank, split into melee and ranged groups with melee having NE priority
 	eight small dark fire orbs - a spread aoe on every player
 
-fountain of fire
+fountain of fire - spawns four sets of two towers, rotating clockwise from either east/west or north/south
+	healers should stand in the towers and soak them as they get a massive healing up buff
+sun's pinion - marks the two closest players for aoes that drop birds, this happens 3 times
+	the birds then mark the player who had their aoe with a proximity tether
+	then two players should bait the aoes and place them in front of the towers, then run directly opposite to stretch their bird tether
+	usually the order is tank > melee > ranged
+	try to stay out of the middle to avoid the bird dashes
+
+raidwide x2
+tankbusters
+
+firestorms of asphodelos - a big raidwide that spawns three tornadoes at north, SE and SW
+
+flames of asphodelos - does three sets of opposing cone aoes that rotate around the arena, dodge from a safe spot into one that has already gone off
+experimental ashplume - does one of the dark fire markers from gloryplume
+
+flames of asphodelos
+
+storms of asphodelos - gives two players tankbuster tethers, then done a cone aoe towards the three closest players to the boss
+	additionally, each tornado will be a cone aoe towards the closest player to it
+	assign three ranged players to bait tornado cones, and one melee player to bait the boss cone
+	the other two cones are baited by tanks using invuln for the busters as well
+	if not baiting, stand behind the melee baiter at south
+
+darkblaze twister - empowers the tornadoes, two with fire and one with dark fire
+	later on the darkfire tornado will do a knockback and the others will do doughnuts
+
+searing breeze
+experimental ashplume - this resolves after the knockback
+	make sure melees and ranged get knocked to different tornadoes, then stack or spread as needed
+raidwide
+
+death's toll - gives everyone 1, 2 or 4 stacks of a beyond death debuff indicating how many times you need to get hit by the next mechanic
+
+fledgling flight - these should be pointed in to allow players to get hit
+	4s should stand in the middle, 1s should stand behind an add, and 2s should stand on an intercardinal to get hit by the further two adds
+
+life's agonies - a massive raidwide that deals more damage the less hp you have?
+	since everyone has healing taken down, this is a big heal and mitigation check
+
+experimental gloryplume - the first hit will always be the baited aoe
+trail of condemnation
+devouring brand
+experimental fireplume
+searing breeze
+left/right cinderwing
+raidwide x2
+enrage

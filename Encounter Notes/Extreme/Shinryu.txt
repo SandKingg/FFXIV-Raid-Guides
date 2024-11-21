@@ -90,7 +90,7 @@ atomic ray + burning chains - either all supports or all dps get stack markers
 hypernova/levinbolt + ice storm - everyone stacks up and either stays still if hypernova or keeps moving if levinbolt
 	hypernova will unfreeze people from ice storm or moving will prevent freezing entirely
 
-wyrmwail/benighting breath - either a tight doughnut aoe that requires going into the doom zone under shinryu, or a massive cone aoe
+wormwail/benighting breath - either a tight doughnut aoe that requires going into the doom zone under shinryu, or a massive cone aoe
 
 tankbuster
 reiryu

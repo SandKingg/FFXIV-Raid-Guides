@@ -61,4 +61,81 @@ electron stream x3 - does three blasts from her cannon, with each giving some de
 
 tankbusters
 
-electrope transplant
+electrope transplant - begins a long transition with a series of aoes
+	dodge the cone aoes on the ground that rotate for 7 hits
+	on the fifth hit all supports or all dps will get spread aoes, so stay spread
+	on the sixth hit will be pair stacks, make sure the role who did NOT get the spreads is in front
+	then dodge the seventh hit
+	this repeats for another 7 hits, with the opposite role getting the spreads on the fifth hit
+	finally stay in front of her on the hitbox arrow to get knocked onto the next platform
+
+cross tail switch - a series of massive raidwides followed by a carpet of exaflares on the platform
+	can tank lb3 the raidwides once the castbar hits 'switch'
+wicked blaze - two multi-hit light party stacks on the healers, go into the north corners between the exas
+	look opposite to see which one is coming towards you and dodge away from that after they begin to move
+
+wicked special - either her sword or her two tentacles are glowing, indicating whether the middle or sides will be hit by aoes
+
+mustard bomb - spawns two tankbuster tethers that leave a transferrable debuff while also doing spread aoes on four random non-tanks
+	every hit gives a fire vuln up, so the two players who did not get hit need to take the debuff from the tanks
+	the debuffs explode in aoes so go back to being spread after passing them
+
+aetherial conversion - turns her two tentacles either blue or orange
+	blue - a knockback from that side
+	orange - aoe from that side
+
+tail thrust - executes the abilities of her tentacles
+	for knockback, use the small indicators of where the tails land to get knocked to an opposite corner
+	for aoes, dodge in the opposite north middle square, towards the corner of it
+
+azure thunder - a raidwide that also creates an electric border, leaving only a circle of the platform safe
+
+twilight sabbath - spawns four clones towards each cardinal
+wicked fire - baits large aoe puddles on every player
+	two of the sabbath clones will be spawning faster than the others, so dodge their sidewise spark first
+wicked special - dodge the second clones cleaves along with this aoe
+
+midnight sabbath - spawns eight sabbath clones towards the cardinals and intercardinals
+	one set, either cardinals or intercardinals, will be spawning faster than the rest
+	winged clones do doughnut aoes, gun clones do line aoes
+concentrated/scattered burst - either a pair stack into spread or spread into pair stack respectively
+	if the first set is winged, dodge inside the doughnut, otherwise dodge away from the lines
+
+wicked special
+
+wicked thunder - raidwide
+
+aetherial conversion
+
+flame slash - removes the middle two columns of the platform, spread in light parties to the sides
+
+raining swords - spawns four towers on each platform that need to be soaked, assign a role order to soak each
+
+chain lightning - indicates which swords that lightning will jump to and do point-blank aoes, each side will get four sets of aoes
+	the jumps alternate sides each time to give time to move
+	if you need to do a 1 -> 4 or 4 -> 1 dodge, use sprint
+	each sword will be safe exactly once but each light party gets a different order
+
+tail thrust
+mustard bomb
+aetherial conversion
+azure thunder
+ion cluster - only gives one stack of the debuff this time, with either a long or short timer
+	tanks will always get opposite debuffs and opposite timers, same with healers
+
+sunrise sabbath - spawns six clones, four on the intercardinals and two on opposite cardinals
+	the intercardinal clones will be gun clones, imbued with a specific element, that will fire towards the closest player
+	short timers need to quickly bait their gun clone away from others, again opposite of their debuff
+	the cardinal clones are winged clones that are looking towards where towers will spawn
+	long timers need to take these towers and line aoes need to be baited away from them
+wicked special - dodge this aoe before the next set of timers bait
+	long timers bait line aoes while short timers now take the towers
+	look again where the clones are looking to see towers
+
+tail thrust
+
+sword quiver x3 - the boss carves a set of four line aoes into the platform, followed by very hard-hitting pair cleaves
+	if the pattern has a line north or south, safe spots are east, west and then SE/NE and NE/NW, opposite of the horizontal line
+	if the pattern has a line through the middle, safe spots are at the intercardinals
+
+enrage

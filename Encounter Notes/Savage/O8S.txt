@@ -103,6 +103,7 @@ raidwide
 pasts forgotten/futures numbered - both start with an untargeted stack on a random player, stack behind the boss
 	past - does a cleave behind kefka, stay where you are
 	future - does a cleave in front of kefka, move through
+
 ultimate embrace - double tankbuster stack, but can have one tank invuln which clips the next buster too
 
 tankbuster

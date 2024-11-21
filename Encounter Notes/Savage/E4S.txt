@@ -138,3 +138,29 @@ plate fracture - will be either adjacent tile to the first one hit, pay attentio
 raidwide
 
 orogenesis - titan reappears, while titan maximum remains in the background
+
+raidwide (big) - now applies a dot as well
+
+weight of the land (rotating) - marks four outer squares and one inner square for explosions which then move clockwise around the arena
+	all dps will get yellow markers and all supports will get orange markers
+	for this we use the clown face strategy
+		position the boss between two middle tiles - this is relative south
+		the orange markers go south of that
+		the melee yellows stay mid, one with west priority and one with east priority
+		the ranged yellows go SE and SW
+		switch tiles when the one next to you explodes, then move back
+
+dual earthen fists
+raidwide (small) + tumult
+raidwide (small) + raidwide (big)
+weight of the land (rotating) - this time supports get yellow markers and dps get orange
+earthen fist
+tankbusters
+megalith
+raidwide (big)
+weight of the land (rotating) - same as the first time
+earthen fist
+raidwide (small) + tumult
+raidwide (small) + tumult
+raidwide (small)
+enrage
