@@ -1,0 +1,100 @@
+aethertithe - small, persistent raidwide damage that also turns the floor into contour lines
+	there will be three lines that bend towards her, indicating where cone aoes will be
+	dodge away from each of the cones
+retribute x3 - after each cone there will be two line stacks shot at each healer, assign light parties and stay in line
+
+virtual shift (wind) - a big raidwide that transitions the platform to another stage
+
+laws of wind - two light party stacks on each healer that leave persistent tornadoes, place them NW and SE on the hourglass 'spokes'
+	also gives everyone a debuff that will knock them to the left or right once it expires
+	make sure to move out of the tornadoes onec they spawn
+
+missing link - chains all dps to all supports, which need to be broken
+	have dps run NE and supports run SW
+
+legitimate force - one hand on each side will begin glowing in order, before doing a half room cleave on that side
+	the higher hand is always the once that glows first and cleaves first
+	immediately after this run to the edge for your knockback debuffs
+
+world shatter - a raidwide that returns the platform to normal
+
+prosecution of war - a double-hit tankbuster that gives a vuln, make sure to swap and mitigate hard
+
+divide and conquer - marks every player with a line aoe in sequence, then fires towards them in the same sequence
+	after every player has been hit, the lines hit again exactly where they first hit, so move into a safe spot
+	make sure to spread out enough to create safe spots on your light party sides with tanks in the corners, then melee, healers and ranged
+
+royal domain - raidwide
+
+virtual shift (earth) - the earth platforms have a levitator that allows you to walk over the gaps
+
+laws of earth - doesn't really do much, but it will spawn four mini mud towers on each platform later
+	have melee take the front towers and ranged take the back towers and decide which side dps are going vs supports
+
+legitimate force - dodge the cleaves, then go down and take your mud towers
+
+gravitational empire - on each side, there will be one player who gets an aoe and one player with a tether and crosshair marker
+	also spawns two more mud towers on each platform, one in front and one in the back
+	have the tethered players go up and all the way in the northern corners while the aoes stay east/west in max melee
+	the two other players take the towers on the platform, supports adjust if there are two melee/two ranged
+
+meteor impact x2 - every player will get a meteor aoe which drops a meteor onto the platform
+	make sure you are floating to avoid getting hit
+	try to place two meteors in front and two meteors behind for the next mechanic
+		other strats do exist e.g. L strat or penis strat
+	for the second hit, move over the void to drop your meteor off the platform
+	if two meteors are too close, they explode and wipe the raid
+
+weighty blow - spawns four spheres on each side that home in on players on that side one by one
+	if a sphere hits a meteor, it dies and the meteor crumbles
+	hide behind the back meteors, then move across once both in that line are destroyed
+	if a back meteor is hit before a front meteor, make sure to move forward to avoid dying
+	if any meteors are left over, it's a wipe
+
+world shatter
+tankbusters
+
+coronation - spawns a movable line aoe on each edge and tethers one player to each side of each aoe
+	the aoe moves such that it is always halfway between the two players tethered to it
+	all players will also get a massive point-blank aoe on them, so they need to be spread
+	essentially, we want to make a # symbol by having one player at the midpoint of each edge and one player in each corner
+	it is possible for exactly one of the non-north edge players player to get uptime by instead standing in the middle of the arena
+
+absolute authority - does periodic pulsing raidwide damage while also giving every player some debuffs
+	either all supports or all dps will get flares, and the other role will get a stack
+	every player also gets an abandonment debuff
+	start in the NW corner and move along the hitbox edge dropping puddles, then the flares split off and go towards the midpoint and east corners of north/south
+	the other role stays stacked, then the flares stack with each other in north and south for abandonment
+	finally, there is a big knockback from north but this can easily be knockback resisted
+
+virtual shift (ice)
+
+laws of ice - gives everyone a freezing up debuff that they must keep moving during, and also spawns four ice bridges
+	two bridges spawn in the north and two in the south, connecting the three platforms
+	if two or more players walk onto a bridge at the same time, it shatters and kills them both
+
+rush - eight icicles will spawn, four in the south and two in both the east and west, that do proximity tethers towards players
+	the south ones will tether first, then the east/west ones
+	either all supports or all dps will get tethered first and should move across the bridges first
+	the outer south tethers should use the north bridges and the inner ones should use the south bridges
+	make sure to move across the bridge that takes you away from your icicle
+	then, the other role moves across, making sure to cross their tether, i.e. northmost takes the south bridge and southmost takes the north bridge
+	make sure to stay spread as getting hit by two icicles will kill you since they leave a short vuln
+
+legitimate force - after spreading for the icicles, get back to the middle quickly
+	the role that went out SECOND needs to go back first, as they are closer to the bridges
+	use the same bridge you came over on, sprint is handy for the role that comes back second, especially if using the south bridge
+	dodge the cleaves on the middle platform
+
+laws of ice
+
+ice dart + raised tribute x4 - ice dart targets two player with passable tethers that do massive aoes while raised tribute is a line stack
+	the ice darts need to go to the outer platforms in the northern corners while the line stack stays south and mid
+	we rotate while role takes the ice darts one at a time, with tether TAKERS going across the north bridges and tether PASSERS going across the south bridges
+
+world shatter
+tankbusters
+raidwide
+legitimate force
+raidwide
+enrage
