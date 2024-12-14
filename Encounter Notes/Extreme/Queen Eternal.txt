@@ -56,7 +56,7 @@ tankbusters
 
 coronation - spawns a movable line aoe on each edge and tethers one player to each side of each aoe
 	the aoe moves such that it is always halfway between the two players tethered to it
-	all players will also get a massive point-blank aoe on them, so they need to be spread
+atomic ray - gives every player a massive point-blank aoe on them, so they need to be spread
 	essentially, we want to make a # symbol by having one player at the midpoint of each edge and one player in each corner
 	it is possible for exactly one of the non-north edge players player to get uptime by instead standing in the middle of the arena
 
@@ -97,4 +97,25 @@ tankbusters
 raidwide
 legitimate force
 raidwide
+enrage - get her to 0% before this cast ends and mitigate hard
+
+radical shift - creates outlines of the three virtual shift platforms on the ground, then the world spins clockwise or anticlockwise
+	look at the background to see which way it's rotating and look at the sides to see which platform is safe
+	spread out within the outline to avoid overlapping the spread aoes
+	for ice, only one person can be on the bridges or they instantly break
+
+radical shift
+world shatter
+
+dimensional distortion - creates fast-moving exaflares from north
+	stand in between two and move after one blast
+
+tyranny's grasp - turns the north half of the platform into a death zone and creates two tankbuster towers at east and west
+	tanks tank the one on your light party side and use cooldowns
+	then she follows up with dying memory mini-raidwides
+
+royal banishment - a multi-hit line stack with one final delayed hit at the end
+
+radical shift x2
+world shatter
 enrage

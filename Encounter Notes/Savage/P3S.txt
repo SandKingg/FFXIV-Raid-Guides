@@ -89,7 +89,9 @@ storms of asphodelos - gives two players tankbuster tethers, then done a cone ao
 darkblaze twister - empowers the tornadoes, two with fire and one with dark fire
 	later on the darkfire tornado will do a knockback and the others will do doughnuts
 
-searing breeze
+searing breeze - four sets of puddles this time
+	start one tornado clockwise of knockback and keep moving clockwise at max melee, dropping puddles
+	then quickly get close to knockback tornado
 experimental ashplume - this resolves after the knockback
 	make sure melees and ranged get knocked to different tornadoes, then stack or spread as needed
 raidwide

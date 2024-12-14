@@ -70,7 +70,7 @@ electrope transplant - begins a long transition with a series of aoes
 	finally stay in front of her on the hitbox arrow to get knocked onto the next platform
 
 cross tail switch - a series of massive raidwides followed by a carpet of exaflares on the platform
-	can tank lb3 the raidwides once the castbar hits 'switch'
+	can tank lb3 the raidwides once the castbar hits 'switch' but make sure to mitigate as well
 wicked blaze - two multi-hit light party stacks on the healers, go into the north corners between the exas
 	look opposite to see which one is coming towards you and dodge away from that after they begin to move
 

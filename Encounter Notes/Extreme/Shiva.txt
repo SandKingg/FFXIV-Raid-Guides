@@ -33,7 +33,6 @@ adds - summons four ice soldiers that need to be grouped up and killed
 dreams of ice (2)
 weapon change (sword) - always sword
 icebrand
-
 glacier bash
 heavenly strike
 

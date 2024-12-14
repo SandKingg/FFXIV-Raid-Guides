@@ -2,7 +2,7 @@ aero iv - raidwide
 
 trick reload - loads eight bullets into her gun
 	the first and last bullets are spread (loaded) or stack (bonked), always opposite of each other
-	the middle six show which aegments are unsafe (loaded) or safe (bonked), there will always be one safe segment
+	the middle six show which segments are unsafe (loaded) or safe (bonked), there will always be one safe segment
 
 trapshooting - stack/spread as appropriate
 
