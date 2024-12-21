@@ -28,8 +28,7 @@ pandaemoniac pillars - spawns eight towers in rows of 3, 3 and 2
 	afterwards, the towers will either chain down or float up
 	chain means a point-blank, floating up means a doughnut
 	the two southern towers will always do a line aoe, making that region unsafe
-circles of pandaemonium/pandaemon's holy
-	identify which of the two rows is safe, and dodge there
+circles of pandaemonium/pandaemon's holy - identify which of the two rows is safe, and dodge there
 
 silkspit - gives every player a web aoe that tethers together if you're too close to another player
 	players need to spread out on the main platform and smaller platforms to avoid tethering together
