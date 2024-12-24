@@ -1,0 +1,135 @@
+blade of darkness x2 - the boss draws either one blade back on either side or draws both blades towards her
+	one blade means a doughnut aoe close to her on the opposite side of the blade
+	two blades means a big point-blank aoe so move away
+
+deluge of darkness - a raidwide and bleed that changes the platform
+	her auto-attacks now hit the tanks in every alliance and give lightning vulns
+	there are two different timelines for this phase that you can tell apart by the timers on the first grim embrace
+
+timeline 1 (50/1m) -> (42/49/56/1m)
+	grim embrace x2 - tethers random players to a crystal in her hand, giving them a debuff
+		when the debuff expires, a hand will spawn either in front or behind them and do a small line aoe in front of it
+		if she's holding the crystal then the hand spawns behind, so move back
+		if she's 'projecting' her hand towards the crystal then the hand spawns in front, so keep moving forward
+		the second cast will always be the opposite of the first
+		getting hit by a hand gives an esunable doom debuff
+		there will be four different debuff timers at the end of the second cast
+
+	razing-volley particle beam - cloudlets of darkness spawn on the outer edges, charging up line aoes in their rows or columns
+		these go off in the same order they start charging, just dodge
+
+	flare - gives a random player in each alliance a flare marker
+		assign one alliance to each corner and have their member go there, make sure to still dodge the last cleaves
+
+	unholy darkness - a stack marker on all six healers, split into light parties and don't overlap
+
+	blade of darkness - first debuffs go off immediately after this
+
+	enaero/endeath iv - stocks an ability for the next blade of darkness
+		aero - knockback
+		death - draw-in
+		second and third debuffs go off after this
+
+	aero/death/break iv - one of three random abilities
+		aero iv - a knockback circle near the boss
+		death iv - a draw-in towards a small point-blank aoe, then a doughnut so move in after the point-blank
+		break iv - a look away from the boss and two sinister eyes in the back
+
+	blade of darkness - the stocked ability goes off here
+	razing-volley particle beam - the fourth debuffs go off here
+	aero/death/break iv
+	
+timeline 2 (40/1m) -> (31/55/1m/1m)
+	grim embrace x2
+	razing-volley particle beam
+	aero/death/break iv - the first set of debuffs goes off after this
+	enaero/endeath iv
+
+	rapid-sequence particle beam - a series of line stacks on each alliance
+		make sure tanks are in front as the first two players in each stack take more damage
+		second set of debuffs go off after this
+
+	razing-volley particle beam
+	blade of darkness - remember what she stored before
+		third set of debuffs go off after this
+	flare - fourth set of debuffs go off after this
+
+flood of darkness - a big raidwide that returns the platform to normal
+
+deluge of darkness 2 - this raidwide transforms the platform differently
+	there will be two 'outer' platforms that need six players each on them, while the other players stay on the inner ring of tiles
+	the outer players must deal with two stygian shadow adds
+	the ring players need to ensure that two players never stand on the same tile, otherwise it breaks and they fall to their deaths
+
+atomos - atomos adds will randomly spawn around the edges and should be killed immediately
+	killing them spawns portals on the outer ring that allow players to move into the inner ring of tiles
+
+dark dominion - raidwide
+
+the third art of darkness - each stygian shadow indicates three art of darkness attacks in sequence
+	one tentacle glowing - a half platform cleave on that side
+	two tentacles glowing - pair stacks on the three closest players
+	body glowing - line aoes on every player, make sure not to aim them inside
+particle concentration - spawns towers around the whole arena that need differing numbers of players in them
+	each outer platform has two 3-person towers
+	each corner of the ring will have one 2-person tower and one solo tower
+	make sure the 2-person tower is soaked on two different tiles
+
+ghastly gloom - either a plus or a doughnut aoe
+	look at the clouds around her, if they form a square it's a plus, otherwise it's a doughnut
+	outer players need to go onto the ring around the outer edge of the arena to avoid the plus
+
+atomos
+
+curse of darkness - raidwide from the stygian shadows that gives players on the outer platforms a debuff
+	they do a small cone aoe in the direction they're facing once the debuff expires, so look away from others
+
+evil seed - gives eight random players a bramble marker, causing them to drop bramble aoes underneath them
+	try to put these in the middle of ring edges or on the edge of the outer platforms
+
+ghastly gloom - opposite of previous?
+
+thorny vine - tethers players to the nearest bramble, they need to run far away to break the chains
+
+flood of darkness (shadows) - an interruptible cast on the two stygian shadows
+
+diffusive-force/chaos-condensed particle beam - a spread on every player or a line stack that needs tanks in front
+	diffusive-force - orbs around her
+	chaos-condensed - a golden glow around her
+
+core-lateral/lateral-core phaser - both stygian shadows cast one of two phasers
+	the stygian shadows also tether to the outside and move there befoer casting the phasers, so dodge on the outer ring
+	core-lateral - front safe then sides safe
+	lateral-core - sides safe then front safe
+active-pivot particle beam - the boss begins rotating while shooting line aoes from her front and back
+	these repeat until she fires at 90 degrees from her starting position
+
+excruciate - tankbusters from the stygian shadows
+
+atomos
+
+looming chaos - randomly shuffles players around between the inner ring and outer platforms
+	does a small raidwide too
+
+curse of darkness
+particle concentration
+core-lateral/lateral-core phaser
+raidwide
+
+feint particle beam - spawns following aoes on four players on the inner ring
+	run in a consistent direction to avoid overlap
+
+the third art of darkness
+atomos
+ghastly gloom
+core-lateral/lateral-core phaser
+diffusive-force/chaos-condensed particle beam
+flood of darkness (shadows)
+
+evaporation - both shadows disappear and deal damage to the boss based on their missing hp
+
+flood of darkness
+deluge of darkness 3 - goes to the same platform as the first deluge
+	this timeline will be the opposite of the first
+
+enrage
