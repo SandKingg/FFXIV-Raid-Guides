@@ -30,19 +30,19 @@ timeline 1 (50/1m) -> (42/49/56/1m)
 		death - draw-in followed by point-blank into doughnut
 		second and third debuffs go off after this
 
-	aero/death/break iv - one of three random abilities
-		aero iv - a knockback circle near the boss
-		death iv - a draw-in towards a small point-blank aoe, then a doughnut so move in after the point-blank
-		break iv - a look away from the boss and two sinister eyes in the back
+	break iv - look away from the boss and two sinister eyes in the back
 
 	blade of darkness - the stocked ability goes off here
 	razing-volley particle beam - the fourth debuffs go off here
-	aero/death/break iv
+
+	aero/death iv - one of two random abilities
+		aero iv - a knockback circle near the boss
+		death iv - a draw-in towards a small point-blank aoe, then a doughnut so move in after the point-blank
 	
 timeline 2 (40/1m) -> (31/55/1m/1m)
 	grim embrace x2
 	razing-volley particle beam
-	aero/death/break iv - the first set of debuffs goes off after this
+	aero/death iv - the first set of debuffs goes off after this
 	enaero/endeath iv
 
 	rapid-sequence particle beam - a series of line stacks on each alliance
