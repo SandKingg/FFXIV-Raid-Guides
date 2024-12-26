@@ -27,7 +27,7 @@ timeline 1 (50/1m) -> (42/49/56/1m)
 
 	enaero/endeath iv - stocks an ability for the next blade of darkness
 		aero - knockback
-		death - draw-in
+		death - draw-in followed by point-blank into doughnut
 		second and third debuffs go off after this
 
 	aero/death/break iv - one of three random abilities
@@ -93,7 +93,7 @@ thorny vine - tethers players to the nearest bramble, they need to run far away 
 
 flood of darkness (shadows) - an interruptible cast on the two stygian shadows
 
-diffusive-force/chaos-condensed particle beam - a spread on every player or a line stack that needs tanks in front
+diffusive-force/chaos-condensed particle beam - a spread on every player or six line stacks that need tanks in front
 	diffusive-force - orbs around her
 	chaos-condensed - a golden glow around her
 
@@ -108,7 +108,9 @@ excruciate - tankbusters from the stygian shadows
 
 atomos
 
-looming chaos - randomly shuffles players around between the inner ring and outer platforms
+looming chaos - shuffles players around between the inner ring and outer platforms
+	the furthest three players on both east and west are swapped with three players inside each
+	the other inside players are swapped between each other and remain inside
 	does a small raidwide too
 
 curse of darkness
