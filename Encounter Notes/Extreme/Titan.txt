@@ -1,0 +1,103 @@
+landslide - a line aoe targeted towards a random player, just dodge
+
+weight of the land - puddles under random players, be quick to move out
+
+mountain buster - an untelegraphed tankbuster that leaves a physical vuln up
+	swap at two stacks
+
+tumult - a multi-hit raidwide
+
+loops from landslide until <85% hp
+
+geocrush - titan jumps into the air then lands, doing proximity damage from the centre and destroying the edge of the arena
+
+landslide - now does three line aoes
+
+granite gaols - marks one healer and one dps for gaols, imprisoning them until the gaol is destroyed
+	have the healer gaol stand directly underneath titan and the dps gaol at the edge of the arena towards south
+	if the gaols are too close there will be a tether between the markers and they gain a vuln down, making them impossible to kill
+
+tankbuster
+
+upheaval - titan raises his leg then stomps down, doing a knockback away from him
+	make sure to break the healer free before this goes off
+	stand directly under titan and slightly south to avoid falling off
+	he should be tanked directly north at this point
+
+landslide - don't break the gaol if this will hit the player immediately, wait a bit instead
+raidwides
+weight of the land
+tankbuster
+landslide
+weight of the land
+
+bomb boulders - spawns an array of bomb boulders that make one half of the arena unsafe
+	move into the safe half
+
+tankbuster
+
+loops from landslide after geocrush until <55% hp
+
+geocrush 2 - titan's heart spawns and the boss becomes untargetable, dps it down quickly
+weight of the land
+granite gaols
+
+rock buster - a smaller tankbuster that doesn't leave a vuln
+
+upheaval - consider using knockback resist here as the arena is even smaller now
+landslide - will now do five line aoes
+raidwides
+weight of the land
+rock buster
+
+bomb boulders 2 - spawns bomb boulders in a circle around the arena then one in mid
+	start in mid then move out once the first boulders explode
+
+landslide
+???
+enrage - destroy titan's heart before this point
+
+earthen fury - a big raidwide
+
+granite gaolers - spawns two granite gaolers at east and west that need to be picked up by the OT
+	they cast one round of tumult each when spawning
+	take them both west and dps them down quickly
+	they leave puddles on the ground when defeated that heavy players and deal damage
+	they will start casting landslide line aoes (just one) if left alive too long
+
+tankbuster
+
+bomb boulders 3 - spawns four bomb boulders in the cardinals, then four in the intercardinals
+	there will be a middle boulder randomly with one of the two sets
+	dodge the first set then move into it after it explodes
+
+landslide
+tankbuster
+weight of the land
+granite gaols
+tankbuster
+upheaval
+landslide
+tankbuster
+raidwides
+weight of the land (double) - will spawn two sets of puddles
+tankbuster
+
+bomb boulders 4 - spawns three lines of bomb boulders one at a time, with the first one always being mid
+	dodge to the side that spawns last, then move into mid once those go off
+
+landslide
+tankbuster
+
+bomb boulders 5 - spawns eight boulders around the edge and one in mid
+	one needs to be destroyed to make a safe spot
+	destroy the south boulder
+
+raidwides
+weight of the land
+geocrush - this goes off along with the boulders exploding, but doesn't destroy the arena
+	stand in the safe spot you made and mitigate
+
+landslide
+
+loops from granite gaolers until enrage
