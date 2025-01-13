@@ -58,8 +58,10 @@ flood of darkness - a big raidwide that returns the platform to normal
 
 deluge of darkness 2 - this raidwide transforms the platform differently
 	there will be two 'outer' platforms that need six players each on them, while the other players stay on the inner ring of tiles
+		ideally there should be one tank, healer and dps in each corner of the inner ring
 	the outer players must deal with two stygian shadow adds
 	the ring players need to ensure that two players never stand on the same tile, otherwise it breaks and they fall to their deaths
+		also, the tiles have a (fairly long) timer that needs to be periodically refreshed
 
 atomos - atomos adds will randomly spawn around the edges and should be killed immediately
 	killing them spawns portals on the outer ring that allow players to move into the inner ring of tiles
@@ -71,7 +73,7 @@ the third art of darkness - each stygian shadow indicates three art of darkness 
 	two tentacles glowing - pair stacks on the three closest players
 	body glowing - line aoes on every player, make sure not to aim them inside
 particle concentration - spawns towers around the whole arena that need differing numbers of players in them
-	each outer platform has two 3-person towers
+	each outer platform has two 3-person towers either north/south or east/west
 	each corner of the ring will have one 2-person tower and one solo tower
 	make sure the 2-person tower is soaked on two different tiles
 
@@ -83,26 +85,30 @@ atomos
 
 curse of darkness - raidwide from the stygian shadows that gives players on the outer platforms a debuff
 	they do a small cone aoe in the direction they're facing once the debuff expires, so look away from others
+	there are three different debuff timers (7s, 33s & 97s) here, so pay attention
 
 evil seed - gives eight random players a bramble marker, causing them to drop bramble aoes underneath them
 	try to put these in the middle of ring edges or on the edge of the outer platforms
 
-ghastly gloom - opposite of previous?
+ghastly gloom - opposite of previous
 
 thorny vine - tethers players to the nearest bramble, they need to run far away to break the chains
+	also, on the inside, two pairs of two players will be tethered together
+	they need to run to an adjacent corner (from their starting corner) to break the chains
 
 flood of darkness (shadows) - an interruptible cast on the two stygian shadows
 
 diffusive-force/chaos-condensed particle beam - a spread on every player or six line stacks that need tanks in front
-	diffusive-force - orbs around her
-	chaos-condensed - a golden glow around her
+	diffusive-force - orbs around her, spread out
+	chaos-condensed - a golden glow around her, stack up with tanks in front
 
 core-lateral/lateral-core phaser - both stygian shadows cast one of two phasers
-	the stygian shadows also tether to the outside and move there befoer casting the phasers, so dodge on the outer ring
+	the stygian shadows also tether to the outside and move there before casting the phasers, so dodge on the outer ring
 	core-lateral - front safe then sides safe
 	lateral-core - sides safe then front safe
 active-pivot particle beam - the boss begins rotating while shooting line aoes from her front and back
 	these repeat until she fires at 90 degrees from her starting position
+	outer players can dodge on the outer ring, but inner players need to carefully move around the tiles to avoid getting hit
 
 excruciate - tankbusters from the stygian shadows
 
@@ -111,6 +117,7 @@ atomos
 looming chaos - shuffles players around between the inner ring and outer platforms
 	the furthest three players on both east and west are swapped with three players inside each
 	the other inside players are swapped between each other and remain inside
+	the other outside players are swapped to the opposite outside platform
 	does a small raidwide too
 
 curse of darkness
@@ -119,13 +126,13 @@ core-lateral/lateral-core phaser
 raidwide
 
 feint particle beam - spawns following aoes on four players on the inner ring
-	run in a consistent direction to avoid overlap
+	run in a consistent direction as soon as the markers appear to avoid getting hit
 
 the third art of darkness
 atomos
 ghastly gloom
 core-lateral/lateral-core phaser
-diffusive-force/chaos-condensed particle beam
+chaos-condensed/diffusive-force particle beam - opposite of the previous
 flood of darkness (shadows)
 
 evaporation - both shadows disappear and deal damage to the boss based on their missing hp

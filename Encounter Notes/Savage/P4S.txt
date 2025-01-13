@@ -1,0 +1,73 @@
+-- PHASE 1 --
+decollation - raidwide
+
+bloodrake - tethers to one role, storing their aether for later
+aetheric chlamys - converts the stored aether to a buff for later
+bloodrake - tethers to another role
+	if supports they stack north, if dps they stack south
+director's belone - gives two supports and two dps a role call debuff while removing the latest stored aether buff
+	these debuffs can be passed to another player by running into them, but after you've passed it you can't reclaim it
+	this mechanic is 'poisoned' by the aether of the second bloodraked role so they CANNOT end up with the debuffs
+	the two players of the opposite role run into the stack and take the debuffs away
+inversive chlamys - spawns four tethers and removes the stored aether buff from earlier
+	these tethers do big aoes one the cast goes off
+	this mechanic is 'poisoned' by the aether of the first bloodraked role so the opposite role needs to take tethers
+	the easiest way is to have them stack under the boss and wiggle around to pick up all tethers, then spread out
+
+raidwide
+
+elegant evisceration - a double hit aoe tankbuster that leaves a vuln, make sure to swap during the cast
+
+setting the scene - summons four elemental tiles of water, poison, lightning and fire
+	standing in the central part of any tile gives a dot, so be careful
+pinax - activates the tiles one by one, causing different effects and dealing massive damage to anyone on that tile
+	the first will always be lightning or water
+		lightning - a proximity aoe from mid
+		water - a knockback from mid
+	the second will always be poison or fire
+		poison - spreads on every player
+		fire - light party stacks on both healers
+
+north/east/south/westerly shift - the boss wields his cape and sword with one of them glowing
+	if the cape is glowing there will be a massive knockback from the indicated cardinal
+	if the sword is glowing there will be a massive cleave from the indicated cardinal
+	this is paired with the third and fourth pinax tiles
+		third is always the opposite of the first
+		fourth is always the opposite of the second
+	the timeline is third > shift > big delay > fourth
+
+tankbusters
+bloodrake - tethers to all eight players, and three of the four tiles
+	remember which tile was not tethered
+setting the scene
+
+vengeful belone - gives every player an 'acting' role different to their normal role
+	supports all get 'acting dps', while two dps get 'acting tank' and two get 'acting healer'
+elemental belone - gives every player a debuff causing them to take lethal damage from all three absorbed tiles' aethers
+bloodrake - tethers to everyone again
+belone bursts - spawns eight orbs around the cardinals and intercardinals that tether to the nearest player
+	they take on the role of the player they tether to, being unable to be taken by that role
+	each orb needs to be taken by two players and each player can only take two orbs before they get doomed
+	players also must take at least one orb of their 'acting' role otherwise they die
+	to resolve this, set up clock spots such that there are two opposite colour pairs of dps and two opposite colour pairs of supports
+	each colour pair then takes the two orbs of the colour pair clockwise from them
+
+periaktoi - causes all tiles to erupt into an aoe of their element, stand on the one tile that did not get its aether absorbed earlier
+
+bloodrake
+belone coils - spawns four towers that can only be taken by supports or only by dps (opposite of icons)
+	using the clock spots from earlier, ranged should adjust clockwise and melees should adjust anticlockwise if incorrect
+inversive chlamys - the role that is not taking towers should take these tethers and spread them away
+aetheric chlamys - stores the remaining aether (whichever role took towers) for later
+bloodrake
+belone coils
+director's belone - whichever role just took towers needs to stack for debuffs
+inversive chlamys - whichever role did not take first towers needs to take these tethers
+
+raidwide
+tankbusters
+setting the scene
+pinax
+north/east/south/westerly shift
+raidwide x3
+enrage

@@ -35,6 +35,7 @@ add phase - a long battle with multiple ascian shades
 			assign light parties based on clock spots and position max melee
 			this allows tanks to stay away from stacks with their aoes but maintain uptime
 		quake iii - nabriales is casting this throughout the phase, it deals damage based on his hp at the end of the cast so get him low enough to survive
+
 	lahabrea's shade + igeyorhm's shade - lahabrea spawns east, igeyorhm west, assign tanks for each
 		fire sphere + blizzard sphere - gives fire and ice debuffs to players
 			tanks will get opposite debuffs, healers will get opposite debuffs and 2 dps will get each
@@ -49,6 +50,7 @@ add phase - a long battle with multiple ascian shades
 		fire sphere + blizzard sphere 2 - debuffs swap over now, swap sides and keep the adds still
 		tankbusters x2
 		enrage
+
 	ascian prime's shade
 		universal manipulation - a big raidwide that gives everyone debuffs
 			supports get doom, ancient circle and cursed shriek
