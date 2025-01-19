@@ -1,0 +1,119 @@
+stardust - a random player is marked for a meteor that drops on their position, dealing proximity damage
+	these meteors remain on the arena, but if two meteors are too close, they will explode and wipe the raid
+
+ravensbeak - a tankbuster that leaves a debuff that causes the afflicted tank to explode a few seconds later
+	make sure to stay out of the group
+
+raven dive - the boss leaps to a random player
+iron chariot - a point-blank aoe
+thermionic beam - marks a random player for a stack
+raven dive - jumps back to the main tank
+
+stardust
+
+lunar dynamo - a doughnut aoe centred on the boss, that also heals her if you get hit?
+
+meteor stream + dalamud dive - marks four random players for very quick spread aoes
+	afterwards, the boss lands on the MT, dealing high damage around them
+
+tankbuster
+stardust
+meteor stream x2 + dalamud dive
+tankbuster
+stardust
+raven dive
+iron chariot + thermionic beam
+raven dive
+stardust
+tankbuster
+???
+
+meteor impact - at ~65% hp, nael jumps to the middle and three random players get meteor markers
+	these should be placed in the three inner circles as they also do proximity damage
+	three golems spawn, tanks should take the green and blue golems while a dps takes the red golem and everyone focuses it down
+	golems will eat nearby meteors, gaining either a damage up stack (red) or haste stack (yellow)
+		all meteors must be eaten by the end of the phase, or you wipe
+	if a golem eats more than three meteors, or if it eats another golem, it will become supercharged and wipe the raid
+
+	blue golem
+		magnetism - pulls in any nearby players, golems and meteors
+			be very careful to avoid overfeeding or allowing two golems to merge
+		earthshock - an interruptible cast that deals raidwide damage and paralyses
+	green golem
+		demolish - a big raidwide
+		stone skull - a tankbuster
+		boulder clap - a dodgeable frontal cleave, move behind it to dodge
+	red golem
+		earthen heart - drops a lingering puddle that deals damage to anyone inside
+		heavy strike - concentric 270-degree cleaves, either dodge between them or stay in the safe quadrant
+
+	the golems will change colours partway through the phase
+
+stardust x6 - six meteor markers spawn on random players in quick succession
+	either spread out, or stack and rotate around the arena to avoid placing meteors too close
+meteor impact - three more golems drop down that should be handled the exact same as before
+
+megaflare - a massive raidwide that transitions the platform
+
+dalamud dive -  make sure the MT is not stacked with the party
+
+heavensfall - a giant pillar slams down in the middle of the arena, doing a big knockback
+	don't get pushed into the death wall
+	two quadrants of the arena will then get hit by aoes, so stay in the safe areas
+
+bahamut's claw - two hard hits on the tank
+
+binding coil - debuffs a player with garrotte, which begins increasing in stacks, and kills them at 9 stacks
+
+the ghost of meracydia - spawns an add that should be picked up by the OT
+	killing the add does an aoe which drops puddles which cleanse the binding coil debuffs
+	binding chain - chains to two players and begins applying stacks of garrotte to them
+
+bahamut's claw
+
+heavensfall - the aoes this time alternate small cones, so dodge between them
+
+supernova - targets two random players and creates puddles underneath them
+	stay away from these puddles as they deal damage and heavy anyone who touches them
+
+bahamut's claw
+binding coil
+the ghost of meracydia
+binding chain
+
+loops from first heavensfall? until ~45%
+
+dragons - spawns three dragons around the edge of the arena that cast fire tethers, ice debuffs and lightning debuffs
+	the fire tether does an aoe that applies a fire debuff to anybody hit
+	having both a fire and an ice debuff will remove them both, but having two stacks of either will kill you
+	fire tethers should alternate being in and out of the group
+
+bahamut's favor - grants a damage up stack
+
+bahamut's claw - now hits 5 times
+
+fireball - the fire tether on a random player, this first one should be out
+
+thunderstruck - a lightning debuff on a random player that explodes, paralysing everyone at the end
+	make sure you stay away with this debuff
+
+raven dive + lunar dynamo - go in after fire tether goes off
+	thunderstruck player stays on the opposite side of the doughnut safe spot
+fireball - in
+thunderstruck
+fireball - out
+thunderstruck
+iron chariot
+supernova - shoots three aoes now, don't drop these near the stack
+thermionic beam
+fireball - in
+thunderstruck
+bahamut's claw
+
+divebombs - two players get marked in sequence to be divebombed, going clockwise from north, the first two dragons dive on the first player then the final dragon on the second
+	the first marker should run between the first two dragons and the second player runs directly opposite
+
+meteor stream x2
+dalamud dive
+
+loops from bahamut's favor until enrage

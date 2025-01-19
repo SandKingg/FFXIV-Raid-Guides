@@ -29,7 +29,7 @@ add phase - a long battle with multiple ascian shades
 			each tank needs to stand in them with mitigation to soak the damage
 			usually MT takes north, OT takes south
 		dark ii - adds tether all dps and shoot a cone aoe towards them
-			this cone givse magic vuln so need to shoot away from tanks (and other dps)
+			this cone gives magic vuln so need to shoot away from tanks (and other dps)
 			directly north/south is best
 		ancient water iii + ancient darkness - a stack on each healer and a spread on each tank
 			assign light parties based on clock spots and position max melee

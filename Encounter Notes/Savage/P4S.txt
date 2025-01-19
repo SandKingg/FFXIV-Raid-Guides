@@ -22,11 +22,11 @@ setting the scene - summons four elemental tiles of water, poison, lightning and
 	standing in the central part of any tile gives a dot, so be careful
 pinax - activates the tiles one by one, causing different effects and dealing massive damage to anyone on that tile
 	the first will always be lightning or water
-		lightning - a proximity aoe from mid
-		water - a knockback from mid
+		lightning (levinstrike mekhane) - a proximity aoe from mid
+		water (well mekhane) - a knockback from mid
 	the second will always be poison or fire
-		poison - spreads on every player
-		fire - light party stacks on both healers
+		poison (acid mekhane) - spreads on every player
+		fire (lava mekhane) - light party stacks on both healers
 
 north/east/south/westerly shift - the boss wields his cape and sword with one of them glowing
 	if the cape is glowing there will be a massive knockback from the indicated cardinal

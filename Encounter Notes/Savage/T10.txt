@@ -1,0 +1,72 @@
+crackle hiss - an uncast wide cleave on the MT
+
+spike flail - a cone aoe behind him
+
+critical rip - tankbuster
+
+crackle hiss
+
+wild charge - a blue marker appears over a random player's head and the boss charges at them, dealing shared damage with the first person taking more damage than the rest
+	ensure that the OT is first in line in the stack
+	MT should position themselves carefully to avoid sending the cleave immediately after through the party
+	be careful as this knocks back anybody hit, so try not to get knocked into the lightning ring around the arena
+
+crackle hiss
+
+erratic blaster - marks a random player for prey, which deals low damage and applies paralysis at the end
+	shield the player so they take no damage from the expirty and they won't be paralysed
+
+spike flail
+crackle hiss
+tankbuster
+???
+
+loops until ~85%
+
+electrocharge - the boss goes immune and summons two 'son' adds and two 'daughter' adds, each one with some of imdugud's abilities
+	each tank should take one of each add and the party should focus down the daughters first
+
+	son of imdugud - will drop a lingering electric aoe after dying, be careful
+		crackle hiss
+		spike flail
+	daughter of imdugud
+		erratic blaster
+		spike flail
+
+electric burst - a big raidwide
+
+heat lightning - three random players get small aoes around them that deal damage and leave vulns
+	you cannot take any other mechanic with these vulns
+	if the OT gets a vuln, MT needs to take the charge
+
+spike flail
+erratic blaster
+crackle hiss
+heat lightning
+wild charge + crackle hiss
+spike flail
+tankbuster
+crackle hiss
+
+loops from first heat lightning until ~55% hp
+
+electrocharge 2 - same as before except a third pair of adds spawns on the west side partway through
+	ensure that the west side adds are focused down fist
+
+raidwide
+heat lightning
+
+cyclonic chaos - a random player gets tethered to the boss and will explode after a short time
+	stack up on this player to share the damage, but be careful as it gives vuln up
+	so these players cannot take any mechanics happening shortly after
+
+spike flail
+crackle hiss
+tankbuster
+erratic blaster
+crackle hiss
+cyclonic chaos - not everyone should soak this, leave players free for wild charge
+wild charge
+spike flail
+
+loops from heat lightning after 2nd raidwide until enrage
