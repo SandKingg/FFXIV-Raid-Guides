@@ -104,8 +104,8 @@ diffusive-force/chaos-condensed particle beam - a spread on every player or six 
 
 core-lateral/lateral-core phaser - both stygian shadows cast one of two phasers
 	the stygian shadows also tether to the outside and move there before casting the phasers, so dodge on the outer ring
-	core-lateral - front safe then sides safe
-	lateral-core - sides safe then front safe
+	core-lateral - sides safe then front safe
+	lateral-core - front safe then sides safe
 active-pivot particle beam - the boss begins rotating while shooting line aoes from her front and back
 	these repeat until she fires at 90 degrees from her starting position
 	outer players can dodge on the outer ring, but inner players need to carefully move around the tiles to avoid getting hit
