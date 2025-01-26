@@ -1,0 +1,77 @@
+bennu - these adds spawn under the boss and need to be tanked away
+	their corpses linger after death and must be kept apart
+
+revelation - a tankbuster with a vuln, mitigate and swap
+
+blackfire - spawns a blackfire add on one dps, healer and the OT
+	if two blackfires are too close together, they will explode so pre-assign positions for the roles to stack on to drop them
+	they also explode if someone walks over them so move out quickly after they spawn
+whitefire - the same three players will get an aoe around them that debuffs any blackfires hit by it
+	party should quickly kill off the blackfires
+
+loops from bennu until 80%
+
+brand of purgatory - one player gets a brand debuff that can be passed to another player by moving through them
+	usually we try to juggle brands with healers
+
+bluefire - a random player is marked with a blue marker and needs to drop a puddle away from the group
+	stepping in the puddle gives a debuff that reduces damage and healing, but will be useful later
+
+flames of unforgiveness - deals heavy damage to the player with the brand debuff
+	if the original player still has it, they will instantly die to this cast
+
+bennu
+
+redfire - spawns a redfire orb that tethers to a random player and moves towards them, doing massive damage if it hits anyone
+	one player needs to run into the bluefire puddle and soak the orb, reducing the damage it deals due to the bluefire debuff
+
+tankbuster
+bluefire
+redfire
+
+loops from first bluefire until ~52%
+
+flames of rebirth - the boss goes invulnerable and begins casting multiple flames of rebirth
+	each raidwide gives the boss a stack of damage up, and the first one also revives all dead bennus
+	if they were killed too close, they buff each other and become incredibly hard to kill
+	party needs to kill all bennus again
+	however after dying once, they get revived but much larger, focus these large bennus
+	make sure to keep their corpses apart so they don't buff each other
+
+rebirth - consumes the damage up buffs and becomes targetable again
+	from now on any deaths give the boss a damage up stack
+
+brand of purgatory
+
+fountain of fire - spawns a fountain of fire that tethers to the boss, buffing it up ot eight times
+	if a player stands in it, they will get damaged and debuffed instead, each hit doing more damage
+	tanks can take ~4 stacks, other players can take 2
+
+egi - a phoenix-egi spawns and does a line aoe towards a random player, dashing to the edge
+
+tankbuster
+egi
+
+scorched pinion - the egis tether to random players, dashing through the arena towards them
+	make sure to point these dashes away from other players, but the tethered player cannot dodge it
+
+egi
+flames of unforgiveness
+egi
+scorched pinion
+raidwide
+fountain of fire
+egi
+tankbuster
+egi
+scorched pinion
+egi
+flames of unforgiveness
+egi
+scorched pinion
+raidwide
+
+plumes + egi x5 + scorched pinion x5 - the boss disappears and several fire aoes spawn, along with five egis in sequence
+	dodge the puddles then dodge the line aoes and dives one after another
+
+loops from first fountain of fire until enrage

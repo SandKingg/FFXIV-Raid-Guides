@@ -1,0 +1,85 @@
+flare breath - a heavy-hitting tank cleave
+
+megaflare - does spread aoes on random players, creates some puddles to dodge and marks some other players
+	the four marked players need to stack mid to share damage from the follow-up
+
+flare breath
+
+flatten - a big aoe tankbuster
+
+flare breath x3
+
+earth shaker - marks two random players for cone aoes that hit 3 times and leave puddles
+	each player should move around the edge of the arena on opposite sides, dropping the puddles as they go
+
+loops from first flare breath until 75%
+
+gigaflare - big raidwide
+
+shadow of meracydia - the shadow of meracydia spawns in the north and should be picked up by the OT and kept at north
+	the boss should be south to avoid them tethering and buffing each other
+	party focuses this add down
+
+flare star - summons two dark aether orbs that tether to players and can be soaked by moving through
+	each soak gives one stack of a debuff that increases damage from rage of bahamut
+	try to have every player on 1 stack with tanks maybe taking 2
+	the first cast summons the orbs, then the other orbs appear uncast, but will be noted here as another flare star cast
+	future loops increase the amount of orbs on each flare star
+
+flare breath
+flare star
+tankbuster
+flare breath
+flare star
+megaflare - this now spawns a tower at the end that needs to be soaked
+flare breath
+
+rage of bahamut - dispels all stacks of the flare star debuff and deals damage based on how many stacks there were
+	more stacks = more damage, so it's important to spread the orb soaks between players
+
+loops from shadow of meracydia until ~52% hp
+
+gigaflare
+
+megaflare dive - bahamut and a storm of meracydia lock divebombs on one random player each in sequence, then dive through the arena
+	this is immediately followed up by the spread aoes, puddles and stack of megaflare
+	keep bahamut as 'new north' and assign priority for running left or running right
+
+add phase - summons  waves of adds
+	wave 1 - the pain of meracydia + the blood of meracydia
+		the blood will periodically switch its barrier from physical to magical, so target the appropriate add
+		the pain just does telegraphed cleaves
+	wave 2 - the gust of meracydia x3
+		these need to be tanked by the blood tank as the pain will eat any nearby gusts, getting a big buff
+	wave 3 - the sin of meracydia x2
+		stack up all adds now and kill them quickly
+	
+	megaflare dive
+
+	wave 4 - the storm of meracydia
+		this add casts plummet and death sentence tankbusters
+		it will drop a neurolink where it dies, so tank it in a good spot for later
+	wave 5 - the blood of meracydia
+	wave 6 - the gust of meracydia x2
+	wave 7 - the sin of meracydia
+	wave 8 - the pain of meracydia
+		ensure the gusts are killed by now or tanked away from the pain
+
+	megaflare dive
+
+teraflare - a massive raidwide that needs tank LB3, make sure you're standing in the neurolink too
+
+akh morn - a multi-hit shared tankbuster
+	each cast will add one more hit
+
+megaflare + tempest wing - two green tethers spawn on random players that do big wind aoes after a few seconds
+	tanks need to grab these and take them away from the party
+
+earth shaker + tempest wing
+flare breath
+akh morn
+megaflare + tempest wing
+earth shaker + tempest wing
+gigaflare
+
+loops from first akh morn until enrage
