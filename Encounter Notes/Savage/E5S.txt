@@ -1,0 +1,102 @@
+judgment volts - raidwide that spawns orbs on the arena
+	collecting an orb gives one stack of a buff, but collecting more than 3 turns it into a debuff
+
+stratospear summons - calls down four spears towards the corners of the arena, three being tall and one being small
+judgment jolt - causes the spears to explode into point-blank aoes
+	the small spear's aoe is much smaller, so move towards that corner
+
+executor summons - summons raiden who tethers to the player with the highest amount of orb stacks
+	ensure that the OT have the most stacks, they should have two and nobody else should have more than one
+	raiden then flies towards the tethered player, killing them if it reaches them
+
+fury's bolt - empowers ramuh's next ability, causing it to instantly kill anyone without at least one orb stack
+	also removes one orb stack from anyone still alive
+
+raidwide (empowered)
+
+shock blast - a tankbuster on the tethered player that also despawns raiden
+
+crippling blow - a tankbuster on the MT
+
+stormcloud summons - marks the four furthest players for stormclouds, and the four closest players for debuffs
+	stormclouds will pulse big aoes near them, but if two are too close, they merge and wipe the raid so place them towards the four corners
+	the debuffs also occasionally do small aoes, so be careful
+	debuffed players need to take one orb stack and move towards one of the stormclouds and get hit once to cleanse their debuff
+
+levinforce - raidwide that also kills? anyone with the debuff from earlier
+
+fury's bolt
+
+tribunal summons (empowered) - summons adds at north and south that charge through the arena
+	the north adds will just do line aoes, killing anyone hit
+	the south add will do a line aoe that is also a knockback
+	this knockback will be increased if the ability is empowered
+	stand just behind the solid line near mid for empowered, and behind the dashed line for non-empowered
+	this lets you get knocked to the side and dodge the line aoes
+	everybody should be knocked to the same side for uptime
+
+tankbuster
+raidwide
+fury's bolt
+
+thunderstorm (empowered) - causes loads of small aoes to begin spawning on the ground while also marking each role for a spread aoe
+	either all supports will spread first, or all dps
+
+executor summons
+tankbuster
+
+stepped leader - baits invisible puddles under every player, move away as soon as the castbar finishes
+	OT should be careful where they are kiting raiden at this point
+
+shock blast
+raidwide
+
+fury's fourteen - empowers the boss with fourteen stacks of the damage up
+stratospear summons (empowered) - summons fourteen spears, seven on each side of the middle column
+tribunal summons (empowered) - look which side the adds are on, because this side will be unsafe
+centaur's charge - ramuh jumps to the opposite end of the middle line from the big add, then charges straight through
+	one tank needs to move into the duty action zone, use a big cooldown and the duty action to mitigate the charge and knockback
+	everybody else needs to position such that they get knocked through one of the spears on the safe side, disabling its aoe
+	duty action tank needs to quickly move onto the safe side to dodge the aoes too
+
+fury's bolt
+stepped leader (empowered) - this is now a doughnut aoe, so stay still
+
+chain lightning - givs both healers eight stacks of a chain lightning debuff
+	when each stack of the debuff expires, it jumps to the closest player, doing a small aoe around the player it jumps to
+	it also renders the first player unable to get another debuff for a few seconds
+	pass the debuffs clockwise around your clock spots until every player has had two debuffs
+	make sure to not stay too close to avoid dying to the small aoes
+	some minor abilities happen during this time
+tankbuster
+raidwide
+
+executor summons
+fury's bolt
+thunderstorm (empowered)
+shock blast
+stepped leader
+tankbuster
+raidwide
+fury's fourteen
+stratospear summons (empowered)
+tribunal summons (empowered) - also spawns some adds at east or west that do line aoes through their rows
+centaur's charge - stay in the safe row after getting knocked back
+fury's bolt
+raidwide (empowered)
+stormcloud summons
+levinforce
+raidwide
+chain lightning
+tankbuster
+raidwide
+stepped leader
+fury's bolt
+raidwide (empowered)
+raidwide
+fury's bolt
+raidwide (empowered)
+raidwide x2
+fury's fourteen
+stratospear summons
+enrage

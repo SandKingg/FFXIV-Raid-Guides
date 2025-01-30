@@ -71,3 +71,65 @@ pinax
 north/east/south/westerly shift
 raidwide x3
 enrage
+
+
+-- PHASE 2 --
+searing stream - raidwide
+
+akanthai: act 1 - showcases an array of towers and aoes, then marks each position with a thorn
+	aoes spawn on cardinals at the edge and towers spawn at the intercardinals, one closer and one further
+	assign melee+ranged pairs for each intercardinal with melees taking closer towers and ranged taking further
+
+raidwide
+
+wreath of thorns - the boss tethers to the thorns, indicating which order they will go off in
+	it will be n/s or e/w aoes, towers then e/w or n/s aoes, opposite of the first
+	you can maintain uptime by standin gon the small diamonds on the cardinals next to the big mid diamond
+
+nearsight/farsight - aoe tankbusters on the two closest/furthest players respectively
+	for nearsight, tanks go in and party stays max melee
+	for farsight, tanks go max melee and party all goes in
+
+akanthai: act 2 - showcases more aoes and towers
+	this time each cardinal has one aoe and one tower, with towers being slightly anticlockwise and aoes being slightly clockwise
+
+demigod double - a shared tankbuster
+
+wreath of thorns - this time the order is n/s towers + e/w aoes or e/w towers + n/s aoes, then the opposite
+	additionally every player will be tethered to one other player, and they will have a coloured marker above their head
+	one healer gets a purple (dark) tether to a tank with no marker
+	the other healer and tank are tethered with orange (fire)
+	two dps get tethered with green (wind) and the others with fire
+	everyone gets a thornpricked debuff with a timer, supports have shorter timers than dps
+	the tethers will activate their respective mechanics when the players move far enough away, or their debuff timer expires
+		dark - raidwide + short magic vuln
+		fire - stack
+		wind - aoe
+	the dark tethered support pair need to move to the aoe thorns on the first tower cardinals and break immediately
+dark design - baits a puddle under every player, everyone else except the dark tether pair stacks mid
+	after the puddle baits, the dark pair move into the towers, being careful not to get clipped by the aoes
+	the fire support pair split up on opposite sides, with one side taking the wind dps pair and the other taking the fire dps pair
+	the fire stacks are taken next to the tower, being careful not to overlap
+	then, the dark pair rotate anticlockwise towards the other set of towers, one of the fire dps pair also rotates anticlockwise
+	everybody else rotates clockwise
+	the second set of stacks goes off, followed by the wind aoes after they time out
+
+ultimate impulse - big raidwide
+
+akanthai: act 3 - showcases more towers and a knockback from the centre
+	there will be four towers at the edge on east and west, assign one tower for each person
+
+wreath of thorns - the order will be east towers or west towers, then knockback, then west towers or east towers, opposite of the first
+kothornos kick - jumps to the furthest player, giving them a vuln and knocking anybody else hit into the death wall
+	this needs to be baited by the ranged dps on the side that is not taking first towers, everybody else stays away
+kothornos quake - an untelegraphed cone aoe towards the three closest players
+	this needs to be baited by the other three players on the side that didn't take first towers
+	the towers go off at the same time as this
+kothornos kick + kothornos quake - the knockback from mid happens and another kick needs to be baited by the other ranged dps
+	then the side that took first towers baits the quake aoes while the other side takes their towers
+
+nearsight/farsight
+
+heart stake - a bleed on the first then second in aggro
+
+akanthai: act 4
