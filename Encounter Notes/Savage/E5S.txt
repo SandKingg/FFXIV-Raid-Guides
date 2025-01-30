@@ -23,11 +23,11 @@ stormcloud summons - marks the four furthest players for stormclouds, and the fo
 	the debuffs also occasionally do small aoes, so be careful
 	debuffed players need to take one orb stack and move towards one of the stormclouds and get hit once to cleanse their debuff
 
-levinforce - raidwide that also kills? anyone with the debuff from earlier
+levinforce - a big knockback and raidwide, use kb resist to avoid getting thrown into a cloud aoe
 
-fury's bolt
+fury's bolt - OPTIONAL
 
-tribunal summons (empowered) - summons adds at north and south that charge through the arena
+tribunal summons (empowered?) - summons adds at north and south that charge through the arena
 	the north adds will just do line aoes, killing anyone hit
 	the south add will do a line aoe that is also a knockback
 	this knockback will be increased if the ability is empowered
@@ -56,6 +56,7 @@ stratospear summons (empowered) - summons fourteen spears, seven on each side of
 tribunal summons (empowered) - look which side the adds are on, because this side will be unsafe
 centaur's charge - ramuh jumps to the opposite end of the middle line from the big add, then charges straight through
 	one tank needs to move into the duty action zone, use a big cooldown and the duty action to mitigate the charge and knockback
+		make sure to be facing the boss and standing still, otherwise it doesn't work
 	everybody else needs to position such that they get knocked through one of the spears on the safe side, disabling its aoe
 	duty action tank needs to quickly move onto the safe side to dodge the aoes too
 
@@ -90,7 +91,8 @@ raidwide
 chain lightning
 tankbuster
 raidwide
-stepped leader
+fury's bolt - OPTIONAL
+stepped leader (empowered?)
 fury's bolt
 raidwide (empowered)
 raidwide
