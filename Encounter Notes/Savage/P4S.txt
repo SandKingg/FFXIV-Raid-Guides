@@ -110,7 +110,7 @@ dark design - baits a puddle under every player, everyone else except the dark t
 	after the puddle baits, the dark pair move into the towers, being careful not to get clipped by the aoes
 	the fire support pair split up on opposite sides, with one side taking the wind dps pair and the other taking the fire dps pair
 	the fire stacks are taken next to the tower, being careful not to overlap
-	then, the dark pair rotate anticlockwise towards the other set of towers, one of the fire dps pair also rotates anticlockwise
+	then, the dark pair rotate anticlockwise towards the other set of towers, one of the fire dps pair also rotates anticlockwise along with the fire tank
 	everybody else rotates clockwise
 	the second set of stacks goes off, followed by the wind aoes after they time out
 
@@ -126,10 +126,24 @@ kothornos quake - an untelegraphed cone aoe towards the three closest players
 	this needs to be baited by the other three players on the side that didn't take first towers
 	the towers go off at the same time as this
 kothornos kick + kothornos quake - the knockback from mid happens and another kick needs to be baited by the other ranged dps
-	then the side that took first towers baits the quake aoes while the other side takes their towers
+	the other side's towers go off at the same time as the kick, so be ready
+	the cleaves then happen on the other side
 
 nearsight/farsight
 
 heart stake - a bleed on the first then second in aggro
 
-akanthai: act 4
+akanthai: act 4 - showcases four towers on the cardinals or intercardinals and four aoes on the other spots
+
+raidwide
+
+wreath of thorns - tethers every player to one of the eight mechanics, either an aoe with a dark tether, or a tower with a water tether
+	water tethers do a small aoe when broken that deals damage and gives vuln, while knocking anybody else hit into the death wall
+	everyone should go roughly max melee close to their tether spot, to avoid breaking the tethers
+	the tower or aoe you are tethered to goes off once your tether breaks too
+raidwide - after this raidwide we can start doing the mechanic
+	tower tethers (water) rotate three thorns clockwise, while aoe tethers (dark) rotate one thorn clockwise
+	this means aoe players take all four towers at the same time
+	after this break the aoe tethers one by one starting at north or northeast
+
+ultimate impulse

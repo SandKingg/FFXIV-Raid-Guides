@@ -124,7 +124,7 @@ tectonic uplift 2 - two opposite quadrants rise again, this time with four orang
 pulse of the land - make sure everyone has an assigned spread tile in the quadrants
 weight of the world - either both tanks or both healers get blue markers and should go down into the corners
 	then the other role gets blue markers and should stay up in the corners
-	all dps get an orange marker and should go into the north down quadrant to stack
+	all dps get an orange marker and should go into the quadrant with two safe tiles to stack
 	avoid the tile aoes too
 
 raidwide

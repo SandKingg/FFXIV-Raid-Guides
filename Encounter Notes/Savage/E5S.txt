@@ -63,7 +63,7 @@ centaur's charge - ramuh jumps to the opposite end of the middle line from the b
 fury's bolt
 stepped leader (empowered) - this is now a doughnut aoe, so stay still
 
-chain lightning - givs both healers eight stacks of a chain lightning debuff
+chain lightning - gives both healers eight stacks of a chain lightning debuff
 	when each stack of the debuff expires, it jumps to the closest player, doing a small aoe around the player it jumps to
 	it also renders the first player unable to get another debuff for a few seconds
 	pass the debuffs clockwise around your clock spots until every player has had two debuffs
