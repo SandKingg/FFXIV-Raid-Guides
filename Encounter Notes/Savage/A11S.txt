@@ -5,21 +5,32 @@ optical sight - one of three different attacks, indicated by the orbs above the 
 	eight orbs same height - baited aoes under every player, make sure you're stacked mid then move to the edge
 	eight orbs different heights - two rotating aoes around the arena, dodge into the second explosion from mid
 
+whirlwind - raidwide
+
+spin crusher - a dodgeable cone aoe in front of the boss, MT should move behind it
+
+{skips to here at ~93%}
 E.D.D. - an add spawns that should be tanked by the OT
 	overboost - destroy the armored pauldron to cancel the cast or it gets a massive damage up
 	beam saber - a dodgeable untelegraphed line aoe cleave
 
 left/right laser sword
+spin crusher
+whirlwind
+left/right laser sword
 
-spin crusher - a dodgeable cone aoe in front of the boss, MT should move behind it
+ga-100 - gives the OT a flare marker, dealing proximity-based damage from their location
 
+{skips to here at ~90% hp}
 optical sight x3 + super hawk blaster - each of the three opticals is cast once
 	big point-blank is paired with spreads on every player, assign clock spots to everyone
 	shiva circles is also paired with two aoes on random players, just don't overlap them
 	baited aoes is paired with four aoes on random players
 
-whirlwind - raidwide
+raidwide
+left/right laser sword
 
+{skips to here at ~75% hp}
 limit cut - marks every player with a number from 1 to 8 then cleaves towards odds and dashes towards evens
 	1, 2, 3 and 4 go to their markers first then 5, 6, 7 & 8 replace them after
 	have the odds look outside the arena to bait the cleaves away since the boss appears behind them
@@ -32,6 +43,7 @@ photon - reduces some players to 1 hp, this time it's 1 tank, 1 healer and 2 dps
 raidwide
 left/right laser sword
 
+{skips to here at ~65% hp}
 blastoff - a small raidwide and the boss goes untargetable, four open ducts appears allowing you to mount the boss
 	make sure to press the button to release when you can
 	the arena will have a death wall when you return
@@ -48,7 +60,7 @@ plasmaspheres - two random dps
 laser x sword - a shareable tankbuster that also knocks you back
 plasmaspheres - both healers
 
-{skips to here when around 60% hp}
+{skips to here at ~60% hp}
 eternal darkness - a big raidwide that wipes you if the lapis lazulis weren't destroyed in time
 	also makes the arena fiery and gives every player a pyretic
 	taking any action deals a small amount of damage
@@ -57,6 +69,12 @@ left/right laser sword
 raidwide
 spin crusher
 optical sight
+
+limit cut 3 - the boss goes untargetable and spawns a plasma shield that must be destroyed from the front
+blassty charge - after destroying the shield, the boss charges a random player so spread out and keep looking at the boss to avoid the knockback
+	this also leaves a nasty bleed if the player is not shielded, so be careful
+
+{skips to here at ~55% hp}
 photon - always targets the OT
 tankbuster
 E.D.D.
@@ -66,14 +84,14 @@ beam saber
 raidwide
 left/right laser sword
 photon - targets a random healer
+raidwide
 
+{skips to here at ~40% hp}
 blastoff 2 - removes the death wall and the railings, but spawns three generators on the arena
 	the generators take damage from all the boss's abilities and if all three die, the platform is destroyed and it's a wipe
 	you'll want to intentionally sacrifice one generator to allow more space for mechanics
 
-ga-100 - gives the OT a flare marker, dealing proximity-based damage from their location
-	use this to sacrifice the south generator
-
+ga-100 - use this to sacrifice the south generator
 optical sight x2 - always point-blank and shivas, but in a random order
 raidwide x2
 tankbuster
@@ -84,7 +102,7 @@ raidwide
 
 propeller wind - an aoe confusion from the boss, hide behind one of the generators to dodge
 
-limit cut 3 - same as 1, but make sure not to destroy the generators
+limit cut 4 - same as 1, but make sure not to destroy the generators
 	hopefully the sacrificed generator has given enough space for the charges
 
 tankbuster
@@ -95,10 +113,7 @@ beam saber
 left/right laser sword
 photon - targets a random healer
 raidwide
-
-limit cut 4 - the boss goes untargetable and spawns a plasma shield that must be destroyed from the front
-	after destroying the shield, the boss charges a random player so spread out and keep looking at the boss to avoid the knockback
-
+limit cut 5 + blassty charge - same as 3 but make sure not to destroy the generators with the chargewwwwww
 spin crusher
 raidwide
 left/right laser sword
