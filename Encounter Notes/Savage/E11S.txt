@@ -3,11 +3,11 @@ elemental break - imbues with fire or lightning, then does a cone aoe on every p
 	fire - stacks on either all supports or all dps, split into pairs for this
 	lightning - spread aoes on every player, have ranged move to the edge
 
-burnt strike - imbues with fire or lightning (same element as before), then does a line aoe through the arena in the direction he's facing
+burnt strike - imbues with fire or lightning, then does a line aoe through the arena in the direction he's facing
 	fire - a massive knockback perpendicular to the line aoe, make sure to move in towards middle after
 	lightning - a larger line aoe after the original one, stay far out
 
-bound of faith - imbues with fire or lightning (same element as before), then tethers to a random player and binds them in place
+bound of faith - imbues with fire or lightning, then tethers to a random player and binds them in place
 	fire - a stack on the affected player
 	lightning - two large cones target the closest players which should be both tanks
 		have the bound player move in front of the boss and each tank takes a side
@@ -77,8 +77,8 @@ raidwide
 turn of the heavens 2 - imbues with fire or lightning and spawns the circles again
 	this time the aoes on the outside will alternate, with mid always being lightning
 elemental break - watch the imbue, circles explode before the continuation
-	fire turn - spread to the edges, at the corners of the fire circles then quickly resolve elemental break continuation
-	lightning turn - spread around the middle circle, then quickly resolve elemental break continuation
+	lightning turn - spread to the edges, at the corners of the fire circles then quickly resolve elemental break continuation
+	fire turn - spread around the middle circle, then quickly resolve elemental break continuation
 
 tankbuster
 

@@ -53,9 +53,7 @@ rock buster
 bomb boulders 2 - spawns bomb boulders in a circle around the arena then one in mid
 	start in mid then move out once the first boulders explode
 
-landslide
-???
-enrage - destroy titan's heart before this point
+loops from landslide until enrage, destroy titan's heart before this point
 
 earthen fury - a big raidwide
 
