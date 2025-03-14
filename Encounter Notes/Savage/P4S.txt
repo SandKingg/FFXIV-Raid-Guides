@@ -110,8 +110,9 @@ dark design - baits a puddle under every player, everyone else except the dark t
 	after the puddle baits, the dark pair move into the towers, being careful not to get clipped by the aoes
 	the fire support pair split up on opposite sides, with one side taking the wind dps pair and the other taking the fire dps pair
 	the fire stacks are taken next to the tower, being careful not to overlap
-	then, the dark pair rotate anticlockwise towards the other set of towers, one of the fire dps pair also rotates anticlockwise along with the fire tank
-	everybody else rotates clockwise
+	then, everybody rotates towards their next tower or stack
+		precise rotations depend on the strat, but you will need a priority for fire dps to split
+		one needs to go clockwise, and the other anticlockwise
 	the second set of stacks goes off, followed by the wind aoes after they time out
 
 ultimate impulse - big raidwide
@@ -147,3 +148,30 @@ raidwide - after this raidwide we can start doing the mechanic
 	after this break the aoe tethers one by one starting at north or northeast
 
 ultimate impulse
+raidwide
+
+akanthai: finale - showcases eight towers around the middle of the arena
+
+wreath of thorns - tethers all supports and all dps to opposite thorns with wind tethers
+	spread around the thorns to avoid breaking the tethers and have melee stay close for uptime
+fleeting impulse - fires orbs at each player one by one that deal damage in an aoe and give magic vuln
+	count which orb you get hit by for later
+wreath of thorns - quickly tethers to the tower thorns one by one going clockwise from a random thorn
+	players need to take towers in the same order that they were hit by the orbs so that their magic vulns have worn off
+
+nearsight/farsight
+raidwide
+demigod double
+
+akanthai: curtain call - spawns eight thorns on the cardinals and intercardinals that tether to each player with dark tethers
+	each role will have four different timers: 12s, 22s, 32s and 42s
+	players should break their tethers one by one starting from the shortest timers and ending on the longest timers
+	supports should break first, then dps for each timer length
+hell's sting - eight cone aoes from the boss that hit again in the safe spots from the first set
+	beware that the cones are larger than the safe spots so move more than you might think you need to
+hell's sting
+
+ultimate impulse - tethers spawn again during this cast
+hell's sting x2
+ultimate impulse
+enrage

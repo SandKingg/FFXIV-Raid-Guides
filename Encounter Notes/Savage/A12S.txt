@@ -122,8 +122,10 @@ void of repentance - spawns two wormhole puddles at east and west
 	soaking gives a healing magic down and magic vuln up so healers should not soak unless it is an emergency
 	each soak deals more damage than the last too
 	the order is melee > ranged > tank with players assigned to each side
+		alternatively if the boss is positioned close to one wormhole, melees + MT can take one while ranged + OT can take the other
 
 incinerating heat - only healers and melee dps can take this, everyone else has magic vuln
+	if using the alternative strat, then healers and the first two dps who soaked should take this
 
 holy bleed - an uncast big raidwide
 
