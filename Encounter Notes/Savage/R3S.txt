@@ -59,8 +59,9 @@ doping draught - gains a 2nd stack of the buff
 quadroboom/octoboom bombarian special - a multi-hit raidwide followed by a point-blank aoe, then a doughnut aoe, then a knockback into either pair stacks or spreads
 
 fuses of fury - spawns the short and long fuse bombs from earlier, but no fuses on players this time
-tag team + chain deathmatch - this time, some players will get chained to the boss as well as the clones, indicating they need to get hit by murderous mist later
-murderous mist
+tag team + chain deathmatch - this time, all players will get chained to the boss as well as one clone, indicating they need to get hit by murderous mist later
+murderous mist - depending on your clone tether and where the boss points the mist, you may need to dodge in a corner position
+	be careful to get hit by the correct clone and dodge the other
 
 quadroboom/octoboom dive
 raidwides

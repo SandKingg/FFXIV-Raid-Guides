@@ -45,7 +45,7 @@ raidwide
 tankbuster
 raidwide
 
-incandescent interlude + ruthless refrain - spawns four towers in the cardinals, then gives each all dps or all supports spread aoes
+incandescent interlude + ruthless refrain - spawns four towers in the cardinals, then gives all dps or all supports spread aoes
 	the players without aoes should take the tower in their colour direction, while those with aoes go in between
 	use the knockback to get to the towers/safe spots, or use knockback resist
 

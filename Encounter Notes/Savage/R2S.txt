@@ -48,7 +48,7 @@ honey b. finale - a raidwide that resets the stage back to normal
 
 random tankbuster
 
-alarm pheromones - spawns 16 groupbees arouond the edge that do line aoes baited towards random players
+alarm pheromones - spawns 16 groupbees around the edge that do line aoes baited towards random players
 	just dodge
 
 honey b. live: 2nd beat - this time four players start with one stack and four with zero, one light party each
