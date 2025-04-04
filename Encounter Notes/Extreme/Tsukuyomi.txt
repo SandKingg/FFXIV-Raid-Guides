@@ -20,7 +20,7 @@ add phase - three waves of adds
 		dispersivity - uncast raidwides
 nightbloom
 
-supreme selenomancy - splits the room into a dark half and a light half and gives everyone 4 stacks of the light or dar debuff
+supreme selenomancy - splits the room into a dark half and a light half and gives everyone 4 stacks of the light or dark debuff
 	getting 5 stacks gives you doom and kills you, so everyone needs to run onto the opposite half of their debuff
 	there are two orbs that do lunar halo doughnut aoes, so stand inside them if you run to that half
 	after this, one side begins eclipsing the other, MT should pull the boss towards the smaller side

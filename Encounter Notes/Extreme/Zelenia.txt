@@ -1,0 +1,61 @@
+thorned catharsis - raidwide
+
+shock - gives one role doughnut aoes and another role point-blank aoes
+	after a few seconds these aoes are placed and persist for a few more seconds
+alexandrian holy - spawns four towers at the intercardinals that need to be taken by the role with the doughnuts
+
+specter of the lost - spawns two passable tethers that do cone aoe tankbusters towards their target, make sure both tanks take these
+
+escelons' fall - indicates close or far four times, then does four cone aoes towards either the closest or furthest players
+	the patterns will either be 1122 or 1221, meaning swap after the 1st and 3rd hits or after the 2nd hit respectively
+	can either resolve this in clock spots, or by having supports spread north and dps spread south
+
+stock break - a multi-hit stack marker
+
+blessed barricade - add phase
+	spawns four roseblood drops that need to be destroyed
+	there will be two three-person towers that spawn at NE and SW then alternate
+spearpoint push x8 - two clones will tether one support and one dps, facing towards them, then do a big cleave on the side that their sword is pointing to
+	make sure to aim these so they cleave outside the arena
+	the other six players take the towers, with supports west and dps east
+	focus the adds next to the tower you're taking
+
+perfumed quietus - a big transition raidwide
+
+rosebud bloom - turns the arena into a field of rosebuds, with some being grey and some tinted red
+	the red sections will explode when any part of them is touched by certain aoes, so be careful
+alexandrian thunder ii - three rotating cone aoes that explode red spots
+	find the largest connected non-red spot and dodge around that with the aoes
+alexandrian thunder iii - a spread aoe on every player
+
+raidwide
+
+rosebud: 2nd bloom - there are two safe spots, one has one inner and two outer segments, and the other has the opposite
+thunder slash - indicates a point-blank and doughnut in either order, along with six cone aoes
+	you need to dodge into the safe spot that has two segments where the second dodge will be
+	i.e. if it's doughnut then point-blank, you go to whichever spot has two outer segments, and vice versa
+	move into the second of the two segments to dodge the cone aoes
+
+tankbusters
+
+rosebud: 3rd bloom - there are four alternating red zones in the outer segments
+	either the north or the south red zone will have the two diagonally adjacent inner segments also red
+bud of valor - summons a clone to cast abilities
+alexandrian holy - the clone places a tower in each of the outer red segments
+emblazon - marks either all supports or all dps with roses, cuasing them to turn the segment they are standing on to red after a few seconds
+	we don't want to connect any of the four tower segments, so these need to be placed one bud between the two already red inner segments and three buds opposite
+		you can also fill in the four inner segments towards east and west that aren't red
+	the role without buds needs to stand in each segment to soak the tower since the buds give magic vuln
+	can use rough colour spots to decide which bud goes where, and who soaks the towers
+
+raidwide
+
+bud of valor + shock - only doughnut aoes appear this time, the other role will get nothing
+	each role should stack, with supports north and dps south
+escelons' fall + alexandrian banish ii - one support and one dps gets a stack marker
+	whichever role did not get the doughnuts must take the first bait
+	carry on the rest from that starting point
+
+stock break
+
+rosebud: 4th bloom

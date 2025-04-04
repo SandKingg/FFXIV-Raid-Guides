@@ -1,0 +1,91 @@
+deep cut - two cone aoe tankbusters that also give a bleed
+	aggro-based, so make sure OT is second in aggro
+
+flip to a-side/b-side - the next twist will be followed up with either cones on 1 tank, healer & dps or line stacks on each healer
+	a-side - go to role positions, tanks in front, healers at the side, dps behind
+	b-side - split into light parties, with one north and one south
+2/3/4-snap twist & drop the needle - does two, three or four cleaves on the side indicated by the waveform, followed by a final cleave on the opposite side
+	then there's a follow up move based on what he flipped to
+
+flip to b-side/a-side - opposite of the previous
+2/3/4-snap twist & drop the needle
+
+celebrate good times - raidwide
+
+disco infernal - a raidwide that gives everybody a debuff
+	one role will have 23s timers and one will have 31s timers
+	it also creates eight moving spotlights that players need to be in at the end of their debuff
+	four will be towards the middle and four will be towards the edges
+
+funky floor - creates a checkerboard pattern of ground aoes that alternate every 4 seconds
+
+outside in/inside out - either a doughnut into a point-blank or a point-blank into a doughnut
+
+flip to a-side/b-side - the first role need to be in spotlights during this cast
+	four of the spotlights will be in aoes, so make sure you take a safe spotlight
+	the melee spotlights were will be the initially SAFE spots, ranged will always be the initially unsafe spots
+2/3/4-snap twist & drop the needle - the other role need to be in spotlights before this cast
+	again make sure to not go into a spotlight covered by an aoe
+	melee spotlights are the initially UNSAFE ones here
+
+raidwide
+tankbusters
+
+ensemble assemble - summons eight frogs in the background at north
+arcady night fever - does alternating point-blank and doughnut aoes around the boss, along with cone aoes towards specific players
+	the cones alternate between hitting dps and then supports
+	each player will get one cone, and the next aoe will have a second cone that hits where the previous cone did
+	spread into assigned spots then quickly move into someone of the same role to avoid both cones on the next hit
+		make sure to move back afterwards
+	each hit gives either an alpha or a beta debuff with a specific timer
+let's dance! - does half room cleaves in the direction that the frogs in the background are pointing, either left or right
+	players need to resolve their alpha and beta debuffs during this
+	stack on top of the player with the opposite debuff to you, but the same timer, to share the damage
+	failing to stack gives a bleed to both players
+let's pose! - stay still and don't attack, to get perfect groove
+
+flip to a-side/b-side
+
+ride the waves! - does aoes on some tiles in each row that move down the arena, make sure to stay in the gaps
+quarter/eighth beats - either pair stacks on all supports or dps, or a spread aoe on every player
+eighth/quarter beats - opposite of the previous
+outside in/inside out
+
+2/3/4-snap twist & drop the needle - does three aoes on the side indicated by the waveform, followed by a final aoe on the opposite side
+	remember to do the follow up light parties or role stacks
+
+tankbusters
+raidwide
+
+frogtourage - summons two sets of two frogs on two edges of the arena that dance through, tracing out aoes
+	these aoes overlap in such a way that there will be two 2x2 tile safe spots on opposite edges
+quarter/eighth beats - either spread or pair stack in the safe spots
+
+disco infernal - this time the debuffs are 9s and 19s
+	also spawns four frogs
+back-up dance - the four frogs each do a cone aoe towards the closest player, this needs to be baited by the players not taking a spotlight
+back-up dance - now the roles swap over, the first spotlights do the baits and vice-versa
+
+flip to a-side/b-side
+2/3/4-snap twist & drop the needle
+raidwide
+
+ensemble assemble + arcady night encore - the same as arcady night fever, but you don't get the alpha and beta debuffs, just magic vuln
+let's dance! remix - this time the frogs can also be pointing forward or back, indicating a cleave in front or behind the boss
+let's pose!
+
+frogtourage 2 - spawns two sets of two frogs that cast do the hustle in the order they spawned
+	one cardinal will be safe from both cleaves each time
+	do the hustle - a half-room cleave on the side indicated by the boss
+	back-up dance - four more frogs spawn in the middle, along with two that trace an aoe
+		dodge the aoe while baiting the cleaves away
+	back-up dance - the same again but the other four players need to bait
+	do the hustle - this time both frogs and the boss cleave at the same time, one eighth of the arena will be safe
+
+tankbusters
+funky floor
+eighth/quarter beats
+outside in/inside out
+quarter/eighth beats - opposite of the previous
+raidwide x2
+enrage
