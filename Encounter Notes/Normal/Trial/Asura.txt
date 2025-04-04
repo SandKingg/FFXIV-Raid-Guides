@@ -1,0 +1,50 @@
+lower realm - raidwide
+
+asuri chakra - thin concentric doughnut aoes with safe spots in-between them
+
+cutting jewel - aoe tankbuster
+
+ephemerality - spawns several images of asura that do point-blank aoes a few seconds later
+
+spirit of battle - asura summons a larger version of herself on the outside of the arena
+
+iconography: pedestal purge - a point-blank aoe around the boss
+iconic execution - the giant asura does a point-blank aoe centred on her
+
+iconography: wheel of deincarnation + iconic execution - a doughnut aoe around the boss, followed by one around the spirit
+
+iconography: bladewise + iconic execution - a line aoe in front of the boss followed by a much bigger line aoe from the spirit
+
+six-bladed khadga - marks the front, left and right halves of the room twice each in order going either clockwise or anticlockwise, always starting with the front half
+	then she cleaves each half in the order that they were indicated
+	stay behind her and dodge between the left and right halves as they get cleaved
+
+the face of wrath/delight - indicates a mask and does an aoe on that half of the floor
+	wrath - red half
+	delight - blue half
+
+myriad aspects - marks six cone aoes with safe spots between them, then six more firing into those safe spots
+	dodge into the first hit after it goes off
+
+bladescatter - does a lot of line aoes going clockwise from north
+
+raidwide
+iconography + iconic execution x2 - the spirit now moves to a different cardinal before doing its aoe, so watch carefully
+	these are also now in a random order but will only do each iconography once
+iconography + iconic execution x2
+iconography + iconic execution x2
+six-bladed khadga
+
+many faces - changes the mask for her next ability
+the face of delight/wrath - opposite of the previous
+
+myriad aspects
+
+asuri chakra + ordered chaos - now does spread aoes on random players, so don't overlap them
+
+raidwide
+ephemerality
+bladescatter
+tankbuster
+
+loops from iconography + iconic execution x2 until defeated
