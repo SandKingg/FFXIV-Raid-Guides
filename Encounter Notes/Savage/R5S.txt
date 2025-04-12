@@ -51,9 +51,7 @@ quarter/eighth beats - either pair stacks on all supports or dps, or a spread ao
 eighth/quarter beats - opposite of the previous
 outside in/inside out
 
-2/3/4-snap twist & drop the needle - does three aoes on the side indicated by the waveform, followed by a final aoe on the opposite side
-	remember to do the follow up light parties or role stacks
-
+2/3/4-snap twist & drop the needle
 tankbusters
 raidwide
 

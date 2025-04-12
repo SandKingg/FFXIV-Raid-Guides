@@ -26,15 +26,17 @@ rosebud bloom - turns the arena into a field of rosebuds, with some being grey a
 	the red sections will explode when any part of them is touched by certain aoes, so be careful
 alexandrian thunder ii - three rotating cone aoes that explode red spots
 	find the largest connected non-red spot and dodge around that with the aoes
+	starting point will always be slightly towards NW or SE
 alexandrian thunder iii - a spread aoe on every player
 
 raidwide
 
-rosebud: 2nd bloom - there are two safe spots, one has one inner and two outer segments, and the other has the opposite
+rosebud: 2nd bloom - there are two safe spots towards west and east, one has one inner and two outer segments, and the other has the opposite
 thunder slash - indicates a point-blank and doughnut in either order, along with six cone aoes
+	the cone aoes always alternate, starting north and going clockwise
 	you need to dodge into the safe spot that has two segments where the second dodge will be
 	i.e. if it's doughnut then point-blank, you go to whichever spot has two outer segments, and vice versa
-	move into the second of the two segments to dodge the cone aoes
+	if the safe spot is west, then you need to dodge diagonally to avoid the second cone, otherwise just dodge normally
 
 tankbusters
 
@@ -42,11 +44,11 @@ rosebud: 3rd bloom - there are four alternating red zones in the outer segments
 	either the north or the south red zone will have the two diagonally adjacent inner segments also red
 bud of valor - summons a clone to cast abilities
 alexandrian holy - the clone places a tower in each of the outer red segments
-emblazon - marks either all supports or all dps with roses, cuasing them to turn the segment they are standing on to red after a few seconds
-	we don't want to connect any of the four tower segments, so these need to be placed one bud between the two already red inner segments and three buds opposite
+emblazon - marks either all supports or all dps with roses, causing them to turn the segment they are standing on to red after a few seconds
+	we don't want to connect any of the four tower segments, so these need to be placed one rose between the two already red inner segments and three roses opposite
 		you can also fill in the four inner segments towards east and west that aren't red
-	the role without buds needs to stand in each segment to soak the tower since the buds give magic vuln
-	can use rough colour spots to decide which bud goes where, and who soaks the towers
+	the role without roses needs to stand in each segment to soak the tower since the roses give magic vuln
+	can use rough colour spots to decide which rose goes where, and who soaks the towers
 
 raidwide
 
@@ -58,4 +60,45 @@ escelons' fall + alexandrian banish ii - one support and one dps gets a stack ma
 
 stock break
 
-rosebud: 4th bloom
+rosebud: 4th bloom - two inner segments towards north or south will be red, along with one outer segment there and two outer segments on the opposite side
+emblazon - this also creates two static aoes that touch the inner red segments
+	the role with roses needs to place theirs in the 2x2 safe spot away from the static aoes
+	melees place their on the inner segment and ranged on the outer segment
+alexandrian thunder iii - not cast for some reason, but the other role gets spread aoes that need to be taken on the side towards the static aoes
+	careful not to overlap
+encircling thorns - tethers all supports to all dps
+	these tethers break based on distance so stack at the inner part of the large red spot and move dps east and supports west
+alexandrian banish iii - this stack has a rose marker so it needs to touch the red segments to make the entire red section act as the stack
+	supports shouldn't stand in the red other they get a double magic vuln and die
+
+raidwide
+
+bud of valor - summons one clone at north and one at south
+escelons' fall + power break x2 - the north clone does a half room cleave indicated by its sword
+	afterwards, solve the entire escelon's fall while watching the south clone
+	then dodge the final cleave
+
+stock break
+
+rosebud: 5th bloom - the NW and SE quadrants will all be red and the other two are fully safe
+valorous ascension - spawns two sets of two 'briar thorn' slashes at NE and SE in either order
+	these then fly through the arena in the order they spawned, with NE hitting east and SE hitting south
+thunder slash - first go to the safe quadrant that is not hit by the first briar slash and dodge in or out
+	then move either out or in and run clockwise to the other safe quadrant to dodge the cones and cleaves
+
+tankbusters
+
+rosebud: 6th bloom - west will have one inner and one outer safe, diagonally opposite, and the same for east
+bud of valor + alexandrian holy - each of the four red segments gets a tower
+emblazon - one role will be marked for roses, two need to be placed north and two south
+holy hazard - indicates two 120-degree cleaves on opposite sides of the boss, aligned such that they both touch the east-west line
+	then it switches to another set, where the safe spots are adjacent on the east and west sides
+	if the first set of cleaves keeps the inner towers safe, roses should be placed on the inner segments and vice versa
+	then players need to dodge the cleaves and the other role soaks the towers
+
+rosebud bloom + alexandrian thunder iii
+alexandrian thunder iii
+raidwide
+tankbusters
+stock break x3
+enrage
