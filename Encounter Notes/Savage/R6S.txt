@@ -1,0 +1,111 @@
+mousse mural - raidwide
+
+color riot - two tankbuster hits on the closest and furthest players
+	the closest player gets whichever colour gun she's holding up and the furthest gets whichever colour gun she's pointing down
+	for subsequent tankbusters, make sure that the tanks alternate who gets each colour
+	party should stand exactly on the boss's hitbox to avoid baiting a tankbuster
+
+wingmark - gives every player a wing debuff that will cause them to get launched across the arena in the direction they are facing when it expires
+
+color clash - fires her gun twice or four times, indicating a stack on both healers or all supports/all dps respectively
+	this happens later
+
+double style - paints some objects on the arena
+	morbol - does a bad breath cleave in the direction it's facing
+	succubus - does a massive dark mist point-blank aoe
+	bomb - does a smaller burst point-blank aoe
+	winged bomb - jumps over to the opposite side, then does a smaller burst point-blank aoe
+	the wing debuffs go off before the cleaves, so position to make sure that you get knocked into the safe spot
+	resolve color clash immediately after
+
+sticky mousse - two aoes on random players that give debuffs
+	the debuffs will explode into stacks once they expire
+	split the group into two 4-man stacks to share damage
+
+tankbusters
+
+sugarscape - transforms the arena into a desert, giving everybody a small, permanent dot and giving out debuffs to some players
+	one tank and one dps will get shorter timer brulee debuffs, and both healers get longer timer brulee debuffs
+		these debuffs do aoes around each player once they expire, so they need to be taken away from the group
+	one dps gets a crowd brulee debuff with the same timer as the shorter explosion debuffs
+		this is a stack, so everybody not resolving a brulee debuff needs to stack with this player
+
+layer (cactus) - paints a cactus onto the landscape, creating expanding cacti on the arena that explode into large point-blank aoes
+	just dodge
+	the shorter timer debuffs explode after this
+
+sticky mousse
+
+layer (quicksand) - paints quicksand onto the landscape, creating a large quicksand aoe that pulls anybody caught in it down to their deaths
+	more cacti will spawn which need to be dodged, and only the corners will be safe from the quicksand
+	the longer timer debuffs will explode here so have both healers run to different corners and the rest of the party run to a third corner
+
+pudding graf - makes the next style spawn on players and do spread aoes around them
+	the quicksand aoe also moves north during this
+double style - will always be bombs and winged bombs
+	players need to position themselves such that the bombs and winged bombs fall or jump into the quicksand respectively
+
+raidwide
+tankbusters
+
+soul sugar - creates several lifeless puddings near the middle of the arena
+live painting - imbues each pudding with the soul of a creature, summoning adds: 1 yan, 1 gimme cat, 2 mus
+	yan - hatred and malice incarnate, does incredibly powerful attacks and needs to be tanked by the OT
+	gimme cat - immediately steals your LB gauge when spawning, so make sure to use it beforehand
+		then leaps around the arena
+		i crave violence - a point-blank aoe
+		hangry hiss - enrage, kill it before this goes off
+	mu - needs to be tanked but doesn't do much except autoattack
+live painting - summons the next wave: 2 mus, 2 feather rays
+	feather ray - tethers to the closest player, casting water iii
+		water iii - does a big aoe around the tethered player, giving a short vuln and leaving a persistent puddle
+			make sure to put these around the edges to minimise lost space
+live painting - summons the next wave: 1 yan, 1 gimme cat, 1 jabberwock
+	jabberwock - marks one player when it spawns, rooting them before moving slowly towards them
+		kill it before it reaches the rooted player or they will die
+		stuns and heavies work, so make sure to use them
+ready ore not - a smaller raidwide
+live painting - summons the next wave: 1 yan, 1 gimme cat, 2 mus, 2 feather rays, 1 jabberwock
+ready ore not
+
+single style - paints a single object, will always be arrows
+	arrows - each arrow does a line aoe through the arena, so don't stand in line with them
+
+tankbusters
+raidwide
+
+sugarscape 2 - turns the arena into a riverscape, the river gives fire vuln down and lightning vuln up
+
+double style - can now do fire or lightning styles, this is always paired with arrows
+	fire - stacks on each healer, make sure to stand in the river
+	lightning - a spread on every player, make sure to not be in the river
+
+layer (thunderstorm) - paints a thunderstorm onto the landscape, making the river deadly and creating a tempest that moves around the arena
+	highlightning - a massive point-blank aoe from the tempest, stay away from it
+
+lightning storm x4 - marks two players and creates several small point-blank aoes around the arena
+	after a few seconds, the platforms that the marked players are standing on will get electrified
+	make sure the players are on different platforms away from the tempest and the party is standing on the bridge between them
+
+pudding party - a multi-hit stack marker
+
+layer (lava) - turns the river into lava and destroys the bridges between platforms
+	split up before the cast goes off with the melees on the south platform and two ranged on the north platforms
+
+mousse drip - spawns four towers on the south platform and two towers on the north platforms, then does two multi-hit stacks on the furthest two players
+	these stacks leave persistent puddles so take them away from the towers
+moussacre - cone aoes on the four closest players, make sure to bait these towards east and west to avoid hitting the ranged players
+??? - there are baited lightning puddles next so stay still, then move after the lightning flash on screen
+	take towers after this
+
+wingmark - more towers also spawn along with this cast
+	there will be four on one of the north platforms and two on the other two platforms
+	use the wing debuffs to rotate platforms either clockwise or anticlockwise
+???
+
+raidwide
+sticky mousse
+tankbusters
+wingmark
+color clash + double style
+enrage
