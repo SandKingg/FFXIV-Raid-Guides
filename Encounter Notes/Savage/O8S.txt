@@ -112,7 +112,7 @@ raidwide
 forsaken 2 - another mini-phase
 	two ranged should preposition far away to bait preys on the two furthest away players
 	then they run north with their following aoes
-	spawns two 2-person towers, tanks take east, healers take west
+	spawns two 2-person towers, tanks take west, healers take east
 	starstrafe - spawns baitable puddles under the melee dps
 		bait five puddles in total very slowly walking north to avoid putting puddles in the north tower
 	past's/future's end - spawns a clone on every support that will turn to face them after a delay
@@ -138,14 +138,14 @@ raidwide
 
 forsaken 3 - another mini-phase split into 4 segments
 	segment 1 - spawns three towers and the first graven statue
-		healers take west tower, tanks take east tower, dps take south tower
+		healers take east tower, tanks take west tower, dps take south tower
 		knockback resist if you get an orange tether
 		raidwide
 		ultimate embrace
 	
 	segment 2 - spawns two towers and the third graven statue
 		tethers to the right eye need to stay in towers, tethers to the left eye need to go out to intercardinals
-		tanks have east tower priority and healers west
+		tanks have west tower priority and healers east
 		dps should have e/w priority based on their graven 3 positions
 		supports should decide who goes north/south if they need to be out
 		raidwide
