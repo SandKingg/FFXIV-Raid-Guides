@@ -117,7 +117,7 @@ gravitational anomaly + incinerating heat
 
 summon alexander - summons a massive alexander in north that empowers some abilities
 
-void of repentance - spawns two wormhole puddles at east and west
+void of repentance - spawns two wormhole puddles at opposite cardinals
 	these need to be soaked three times each to disappear
 	soaking gives a healing magic down and magic vuln up so healers should not soak unless it is an emergency
 	each soak deals more damage than the last too

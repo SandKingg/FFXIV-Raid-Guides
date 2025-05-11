@@ -1,0 +1,94 @@
+sonic howl - raidwide
+
+ruby glow - does a raidwide and creates an array of ruby cells
+	this one creates four square quadrants
+topaz stones - summons four topaz stones, with two coated in poison, one poison stone will be close to the corner and one close to mid
+	poison stones will do an expanding poison aoe that gives a nasty dot
+	topaz stones will cause the quadrant they are in to explode
+	the safe spot will either be a quadrant with no stones, or a quadrant with only the poison stone close to mid
+
+venomous mass - an aoe tankbuster that leaves a nasty bleed and a physical vuln up, make sure to tank swap
+toxic crunch - a follow-up tankbuster that leaves another nasty bleed
+
+lively bait - spawns two puddles on cardinals near mid and two puddles on intercardinals near the corners
+	these puddles have a countdown and spawn an add if not soaked by two people once the countdown ends
+		they also do a shared damage aoe on the closest player if not soaked
+	assign clock spots, with melees on cardinals and ranged on intercardinals, then have a priority for which pair takes which of the two puddles
+	standing in the puddles gives a dot, so try not to stay in them the whole time
+
+tankbusters
+
+ruby glow 2 - this time it makes two larger triangualr segments
+topaz stones - spawns one topaz stone and one poison stone between the two segments
+double rush - dashes in the direction he's facing, then back through the arena, doing a massive knockback
+	stay on the side he's not facing and use knockback resist, you can outrange the damage by standing far enough away
+	make sure to dodge the topaz stone exploding its segment after
+
+raidwide
+
+ruby glow 3 - creates four square quadrants again
+topaz cluster - spawns four arrays of topaz stones in a set pattern
+	the first set are in two opposite quadrants, then the second set are the other two quadrants
+	the third set are in three random quadrants leaving one safe, and the fourth set will always make the opposite quadrant safe
+
+tankbusters
+
+venom squall/surge - a series of three abilities in either order
+	venom rain - a spread aoe on every player
+	venom drops - baited puddles on every player
+	venom pool - stacks on both healers
+	squall is spread > bait > light parties, surge is light parties > bait > spread
+
+claw to tail/tail to claw - a series of rapid half-room cleaves in front of him and a big half-room cleave behind him in either order
+	the cast name tells you which order they come in, make sure to dodge after the first one finishes
+
+devour - a red jaw marker indicates where he will jump to in one of two patterns, but always hitting each corner twice
+	the patterns can be rotated or reflected
+	pattern 1 - ABADCBCD
+		for this pattern, he immediately doubles back after the first jump, dodge C > B > A
+	pattern 2 - ABCDCBAD
+		for this pattern, he makes an almost complete lap, then doubles back fully, dodge D > A > D > C
+lively bait - all four puddles spawn in mid here so we do these in colour pairs
+	if all puddles are soaked correctly, the boss will enrage
+	instead, the ranged on 1 takes the south puddle and both tanks stand next to the north puddle with a small cd
+	the boss will eat the add that's spawned and regain its satiety
+
+raidwide
+
+ruby glow 4 - creates two triangle segments again
+topaz stones - one segment will have three stones and one will have two
+venom pool - the stones in the segment with two need to be covered with poison, turning them into the expanding aoes
+	have one light party assigned to the one nearer to the middle and the other assigned to the one nearer the edge
+raging claw/searing ray - either the series of cleave in front of it from earlier, or an aoe that hits the segment the boss jumps to
+	either go behind the boss for raging claw, or stay in the opposite segment for searing ray
+	if it's raging claw in the segment with poison aoes, the timing is fairly tight to move away from them after the raging claw ends
+
+tankbusters
+
+ruby glow 5 - four square quadrants again
+topaz stones - puts one stone in each quadrant, with two topaz stones in opposite quadrants and two poison stones in the others
+venom squall/surge - assign one light party to start in the east safe spot and one to start in the west safe spot
+	wait for the topaz stone aoes to go off, then quickly move into the other quadrant
+	then do the spread, bait and light party stack in whichever order they happen
+	for spreads, one person can go right up close to where the aoes intersect, and the rest around the other corners of the quadrant
+
+lively bait
+claw to tail/tail to claw
+tankbusters
+raidwide
+
+ruby glow 6 - four square quadrants again
+topaz stones - three quadrants have two stones and one quadrant has three stones
+venom pool - these need to cover the one quadrant where both stones are towards the edge of the arena, to make sure there is enough space
+	have one light party assigned to the stone in the corner and the other light party assigned to the stone near the middle of the edge
+double rush
+
+tankbusters
+raidwide
+venom squall/surge
+claw to tail/tail to claw
+tankbusters
+
+sonic shatter - a 5-hit raidwide
+
+enrage
