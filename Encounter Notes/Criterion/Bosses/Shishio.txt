@@ -36,9 +36,10 @@ stormcloud summons 2 - summons a ring of stormclouds around the arena
 lightning bolt - causes each cloud to start firing off line aoes, dance around them to avoid damage
 
 unnatural wail - look for stack or spread first
-in/out - watch cast bar
-	eye of the thunder vortex - out first, then in
-	vortex of the thunder eye - in first, then out
+eye/vortex of the thunder vortex/eye - a point-blank aoe and a doughnut aoe in either order, indicated by the cast name
+	also resolve the stack and spread at the same time, try to stack diagonally when going out
+	eye - out
+	vortex - in
 
 raidwide
 
@@ -52,6 +53,6 @@ thunder vortex - go in
 tankbuster
 stormcloud summons 3 + rokujo revel - can be either of the other 2 patterns
 stormcloud summons 4 + lightning bolt - will be bigger aoes this time, either 2 or 3 eats
-unnatural wail + in/out 2
+unnatural wail + eye/vortex of the thunder vortex/eye 2
 
 enrage

@@ -2,6 +2,7 @@ bright sabbath - raidwide
 
 phantom rune - either a point-blank or doughnut aoe, look at her staff
 	if there are rings around it, it's a doughnut, otherwise point-blank
+	this one is always a point-blank
 
 mist rune - spawns four puddles in mid and four in the corners, that all start counting down
 	if there is no player in them when the countdown finishes, a spirit of dew add will spawn and the puddle disappears
@@ -16,7 +17,7 @@ divination rune - a big conal tankbuster
 chain of brambles - tethers each support to a dps with a bramble that needs to be broken
 	stack in mid first, then have supports run NE and dps run SW
 
-phantom rune
+phantom rune - always a doughnut
 
 midsummer night's dream - changes the arena to the forest
 

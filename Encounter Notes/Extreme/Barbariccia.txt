@@ -46,13 +46,12 @@ brutal rush (dps)
 knuckle drum - a series of big raidwides, stack at A during this
 
 blow away + brutal rush - baits four puddles under each player, run clockwise from A during this to dodge the burtal rushes at the same time
-
 impact + bold boulder - marks both tanks with flare markers, and a random healer with a stack, then does a knockback from the centre
 	party stacks at C while tank flares go to 1 and 4 and use a cd
 	remember the knockback here, don't go to the edge (unless you used kb resist)
 
 brutal rush (dps) - spread quickly after the stack to help dodging
-teasing tangles 2 - this time four players get enumerations but it always works out that you can resolve them at the numbers
+teasing tangles 2 + upbraid - this time four players get enumerations but it always works out that you can resolve them at the numbers
 	dodge the small tornadoes, as well as the two sets of three puddles that are ROUGHLY baited near players
 	you get time to move after the final puddle goes off, but be quick
 knuckle drum
@@ -70,6 +69,7 @@ tankbuster
 entanglement + upbraid - two tangles with have both players get enumeration, find a way to resolve, you get plenty of time
 savage barbery - opposite of the previous
 hair raid + hair spray - both opposite of the previous
+
 curling iron
 brutal rush (supports)
 knuckle drum - stack on A
@@ -83,6 +83,7 @@ boulder break - hopefully the other tank can invuln here
 bold boulder - there is no knockback here, go to the edge immediately
 knuckle drum
 iron out
+
 entanglement + secret breeze
 savage barbery
 hair raid + hair spray

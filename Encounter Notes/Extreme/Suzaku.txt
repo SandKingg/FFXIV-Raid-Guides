@@ -13,6 +13,8 @@ phoenix down - spawns 4 scarlet plumes and 4 scarlet tail feathers on either the
 	kill the revived scarlet ladies
 tankbuster
 
+raidwide
+
 eternal flame - ddr phase, face the direction of the arrow to soak the orbs
 
 southron star - raidwide

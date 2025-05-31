@@ -51,6 +51,7 @@ devour - a red jaw marker indicates where he will jump to in one of two patterns
 lively bait - all four puddles spawn in mid here so we do these in colour pairs
 	if all puddles are soaked correctly, the boss will enrage
 	instead, the ranged on 1 takes the south puddle and both tanks stand next to the north puddle with a small cd
+		alternatively, one tank can stand next to the tower with invuln, preferably PLD/GNB if possible, and the free dps can fill in for puddle mishaps
 	the boss will eat the add that's spawned and regain its satiety
 
 raidwide

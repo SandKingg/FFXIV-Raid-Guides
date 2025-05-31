@@ -1,0 +1,76 @@
+hemitheos's dark iv - raidwide
+
+chelic synergy - a shareable tankbuster cleave on the MT that gives a bleed
+
+aetheric polyominoid - spawns two polyominoids that will do plus-shaped aoes across the tiles in their rows and columns later
+	they will always be two columns apart, leaving one column safe on the east and one on the west
+	they will always spawn one in the north row and one in the south row, meaning the two middle squares in the safe columns are safe
+unholy darkness - stacks on both healers, split into light parties for this
+	each light party should take one safe column
+exocleaver - does six telegraphed cone aoes, followed by six more untelegraphed cones in the previously-safe spots
+
+pathogenic cells - marks every player with a number from 1 to 8, then does 90-degree cleaves towards them in order
+	have 1-4 go to their respective 1-4 markers, with 5 & 6 waiting east and 7 & 8 waiting west
+	after being hit, 1 swaps with 5, 2 swaps with 6 etc.
+	getting hit twice will kill you, or give an immobilising debuff if it doesn't
+
+aetherial exchange - gives her a buff that causes the next mechanic to swap somehow
+exchange of agonies - gives everyone a debuff marker above their head, with two pairs of supports and dps getting theirs swapped
+	after the swaps, one role will all have spreads, the other role will have one stack and three doughnuts
+	the role with the stack eneds to stay in the middle of the arena, while the other role spreads to their colour corners
+choros ixou - two 90-degree cleaves on opposite sides indicated by her hands, followed by the other two spots getting cleaved
+	make sure to dodge both cleaves in your spot
+
+synergy - two aoe tankbusters on the top two in aggro that give bleed
+	the buster on the MT also gives a short magic vuln, requiring an invuln or a tank swap to avoid dying to the next auto
+
+raidwide
+
+transmission - tethers four players to her snake and four players to her wing, giving each of them a debuff
+	the snake players get a glossal parasite and wing players get a chelic parasite
+	once the debuff expires, the snake players do a cone aoe in front of them and the wing players to a cone aoe behind them
+	since you're stunned, snakes need to face out and wings need to face in
+
+aetherial exchange + polyominoid sigma - spawns two plus polyominoids and two X polyominoids that swap with each other
+	the safe tile here is always the middle tile diagonally adjacent to the X polyominoid tethered to the plus polyominoid not in the corner
+dark dome - baits aoes under every player, stay out in the safe tile, then move in after the cast ends
+
+aetherial exchange + exchange of agonies 2 - two pairs of support and dps are tethered together, with one having a spread and one having a stack
+exocleaver - have the supports go west and dps go east, with the stacks being taken on 2 and 3 and the spreads going into the north corners
+	remember to dodge the second set of cones
+
+random tankbuster - will either be synergy or chelic synergy
+raidwide
+
+aetherial exchange + polyominoid sigma 2 - the safe spots here are always two diagonally opposite tiles in mid
+	look for the X tile that fires through the arena and the tiles it doesn't hit in mid are safe
+unholy darkness - assign one light party per safe tile
+
+dark ashes - a spread aoe on every player
+choros ixou - spread out near the intercardinal lines to make dodging the cleaves easier
+
+cachexia - gives every player two debuffs, an aetheronecrosis debuff with an 8, 12, 16 or 20 second timer, and a glossal or chelic resistance down debuff
+	for the two players with each timer, one has glossal (purple) and the other has chelic (green) resistance down
+	the aetheronecrosis debuffs will do large aoes once the timer expires, so spread out
+dual predation - the closest player on the east and the west each get an aoe around them
+	the east player gets a glossal aoe and the west player gets a chelic aoe
+	all players with glossal resist down go west and chelic resist down go east
+	the hits are taken in order by the 20s, 8s, 12s and 16s original debuff timers respectively
+	each hit gives a new resistance down debuff from its respective colour, essentially swapping you to the other colour once the original debuff wears off
+ptera ixou - swap sides from your original side to take the cleave of the opposite colour from your debuff
+
+random tankbuster
+raidwide
+
+aetheric polyominoid 2 - places two X polyominoids in two diagonally opposite tiles in mid
+dark sphere - gives every player a massive spread aoe
+dark dome - baits again, move after the cast finishes
+
+aetherial exchange + exchange of agonies 3 + choros ixou - same as exchange of agonies 1
+
+aetherial exchange + polyominoid sigma 3 - 
+	there will be one safe spot north/south and one safe spot east/west
+choros ixou - go into whichever safe spot also dodges the first set of cleaves
+
+random tankbuster
+raidwide
