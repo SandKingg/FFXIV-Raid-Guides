@@ -29,7 +29,7 @@ raidwide
 transmission - tethers four players to her snake and four players to her wing, giving each of them a debuff
 	the snake players get a glossal parasite and wing players get a chelic parasite
 	once the debuff expires, the snake players do a cone aoe in front of them and the wing players to a cone aoe behind them
-	since you're stunned, snakes need to face out and wings need to face in
+	start in light parties SE and SW, with snake players in and wing players out at max melee, then adjust slightly into the choros safe spot
 
 aetherial exchange + polyominoid sigma - spawns two plus polyominoids and two X polyominoids that swap with each other
 	the safe tile here is always the middle tile diagonally adjacent to the X polyominoid tethered to the plus polyominoid not in the corner
@@ -43,7 +43,8 @@ random tankbuster - will either be synergy or chelic synergy
 raidwide
 
 aetherial exchange + polyominoid sigma 2 - the safe spots here are always two diagonally opposite tiles in mid
-	look for the X tile that fires through the arena and the tiles it doesn't hit in mid are safe
+	if it's the asymmetrical pattern, look for the X tile that fires through the arena and the tiles it doesn't hit in mid are safe
+	if it's the symmetrical pattern, the diagonal line of symmetry in mid is safe
 unholy darkness - assign one light party per safe tile
 
 dark ashes - a spread aoe on every player
@@ -63,14 +64,40 @@ random tankbuster
 raidwide
 
 aetheric polyominoid 2 - places two X polyominoids in two diagonally opposite tiles in mid
-dark sphere - gives every player a massive spread aoe
-dark dome - baits again, move after the cast finishes
+	split into colour pairs with either a left/right split or an in/out split for your corner
+dark sphere - gives every player a massive spread aoe, stay in your own tile for this
+dark dome - baits again, move into a previously unsafe tile after the big aoes go off, there will be time
 
 aetherial exchange + exchange of agonies 3 + choros ixou - same as exchange of agonies 1
 
-aetherial exchange + polyominoid sigma 3 - 
+aetherial exchange + polyominoid sigma 3 - places two plus polyominoids and one X polyominoid in a diagonal line through the middle
 	there will be one safe spot north/south and one safe spot east/west
-choros ixou - go into whichever safe spot also dodges the first set of cleaves
+	if the swap tether is 'long' (there's a gap between its two tiles), the safe spots are close together in the corner of the single polyoninoid
+	if the swap tether is 'short' (the two tiles are diagonally adjacent), the safe spots are the two edge tiles diagonally adjacent to the X polyominoid
+choros ixou - go into whichever safe spot also dodges the first set of cleaves, remember to dodge the second cleave afterwards
 
 random tankbuster
 raidwide
+
+cachexia 2 - gives four players glossal resist down and four players chelic resist down
+	tank always have opposite debuffs, as well as healers, dps will have two of each
+transmission - watch if you have a snake or wing debuff
+aetherial exchange + polyominoid sigma 4 - places two plus and two X polyominoids in the middle two tiles of either the 1st and 3rd rows or 2nd and 4th
+	one X will always get swapped with one plus, leading to an 'X' column and a 'plus column'
+	the safe spots for the 'X' column are the two non-polyominoid tiles in that column
+	the safe spots for the 'plus column' are the two tiles in the other column adjacent to the non-polyominoid tiles in that column
+ptera ixou - this also spawns dark sphere aoes and unholy darkness stacks on two players
+	make sure you are on the correct side for your resist down debuff
+	players with spreads go into the corner safe spot
+	the stack player and those with nothing stay in the middle safe spot
+
+aetheric polyominoid 3 - places the same pattern of polyominoids as polyominoid sigma 1, but there are no swap tethers and one X is now a plus
+	the safe spot is diagonally adjacent to the plus in line with both the X and the non-corner plus polyominoids
+dark dome
+
+aetheric polyominoid 4 - places the same pattern of polyominoids as aetheric polyominoid 1
+choros ixou - make sure you dodge in the inner safe spot because the outer one will not be safe if she cleaves E/W
+
+random tankbuster
+raidwide
+enrage

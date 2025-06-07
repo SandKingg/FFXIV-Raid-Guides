@@ -49,7 +49,7 @@ add phase - spawns mustardseed in the east, puck north and peaseblossom west
 	peaseblossom
 		peasebomb - spread aoes on four random players
 		hard swipe - tankbuster
-	adds then grow big, same priorities as before, but they still cast abilities after dying
+love-in-idleness - adds then grow big, same priorities as before, but they still cast abilities after dying
 	big mustardseed
 		leafstorm is now seven much larger cones
 		whispering wind is now just a raidwide
@@ -78,4 +78,5 @@ growth rune + chain of brambles
 phantom rune
 phantom rune - opposite of previous?
 raidwide
+tankbuster
 enrage

@@ -1,6 +1,6 @@
 shadowreaver - raidwide
 
-winged reprobation (tethers) - two dps get tethered to swords, which will quickly move towards them
+winged reprobation (tethers) - two random players get tethered to swords, which will quickly move towards them
 	take the tethers far away to give you time to dodge
 	also dodge the three-pronged spread when it reaches your location
 

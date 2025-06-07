@@ -1,0 +1,73 @@
+absolute zero - raidwide
+
+mirror, mirror - spawns two green mirrors at north and either east or west, and a red mirror on whichever of east and west isn't a green mirror
+	the mirrors will repeat her next attack, but the red mirror will be delayed
+biting/driving frost - either a 270-cleave in front or a 90-degree cleave behind
+	for biting, go directly opposite the green mirror next to the red mirror, then adjust slightly for the red mirror's explosion
+	for driving, go next to the green mirror adjacent to the red mirror, starting between the two green mirrors then adjust slightly to the other side
+
+diamond frost - raidwide that gives one tank and one healer esunable debuffs
+	they freeze the players if not esuna-ed in time
+frigid stone - one tank, one healer and two dps get spread aoes that will place delayed star-aoes later
+	these also inflict heavy on the players with the spreads
+	they should be placed on the intercardinals towards mid, use the arena rings and lines as guidance
+icicle impact - two sets of aoes spawn around the edge of the arena propagating around the edge, make sure to stay close to avoid getting hit
+heavenly strike - a big knockback from the centre of the arena, get knocked into the first aoes to go off
+frigid water - the two players who got debuffs earlier will get flare markers that need to get knocked to the opposite sides
+	assign a priority for where the tank and healer will get knocked back to
+	everyone should get knocked to the same side as the tank except the healer with the flare
+frigid eruption - the two dps who did not get a mechanic yet will need to bait aoe circles away from the group
+
+driving/biting frost - opposite of the previous, MT can point the boss such that the centre will always be safe
+
+double slap - a tankbuster that gives a physical vuln, make sure to swap
+
+shining armor - look away as she changes clothes
+
+axe/scythe kick - either a big point-blank aoe or a doughnut aoe
+
+light rampant - a raidwide that gives everyone up to 2 stacks of lightsteeped, chains four players together and tethers the other four players to orbs
+	orb players will receive either 1 or 2 stacks of lightsteeped, chain players will receive either 0 or 1 stack
+	each chained player is chained to two others and the chains explode if they are too close or too far, though there is a 10 second grace period
+	orbs will follow the player they're chained to, exploding if the player touches them
+	after a while the orbs shrink and can be soaked, if they are soaked too early then it's a wipe
+	if someone reaches 5 stacks of lightsteeped, then it's a wipe
+bright hunger - four 1-player towers spawn on the intercardinals in mid
+the path of light - shoots cone aoes towards the closest four players
+bright hunger - two 2-player towers spawn towards north and south in mid
+the path of light
+bright hunger - a final 4-player tower spawns directly in mid that must be taken by the four players with only 3 stacks of lightsteeped
+
+mirror, mirror 2 - spawns four green mirrors towards the cardinals or intercardinals
+scythe/axe kick - opposite of the previous
+	this will be reflected by the mirrors, so go back in mid for axe and towards a mirror for scythe
+banish iii - marks either all supports or all dps for stacks, but look at the orbs above her head
+	if there's one orb then the stacks are real, so stack in colour pairs
+	if there are four orbs, then the stacks are fake and will become spreads, spread into clock spots
+
+shattered world - add phase, make sure one light party stand in each of the circles to be sent to the correct platforms
+	heart asunder - a big raidwide between each wave
+	wave 1 - 1 earthen aether, 1 aqueous aether, 1 crystalline snowflake
+		earthen aether - casts stoneskin that needs to be interrupted, assign players to interrupt each one
+		aqueous aether - high hp but can be stunned, slowed, bound etc.
+		crystalline snowflake - tethers to the crystal which can be intercepted, but gives light resist down, alternate players each wave
+	raidwide
+	wave 2 - 2 electric aether, 1 crystalline snowflake
+		electric aether - reflectsa flat amount of damage back from each hit, be careful not to blitz them down and kill yourselves
+	raidwide
+	wave 3 - 1 aqueous aether, 2 electric aether, 1 crystalline snowflake
+	raidwide
+	wave 4 - 1 earthen aether, 1 crystalline snowflake
+
+akh morn - blasts the top two in enmity with repeated aoes, that give green or blue debuffs
+	taking damage from the opposite akh morn instantly kills you, so split into light parties for this
+morn afah - a massive hit on the MT that can be shared by the party, make sure to mitigate this
+
+mirror, mirror 3 - spawns a green mirror in north and then a blue and red mirror east or west
+	the blue and red mirror are random which of the two sides they are on
+hallowed wings - one wing will glow, indicating a half-room cleave on that side which will be replicated by the blue mirror
+	this is then replicated by the green mirror
+hallowed wings - the red mirror replicates the ORIGINAL cast here, NOT the second one she's telegraphing now
+	the safe spots for all three cleaves will be either clockwise from each other or anticlockwise from each other, depending on if the blue mirror is west or east
+
+wyrm's lament
