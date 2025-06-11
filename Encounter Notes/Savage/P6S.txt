@@ -91,8 +91,9 @@ ptera ixou - this also spawns dark sphere aoes and unholy darkness stacks on two
 	players with spreads go into the corner safe spot
 	the stack player and those with nothing stay in the middle safe spot
 
-aetheric polyominoid 3 - places the same pattern of polyominoids as polyominoid sigma 1, but there are no swap tethers and one X is now a plus
-	the safe spot is diagonally adjacent to the plus in line with both the X and the non-corner plus polyominoids
+aetheric polyominoid 3 - places a similar pattern of polyominoids as polyominoid sigma 1, but there are no swap tethers
+	if the offset tile is a plus, the safe spot is diagonally adjacent to both pluses there
+	if the offset tile is an X, the safe spot is two tiles away from it in mid
 dark dome
 
 aetheric polyominoid 4 - places the same pattern of polyominoids as aetheric polyominoid 1
