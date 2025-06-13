@@ -4,6 +4,8 @@ elegeia unforgotten - big raidwide, summons a head in the middle of the arena an
 		go towards or opposite the planets respectively
 	the head casts diairesis which is a half-room cleave, need to dodge that and the planet mechanic
 
+elegeia unforgotten - will be the opposite colour planets from the first
+
 katasterismoi - spawns two columns of four towers, assign supports to one side and dps to the other, melees in front
 grip of despair - chains supports to dps, need to stack together and then run away to break them
 elenchos - either does a big line aoe through the middle column of the arena or two line aoes at the side columns
@@ -27,12 +29,12 @@ twinsong's aporrhoia (aka 5head) - summons five heads on the arena, four near th
 	the corner heads cast either necrotic fluid or wave of nausea
 		these are either a doughnut or point blank aoe
 	move into a doughnut and dodge the half-room cleave
-aporrhoia unforgotten - 'records' each of the aoes
+aporrhoia unforgotten x3 - 'records' each of the aoes
 	this pattern happens three times, moving one spot clockwise each time
 theological fatalism - spawns rings around each of the heads that signals how many instances are being 'rewinded'
 	first look at the middle head to see which half is safe
 	then look for a head that was previously doughnut with either 1 or 3 rings OR a head that was previously point blank with 2 rings
-elenchos
+elenchos + eironeia - use your north/south priority from earlier
 
 tankbusters
 
@@ -51,9 +53,10 @@ theological fatalism 2 - players get rings signalling how many rewinds are happe
 
 telomania - multihit raidwide with a bleed at the end
 
-endsong's aporrhoia (aka 6head) - summons six heads in a hexagon pattern around the room, then rings fly towards four heads at a time causing them to cast endsong, a point blank aoe
+endsong's aporrhoia (aka 6head) - summons six heads in a hexagon pattern around the room
+endsong x3 - rings fly towards four heads at a time causing them to cast a point blank aoe
 	run towards the heads that don't have rings flying towards them
-	this happens three times, with the first time coming form endsinger herself and the other times from the heads
+	this happens three times, with the first time coming from endsinger herself and the other times from the heads
 	for the first time, one side (east/west) will have one ring and one side will have three rings, go to the side with one ring
 elenchos
 
@@ -69,10 +72,10 @@ katasterismoi
 elenchos
 
 telomania
-twinsong's aporrhoia
-eironeia + elenchos - use your north/south priority from earlier
+twinsong's aporrhoia + aporrhoia unforgotten x3 + theological fatalism 3
+elenchos + eironeia
 tankbusters
-endsong's aporrhoia
+endsong's aporrhoia + endsong x3
 elenchos
 raidwide
 fatalism x2
