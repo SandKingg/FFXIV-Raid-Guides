@@ -63,14 +63,15 @@ venom pool - the stones in the segment with two need to be covered with poison, 
 raging claw/searing ray - either the series of cleave in front of it from earlier, or an aoe that hits the segment the boss jumps to
 	either go behind the boss for raging claw, or stay in the opposite segment for searing ray
 	if it's raging claw in the segment with poison aoes, the timing is fairly tight to move away from them after the raging claw ends
+		the party can stand in the tiny safe spot but the MT needs to move through for the busters
 
 tankbusters
 
 ruby glow 5 - four square quadrants again
 topaz stones - puts one stone in each quadrant, with two topaz stones in opposite quadrants and two poison stones in the others
-venom squall/surge - assign one light party to start in the east safe spot and one to start in the west safe spot
+venom squall - assign one light party to start in the east safe spot and one to start in the west safe spot
 	wait for the topaz stone aoes to go off, then quickly move into the other quadrant
-	then do the spread, bait and light party stack in whichever order they happen
+	then do the spread, bait and light party stack
 	for spreads, one person can go right up close to where the aoes intersect, and the rest around the other corners of the quadrant
 
 lively bait

@@ -52,7 +52,7 @@ final phase
 	carnage zero - random players explode, so stay spread
 	discoid - now empowered with a final big orb at the end that needs to be stacked upon by the party
 	seed of the sky
-	carnage zero - the stack orb from discod is taken right after this
+	carnage zero - the stack orb from discoid is taken right after this
 	royal pentacle - spawns six coloured adds that are either orange or blue
 		the intended strat is to have players with the correct coloured nisi run into the same coloured add to remove it
 		however, you can sprint through two with no nisi (or wrong nisi) before dying so three dps can sacrifice to clear each pentacle

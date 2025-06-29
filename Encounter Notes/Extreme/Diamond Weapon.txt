@@ -49,7 +49,7 @@ raidwide
 
 articulated bits - spawns mini hand adds that will do line aoes across one half of the arena
 
-auri arts (charges) 2 - if the hands cover behind the boss, dodge in front but to one of the side triangles to avoid the cleaves
+auri arts (charges) 2 - if the hands cover behind the boss, dodge in front, away from where he's looking and in line with the teleporters
 	there will be more line aoes with interspersed safe lines for the final charge
 
 raidwide

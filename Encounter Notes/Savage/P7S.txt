@@ -1,0 +1,97 @@
+spark of life - raidwide & bleed
+
+condensed/dispersed aero ii - big aoe tankbusters that leave a dot
+	condensed - a shared buster
+	dispersed - two separate busters on the top two in aggro
+
+blades of attis - spawns three sets of two exaflares each around the arena
+	one set will always be north, one set will be east/west and the other set will be southwest/southeast respectively
+immortal's obol - a proximity aoe from the centre of the platform that also changes the arena into three separate smaller platforms
+	go to the northern platform opposite the east/west exas and stay close to the northern exas
+	not too close as the aoes are a bit larger than the indicators suggest
+	the platforms will link up with a bridge between each of them after this mechanic
+
+forbidden fruit - spawns an io on one of the northern platforms and two stymphalide birds at the edges on the northern platforms
+	the ios do point-blank aoes on that platform
+	the stymphalides do line aoes in the direction they're facing
+hemitheos's holy iii - two stacks on each healer, split into light parties
+bough of attis - slams her branches down on the southern platform, doing a massive point-blank aoe
+	the safe spots are on the northern platform without the io, have one light party further north and one further south
+
+tankbuster
+raidwide
+
+inviolate bonds - gives everyone a spread wind debuff and one support + dps a stack holy debuff
+	the debuffs are numbered either i or ii indicating which go off first
+	one role will be spreading and the other role will be stacking, then the roles reverse
+bough of attis - this time she slams down on the northern platforms and will follow up with a punch from one of the two branches
+	take the first set of debuffs in the southern platform with the stack in the centre and the spreads around the edge
+	then move into the safe platform and do the same with the second set of debuffs
+
+roots of attis - summons a root that breaks the bridge linking the northern platforms
+
+tankbuster
+
+forbidden fruit 2 - spawns a stymphalide on each platform
+multicast - casts two abilities
+	hemitheos's aero iv - a big knockback from the southern platform
+	hemitheos's holy - a spread aoe on every player
+	use the knockback to get knocked into the two northern platforms with one light party on each, then spread in the safe spots from the line aoes
+	the bigger safe spots can fit two people in the corners
+	you can also use knockback resist and pre-position towards the safe spots
+
+roots of attis - destroys the remaining two bridges
+forbidden fruit 3 - spawns an io on each platform
+hemitheos's holy iii - the platforms will link with a three-part bridge in the centre during this
+	move onto the bridge to take the light party stacks and avoid the point-blank aoes
+
+bough of attis - smashes the northern platforms
+tankbuster
+
+forbidden fruit 4 - spawns an io on one of the platforms, two minotaurs on the other two platforms and a final minotaur in the centre
+	this io will tether to either all supports or all dps and do line aoes towards them
+		these players should spread out along the edge of the io's platform, making sure not to shoot their line aoe towards another platform
+	the two platform minotaurs will do proximity tethers to two players not tethered to the io
+		these players should move behind the minotaur on the other platform to stretch their tether far enough and not hit anybody else with the cleave
+	the centre minotaur will do two baited cleaves towards the two closest players
+		the two players with no tether stand on the centre bridge opposite the part leading to the io's platform to bait the cleaves
+		then move out of the aoes to avoid getting hit
+	getting hit by two of any aoes will kill you as they all give the same vuln
+
+blades of attis - these exaflares are always evenly spaced around the platform at south, NE and NW
+multicast 2 - this is hemitheos's aero iv paired with hemitheos's holy iii
+	get knocked SE and SW in light parties then move in to the exaflares to dodge
+
+tankbuster
+
+forbidden fruit 5 - spawns four stymphalides and four towers
+	the stymphalides always spawn randomly on cardinals or intercardinals (not always all on cardinals or all on intercardinals)
+	the towers always spawn offset from the cardinals/intercardinals 
+	these stymphalides tether to either all supports or all dps and do line aoes towards them giving a vuln and knocking them back
+	either point the line through the middle and make sure not to hit anybody else, or use knockback resist and aim it off the edge next to you
+	the role without tethers should take towers, try to have melees take northern towers if possible
+
+raidwide
+immortal's obol - the three platforms get linked by the centre bridge again
+
+forbidden fruit 6 - spawns two stymphalides and one io on the three platforms
+inviolate purgation - gives everyone two spread debuffs and a stack debuff to two supports and two dps
+	these debuffs are numbered from i to iv indicating the order in which they go off
+	one role will be spreading and one role will be stacking for each set of debuffs
+	a few seconds after they expire, the spread debuffs do giant point-blank aoes where they were taken and the stack does a giant doughnut aoe where it was taken
+	the spreads and stacks start on the two northern platforms, unless one of them has the io in which case that role goes south instead
+	the stack is taken in line with the bridge at the opposite edge, while the spreads have one in the middle and three using the floor patterns on the edge to resolve
+	go back to the middle for healing in between each debuff set
+	the stack will always be taken on the same platform but the spreads need to swap over their platforms each time
+light of life - a raidwide that happens after the second set of debuffs
+light of life - this happens after all debuffs have been resolved
+	remember to swap platforms one final time to avoid the final set of giant aoes
+
+forbidden fruit 7 - spawns a stymphalide on two of the three platforms
+roots of attis - destroys the central bridge
+	the platforms will link with the three separate bridges later
+hemitheos's glare - spawns following aoes underneath every player
+	stack up at the edge of the platform without a stymphalide
+	then move once the aoes spawn and go across the bridge towards the stymphalide not aiming at the platform you were on
+
+famine's harvest
