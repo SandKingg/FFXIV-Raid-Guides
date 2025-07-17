@@ -94,4 +94,27 @@ hemitheos's glare - spawns following aoes underneath every player
 	stack up at the edge of the platform without a stymphalide
 	then move once the aoes spawn and go across the bridge towards the stymphalide not aiming at the platform you were on
 
-famine's harvest
+famine's harvest - spawns two minotaurs on each platform and a bird on the south and NW platforms
+	the two minotaurs on the NE platform need to be baited by two players each
+	the other four minotaurs tether to either all supports or all dps
+	both birds will dash towards the NE platform
+	tethered players need to go onto the other platform with tether minotaurs and hide behind the minotaur diagonally opposite the one they're tethered to
+	assign a priority for which players are baiting which minotaurs
+
+death's harvest - spawns birds on two of the platforms and an io on the other, along with two ios on the bridges
+	the platform next to both io bridges will always have a bird
+	each io will tether to either all supports or all dps and do line aoes towards them
+	spread out to avoid overlapping the line aoes and dodge the birds
+
+war's harvest - spawns birds on two of the platforms and an io on the other, along with two minotaurs on the bridges
+	the io will tether to either all supports or all dps and the other role gets minotaur and bird tethers
+	everybody goes 'far' with their tether
+	minotaur tethers go onto the platform opposite the minotaur and hide behind the animal there
+	bird tethers go on the bridge opposite the bird, hiding behind the minotaur if needed and use kb resist
+	io tethers go towards the bridge opposite the io, with two players on the bridge and two players at the edge of the two platforms next to the bridge
+
+raidwide
+hemitheos's holy iii
+bough of attis - always hits the northern platforms
+raidwide x2
+enrage
