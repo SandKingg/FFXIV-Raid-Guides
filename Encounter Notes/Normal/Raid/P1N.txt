@@ -1,0 +1,46 @@
+gaoler's flail x2 - a half-room cleave on the side of the flail he's swinging
+	the second one is always on the opposite side of the first
+
+warder's wrath - raidwide
+
+pitiless flail + true holy - a line aoe towards a random player that knocks them back, make sure to stay close and aim towards a corner or use knockback resist
+	that player then gets a true holy stack
+
+gaoler's flail
+
+heavy hand - tankbuster
+
+intemperance - splits the room into four quadrants and gives everyone either a hot or cold debuff
+	each quadrant has three runes, which are either ice or fire
+intemperant torment - begins shattering the runes from bottom to top
+	you need to get hit by the opposite rune of your debuff
+	this switches your debuff around, so you alternate getting hit by fire and ice
+
+raidwide
+tankbuster
+
+shining cells - a raidwide that changes the arena to alternating sectors of red and blue
+
+aetherchain x2 - explodes either the red or blue sectors depending on the orbs surrounding him
+	the second one will always be the opposite colour of the first
+
+aetherflail x2 - a gaoler's flail cleave paired with exploding sectors, so watch the orbs
+
+pitiless flail + true holy
+aetherflail
+
+slam shut - a raidwide that transitions the arena back to normal
+
+intemperance + intemperant torment
+gaoler's flail - this goes off after all three runes have shattered, and there is time to dodge after
+
+raidwide x2
+tankbuster
+
+shining cells
+aetherflail x2
+pitiless flail + true holy
+aetherflail
+slam shut
+
+loops from 2nd intemperance + intemperant torment until defeated
