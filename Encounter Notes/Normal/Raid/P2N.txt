@@ -1,0 +1,44 @@
+murky depths - raidwide
+
+doubled impact - a double-stack tankbuster
+
+spoken cataract x2 - the head and body will each face different directions, then do a half-room cleave and line aoe respectively
+	the head will do the half-room cleave in the direction it's facing
+	this can always be dodged on a platform, but don't be too close to the body
+	grates on safe platforms will always be safe
+
+raidwide
+
+sewage deluge - a big raidwide that will make only the four corner platforms and the drains between them safe
+
+tainted flood - a spread aoe on every player
+
+predatory sight - gives every player an abandonment marker, make sure to stack with at least one other player
+
+shockwave - the boss turns towards a platform, then leaps there and does a knockback
+	make sure you get knocked through the drains and not into the sewage
+
+dissociation - the head flies away and cleaves from north to south either on the east side or west side
+
+coherence - does a flare marker on the MT, followed by a line stack on a random player
+
+raidwide
+sewage deluge
+
+tainted flood
+spoken cataract
+
+sewage eruption - does three sets of baited puddles under each player
+
+spoken cataract
+tainted flood
+predatory sight
+raidwide
+dissociation + shockwave - get knocked to the safe side away from the head
+
+dissociation + sewage eruption - you can drop the puddles all on the safe side
+coherence
+raidwide x2
+tankbuster
+
+loops from 2nd sewage deluge until defeated

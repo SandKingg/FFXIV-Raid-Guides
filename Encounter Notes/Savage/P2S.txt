@@ -9,6 +9,7 @@ spoken/winged cataract - the head and body will each face different directions, 
 	spoken - the head cleaves in front of it
 	winged - the head cleaves behind it
 	this can always be dodged on a platform, but don't be too close to the body
+	grates on the safe platforms will always be safe
 
 coherence - spawns a tether on a random player that will do a massive proximity aoe, then does a wild charge line stack on a random other player
 	have one tank take the tether opposite the party, standing next to the unsafe platform is still fine

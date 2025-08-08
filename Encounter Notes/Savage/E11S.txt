@@ -16,8 +16,8 @@ burnished glory - raidwide + bleed
 
 powder mark - does a tankbuster that inflicts a physical vuln and causes the tank to explode later
 	make sure to swap and the previous MT stay away from the group
-
 turn of the heavens - imbues with fire or lightning and spawns nine circles of either element, eight around the edge and one in mid
+	this first one will always imbue fire
 	circles of the imbued element will explode in much larger aoes, while the non-imbued element only explode exactly in their size
 	drag the boss towards the non-imbued side and make sure the tank stays away from the group, but not in the imbued side
 
@@ -26,12 +26,12 @@ bound of faith
 elemental break
 
 shifting sky - imbues with either fire or lightning then the boss disappears
-	there'll be a knockback from mid where the serpent falls down then turn of the heavens circles will spawn, with a death zone under the dragon
-	stacking on the non-imbued side, two players get tethered by clones that cast both versions of bound of faith
-	the fire player goes clockwise and stacks with the group
-	the thunder player goes anticlockwise and stacks with both tanks who need to aim their cones away from the others
+	there'll be a knockback from mid where the serpent falls down then turn of the heavens circles will spawn, with a death zone under the serpent
+	stacking on the non-imbued side, two players get tethered by clones that cast both fire and lightning versions of bound of faith
+	the fire player goes south and stacks with the group
+	the thunder player goes north and stacks with both tanks who need to aim their cones away from the others
 	make sure to stay on the dark brown circle as the serpent will cast a doughnut aoe here
-	two more clones appear, casting both versions of burnt strike, with lightning going first, then fire
+	two more clones appear, casting both fire and lightning versions of burnt strike, with lightning going first, then fire
 	dodge the lightning then kb resist once it resolves to dodge the fire
 
 elemental break
@@ -44,18 +44,18 @@ elemental break (light) - now abilities can also be imbued with light
 burnt strike (light) - baits puddles under each player after the line aoe goes off
 	start on the boss's sides then move behind/in front to dodge the puddles
 
-bound of faith (light) - does an aoe around the bound player that gives a mortal burn mark debuff to anyone hit
+bound of faith (light) - does an aoe around the bound player that gives a mortal powder mark debuff to anyone hit
 	this debuff explodes shortly after, dealing high damage
 	there's a raidwide very shortly after so healers should pay attention
 
 raidwide
-tankbuster
 
+tankbuster
 right of the heavens - imbues with fire or lightning, then summons four laser portals, two of each element
 	the portals will shoot lasers on both sides in the direction they're facing
 	the imbued portals will shoot a wider laser than they indicate, while the non-imbued portals will only shoot to their width
-	there are three safe spots in the safe quadrant, small squares touching ach corner of the portals
-	make sure the previous MT is not stacking with the group
+	there are three safe spots in the safe quadrant, small squares touching each corner of the portals
+	the previous MT should go to the left safe spot (looking in) while the rest of the group stays in the inner safe spot close to the middle
 
 burnt strike
 bound of faith
@@ -63,27 +63,29 @@ elemental break
 
 sundered sky - imbues with fire or lightning, then the boss disappears, summoning laser portals again
 	there will be a knockback from mid and the serpent will fall down, facing a random player
-	ensure that you get knocked to the UNSAFE quadrant first, to bait the cleave later
+	ensure that you get knocked to the UNSAFE quadrant first, to bait the cleave for later
 	then move into the safe quadrant and two players get tethered for fire and light bounds of faith
-	have the stack by in the safe spot closest to mid and the light be in one of the outer safe spots
+	have the stack be in the safe spot closest to mid and the light be in the right outer safe spot (looking in)
 	the serpent will do a 270-degree cleave and three clones will spawn, casting each version of burnt strike
 	light casts first, then lightning, then fire
 	if the clones are on cardinals, then stack on an intercardinal for puddles and vice versa
-	the puddles are baiting as soon as the mortal burn mark explodes, so move to the edge after that and pop kb resist once the lightning aoe resolves
+		the burnt strike clones will always be on the opposite type of marker to the bound of faith clones
+	the puddles are baited as soon as the mortal burn mark explodes, so move to the edge after that and pop kb resist once the lightning aoe resolves
 
 elemental break
 raidwide
 
 turn of the heavens 2 - imbues with fire or lightning and spawns the circles again
-	this time the aoes on the outside will alternate, with mid always being lightning
+	this time the aoes on the outside will alternate, with mid and intercardinals always being lightning and cardinals always being fire
+	an easy, but downtime, strat is to always go all the way to the edges of the arena
+	if your clock spot is covered by a circle that will expand, adjust to the other marker of your colour
+	use the circles on the arena to judge the sizes of the expanded circle aoes
+	for fire imbue it is possible to maintain uptime, but very tricky
 elemental break - watch the imbue, circles explode before the continuation
-	lightning turn - spread to the edges, at the corners of the fire circles then quickly resolve elemental break continuation
-	fire turn - spread around the middle circle, then quickly resolve elemental break continuation
 
 tankbuster
-
-right of the heavens 2 - ensure the group stacks in the centre safe spot
-bound of faith (fire/light) - if fire, stack with the group, if light, go to the spot not taken by the tank
+right of the heavens 2 - ensure the group stacks in the centre safe spot and the tank once again goes to the left safe spot (looking in)
+bound of faith (fire/light) - if fire, stack with the group, if light, go to the right safe spot (looking in)
 
 prismatic deception - the boss disappears and the arena gets misty
 	clones will spawn at each cardinal and intercardinal, with three casting blasting zone line aoes
@@ -95,7 +97,7 @@ prismatic deception - the boss disappears and the arena gets misty
 raidwide
 
 cycle of faith - imbues with fire, lightning or light, then casts elemental break, burnt strike and bound of faith
-	each mechanic uses the same element, so resolve them quickly one after another
+	each mechanic and its continuation uses the same element, so resolve them quickly one after another
 
 raidwide
 cycle of faith - a different element to the previous one
