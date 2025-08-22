@@ -1,0 +1,65 @@
+-- PHASE 1 --
+genesis of flame - raidwide
+
+conceptual tetraflare/octaflare - stores either pair stacks or spreads for later
+volcanic torches - spawns four lines that trace out four row or column aoes
+	there will always be one safe spot per colour corner that each colour pair should stand in
+	depending on the pattern, there will be two 'connected' safe rectangles either north/south or east/west
+sunforge - summons either a viper or phoenix that do hot tail or hot wing aoes respectively
+	use the lines on the floor to dodge the aoes
+	the stored pairs or spreads happens at the same time as the aoes here
+
+flameviper - two line aoe tankbusters that give a bleed and magic vuln
+	make sure to double swap and use mits
+
+reforged reflection - one of two mini-phases based on what he transforms into
+	you can stay out of his hitbox and use knockback resist to avoid the uncast ability of whatever he transforms into
+snake
+	snaking kick - a point-blank aoe, stay out of the hitbox
+
+	gorgomanteia - gives one role a 1 debuff and the other role a 2 debuff, indicating which other their other debuffs go off in
+		two players in each role have cursed shriek debuffs and two players have poison debuffs
+		the cursed shrieks will do a petrifying cone aoe in the direction your character is facing
+		the poison debuffs will do an aoe around you
+
+	into the shadows - summons two sets of two gaze markers that turn into gorgon adds
+		these adds need to be petrified by the cursed shrieks and then killed by the poison aoes
+		they will either spawn all on cardinals or all on intercardinals, but which two are first is completely random
+		you need to set up a priority system for who petrifies and who poisons which gorgon
+		the role with the 1 debuffs should do the first two gorgons and the other role does the second two
+		if the gorgons aren't killed, they cast gorgoneion which is a big raidwide that gives a damage down and kills the add
+
+	ektothermos - raidwide
+
+centaur
+	footprint - a massive uncast knockback, either get knocked into a corner from right in the centre or use knockback resist
+	
+	rearing rampage - four raidwides that each hit two players with a spread aoe that gives a vuln
+		stay in clock spots on the edge of his hitbox to avoid overlapping
+		remember which of the four sets of two aoes you got hit by for the next mechanic
+
+	stomp dead - jumps to the furthest player four times, doing a pair stack that gives a vuln
+		the rearing rampage vulns increase damage taken from this ability so you need to take the baits in order of who got the spreads
+		the first pair should move north as soon as the castbar begins
+		the second and third pairs should move as soon as he jumps north, with the second pair pre-positioning closer to south
+		the fourth pair should move as soon as he jumps south
+
+illusory creation - summons a clone at each cardinal
+creation on command - two adjacent clones will get two sunforges, one will get the viper and one will get the phoenix
+	spread based on colour pairs into the safe spots at either north/south or east/west
+sunforge x2 + manifold flames - does an untelegraphed spread aoe on all supports or all dps that gives a magic vuln
+	then does four line aoes on the four closest players that need to be baited by the other role that don't have magic vulns
+sunforge x2 + nest of flamevipers/tetraflare - the other two clones will do either two phoenixes or two vipers
+	this is paired with either a line aoe on every player or pair stacks
+	for two phoenixes, go into the inner square and either stay in clock spots or stack in colour pairs
+	for two vipers, go to your colour corner and either stack or spread for the aoes
+volcanic torches - summons six lines that trace out three row and three column aoes, making only one corner square safe
+
+raidwide
+
+reforged reflection - does the other mini-phase that wasn't done previously
+
+conceptual tetraflare/octaflare
+fourfold fires - spawns four proximity markers towards the intercardinals that explode into fiery vents
+	stack mid to mitigate the damage
+cthonic vent

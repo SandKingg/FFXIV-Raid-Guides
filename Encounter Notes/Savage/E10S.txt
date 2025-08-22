@@ -10,7 +10,7 @@ throne of shadow - the boss stands up and does a big, untelegraphed point-blank 
 
 giga slash - boss raises up one hand, then shadow slashes that side of the arena
 
-umbra smash - 4 hit big tankbuster, use invuln and swap before 2nd part (green marker)
+umbra smash - 4 hit big tankbuster, use invuln and swap after all four hits, but before the follow-up green marker attack
 2nd part - either shadow's edge or darkness unleashed
 	shadow's edge - big line aoe
 	darkness unleashed - targeted group soak, NOT with the first tank

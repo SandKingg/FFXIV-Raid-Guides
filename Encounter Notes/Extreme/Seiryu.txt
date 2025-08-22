@@ -2,7 +2,7 @@ fifth element - raidwide
 
 kuji-kiri + serpent descending - aoe markers on four players along with a criss-cross aoe pattern
 
-onmyo circle (yin-yang) - jumps to a random player then does either a yin-yang or a dragon
+onmyo circle (yin-yang) - jumps to the furthest player then does either a yin-yang or a dragon
 	yin-yang - point-blank aoe
 	dragon - doughnut aoe
 
@@ -33,7 +33,7 @@ forbidden arts - two line stacks targetted on each healer
 blazing aramitama - now mechanics are all altered
 
 onmyo circle (double) - will be out then in, or in then out
-kuji-kiri (double) - dodge diagonally form one safe spot to the next
+kuji-kiri (double) - dodge diagonally from one safe spot to the next
 onmyo circle (double)
 raidwide
 
@@ -47,7 +47,7 @@ cursekeeper x2 - this is actually cast twice, not once with a doubled effect, do
 raidwide
 
 summon shiki (menagerie) - summons adds from the first phase
-	onmyo circle (double) + iwa-no-shiki
+	onmyo circle (double) + iwa-no-shiki - don't bait the onmyo circle too far away
 	ao-no-shiki + aka-no-shiki
 	serpent descending + kuji-kiri (double)
 	yama-no-shiki (double) - he sticks around after the first knockback, pay attention
