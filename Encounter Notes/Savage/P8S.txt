@@ -23,8 +23,10 @@ snake
 		the poison debuffs will do an aoe around you
 
 	into the shadows - summons two sets of two gaze markers that turn into gorgon adds
+		the gaze markers rotate in either direction around the arena before turning into adds
+		they will either end up all on cardinals or all on intercardinals, but which two are first is completely random
+		if they rotate CW, they end up on cardinals and if they rotate ACW, they end up on intercardinals
 		these adds need to be petrified by the cursed shrieks and then killed by the poison aoes
-		they will either spawn all on cardinals or all on intercardinals, but which two are first is completely random
 		you need to set up a priority system for who petrifies and who poisons which gorgon
 		the role with the 1 debuffs should do the first two gorgons and the other role does the second two
 		if the gorgons aren't killed, they cast gorgoneion which is a big raidwide that gives a damage down and kills the add

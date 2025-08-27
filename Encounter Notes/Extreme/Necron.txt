@@ -1,0 +1,80 @@
+blue shockwave - a massive double-hit cone tankbuster that gives a magic vuln
+	both tanks should stand in the northern corners and swap after the first hit
+
+fear of death - a raidwide that spawns 8 hands in two rough columns
+	the hands will very quickly do line aoes towards the closest player
+	make sure these are baited outside the arena and away from other players
+	assign light parties and a role priority from north to south
+
+cold grip - slams both both arms on the left and right, with the glowing arm doing an expanded second hit
+	move into the non-glowing arm after it slams
+
+memento mori - shoots a line aoe through the middle that spawns five hands that do line aoes either east or west
+	one side will have one line and the other will have four
+	the white-glowing wing signifies the side with the single aoe and the dark-glowing wing signifies the side with four aoes
+smite of gloom - a big spread aoe on every player
+	one role should stay in the small safe spot on the dark side, everyone else spread out on the white side
+
+soul reaping - stores either a hot wing or hot tail aoe
+twofold/fourfold blight - executes the stored aoe, then does either light party stacks or pair stacks
+	these aoes are cones so fan out along the boss's hitbox for the hot tail, or very close around north for hot wing
+
+soul reaping - stores the opposite of the previous aoe for later
+fear of death
+
+the end's embrace - does small spread aoes on every player that each spawns hands
+	the hands to dodgeable line aoes towards the closest player after spawning, so make sure to bait these out and away
+
+tankbusters
+twofold/fourfold blight
+
+grand cross - a big raidwide that transforms the platform into a smaller circle, ready for a mini-phase
+	stack mid to bait two sets of puddles
+	two spinning aoes spawn that count down to when they will shoot line aoes, just dodge
+	one role will get spreads and the other role needs to take towers
+		the towers can be either cardinals or intercardinals so make sure people know their pairs
+	then the roles are reversed
+	bait two more sets of puddles in mid and towards cardinals respectively
+	finally go to intercardinals to avoid the proximity line aoes
+neutron ring - another raidwide that returns the platform to normal
+
+add phase - progressively summons  icy hands and two beckoning hands
+	choking grasp - the icy hands do dodgeable line aoes towards the closest players
+	muted struggle - the beckoning hands do tankbuster line aoes, but they don't hit very hard
+
+darkness of eternity - a big raidwide that drags everyone into the shadow realm to kill an add based on their role before the doom expires
+	tanks - tanks need to kill one icy hands
+		spreading fear - an interruptible cast that one-shots you if not interrupted
+		choking grasp - these are unavoidable tankbuster line aoes
+	healers - healers need to kill one icy hands
+		necrotic pulse - an unavoidable line aoe that gives a nasty 35 second bleed
+		chilling fingers - an unavoidable line aoe that gives an esunable slow debuff
+		choking grasp - these ones are also unavoidable
+	DPS - DPS need to kill two icy hands
+		choking grasp - dodge the lines
+	use the light to escape the shadow realm after killing your adds
+
+specter of death - summons two giant hands that hit north, mid or south
+	if you get hit, you are dragged into the shadow realm again to kill your adds
+	make sure to go into the safe spot
+the end's embrace - try not to spawn or bait these middle to ensure it stays safe for cold grip
+cold grip
+
+relentless reaping - stores hot wing, hot tail, doughnut and point-blank in any order
+crop rotation - rotates which aoe in the sequence it starts with
+the second/fourth season - executes the aoes in the order they were stored but starting at whichever one was selected by crop rotation
+	the final aoe happens at the same time as wither light party or pair stacks, so be prepared
+
+circle of lives - spawns four orbs in the corners and one in the middle
+	the orbs will expand one at a time, signifying that they are about to do a doughnut aoe
+	it will always be two side orbs, followed by the middle orb, followed by the other two side orbs
+specter of death - summons a single hand
+	if it's in mid, be patient before dodging in, otherwise be quick dodging out
+soul reaping - from now on it can also store either a doughnut or point-blank aoe
+twofold/fourfold blight
+
+mass macabre - creates ten summoning circles that need a certain number of players in to lock
+	two 4-player ones in mid should be taken first, with a north/south priority for light parties
+	then there are four 3-player ones on the intercardinals towards north and south
+	finally there are four 2-player ones on the intercardinals towards east and west
+memento mori
