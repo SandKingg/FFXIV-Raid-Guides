@@ -23,7 +23,7 @@ soul reaping - stores the opposite of the previous aoe for later
 fear of death
 
 the end's embrace - does small spread aoes on every player that each spawns hands
-	the hands to dodgeable line aoes towards the closest player after spawning, so make sure to bait these out and away
+	the hands do dodgeable line aoes towards the closest player after spawning, so make sure to bait these out and away
 
 tankbusters
 twofold/fourfold blight
@@ -38,7 +38,7 @@ grand cross - a big raidwide that transforms the platform into a smaller circle,
 	finally go to intercardinals to avoid the proximity line aoes
 neutron ring - another raidwide that returns the platform to normal
 
-add phase - progressively summons  icy hands and two beckoning hands
+add phase - progressively summons eight icy hands and two beckoning hands
 	choking grasp - the icy hands do dodgeable line aoes towards the closest players
 	muted struggle - the beckoning hands do tankbuster line aoes, but they don't hit very hard
 
@@ -73,8 +73,31 @@ specter of death - summons a single hand
 soul reaping - from now on it can also store either a doughnut or point-blank aoe
 twofold/fourfold blight
 
-mass macabre - creates ten summoning circles that need a certain number of players in to lock
-	two 4-player ones in mid should be taken first, with a north/south priority for light parties
+mass macabre - creates ten summoning circles that need a certain number of players in to lock, giving a magic vuln afterwards
+	two 4-player ones in mid should be taken first, with melees taking the north one and ranged taking the south one
 	then there are four 3-player ones on the intercardinals towards north and south
 	finally there are four 2-player ones on the intercardinals towards east and west
-memento mori
+memento mori - split into light party sides and take the four 2-player towers once the vulns run out
+	then dodge the hand aoes
+tankbusters - make sure one tank consistently has aggro for this one
+	the MT party should take the south 3-person tower, then the north one
+	the OT party should take the north 3-person tower, then the south one
+		the OT can actually help with the north one, since the vuln wears off just before the buster hits
+
+cold grip
+relentless reaping + crop rotation
+the second/fourth season
+fear of death
+
+circle of lives 2 - this time spawns four circles towards mid, with 2 north and 2 south
+specter of death x2 - creates either one hand going through mid or two hands going north and south
+	the second cast always does the opposite
+	the first cast hits during the 2nd doughnut and the second cast during the 4th
+	make sure you stay on the correct side of the doughnut to avoid the hand
+
+memento mori + smite of gloom
+cold grip
+
+grand cross
+neutron ring
+enrage
