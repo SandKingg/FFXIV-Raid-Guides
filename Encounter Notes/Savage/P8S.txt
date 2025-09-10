@@ -19,8 +19,8 @@ snake
 
 	gorgomanteia - gives one role a 1 debuff and the other role a 2 debuff, indicating which other their other debuffs go off in
 		two players in each role have cursed shriek debuffs and two players have poison debuffs
-		the cursed shrieks will do a petrifying cone aoe in the direction your character is facing
-		the poison debuffs will do an aoe around you
+		the eye of the gorgon debuffs will do a petrifying cone aoe in the direction your character is facing
+		the blood of the gorgon debuffs will do an aoe around you
 
 	into the shadows - summons two sets of two gaze markers that turn into gorgon adds
 		the gaze markers rotate in either direction around the arena before turning into adds
@@ -28,6 +28,8 @@ snake
 		if they rotate CW, they end up on cardinals and if they rotate ACW, they end up on intercardinals
 		these adds need to be petrified by the cursed shrieks and then killed by the poison aoes
 		you need to set up a priority system for who petrifies and who poisons which gorgon
+			assign one light party to be clockwise and one to be anticlockwise
+			if both players of a given role in a light party have the same debuff, tanks adjust for supports and melees adjust for dps
 		the role with the 1 debuffs should do the first two gorgons and the other role does the second two
 		if the gorgons aren't killed, they cast gorgoneion which is a big raidwide that gives a damage down and kills the add
 
@@ -42,9 +44,9 @@ centaur
 
 	stomp dead - jumps to the furthest player four times, doing a pair stack that gives a vuln
 		the rearing rampage vulns increase damage taken from this ability so you need to take the baits in order of who got the spreads
-		the first pair should move north as soon as the castbar begins
-		the second and third pairs should move as soon as he jumps north, with the second pair pre-positioning closer to south
-		the fourth pair should move as soon as he jumps south
+		the first pair should pre-position NE and the second pair directly under the boss
+		the other two pairs preposition to the east
+		the third pair swaps with the first and fourth with the second after they've been hit
 
 illusory creation - summons a clone at each cardinal
 creation on command - two adjacent clones will get two sunforges, one will get the viper and one will get the phoenix
@@ -64,4 +66,88 @@ reforged reflection - does the other mini-phase that wasn't done previously
 conceptual tetraflare/octaflare
 fourfold fires - spawns four proximity markers towards the intercardinals that explode into fiery vents
 	stack mid to mitigate the damage
-cthonic vent
+cthonic vent - one vent on the east and west will bubble more, indicating that it will explode
+	as light parties, move towards the vent that is not bubbling on your side
+	watch which vents the vipers go into as those will explode next
+tetraflare/octaflare - move towards the safe two vents and either spread or do pair stacks
+	for pairs it's helpful if melee/tanks pair and ranged/healers pair
+sunforge - go to the next two safe vents and listen for which animal the boss has
+	after the vents explode, move into position for pairs or spreads while dodging the sunforge
+
+tankbusters
+
+reforged reflection 2 - another one of two mini phases, building on the first two
+	they always occur in the same order as the first two
+snake 2
+	snaking kick
+
+	gorgomanteia 2 - gives each role a blood and eye of the gorgon debuff, as well as a crown of the gorgon debuff and breath of the gorgon debuff to two players
+		one role will have their gazes go off first, followed by the poison aoes, the other role has the order swapped
+		crown of the gorgon is a cursed shriek 360-degree petrify aoe
+		breath of the gorgon is a poison stack aoe
+
+	into the shadows 2 - summons four snakes at once that do gazes
+		again, if they rotate CW, they end up on cardinals and if they rotate ACW, they end up on intercardinals
+		start in colour pairs on the spots the snakes don't end up at
+		the role with the first gazes moves to petrify the snakes while the other role's spread aoes go off
+	gorgospit - four clones appear that each do a line aoe that makes only the middle 4 tiles safe
+		players should quickly swap in their colour pairs to re-petrify the snakes while avoiding the second set of spreads
+	illusory creation + gorgospit - creates another clone that will shoot a line aoe, killing two petrified snakes
+		the other two snakes are safe for the crown of the gorgon players to hide behind
+		everyone else stacks on the other side of the snakes to soak the breath of the gorgon stack, but also killing the snake with its aoe
+		use the same priority system for this as before, with melees and tanks adjusting if the crown or breath of the gorgon debuffs are in the same light party
+
+centaur 2
+	footprint
+
+	quadrupedal impact/crush - turns towards a random cardinal and either does a massive knockback or point-blank aoe respectively
+		move towards where he turned for quadrupedal impact, and away for quadrupedal crush
+
+	conceptual diflare/tetraflare - stores either light party stacks or pair stacks for later
+	
+	blazing footfalls - telegraphs four aoes in quick succession
+		firstly a vertical line knockback followed by either a radial knockback or a giant point-blank from east or west
+		then a horizontal line knockback followed by the opposite of the previous aoe, from either north or south
+		you want to get knocked towards the knockback and away from the point-blank
+		the stacks go off after the first line knockback, so make sure you are already in pairs or light parties
+	volcanic torches - three volcanic torches make three columns unsafe
+		either use the knockback or run into the correct position depending on the pattern
+
+tankbusters
+
+reforged reflection 2 - does the other mini-phase that wasn't done previously
+
+raidwide
+enrage
+
+
+-- PHASE 2 --
+auto attack x2 - this boss's auto attacks are stacks that should be soaked by both tanks
+	they become instantly lethal if not soaked by at least one other player
+
+aioniopyr - raidwide + bleed
+
+auto attack x2
+
+tyrant's unholy darkness - tankbusters on the top two in aggro
+
+auto attack x2
+
+natural alignment - gives either two supports or two dps debuffs that do damage over time and wipe the raid if they are hit by certain mechanics
+	stack up halfway between north and the middle
+twist nature - starts two progress bars on one of the debuffed players that tell you which mechanic is happening first
+	the orange bar represents a stack and the purple bar represents a spread
+	whichever bar fills faster will happen first
+tyrant's flare - baited puddles under every player
+	quickly move out to either clock spots for the spread or the middle for the stack
+ashing blaze - one side of the boss will glow, indicating that he will do a half-room cleave on that side
+	do the second of the two mechanics on the safe side
+	make sure not to clip either of the debuffed players with the stack or spreads
+end of days - three clones spawn on the west that do line aoes through three rows
+	either the first or second row will be safe
+	at the same time, the other debuffed player gets their progress bars
+	the fire bar represents three pair stacks on the three closest players to them
+	the ice bar represents two 3-player stacks on the two closest players to them
+	assign specific positions to go to on each row, making sure the debuffed players are not hit by any mechanic
+end of days - three more clones spawn on the east, making the other of the two possible safe rows safe
+	resolve the second of the two mechanics in the other row

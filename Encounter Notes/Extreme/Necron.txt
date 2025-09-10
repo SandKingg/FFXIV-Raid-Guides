@@ -14,6 +14,7 @@ memento mori - shoots a line aoe through the middle that spawns five hands that 
 	the white-glowing wing signifies the side with the single aoe and the dark-glowing wing signifies the side with four aoes
 smite of gloom - a big spread aoe on every player
 	one role should stay in the small safe spot on the dark side, everyone else spread out on the white side
+	the line aoe through middle persists and gievs a nasty bleed, so make sure not to step into it
 
 soul reaping - stores either a hot wing or hot tail aoe
 twofold/fourfold blight - executes the stored aoe, then does either light party stacks or pair stacks
@@ -33,7 +34,7 @@ grand cross - a big raidwide that transforms the platform into a smaller circle,
 	two spinning aoes spawn that count down to when they will shoot line aoes, just dodge
 	one role will get spreads and the other role needs to take towers
 		the towers can be either cardinals or intercardinals so make sure people know their pairs
-	then the roles are reversed
+	then the roles are reversed, with the second set of towers always being the opposite of the first
 	bait two more sets of puddles in mid and towards cardinals respectively
 	finally go to intercardinals to avoid the proximity line aoes
 neutron ring - another raidwide that returns the platform to normal
@@ -47,11 +48,13 @@ darkness of eternity - a big raidwide that drags everyone into the shadow realm 
 		spreading fear - an interruptible cast that one-shots you if not interrupted
 		choking grasp - these are unavoidable tankbuster line aoes
 	healers - healers need to kill one icy hands
-		necrotic pulse - an unavoidable line aoe that gives a nasty 35 second bleed
+		necrotic pulse - an unavoidable line aoe that gives a nasty 35 second bleed, as well as giving a dot to the add
 		chilling fingers - an unavoidable line aoe that gives an esunable slow debuff
 		choking grasp - these ones are also unavoidable
 	DPS - DPS need to kill two icy hands
 		choking grasp - dodge the lines
+		spreading fear - a long enrage cast at a certain hp threshhold, focus this add down before you die
+			separate adds have separate threshholds, some will start enraging after fewer cleaves than others
 	use the light to escape the shadow realm after killing your adds
 
 specter of death - summons two giant hands that hit north, mid or south
@@ -83,6 +86,9 @@ tankbusters - make sure one tank consistently has aggro for this one
 	the MT party should take the south 3-person tower, then the north one
 	the OT party should take the north 3-person tower, then the south one
 		the OT can actually help with the north one, since the vuln wears off just before the buster hits
+	for uptime, you can have the two melees on the OT side and two ranged on the MT side
+		melees take north 2-player tower and ranged take south 2-player on their respective sides
+		for the 3-player towers OT side takes both north ones and MT side takes both south ones, moving across once the persistent aoe disappears
 
 cold grip
 relentless reaping + crop rotation
