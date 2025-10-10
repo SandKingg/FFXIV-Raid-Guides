@@ -44,6 +44,9 @@ wyvern's radiance (cleave)
 
 rush + wyvern's radiance (rings)
 wyvern's ouroblade
+
+steeltail thrust - a line aoe from his tail behind him, make sure to stay away
+
 chainblade charge
 wyvern's radiance (cleave)
 

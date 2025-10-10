@@ -1,0 +1,52 @@
+roar - raidwide
+
+wyvern's radiance (cleave) x2 - raises one of his claws up and does a cleave on that side, that also hits in line with his body
+	the second one is always on the opposite side of the first and happens very quickly after
+
+wyvern's siegeflight - charges through the arena with either a white or red line
+guardian resonance + white flash/dragonspark - either a line aoe through the middle or a big hot wing aoe based on whether it was white or red
+	this is paired with stacks on each healer, so split into light parties with both an east/west priority and a close/far priority
+wyvern's radiance (exalines) - sends a propagating line aoe through the arena
+wyvern's radiance (puddles) - two sets of baited puddles under every player
+wyvern's siegeflight + guardian resonance + dragonspark/white flash - opposite of the previous
+
+wyvern's radiance (cleave) x2
+raidwide
+
+rush - charges through the arena to three spots in a triangle formation
+wyvern's radiance (rings) - each spot creates a point-blank aoe, that then propagates out into concentric doughnut aoes
+
+wyvern's ouroblade + wild energy - a halmf room cleave in the direction he's facing, and a spread aoe on each player
+	he will always face towards an intercardinal here
+	try to have melee spread around the boss and ranged spread at the edge
+
+steeltail thrust - a line aoe from his tail behind him, make sure to stay away
+
+chainblade charge - a stack marker on a healer
+
+wyvern's radiance (cleave) x2
+raidwide
+
+guardian resonance (towers + puddles) - spawns six towers, two of which are tankbuster towers
+	three sets of puddles are baited under each player before the towers go off
+	the towers leave behind crystals
+wyvern's vengeance - four sets of four exaflares that travel from mid to the edge of the arena
+	any crystals that these touch will explode in point-blank aoes, with the crystals from the tankbuster towers doing much bigger aoes
+	one crystal will not get hit by the first exas and will not be hit by a buster tower explosion either
+wild energy x2 - spread aoes that hit either all supports or all dps
+	these give magic vuln so stay spread
+
+forged fury - a big triple-hit raidwide
+
+raidwide
+
+clamorous chase - leans in with one arm raised and one arm down, giving every player limit cut markers from 1 to 8, with 1 getting a proximity tether
+	he charges to each player in sequence, cleaving to the side of whichever arm was raised
+	have 1 and 5 go east/west, opposite the lowered arm, 3 and 7 go to the other of east/west
+	2 and 6 always go south, 4 and 8 always stay north
+	remember to dodge in a bit to avoid the cleave after you get hit
+
+raidwide
+
+guardian resonance (towers + aoes)
+wyvern's weal - gives a random player a marker above their head and shoots a laser towards them that follows them across the arena
