@@ -1,0 +1,60 @@
+roar - raidwide
+
+wyvern's radiance (cleave) x2 - raises one of his claws up and does a cleave on that side, that also hits in line with his body
+	the second one is always on the opposite side of the first
+
+wyvern's siegeflight - charges through the middle of the arena, with either a red or white line
+guardian resonance - if it's a white line, then it explodes where he charged
+	if it's a red line, then it does a big hot wing aoe leaving a small safe column wher ehe charged
+
+wyvern's radiance (exalines) - sends a propagating line aoe through the arena
+
+wyvern's siegeflight + guardian resonance - opposite of the first one
+wyvern's radiance (cleave)
+
+rush - charges through the arena to three spots in a triangle formation
+wyvern's radiance (rings) - each spot creates a point-blank aoe, that then propagates out into concentric doughnut aoes
+
+chainblade charge - a stack marker on a random player
+
+wyvern's ouroblade - a half-room cleave on the side he's facing
+
+guardian resonance (towers + aoes) - spawns six towers, two of which are tankbuster towers
+	two sets of aoes are baited under each player before the towers go off
+	the towers leave behind crystals
+wyvern's vengeance - four sets of four exaflares that travel from mid to the edge of the arena
+	any crystals that these touch will explode in point-blank aoes, with the crystals from the tankbuster towers doing much bigger aoes
+wild energy x2 - spread aoes that hit either all supports or all dps
+	these give magic vuln so stay spread
+
+forged fury - a big triple-hit raidwide
+
+raidwide
+
+wyvern's weal + wild energy - a rotating line aoe that you need to stay behind at all times
+	the wild energy spreads hit all eight players this time, so make sure you're not overlapping
+
+wyvern's siegeflight + guardian resonance
+wyvern's radiance (cleave)
+wyvern's siegeflight + guardian resonance - opposite of the previous
+wyvern's radiance (cleave)
+
+wyvern's radiance (double exalines) - creates a line aoe through m id that propagates outwards towards both edges, and then back again, and then back to the edges
+wyvern's radiance (cleave)
+
+rush + wyvern's radiance (rings)
+wyvern's ouroblade
+chainblade charge
+wyvern's radiance (cleave)
+
+guardian resonance (towers + aoes)
+wyvern's radiance (exalines) - this will also cause the crystals to explode
+
+wyvern's siegeflight + guardian resonance
+wyvern's radiance (cleave)
+wyvern's siegeflight + guardian resonance - opposite of the previous
+wyvern's radiance (cleave)
+raidwide
+wyvern's weal + wild energy
+
+loops from wyvern's radiance (double exalines) until defeated

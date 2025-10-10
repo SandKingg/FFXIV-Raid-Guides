@@ -100,7 +100,7 @@ snake 2
 centaur 2
 	footprint
 
-	quadrupedal impact/crush - turns towards a random cardinal and either does a massive knockback or point-blank aoe respectively
+	quadrupedal impact/crush - turns towards either north or south and either does a massive knockback or point-blank aoe respectively
 		move towards where he turned for quadrupedal impact, and away for quadrupedal crush
 
 	conceptual diflare/tetraflare - stores either light party stacks or pair stacks for later
@@ -140,14 +140,44 @@ twist nature - starts two progress bars on one of the debuffed players that tell
 	whichever bar fills faster will happen first
 tyrant's flare - baited puddles under every player
 	quickly move out to either clock spots for the spread or the middle for the stack
+	debuffed players will go all the way north if it's stack first
 ashing blaze - one side of the boss will glow, indicating that he will do a half-room cleave on that side
 	do the second of the two mechanics on the safe side
 	make sure not to clip either of the debuffed players with the stack or spreads
+		they should also stack all the way north, in the corner of the safe region to maximise space
 end of days - three clones spawn on the west that do line aoes through three rows
 	either the first or second row will be safe
 	at the same time, the other debuffed player gets their progress bars
-	the fire bar represents three pair stacks on the three closest players to them
+	the fire bar represents three pair stacks on the three furthest players from them
 	the ice bar represents two 3-player stacks on the two closest players to them
-	assign specific positions to go to on each row, making sure the debuffed players are not hit by any mechanic
+	purple players should stay halfway between north and mid
+	fire - the role without debuffs should split onto their light party sides with melees being closer
+		make sure you are one square away from the debuffed players
+		the two other players without debuffs go vertically opposite the debuffed players in the safe row
+		if there are 2 or 0 melees, one light party has closeness priority
+	ice - everyone goes to their light party sides
+		if the two debuffed players are in the same light party, either the tank or melee in the other light party needs to move across, depending on the role
+		the 'single' role stays closer to bait the ice
 end of days - three more clones spawn on the east, making the other of the two possible safe rows safe
 	resolve the second of the two mechanics in the other row
+
+raidwide
+auto attack x2
+tankbusters
+auto attack
+
+high concept - a big raidwide that gives each player a debuff
+	there are two alpha, beta and gamma debuffs with one long and one short timer each
+	the other two players get a 2-player and 3-player stack debuff
+	have the short-timer alpha, beta and gamma debuffs go west, south and east respectively
+	then the long-timer alpha stacks with the 2-player debuff and the other long timers stack with the 3-player debuff
+arcane control - spawns two towers in mid that can be green, blue or purple
+	one will be more north and the other more south
+	the three short-timer debuffs now have hexagon markers above their heads
+	two of them can fuse a creature if they have one of the three colours the same and stand next to each other
+		standing next to someone you can't fuse with for too long will instantly wipe
+	you need to fuse a creature of the same colour of the tower and have those players stand in it
+ashing blaze - make sure everyone stays on the correct side
+	then the long timers immediately run to their spots, while everyone else stays away from the explosions
+	make sure the creature players don't stand next to the other hexagon player
+arcane control - spawns four towers this time that can be any of the same three colours as before

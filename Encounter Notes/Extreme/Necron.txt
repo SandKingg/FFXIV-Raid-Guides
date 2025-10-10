@@ -13,8 +13,9 @@ memento mori - shoots a line aoe through the middle that spawns five hands that 
 	one side will have one line and the other will have four
 	the white-glowing wing signifies the side with the single aoe and the dark-glowing wing signifies the side with four aoes
 smite of gloom - a big spread aoe on every player
-	one role should stay in the small safe spot on the dark side, everyone else spread out on the white side
-	the line aoe through middle persists and gievs a nasty bleed, so make sure not to step into it
+	two players should stay in the small safe spot on the dark side, everyone else spread out on the white side
+		can either send ranged dps or have supports just stay on their light party sides and dps always go big
+	the line aoe through middle persists and gives a nasty bleed, so make sure not to step into it
 
 soul reaping - stores either a hot wing or hot tail aoe
 twofold/fourfold blight - executes the stored aoe, then does either light party stacks or pair stacks
