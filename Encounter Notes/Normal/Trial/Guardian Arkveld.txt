@@ -1,6 +1,6 @@
 roar - raidwide
 
-wyvern's radiance (cleave) x2 - raises one of his claws up and does a cleave on that side, that also hits in line with his body
+chainblade blow + wyvern's radiance x2 - raises one of his claws up and does a cleave on that side, that also hits in line with his body
 	the second one is always on the opposite side of the first
 
 wyvern's siegeflight - charges through the middle of the arena, with either a red or white line
@@ -10,7 +10,7 @@ guardian resonance - if it's a white line, then it explodes where he charged
 wyvern's radiance (exalines) - sends a propagating line aoe through the arena
 
 wyvern's siegeflight + guardian resonance - opposite of the first one
-wyvern's radiance (cleave)
+chainblade blow + wyvern's radiance
 
 rush - charges through the arena to three spots in a triangle formation
 wyvern's radiance (rings) - each spot creates a point-blank aoe, that then propagates out into concentric doughnut aoes
@@ -35,12 +35,12 @@ wyvern's weal + wild energy - a rotating line aoe that you need to stay behind a
 	the wild energy spreads hit all eight players this time, so make sure you're not overlapping
 
 wyvern's siegeflight + guardian resonance
-wyvern's radiance (cleave)
+chainblade blow + wyvern's radiance
 wyvern's siegeflight + guardian resonance - opposite of the previous
-wyvern's radiance (cleave)
+chainblade blow + wyvern's radiance
 
 wyvern's radiance (double exalines) - creates a line aoe through m id that propagates outwards towards both edges, and then back again, and then back to the edges
-wyvern's radiance (cleave)
+chainblade blow + wyvern's radiance
 
 rush + wyvern's radiance (rings)
 wyvern's ouroblade
@@ -48,15 +48,15 @@ wyvern's ouroblade
 steeltail thrust - a line aoe from his tail behind him, make sure to stay away
 
 chainblade charge
-wyvern's radiance (cleave)
+chainblade blow + wyvern's radiance
 
 guardian resonance (towers + aoes)
 wyvern's radiance (exalines) - this will also cause the crystals to explode
 
 wyvern's siegeflight + guardian resonance
-wyvern's radiance (cleave)
+chainblade blow + wyvern's radiance
 wyvern's siegeflight + guardian resonance - opposite of the previous
-wyvern's radiance (cleave)
+chainblade blow + wyvern's radiance
 raidwide
 wyvern's weal + wild energy
 

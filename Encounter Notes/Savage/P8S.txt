@@ -134,13 +134,13 @@ tyrant's unholy darkness - tankbusters on the top two in aggro
 auto attack x2
 
 natural alignment - gives either two supports or two dps debuffs that do damage over time and wipe the raid if they are hit by certain mechanics
-	stack up halfway between north and the middle
+	stack up in the middle and send the debuffed players north
 twist nature - starts two progress bars on one of the debuffed players that tell you which mechanic is happening first
 	the orange bar represents a stack and the purple bar represents a spread
 	whichever bar fills faster will happen first
 tyrant's flare - baited puddles under every player
-	quickly move out to either clock spots for the spread or the middle for the stack
-	debuffed players will go all the way north if it's stack first
+	quickly move out to either clock spots for the spread or halfway between middle and north for the stack, ranged and melee swap for uptime
+	debuffed players just dodge their puddles
 ashing blaze - one side of the boss will glow, indicating that he will do a half-room cleave on that side
 	do the second of the two mechanics on the safe side
 	make sure not to clip either of the debuffed players with the stack or spreads
@@ -157,7 +157,7 @@ end of days - three clones spawn on the west that do line aoes through three row
 		if there are 2 or 0 melees, one light party has closeness priority
 	ice - everyone goes to their light party sides
 		if the two debuffed players are in the same light party, either the tank or melee in the other light party needs to move across, depending on the role
-		the 'single' role stays closer to bait the ice
+		the melee in the non-debuffed role stays closer to bait the ice
 end of days - three more clones spawn on the east, making the other of the two possible safe rows safe
 	resolve the second of the two mechanics in the other row
 
@@ -169,15 +169,59 @@ auto attack
 high concept - a big raidwide that gives each player a debuff
 	there are two alpha, beta and gamma debuffs with one long and one short timer each
 	the other two players get a 2-player and 3-player stack debuff
-	have the short-timer alpha, beta and gamma debuffs go west, south and east respectively
+	have the short-timer alpha, beta and gamma debuffs go east, south and west respectively
 	then the long-timer alpha stacks with the 2-player debuff and the other long timers stack with the 3-player debuff
 arcane control - spawns two towers in mid that can be green, blue or purple
 	one will be more north and the other more south
 	the three short-timer debuffs now have hexagon markers above their heads
+		alpha - red/green/blue
+		beta - purple/yellow/green
+		gamma - purple/brown/blue
 	two of them can fuse a creature if they have one of the three colours the same and stand next to each other
 		standing next to someone you can't fuse with for too long will instantly wipe
 	you need to fuse a creature of the same colour of the tower and have those players stand in it
+		alpha player has north tower priority and gamma has south tower priority, with beta filling in if needed
 ashing blaze - make sure everyone stays on the correct side
-	then the long timers immediately run to their spots, while everyone else stays away from the explosions
-	make sure the creature players don't stand next to the other hexagon player
+	then the long timers immediately run to their spots, while the two players that had the stacks earlier need to get hit by one explosion to also get hexagons
+	you need two of each hexagon type, so the stack players run to the sides that fused previously
+		the previous fusions wear out before the next towers go off
+		2-stack has alpha priority, 3-stack has gamma priority
+	everyone else avoids all explosions, make sure the creature players don't stand next to the other hexagon player
 arcane control - spawns four towers this time that can be any of the same three colours as before
+	north priorities are 2-stack > previous short timer > 3-stack
+	south priorities are alpha > beta > gamma
+ashing blaze - stay on the correct side and avoid any accidental fusions
+deconceptualize - removes all creature/hexagon debuffs, remember to stay spread
+
+raidwide
+auto attack x3
+
+limitless desolation - four sets of two spread aoes happen on one support and one dps at a time
+	at the same time, four sets of two towers spawn, with each set spawning in the same row
+	start with supports west and dps east, and then take towers in the order of your spread explosions
+	after the third set of explosions, the first two players will place a puddle under them
+	make sure you place your puddle away from your tower
+
+raidwide
+auto attack x2
+tankbusters
+auto attack x2
+
+natural alignment 2 - once again, two players of the same role get purple debuffs and cannot take damage
+inverse magicks - gives one or both of the players a debuff that inverts which abilities happen after their lines fill
+twist nature - watch carefully who has the debuff and check if the abilities are inverted or not
+end of days - the clones spawn at the west first, so move into the correct lane
+	then either spread out roughly in light party sides, or stack directly north or in the middle
+end of days - move into the other safe row for the opposite mechanic
+end of days x2 - repeat the same movement for ice and fire as before, but make sure to check if it's inverted or not
+ashing blaze
+
+raidwide
+auto attack x2
+tankbuster
+auto attack
+
+high concept 2 - another big raidwide that gives six players debuffs
+	there are two alpha, beta and gamma debuffs with one long and one short timer each
+	one of the long timer debuffs gets a 2-player stack
+	the other long timer debuff gets a 1-player 'stack'

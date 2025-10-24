@@ -1,6 +1,6 @@
 roar - raidwide
 
-wyvern's radiance (cleave) x2 - raises one of his claws up and does a cleave on that side, that also hits in line with his body
+chainblade blow + wyvern's radiance x2 - raises one of his claws up and does a cleave on that side, that also hits in line with his body
 	the second one is always on the opposite side of the first and happens very quickly after
 
 wyvern's siegeflight - charges through the arena with either a white or red line
@@ -10,13 +10,13 @@ wyvern's radiance (exalines) - sends a propagating line aoe through the arena
 wyvern's radiance (puddles) - two sets of baited puddles under every player
 wyvern's siegeflight + guardian resonance + dragonspark/white flash - opposite of the previous
 
-wyvern's radiance (cleave) x2
+chainblade blow + wyvern's radiance x2
 raidwide
 
 rush - charges through the arena to three spots in a triangle formation
 wyvern's radiance (rings) - each spot creates a point-blank aoe, that then propagates out into concentric doughnut aoes
 
-wyvern's ouroblade + wild energy - a halmf room cleave in the direction he's facing, and a spread aoe on each player
+wyvern's ouroblade + wild energy - a half room cleave in the direction he's facing, and a spread aoe on each player
 	he will always face towards an intercardinal here
 	try to have melee spread around the boss and ranged spread at the edge
 
@@ -24,7 +24,7 @@ steeltail thrust - a line aoe from his tail behind him, make sure to stay away
 
 chainblade charge - a stack marker on a healer
 
-wyvern's radiance (cleave) x2
+chainblade blow + wyvern's radiance x2
 raidwide
 
 guardian resonance (towers + puddles) - spawns six towers, two of which are tankbuster towers
@@ -48,5 +48,51 @@ clamorous chase - leans in with one arm raised and one arm down, giving every pl
 
 raidwide
 
-guardian resonance (towers + aoes)
+guardian resonance (towers + puddles) - the tank towers will always be north/south for this one
 wyvern's weal - gives a random player a marker above their head and shoots a laser towards them that follows them across the arena
+	the player with the marker goes all the way east, and the party stays west at max melee from the boss
+	the laser will destroy the crystals, doing massive aoes so make sure to dodge the tank tower aoes if you're baiting
+wyvern's weal + white flash - the baiter should stay all the way at the edge west, and the party should run in front of the laser as it moves
+	stack in light parties afterwards
+wyvern's weal + white energy - same as before only we start at the east and run back west
+	there is enough time to spread after the laser stops, so don't panic
+
+raidwide
+
+wyvern's radiance (exalines) - creates a plus formation of four exalines that travel out towards the edges, then back fully across the arena
+chainblade blow + wyvern's radiance x2
+raidwide
+
+rush + wyvern's radiance (rings)
+wyvern's ouroblade + wild energy
+steeltail thrust
+
+chainblade charge + guardian will - this now does a massive point-blank aoe centred on the player with the stack
+	be ready to move out afterwards
+
+chainblade blow + wyvern's radiance x2
+raidwide
+
+guardian resonance (towers + puddles)
+raidwide
+wyvern's vengeance - spawns six sets of exaflares from one side of the arena that travel through one by one
+	check which ones hit the tank towers and keep an eye on those
+
+chainblade charge + guardian will
+chainblade blow + wyvern's radiance x2
+
+wyvern's siegeflight + guardian resonance + white flash/dragonspark 
+wyvern's radiance (exalines) + wyvern's radiance (puddles)
+wyvern's siegeflight + guardian resonance + dragonspark/white flash - opposite of the previous
+
+chainblade blow + wyvern's radiance x2
+raidwide
+
+rush + wyvern's radiance (rings)
+wyvern's ouroblade + wild energy
+steeltail thrust
+chainblade charge + guardian will
+
+chainblade blow + wyvern's radiance x2
+raidwide x2
+enrage
