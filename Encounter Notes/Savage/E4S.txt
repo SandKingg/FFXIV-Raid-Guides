@@ -31,7 +31,6 @@ timeline 1
 		the safe spots are the two sets of two further away edge tiles from the cardinal he jumps to
 		at the same time, bomb boulders drop down
 		make sure to quickly go back to titan to avoid the aftershocks
-
 	leftward/rightward landslide - titan will cleave to his left or right, then aftershocks explode the other safe area
 		dodge to one side, then quickly to the other
 		make sure you stay on the correct bomb boulders to avoid the explosions
@@ -56,11 +55,9 @@ timeline 1
 		use the same order for yellow cubes and orange cubes stack
 		orange tank NEEDS aggro here
 		remember to dodge the aftershocks, they propagate one column at a time
-
 	fault line - titan charges the highest in aggro, dealing proximity based damage
 		after stacking, the orange tank should move to the 3rd tile in titan's column (counting titan's current tile as the 1st tile), while the party stays away so they don't get run over
 		use a cooldown for this
-
 	magnitude 5.0 - a doughnut aoe, along with more yellow markers
 		assign clock spots to spread out to after the doughnut
 		move one tile away to keep uptime
@@ -95,7 +92,7 @@ megalith - a stack tankbuster
 
 tectonic uplift - marks two opposite quadrants that will rise up, while the other two stay down
 	dps should go north and supports should go south
-	one dps and one support get blue markers, they should fall into the lower platforms and move to the corners while everyone else stays up
+	one dps and one support get blue markers, they should fall sideways into the lower platforms and move to the corners while everyone else stays up
 	then blue, orange and yellow markers are spread to 1 dps and 1 support each such that everyone has a marker
 	the blue markers stay up, making sure to stand in the corners
 	the yellow markers fall into the lower quadrant with one weight of the land and spread to different tiles
@@ -104,10 +101,9 @@ tectonic uplift - marks two opposite quadrants that will rise up, while the othe
 raidwide - this also removes the risen platforms
 
 rock throw - marks both healers for gaols, have one go north and one go south
-
 plate fracture x3 - titan rears back one fist, destroying a random quadrant on that side
 	ensure that both gaols are placed on the safe side
-	for the second plate fracture, it will always target the same north or south as the first, destroying the other quadrant there
+	for the second plate fracture, it will always target the same north or south half as the first, destroying the other quadrant there
 	make sure to free this healer first before focusing on the other
 	the final plate fracture is random again
 
@@ -133,8 +129,8 @@ plate fracture
 megalith
 plate fracture - will be either adjacent tile to the first one hit, pay attention
 	this is paired with a blue marker, 3 yellow markers and 4 orange markers
-	the blue marker should go fully south or fully west, whichever is safe
-	the orange markers should stack in one of the north safe tiles, while the yellow markers spread in the rest
+	the blue marker should go into the SW corner of the rectangle
+	the orange markers should stack in the NE corner of the rectangle, while the yellow markers spread into the three tiles around them
 raidwide
 
 orogenesis - titan reappears, while titan maximum remains in the background

@@ -66,7 +66,7 @@ reforged reflection - does the other mini-phase that wasn't done previously
 conceptual tetraflare/octaflare
 fourfold fires - spawns four proximity markers towards the intercardinals that explode into fiery vents
 	stack mid to mitigate the damage
-cthonic vent - one vent on the east and west will bubble more, indicating that it will explode
+chthonic vent - one vent on the east and west will bubble more, indicating that it will explode
 	as light parties, move towards the vent that is not bubbling on your side
 	watch which vents the vipers go into as those will explode next
 tetraflare/octaflare - move towards the safe two vents and either spread or do pair stacks
@@ -183,9 +183,10 @@ arcane control - spawns two towers in mid that can be green, blue or purple
 		alpha player has north tower priority and gamma has south tower priority, with beta filling in if needed
 ashing blaze - make sure everyone stays on the correct side
 	then the long timers immediately run to their spots, while the two players that had the stacks earlier need to get hit by one explosion to also get hexagons
-	you need two of each hexagon type, so the stack players run to the sides that fused previously
-		the previous fusions wear out before the next towers go off
-		2-stack has alpha priority, 3-stack has gamma priority
+	you need two of each hexagon type, so the long timer players need to swap spots to make sure their explosions correctly hit 2 and 3
+		green first > B & C swap
+		blue first > no swap
+		purple first > A & B swap
 	everyone else avoids all explosions, make sure the creature players don't stand next to the other hexagon player
 arcane control - spawns four towers this time that can be any of the same three colours as before
 	north priorities are 2-stack > previous short timer > 3-stack
@@ -225,3 +226,17 @@ high concept 2 - another big raidwide that gives six players debuffs
 	there are two alpha, beta and gamma debuffs with one long and one short timer each
 	one of the long timer debuffs gets a 2-player stack
 	the other long timer debuff gets a 1-player 'stack'
+arcane control - do this similarly to high concept 1
+	however, the 2-player stack is resolved with the long timer without a stack
+	the 1-player 'stack' does to the same place as the 3-player stack in high concept 1
+ashing blaze - dodge the cleave, then run to your spots for the next debuff
+	the swap is done exactly the same as in high concept 1
+arcane control - four more towers spawn in a 2x2 square in the middle of the arena
+	these are always? two of each colour that was not present for the first two towers
+	the leftover player from the first set combines with the player on A
+	then the players on B and C combine together
+	do your combinings close to the middle to allow for quick movement into a tower
+end of days - the four other players need to stand close to a clone to get tethered to it
+	then drag them so they fire the lasers clockwise, while staying one tile further in to avoid getting double-hit
+
+ego death - ???

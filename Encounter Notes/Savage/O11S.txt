@@ -40,7 +40,7 @@ mustard bomb - this also has a tether that the OT needs to take and run to a cor
 	the tether reduces max hp a lot and gives anyone else hit a doom (also gives doom if not taken by anyone)
 raidwide
 
-peripheral synthesis 2 - summons 4 big fists on th eoutside of the arena that will charge through, knocking anybody hit a large distance away
+peripheral synthesis 2 - summons 4 big fists on the outside of the arena that will charge through, knocking anybody hit a large distance away
 	these target 1 tank, 1 healer and 2 dps, the second set target the other 4 players
 	go to the outside of the arena and make sure to keep the middle safe
 electric slide - stack up right in the middle to avoid moving omega
@@ -74,8 +74,9 @@ flame thrower + ballistic missile
 larboard/starboard wave cannon surge
 
 pantokrator 2 - similar to pantokrator 1, with more mechs
-	assign one ranged player to bait the large aoe puddles, they start north
-	party starts under the boss, dodges south from the puddles until we know which way the cone aoes rotate, then dodge that way
+	assign one ranged player to bait the large aoe puddles, they start all the way south
+	party starts max melee south to bait the first set of puddles, then bait the second set under the boss, then the final set at north
+	then start rotating in the same direction as the cone aoes
 	stack for engage ballistics systems
 	tanks move through the boss immediately and spread out to take the repeated cone busters
 	use clock spots to assign 2 sets of 3 other players to bait the line aoes, while the others stay safe

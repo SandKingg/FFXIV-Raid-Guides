@@ -71,7 +71,6 @@ add phase - a long battle with multiple ascian shades
 		shadow flare - raidwide
 		ancient eruption - baited aoe puddles on the furthest away player, have a ranged dps do this
 		raidwide x2
-		...?
 		enrage
 
 again the majestic - summons the comets from nabriales's shade

@@ -1,0 +1,95 @@
+abyssal blaze - stretches open a portal either horizontally or vertically, indicating which direction the aoes will travel later
+	these are stored in crystals on the floor in a diagonal pattern
+	the second portal will always be opposite of the first, and the diagonal will be offset by 1 vertically and horizontally
+	this will make one corner safe later
+
+bounds of sin - drags everyone into the centre and creates a circle of aoes pointing either in or out will, indicating either a point-blank or doughnut
+	look whether they finish north/south or east/west as that's where you should go
+abyssal dawn - spawns a bleed tower in each corner
+sin and punishment - supports and dps get sin and punishment markers that need to be cancelled out
+	assign towers so that the two supports and two dps are diagonal from each other, meaning there is a viable pair for both aoe directions
+	after the aoes cancel out, take your towers
+	then go to the correct corner to dodge the abyssal blaze aoes
+
+blade of first light + chains of condemnation/ball of fire - the eater draws one or two swords, indicating an aoe through middle or on both sides respectively
+	this is paired with one of two casts, make sure you look to see which is going off first
+	chains of condemnation - a pyretic debuff, stay still and stop attacking
+	ball of fire - large, baited puddles on each player, keep moving in one direction and not towards anybody else
+
+burning chains - chains supports to dps, supports run west and dps run east to break them
+
+spinelash - marks one player to be bound and then does a wild charge line stack on them that breaks any windows at the back that it hits
+	make sure to only break one window with this to limit the amount of adds summoned
+	kill the add quickly as it does minibusters and random puddles
+
+shackles of sanctity - marks the healer with a debuff that causes all healing they do to emit a large aoe pulse that also gives damage down
+	make sure the healer stays away from the party towards a south corner
+
+hellish earth - tethers the furthest away player and drags them towards the middle, while also doing a smaller draw-in on everybody else
+	the tank should be tethered and everyone else needs to either use kb resist or stand far enough to not get drawn into the middle
+	if the tank exits the middle area, they explode and wipe the raid
+	five arcane fonts appear that should be focused down by the dps
+eruption - three sets of puddles under everyone except the tank
+manifold lashings - a triple-hit tankbuster tower followed up by a thick line aoe that shoots diagonally through the middle area and into the rest of the platform
+	react quickly to which way the tail is coming from to dodge it
+	each hit of the buster also gives a stack of poison
+unholy darkness - raidwide + bleed
+manifold lashings
+
+abyssal blaze + eruption - dodge the puddles again
+bounds of sin 2 - this time there will only be one direction to escape, but pay attention to whether it's out or in
+sin and punishment - this happens after the abyssal blaze puddles this time
+	assign specific pairs for this since there are no positioning requirements
+
+crime and punishment - afflicts a random player with a stacking debuff that explodes and passes itself to anyone hit after reaching 16 stacks
+	if you have light, then it stacks up much faster, whereas if you have dark then it stacks up much slower
+	anybody hit by the pass explosion gets an esunable doom
+	if nobody is hit by the explosion, the player who had the debuff begins pulsing massive raidwide damage, which is basically a wipe
+	assign an order of players to pass through each time
+
+blade of first light + chains of condemnation/ball of fire - after both mechanics have resolved, whoever had the first debuff switches to light and passes to the next player
+spinelash - don't hit the window you already broke or a massive add will spawn which is basically a wipe
+	after this, do the second debuff pass
+
+bounds of sin 3 - same as the first one, but the aoes will always be pointing in
+	look if the exits are east/west or north/south
+burning chains - this time you'll need a north/south priority as well, in case you need to run in that direction
+
+abyssal blaze
+sin and punishment - do the third debuff pass in pairs here
+	you will need to swap pairs in some cases here, based on who has the last debuff
+drain aether x2 - look at which of the two casts will happen first
+	the eminent grief requires you to be light, and the devoured eater requires you to be dark
+	if you have the debuff you need to be dark for BOTH
+	the eminent grief will drain the debuff away from you
+	do the abyssal blaze puddles after this
+
+unholy darkness
+
+visceral flame - spawns a flameborn add at each corner that tethers to the first player to hit it and slowly walks towards them
+	each add has an aoe around it that gives vulns if you stand in it
+	making the add walk through dark will cause the aoe to rapidly expand
+	making the add walk through light will cause the aoe to rapidly contract (if bigger than the default) or explode
+	the explosion gives a 5-second fire vuln
+	assign an order for players to walk their add through light to explode them
+		the final player should wait for their add to time out, to make sure the vuln does not cause the next fire ability to one-shot
+	two adds will merge to form a bigger add if they walk into each other
+
+abyssal blaze - these puddles don't go off for a while
+chains of condemnation/ball of fire + blade of first light - this will always be the fire ability first
+	make sure to heal after the debuff if it's chains
+abyssal dawn - these towers don't go off until a few seconds after the blade is cast
+	you can stay outside until it's time to take them
+bounds of sin 4 - just a single exit point again this time
+spinelash - break the final window here, then run to the safe corner for the puddles
+	kill the add in that safe corner
+burning chains - run back to mid once it's safe from the puddles to avoid a weird positioning
+
+manifold lashings
+eruption
+drain aether x2
+eruption
+bounds of sin 5
+blade of first light + chains of condemnation/ball of fire
+unholy darkness
+enrage
