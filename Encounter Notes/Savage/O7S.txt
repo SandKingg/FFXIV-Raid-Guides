@@ -4,6 +4,7 @@ arm and hammer - tankbuster
 
 atomic ray - raidwide and marks all dps for orb drops
 	dps should spread away from the boss as the orbs explode afterwards
+	assign a corner for each dps to spread to, melees north and ranged south
 
 missile - marks one player with a prey and gives them a nasty dot
 
@@ -21,7 +22,8 @@ dadaluma
 
 	missile simulation + chakra burst - dodge the missiles while standing in the yellow towers
 		assign clock spots for players and take the tower on your spot
-		melees can be intercardinal, ranged cardinal?
+		dps use their corner spots for the towers, and supports take the cardinal towers
+			OT won't get uptime here unfortunately
 	
 	run program (dadaluma) - spawns dadaluma, should be tanked close to the boss
 	
@@ -31,7 +33,7 @@ dadaluma
 	magitek ray
 
 ultros
-	load (ultros) - does big spread aoes on each player, go to rough clocks
+	load (ultros) - does big spread aoes on each player, go to rough clock spots
 	
 	diffractive plasma - raidwide
 
@@ -52,7 +54,7 @@ air force
 		the snapshotting is INCREDIBLY unfair here, get out quickly
 
 	missile simulation + run program (air force) - dodge missiles while dps get tethered by air force adds
-		need to go towards your add and point it away from the party to bait the big cone aoe
+	diffractive laser - need to go towards your add and point it away from the party to bait the big cone aoe
 
 	bomb deployment - two bombs spawn with a red and blue loop
 		one loop lights up and you stand in that loop to defuse
@@ -83,9 +85,9 @@ timeline 2
 	load (ultros)
 
 
-skip program (virus) - tethers each dps to a support and gives them magnet debuffs plus another debuff
+skip program (virus) - tethers each tank to a healer, and each dps to another dps, and gives them magnet debuffs plus another debuff
 	these debuffs can be baited by staying far away/close respectively
-	searing wind - a massive aoe blast that is given to players with LIKE charges
+	searing wind - a massive aoe blast that is given to players with OPPOSITE charges
 		if you get this, go to the edges of the arena right into the corners
 		support tether can go west, dps tether can go east
 	abandonment - need to be stacking with at least one other player at the end of the debuff
