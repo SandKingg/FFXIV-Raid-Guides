@@ -18,7 +18,7 @@ lively bait - spawns two puddles on cardinals near mid and two puddles on interc
 
 tankbusters
 
-ruby glow 2 - this time it makes two larger triangualr segments
+ruby glow 2 - this time it makes two larger triangular segments
 topaz stones - spawns one topaz stone and one poison stone between the two segments
 double rush - dashes in the direction he's facing, then back through the arena, doing a massive knockback
 	stay on the side he's not facing and use knockback resist, you can outrange the damage by standing far enough away
@@ -46,6 +46,7 @@ devour - a red jaw marker indicates where he will jump to in one of two patterns
 	the patterns can be rotated or reflected
 	pattern 1 - ABADCBCD
 		for this pattern, he immediately doubles back after the first jump, dodge C > B > A
+		DO NOT MOVE TOO EARLY WHEN DODGING THIS
 	pattern 2 - ABCDCBAD
 		for this pattern, he makes an almost complete lap, then doubles back fully, dodge D > A > D > C
 lively bait - all four puddles spawn in mid here so we do these in colour pairs

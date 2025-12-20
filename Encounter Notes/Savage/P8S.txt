@@ -138,6 +138,8 @@ natural alignment - gives either two supports or two dps debuffs that do damage 
 twist nature - starts two progress bars on one of the debuffed players that tell you which mechanic is happening first
 	the orange bar represents a stack and the purple bar represents a spread
 	whichever bar fills faster will happen first
+	there will always be exactly six spreads, normally with both debuffed players not getting one
+		if there are deaths, then one or both purples will get a spread, which is a wipe
 tyrant's flare - baited puddles under every player
 	quickly move out to either clock spots for the spread or halfway between middle and north for the stack, ranged and melee swap for uptime
 	debuffed players just dodge their puddles
