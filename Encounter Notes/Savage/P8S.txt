@@ -231,14 +231,22 @@ high concept 2 - another big raidwide that gives six players debuffs
 arcane control - do this similarly to high concept 1
 	however, the 2-player stack is resolved with the long timer without a stack
 	the 1-player 'stack' does to the same place as the 3-player stack in high concept 1
+	the two players with no debuff need to stand on the 2 marker to get hit by the alpha player's explosion
+		one can stand a bit to the right and the other a bit to the left to indicate clone priority for later
+	the towers here can only ever be blue or purple
 ashing blaze - dodge the cleave, then run to your spots for the next debuff
 	the swap is done exactly the same as in high concept 1
+	the two extra alpha players should combine to make ifrit at this point
+		stay north on your clone sides until the second set of debuffs has resolved
 arcane control - four more towers spawn in a 2x2 square in the middle of the arena
-	these are always? two of each colour that was not present for the first two towers
-	the leftover player from the first set combines with the player on A
-	then the players on B and C combine together
+	these are always two of each colour that was not present for the first two towers, meaning green will always be present here
+	the leftover player from the first set combines with the player on C
+	then the players on A and B combine together
 	do your combinings close to the middle to allow for quick movement into a tower
 end of days - the four other players need to stand close to a clone to get tethered to it
 	then drag them so they fire the lasers clockwise, while staying one tile further in to avoid getting double-hit
+	the ifrit players already have priority for the east and west clones
+	the north and south clones are taken by the two players who took the first two towers, with that same priority
 
-ego death - ???
+ego death - the ifrit players need to each combine with the green zu players to make phoenix feathers
+	then all four should stack in the centre to give everybody the phoenix buff so they can survive the mechanic

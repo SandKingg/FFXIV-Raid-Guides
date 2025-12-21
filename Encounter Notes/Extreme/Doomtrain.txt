@@ -1,0 +1,56 @@
+dead man's overdraught - shows either 4 or 8 orbs, indicating stacks on all supports or dps, or spreads on every player
+	this will happen immediately after the next 'dead man' mechanic
+dead man's express - spawns an array of lightning runes that will shoot line aoes either on the upper or lower parts of the platform
+	there is also a massive knockback along with this
+	make sure to spread or stack in pairs quickly
+
+dead man's overdraught - opposite of the previous
+dead man's windpipe - a big draw-in followed by an aoe that hits the first two rows
+	either use knockback resist or hide behind something to stop the draw-in
+	then either stack in pairs or spread quickly
+
+unlimited express - a big raidwide that knocks everybody onto the next car
+
+dead man's overdraught
+turret crossing - spwans turrets on the east and west sides that begin to telegraph line aoes
+	these aoes are stopped by boxes, but go through the fenced-off broken parts
+dead man's express/windpipe - dodge turrets first, then do this
+
+dead man's overdraught - opposite of the previous
+lightning burst - aoe tankbusters on each tank
+	remember to dodge the turrets first here
+dead man's windpipe/express - opposite of the previous
+	turrets first again
+
+unlimited express
+
+tankbusters
+
+runaway train - transports everyone to an alternate dimension for an add phase
+	aetherial ray + aetherosote/aetherochar - targets both tanks for a cone tankbuster from the ghost train while the doomtrain shoots either 2 or 3 orbs
+		listen out for how many puffs there are to see which is which
+		aetherosote - 2 orbs means light party stacks on each healer
+		aetherochar - 3 orbs means three random players are targetted for a spread aoe, so everybody needs to stay spread
+	loops until the add is destroyed
+	runaway train - big transition raidwide back to the original area
+
+tankbusters
+
+derailment siege - a three-hit multi-stack tower, get ready to move out immediately after
+derail - destroys the current car, make sure you've jumped to the next one before that happens
+
+third rail - the boss snaps its fingers, snapshotting a puddle under every player
+	move once you hear the snap
+
+head-on emission - telegraphs an aoe from its jaws and headlamp in either order
+	make sure to be up for the jaw aoe and down for the headlamp aoe
+
+arcane revelation - gives one tank and one healer a stack debuff, then beginning moving its hand together while a telegraph moves around the arena
+	the telegraph moves either 2, 3 or 4 times before the aoe goes off, indicated by how quickly the train's hands move
+	at the end of the telegraph, melees need to stack on the tank and ranged on the healer
+	this happens three times
+
+head-on emission
+third rail
+tankbusters
+derailment siege + derail
