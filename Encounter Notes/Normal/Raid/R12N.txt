@@ -1,0 +1,52 @@
+the fixer - raidwide
+
+bloodshed - turns one arm into a dragon head
+serpentine scourge - a half-room cleave on the side of the dragon-headed arm
+ravenous reach - the dragon-headed arm snakes over either to the same side or the opposite side and does a big cone aoe through the arena
+burst - afterwards, the head explodes into multiple gore puddles that expand quickly, doing point-blank aoes
+
+cruel coil - drags every player into the centre of the arena and binds them, then encircles the middle of the arena in its coiling tail
+	it will rotate three times, each time leaving a gap for everyone to escape through
+	the second two also leave a vuln, and anyone who hasn't left after the third rotation will be insta-killed
+
+visceral burst - aoe tankbusters on both tanks
+
+bloodshed + serpentine scourge
+grotesquerie - gives everyone a debuff that will do a point-blank aoe around them once it expires
+ravenous reach + burst - this one will always do the opposite of the first one
+	the spreads go off after the expanding aoes
+
+splattershed - a raidwide that transforms both its arms into dragon heads
+feral fission - snakes each arm through the arena, coiling over a rough-checkerboard pattern
+bring down the house - destroys the parts of the arena below the coils, recreating some platforms to allow passage through the entire platform
+??? - the two dragon heads shoot aoes through two columns of the platform
+venomous scourge - a spread aoe on every player
+
+grotesquerie 2 - gives everyone a delayed knockback debuff and a delayed cone aoe debuff
+	one healer will get a delayed stack debuff
+	the knockbacks go off first, don't get knocked off the platform
+ravenous reach - the stack goes off at the same time here, make sure to stack in the safe spot
+	then point your cone aoes away from other players
+	the platform also returns to normal here
+
+bloodshed + serpentine scourge - this time both arms turn into dragon heads
+	the line aoe is always from the second head to form
+splattershed - returns his arms to normal
+tankbusters
+
+cruel coil - this time you only have two chances to leave before you get insta-killed
+
+grotesquerie 3 - gives everyone a delayed knockback debuff and a delayed spread debuff
+burst - two expanding aoes appear, use the knockback to avoid them
+	do the spreads after this
+
+bloodshed + serpentine scourge
+bloodshed + serpentine scourge + burst - dodge the line aoe and the expanding aoes
+raidwide
+
+loops from feral fission until <10% then spams tankbusters & raidwides?
+
+mindless flesh - a series of line aoes, with a spread aoe on every player, then finally a massive cleave towards one side of the room
+splattershed
+
+loops from mindless flesh until defeated

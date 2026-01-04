@@ -34,6 +34,8 @@ runaway train - transports everyone to an alternate dimension for an add phase
 	loops until the add is destroyed
 	runaway train - big transition raidwide back to the original area
 
+shockwave - spawns two arms and does a raidwide
+
 tankbusters
 
 derailment siege - a three-hit multi-stack tower, get ready to move out immediately after

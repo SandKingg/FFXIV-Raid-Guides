@@ -1,0 +1,69 @@
+hot impact - a double-stack tankbuster
+
+alley-oop inferno - a spread aoe on every player that leaves a lingering fire puddle
+
+cutback blaze - two large cone aoes targeted towards two random players that leave lingering fire puddles
+
+diver's dare - raidwide that removes all fire puddles
+
+cutback blaze
+alley-oop inferno
+raidwide
+
+sick swell - creates a massive wave towards one of the edges
+sickest take-off - causes the wave to do a small knockback from the edge it spawned on, plus a much larger knockback where the boss is surfing
+	the large knockback will send you into the wall
+
+deep varial - a massive cone aoe from the edge that he's pointing towards
+	the two safe spots are thin cones in the adjacent corners
+deep varial
+
+deep impact - an aoe tankbuster
+
+xtreme spectacular - a proximity line aoe followed by a multi-hit raidwide
+	both bosses are active simultaneously now
+	any fire puddles hit by a water ability will spawn an orb that does a point-blank aoe
+
+hot aerial - creates four towers sequentially towards each of the corners, with each leaving a lingering fire puddle
+sick swell
+hot impact + sickest take-off - dodge the orb explosions
+
+pyrotation - a stack marker on a random player that leaves a lingering fire puddle
+
+alley-oop maelstrom - does large cone aoes towards each cardinal and intercardinal, followed by smaller cone aoes in the gaps in between
+	dodge the orb explosions afterwards
+
+raidwide
+
+watersnaking + firesnaking - each boss tethers to one tank, one healer and two dps, marking them to be targeted by the next abilities
+	this is also a raidwide
+insane air x4 - each boss marks two of their players to aim a cone aoe towards, then surfs through a path, doing the cone aoes at the end
+	the fire cones leave lingering fire puddles whereas the water cone create orb explosions if they overlap with fire aoes
+raidwide
+
+deep varial
+cutback blaze
+alley-oop maelstrom
+cutback blaze
+alley-oop inferno
+raidwide
+
+hot aerial
+sick swell + sickest take-off + hot impact
+pyrotation
+alley-oop maelstrom
+raidwide
+
+hot aerial
+deep varial
+alley-oop inferno
+alley-oop maelstrom
+hot impact
+raidwide
+
+deep varial
+cutback blaze
+alley-oop maelstrom
+cutback blaze
+alley-oop inferno
+pyrotation

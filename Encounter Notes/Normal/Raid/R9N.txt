@@ -1,0 +1,66 @@
+killer voice - raidwide
+
+half moon - a half-room cleave on the side she's aiming the kick towards, followed by another cleave on the opposite side
+
+vamp stomp - summons bats and does a point-blank aoe that sends out a slow-moving shockwave
+	whenever this shockwave hits a bat, it does another point-blank aoe centred on the bat
+
+hardcore - an aoe buster on each tank
+
+sadistic screech - a raidwide that transforms the platform
+	the west and east columns get destroyed and the coffinmaker is summoned, starting the add phase
+	
+	coffinfiller - two column aoes, followed by two more aoes in the previous safe spots
+	dead wake + flaying fry - a spread aoe on every player as the coffinmaker advances
+
+	coffinfiller
+	dead wake + penetrating pitch - a stack marker on each healer, as the coffinmaker advances again
+
+	coffinfiller + half moon - make sure you're on the correct side to dodge the cleaves
+	coffinfiller + half moon
+	enrage
+sadistic screech - raidwide that returns the platform to normal
+
+crowd kill - a big raidwide that empowers some of her abilities
+
+finale fatale - raidwide that turns the arena into a circle
+	sets of 6 puddles drop down throughout the mini-phase that need to be avoided
+aetherletting - four random players get aoe markers that drop either a plus or cross marker
+	this indicates where a plus or x-shaped aoe will explode after a few seconds
+aetherletting - the other four players get it this time
+brutal rain - a multi-hit stack marker
+insatiable thirst - a raidwide that returns the platform to normal
+
+sadistic screech 2 - once again destroys the west and east columns
+	saws will move across and around the arena throughout the mini-phase that need to be avoided
+plummet - two towers spawn that need to be soaked
+	then destroy the fatal flails before they finish their enrage cast
+raidwide x2
+plummet
+raidwide
+sadistic screech - returns the platform to normal
+
+crowd kill
+half moon - this time the cleaves extend fully into her hitbox
+tankbusters - these are enormous now
+
+finale fatale 2 - now drops 8 puddles at a time instead of 6
+vamp stomp
+half moon
+brutal rain
+insatiable thirst
+
+tankbusters
+penetrating pitch
+raidwide
+
+finale fatale 3
+aetherletting x2
+brutal rain
+insatiable thirst
+
+half moon
+flaying fry
+raidwide
+
+loops from finale fatale 2 until defeated

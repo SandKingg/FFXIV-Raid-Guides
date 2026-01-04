@@ -1,0 +1,65 @@
+crown of arcadia - raidwide
+
+draw steel - draws one of three weapons, the first one is always an axe
+smashdown - executes the corresponding aoe based on the weapon drawn
+	axe - point-blank aoe
+	scythe - doughnut aoe
+	sword - plus-shaped aoe oriented towards the direction he's facing
+draw steel + smashdown - always scythe
+
+void stardust - a series of three spread aoes on each player
+	each aoe leaves a lingering puddle that explodes after a few seconds, so move afterwards
+
+draw steel + smashdown - always sword
+
+trophy weapons - summons one of each weapon type
+assault evolved - tethers to each weapon in turn, charging towards them and executing their aoes centred on that position
+
+trophy weapons + assault evolved
+
+dance of domination trophy - draws a sword
+dance of domination - a multi-hit raidwide that leaves a series of lines on the arena that explode after a few seconds
+
+raw steel trophy - draws an axe
+raw steel - a double-stack tankbuster and a spread aoe on every other player
+
+charybdistopia - reduces everyone's hp to 1
+
+ultimate trophy weapons - begins summoning six weapons one by one
+assault apex - dashes to each weapon in turn, executing their corresponding aoe
+	two of them leave tornadoes on the ground that do dodgeable cone aoes at the end
+	since the aoes overlap, dodge from a safe spot into a previous intersection of aoes
+
+immortal reign + one and only - grants a power buff, then does a follow-up raidwide
+
+meteorain - spawns four towers that need to be soaked, each one spawning a meteor
+foregone fatality + massive meteor - two portals do tankbuster tethers towards the meteors, while a stack marker goes out on a random player
+	the tethers need to be taken by tanks to save the meteors
+	this then all happens a second time
+double tyrannhilation - a massive aoe that can only be avoided by hiding behind a meteor
+	make sure to hide behind a corner meteor as the aoe hits twice and will crumble any meteor that blocks the first hit
+
+flatliner - a knockback from the boss that destroys the middle column of the arena
+	make sure there's at least two players on each side
+majestic meteor - three sets of baited puddles followed by a criss-cross of line aoes from portals
+fire and fury - two cone aoes from the boss that make the middle parts of the platforms unsafe
+	two proximity aoes spawn on opposite corners that you need to dodge by standing in a safe corner
+	two knockback towers spawn on each platform that need to be soaked
+	either get knocked to the other side, or across your current platform, never diagonally
+majestic meteor - exactly the same mechanic loop but without the fire and fury cone aoes, and there are only two towers this time
+arcadion avalanche - looks towards one platform, then grabs it and throws it towards the other platform
+	use the tower to get to (or stay on) the safe platform
+
+raidwide - also restores the platform
+
+heartbreak kick x2 - a multi-stack tower
+
+majestic meteor - no knockback towers this time
+fire and fury - goes off after the proximity aoes
+void stardust - dodge the second round of majestic meteor after this
+raidwide
+
+great wall of fire - a double-stack line buster that leaves a lingering line aoe
+	make sure to dodge out of it afterwards
+
+loops from heartbreak kick x2 until defeated

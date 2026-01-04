@@ -1,4 +1,4 @@
-	doomvoid cleaver - sends cones towards every player that spawn adds
+doomvoid cleaver - sends cones towards every player that spawn adds
 	spread to clock spots then avoid the adds that go towards mid
 
 unholy darkness - a stack on a random player
@@ -23,7 +23,7 @@ shadowflame - tankbuster on both tanks
 entropy - raidwide
 
 the hand of erebos (red) - spawns a hand on the east or west that has either a purple or red tether to the boss
-	purple - big knockback, so use resist or go to that side
+	purple - big knockback, so use knockback resist or go to that side
 	red - massive point blank, run to the opposite edge
 
 doomvoid guillotine
