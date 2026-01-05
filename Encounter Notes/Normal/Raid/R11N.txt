@@ -1,11 +1,11 @@
 crown of arcadia - raidwide
 
-draw steel - draws one of three weapons, the first one is always an axe
+draw steel - draws one of three weapons, the first one is always an axe or scythe
 smashdown - executes the corresponding aoe based on the weapon drawn
 	axe - point-blank aoe
 	scythe - doughnut aoe
 	sword - plus-shaped aoe oriented towards the direction he's facing
-draw steel + smashdown - always scythe
+draw steel + smashdown - opposite of the previous (never sword)
 
 void stardust - a series of three spread aoes on each player
 	each aoe leaves a lingering puddle that explodes after a few seconds, so move afterwards
