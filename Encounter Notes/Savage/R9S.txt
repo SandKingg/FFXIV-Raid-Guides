@@ -1,0 +1,83 @@
+killer voice - raidwide
+
+hardcore - aoe tankbusters on each tank
+	these will increase in size based on her buff stacks
+
+vamp stomp - give everyone debuffs, summons bats and does a point-blank aoe that sends out a slow-moving shockwave
+	whenever this shockwave hits a bat, it does another point-blank aoe centred on the bat
+	whenever this shockwave hits a player, it does a point-blank aoe around them that gives magic vuln
+	the two bats in the middle show where the safe spots will be for melee uptime
+
+brutal rain - a multi-hit stack marker
+
+sadistic screech - a raidwide that transforms the platform
+	the west and east columns get destroyed and the coffinmaker is summoned, starting the add phase
+
+	coffinfiller + half moon - two of the coffinmaker's saws glow, followed by the other two, indicating which order they will do line aoes
+		meanwhile the boss is facing either north or south, indicating a cleave in that direction, followed by a cleave in the opposite direction
+		getting hit by this too much will grant her stacks of a buff, making the cleaves bigger
+	dead wake - the coffinmaker advances, don't get hit by it
+
+	coffinfiller + half moon 
+	dead wake
+
+	coffinfiller + half moon - this time the cleaves are aimed east/west
+	coffinfiller + half moon
+	enrage
+sadistic screech - raidwide that returns the platform to normal
+
+crowd kill - raidwide that grants her 4 more stacks of the buff
+
+finale fatale - raidwide that turns the arena into a circle
+	sets of 6 puddles drop down throughout the mini-phase that need to be avoided
+	if she has 8+ stacks, there will be 8 puddles, and if she has 12+, there will be 10 puddles
+aetherletting - telegraphs rotating cone aoes, then marks one support and one dps at a time for spread aoes
+	these spread aoes drop either a plus or x on the ground, indicating how line aoes spread out from it
+	if any aoes are placed too close together, they go off instantly
+	place each aoe at the edge of the arena starting in the fourth slice to get cleaved, and then moving around in the order the cones go off
+	then dodge each explosion by staying roughly 90 degrees to both aoes
+tankbusters
+vamp stomp
+half moon
+brutal rain
+insatiable thirst - a raidwide that returns the platform to normal
+
+sadistic screech 2 - once again destroys the west and east columns
+	saws will move across and around the arena throughout the mini-phase that need to be avoided
+plummet - two tankbuster towers spawn that need to be soaked, along with an aoe that spawns a doornail
+	then destroy the fatal flails before they finish their enrage casts
+	the doornail does an expanding lightning aoe, so destroy that before it engulfs the entire arena
+raidwide
+plummet
+raidwide
+plummet
+sadistic screech
+
+crowd kill - if you've done the fight perfectly, this will put her to 8 stacks, meaning all abilities have the first empowerment
+
+finale fatale 2 - at a minimum, there will be 8 puddles in each set
+hell in a cell - spawns four towers at random cardinals or intercardinals, soaking it spawns a charnel cell that must be destroyed
+	there will always be a safe spot of >90 degrees to take the stack cleave later
+ultrasonic amp/spread - either a cleave towards a non-celled player (the healer?) that needs to be soaked or a role cleave towards the non-celled players
+	the tank cleave is much wider so they need to be in the big safe spot
+ultrasonic spread/amp - opposite of the previous
+hell in a cell - the four towers always spawn in the four spots that did not have towers last time
+ultrasonic amp/spread
+ultrasonic spread/amp - opposite of the previous
+undead deathmatch - spawns two stack towers, either north/south or east/west
+	split into light parties to take the towers
+	each tower spawns a bat when soaked that chains to every player in the tower, make sure you don't move too far from the bat otherwise you take damage and get a damage down
+sanguine scratch - a series of five sets of eight cone aoes that rotate around the arena
+	the first set is aimed between the cardinals and intercardinals, then the second set is aimed on them, and repeat from there
+	stay close to your bat as you dodge
+	after all five, one bat will have a point-blank aoe and one will have a doughnut
+sanguine scratch - the bats go back the other way
+brutal rain
+vamp stomp
+half moon
+tankbusters
+sanguine scratch
+insatiable thirst
+
+crowd kill - turns the debuff stacks into a giga debuff
+enrage
