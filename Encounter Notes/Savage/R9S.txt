@@ -1,12 +1,13 @@
 killer voice - raidwide
 
 hardcore - aoe tankbusters on each tank
-	these will increase in size based on her buff stacks
+	these will increase in size if she has 8 or more stacks
 
 vamp stomp - give everyone debuffs, summons bats and does a point-blank aoe that sends out a slow-moving shockwave
 	whenever this shockwave hits a bat, it does another point-blank aoe centred on the bat
 	whenever this shockwave hits a player, it does a point-blank aoe around them that gives magic vuln
 	the two bats in the middle show where the safe spots will be for melee uptime
+	MT can insta-cleanse then sprint out to dodge the bats to avoid moving the boss
 
 brutal rain - a multi-hit stack marker
 
@@ -15,7 +16,7 @@ sadistic screech - a raidwide that transforms the platform
 
 	coffinfiller + half moon - two of the coffinmaker's saws glow, followed by the other two, indicating which order they will do line aoes
 		meanwhile the boss is facing either north or south, indicating a cleave in that direction, followed by a cleave in the opposite direction
-		getting hit by this too much will grant her stacks of a buff, making the cleaves bigger
+		the cleaves increase in size if she has 8 or more stacks
 	dead wake - the coffinmaker advances, don't get hit by it
 
 	coffinfiller + half moon 
@@ -34,8 +35,9 @@ finale fatale - raidwide that turns the arena into a circle
 aetherletting - telegraphs rotating cone aoes, then marks one support and one dps at a time for spread aoes
 	these spread aoes drop either a plus or x on the ground, indicating how line aoes spread out from it
 	if any aoes are placed too close together, they go off instantly
-	place each aoe at the edge of the arena starting in the fourth slice to get cleaved, and then moving around in the order the cones go off
-	then dodge each explosion by staying roughly 90 degrees to both aoes
+	assign every player a spot between a cardinal and intercardinal where two cones touch
+	this is where they place their aoe once it is their time to drop
+	then dodge each explosion by staying directly in the centre
 tankbusters
 vamp stomp
 half moon
@@ -64,6 +66,7 @@ ultrasonic spread/amp - opposite of the previous
 hell in a cell - the four towers always spawn in the four spots that did not have towers last time
 ultrasonic amp/spread
 ultrasonic spread/amp - opposite of the previous
+
 undead deathmatch - spawns two stack towers, either north/south or east/west
 	split into light parties to take the towers
 	each tower spawns a bat when soaked that chains to every player in the tower, make sure you don't move too far from the bat otherwise you take damage and get a damage down
@@ -71,7 +74,8 @@ sanguine scratch - a series of five sets of eight cone aoes that rotate around t
 	the first set is aimed between the cardinals and intercardinals, then the second set is aimed on them, and repeat from there
 	stay close to your bat as you dodge
 	after all five, one bat will have a point-blank aoe and one will have a doughnut
-sanguine scratch - the bats go back the other way
+sanguine scratch - the bats can go back the other way
+
 brutal rain
 vamp stomp
 half moon
