@@ -1,6 +1,6 @@
 killer voice - raidwide
 
-hardcore - aoe tankbusters on each tank
+hardcore - aoe tankbusters on the top two in aggro, make sure OT is 2nd in aggro here
 	these will increase in size if she has 8 or more stacks
 
 vamp stomp - give everyone debuffs, summons bats and does a point-blank aoe that sends out a slow-moving shockwave
