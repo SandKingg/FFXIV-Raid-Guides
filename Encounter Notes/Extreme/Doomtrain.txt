@@ -48,7 +48,7 @@ head-on emission - telegraphs an aoe from its jaws and headlamp in either order
 	make sure to be up for the jaw aoe and down for the headlamp aoe
 
 arcane revelation - gives one tank and one healer a stack debuff, then beginning moving its hand together while a telegraph moves around the arena
-	the telegraph moves either 2, 3 or 4 times before the aoe goes off, indicated by how quickly the train's hands move
+	the telegraph moves either 2, 3 or 4 times before the aoe goes off, indicated by an audio cue as the aoe does its final movement
 	at the end of the telegraph, melees need to stack on the tank and ranged on the healer
 	this happens three times
 
@@ -56,3 +56,33 @@ head-on emission
 third rail
 tankbusters
 derailment siege + derail
+
+psychokinesis - levitates the sets of boxes and does spread aoes on random players that give physical vuln
+	this first one does two aoes, place them in the corner and have the party stack in the gap
+third rail
+psychokinesis - three aoes this time
+tankbusters
+psychokinesis - five aoes this time
+third rail
+derailment siege + derail
+
+dead man's overdraught
+turret crossing
+head-on emission - dodge turrets first
+psychokinesis - don't get baited by the boxes that block the turrets as they get levitated here
+	go up onto the platform, and then spread out the four aoes
+third rail
+dead man's express/windpipe - dodge turrets first and remember what the overdraught was
+
+tankbusters
+
+dead man's overdraught - opposite of the previous
+arcane revelation - only two sets this time
+third rail
+dead man's windpipe/express - opposite of the previous
+
+head-on emission
+tankbusters
+third rail
+derailment siege
+enrage
