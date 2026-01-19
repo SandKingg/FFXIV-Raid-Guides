@@ -250,3 +250,18 @@ end of days - the four other players need to stand close to a clone to get tethe
 
 ego death - the ifrit players need to each combine with the green zu players to make phoenix feathers
 	then all four should stack in the centre to give everybody the phoenix buff so they can survive the mechanic
+
+aionagonia - raidwide + bleed that gives the boss a damage up stack
+
+dominion - does a raidwide and a spread aoe on two supports and two dps, giving them earth vuln ups, then spawns two sets of four towers
+	start spread out with one light party in the north row and the other in the second row
+		tanks are westmost, then healers, ranged and melee eastmost
+	the towers are represented by travelling aoes on the ground
+	the first set is taken by the four players not hit by the spread, and the second set is taken by the four players who were hit
+		have a priority for who takes each tower, going from left to right
+	the initial cast also gives the boss a damage up
+
+aionagonia
+dominion
+aionagonia
+enrage

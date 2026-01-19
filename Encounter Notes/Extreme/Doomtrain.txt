@@ -31,6 +31,8 @@ runaway train - transports everyone to an alternate dimension for an add phase
 		listen out for how many puffs there are to see which is which
 		aetherosote - 2 orbs means light party stacks on each healer
 		aetherochar - 3 orbs means three random players are targetted for a spread aoe, so everybody needs to stay spread
+			you can have the melees stay east/west and the healers stay north/south at max melee
+			then the ranged dps adjust for spreads with one north priority and one south priority
 	loops until the add is destroyed
 	runaway train - big transition raidwide back to the original area
 
@@ -50,7 +52,8 @@ head-on emission - telegraphs an aoe from its jaws and headlamp in either order
 arcane revelation - gives one tank and one healer a stack debuff, then beginning moving its hand together while a telegraph moves around the arena
 	the telegraph moves either 2, 3 or 4 times before the aoe goes off, indicated by an audio cue as the aoe does its final movement
 	at the end of the telegraph, melees need to stack on the tank and ranged on the healer
-	this happens three times
+	this happens three times, and the aoe will move 8 times in total
+	this means it will either be two 3-moves and a 2-move or two 2-moves and a 4-move
 
 head-on emission
 third rail
@@ -62,7 +65,7 @@ psychokinesis - levitates the sets of boxes and does spread aoes on random playe
 third rail
 psychokinesis - three aoes this time
 tankbusters
-psychokinesis - five aoes this time
+psychokinesis - five aoes this time, on the players who weren't targetted for the second one
 third rail
 derailment siege + derail
 
@@ -77,7 +80,8 @@ dead man's express/windpipe - dodge turrets first and remember what the overdrau
 tankbusters
 
 dead man's overdraught - opposite of the previous
-arcane revelation - only two sets this time
+arcane revelation - only two sets this time, with the aoe moving 5 times in total
+	this means it will always be one 3-move and one 2-move in either order
 third rail
 dead man's windpipe/express - opposite of the previous
 
