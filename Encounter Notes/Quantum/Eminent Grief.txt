@@ -17,13 +17,17 @@ blade of first light + chains of condemnation/ball of fire - the eater draws one
 	ball of fire - large, baited puddles on each player, keep moving in one direction and not towards anybody else
 
 burning chains - chains supports to dps, supports run west and dps run east to break them
+	Q20) searing chains - each player is bound briefly and does a bomberman-style plus aoe
+		make sure none of these aoes overlap
 
 spinelash - marks one player to be bound and then does a wild charge line stack on them that breaks any windows at the back that it hits
 	make sure to only break one window with this to limit the amount of adds summoned
 	kill the add quickly as it does minibusters and random puddles
 
-shackles of sanctity - marks the healer with a debuff that causes all healing they do to emit a large aoe pulse that also gives damage down
+Q15) shackles of sanctity - marks the healer with a debuff that causes all healing they do to emit a large aoe pulse that also gives damage down
 	make sure the healer stays away from the party towards a south corner
+Q25) shackles of greater sanctity - same as shackles of sanctity but both dps are also given debuffs that do pulses when they use abilities
+	only abilities count for this, not spells or weaponskills
 
 hellish earth - tethers the furthest away player and drags them towards the middle, while also doing a smaller draw-in on everybody else
 	the tank should be tethered and everyone else needs to either use kb resist or stand far enough to not get drawn into the middle
@@ -54,6 +58,7 @@ spinelash - don't hit the window you already broke or a massive add will spawn w
 bounds of sin 3 - same as the first one, but the aoes will always be pointing in
 	look if the exits are east/west or north/south
 burning chains - this time you'll need a north/south priority as well, in case you need to run in that direction
+Q20) searing chains
 
 abyssal blaze
 sin and punishment - do the third debuff pass in pairs here
@@ -84,6 +89,7 @@ bounds of sin 4 - just a single exit point again this time
 spinelash - break the final window here, then run to the safe corner for the puddles
 	kill the add in that safe corner
 burning chains - run back to mid once it's safe from the puddles to avoid a weird positioning
+Q20) searing chains
 
 manifold lashings
 eruption
