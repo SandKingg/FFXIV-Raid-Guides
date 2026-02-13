@@ -52,7 +52,7 @@ add phase - a long battle with multiple ascian shades
 		enrage
 
 	ascian prime's shade
-		universal manipulation - a big raidwide that gives everyone debuffs
+		universal manipulation - a big raidwide that gives everyone debuffs and kills anyone not at full hp
 			supports get doom, ancient circle and cursed shriek
 				doom - heal to full
 				ancient circle - a massive doughnut aoe

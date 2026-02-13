@@ -40,9 +40,9 @@ forged fury - a big triple-hit raidwide
 
 raidwide
 
-clamorous chase - leans in with one arm raised and one arm down, giving every player limit cut markers from 1 to 8, with 1 getting a proximity tether
+clamorous chase - leans in with one arm forward and one arm backward, giving every player limit cut markers from 1 to 8, with 1 getting a proximity tether
 	he charges to each player in sequence, cleaving to the side of whichever arm was raised
-	have 1 and 5 go east/west, opposite the lowered arm, 3 and 7 go to the other of east/west
+	have 1 and 5 go east/west, opposite the forward arm, 3 and 7 go to the other of east/west
 	2 and 6 always go south, 4 and 8 always stay north
 	remember to dodge in a bit to avoid the cleave after you get hit
 

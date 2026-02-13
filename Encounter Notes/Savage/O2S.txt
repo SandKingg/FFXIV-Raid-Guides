@@ -28,7 +28,7 @@ gravitational manipulation
 paranormal wave
 tankbuster
 
--100 gs - creates safe zones in the north and south and marks players with spread aoes, don't overlap
+-100 gs - creates safe zones in the north and south and marks either all supports or all dps with spread aoes, don't overlap
 	melees north, ranged south and try to have aoes at the sides of the safe spots
 death's gaze
 gravity

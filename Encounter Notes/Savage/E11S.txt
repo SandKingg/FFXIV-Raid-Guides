@@ -11,6 +11,7 @@ bound of faith - imbues with fire or lightning, then tethers to a random player 
 	fire - a stack on the affected player
 	lightning - two large cones target the closest players which should be both tanks
 		have the bound player move in front of the boss and each tank takes a side
+		this also leaves a dot on the original target
 
 burnished glory - raidwide + bleed
 

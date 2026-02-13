@@ -31,7 +31,6 @@ add phase - summons three adds that need to be killed in the order brobinyak > f
 mortal chorus + final chorus - a big transition raidwide
 
 high jump - marks four random players with aoes that leave behind puddles, take these to the edges
-
 geirskogul - a line aoe from each of the four puddles, as well as the boss
 soul tether - a purple tether on a random player that needs to be intercepted by the OT
 	use a cooldown, it's a buster
