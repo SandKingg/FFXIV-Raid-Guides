@@ -53,9 +53,9 @@ styx (6)
 
 lightstream - spawns three rotating arcane cylinders equally spaced around the arena
 	look for the directions they're spinning in and go to the correct safe sixth
-	find two adjacant cylinders that are rotating in opposite directions, move between them and go to the section not covered by the third cylinder
+	find two adjacent cylinders that are rotating in opposite directions away from each other, move between them and go to the section not covered by the third cylinder
 
-divisive overruling + inevitable law/sentence
+divisive overruling + inevitable law/sentence - one light party moves clockwise from the lightstream safe spot, the other moves anticlockwise
 raidwide
 upheld overruling + inevitable law/sentence
 

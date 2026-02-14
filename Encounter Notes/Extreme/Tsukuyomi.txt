@@ -61,31 +61,29 @@ loops from first supreme selenomancy until 35%
 
 dance of the dead - transition raidwide
 
-full/new moon - the next blade attack will have a point-blank/doughnut aoe respectively
-
+full moon - the next blade attack will have a point-blank aoe
 bright/dark blade - a large 200-degree cleave on one side of the boss
 	make sure boss is pointing north, then bright means east safe and dark means west safe
 	make sure to dodge the moon attack as well
 
-full/new moon
+new moon - the next blade attack will have a doughnut aoe
 bright/dark blade
 raidwide
-full/new moon
 
+full moon
 tsuki-no-kakera - the fans spawn sequentially around the arena, start towards the last one and dodge into the first
 lunacy - a multi-hit stack marker on a random player
 	dodge fans together to mitigate damage
-
 bright/dark blade
-tankbuster
-full/new moon
 
+tankbuster
+
+new moon
 zashiki-asobi + hagetsu - three spread markers on random players
 	make sure you stay spread in the safe half
-
 bright/dark blade
+
 raidwide x2
 
-loops from full/new moon into tsuki-no-kakera + lunacy until enrage
-
+loops from full moon into tsuki-no-kakera + lunacy until enrage
 enrage
