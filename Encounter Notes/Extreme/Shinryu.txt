@@ -49,7 +49,7 @@ the worm's heart
 summon icicle + akh morn - MT can invuln this to make it easier, but stay on the safe side and dodge icicles
 
 aerial blast + burning chains - three small knockbacks from the centre, followed by a much larger knockback
-	get knocked to your spread spots for chains
+	only dps get chains, get knocked to your spread spot
 
 earth breath
 ice storm
@@ -75,7 +75,7 @@ add phase - spawns three waves of adds from poximity aoe markers
 			blazing trail - a line aoe in front of it
 	wave 2 - 3 ginryus, 2 hakkinryus
 	wave 3 - 5 ginryus
-		this wave is spawned form player-placed aoes, put them at the edge and do not overlap them
+		this wave is spawned from player-placed aoes, put them at the edge and do not overlap them
 protostar - big transition raidwide
 
 tail spit - a knockback from the centre that impales the tail into the tile

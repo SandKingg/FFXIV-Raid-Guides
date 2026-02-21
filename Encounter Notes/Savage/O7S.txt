@@ -4,7 +4,7 @@ arm and hammer - tankbuster
 
 atomic ray - raidwide and marks all dps for orb drops
 	dps should spread away from the boss as the orbs explode afterwards
-	assign a corner for each dps to spread to, melees north and ranged south
+	assign a corner for each dps to spread to, melees south and ranged north
 
 missile - marks one player with a prey and gives them a nasty dot
 
@@ -22,8 +22,7 @@ dadaluma
 
 	missile simulation + chakra burst - dodge the missiles while standing in the yellow towers
 		assign clock spots for players and take the tower on your spot
-		dps use their corner spots for the towers, and supports take the cardinal towers
-			OT won't get uptime here unfortunately
+		melees take the intercardinals and ranged take the cardinals
 	
 	run program (dadaluma) - spawns dadaluma, should be tanked close to the boss
 	
@@ -85,21 +84,20 @@ timeline 2
 	load (ultros)
 
 
-skip program (virus) - tethers each tank to a healer, and each dps to another dps, and gives them magnet debuffs plus another debuff
-	these debuffs can be baited by staying far away/close respectively
-	searing wind - a massive aoe blast that is given to players with OPPOSITE charges
-		if you get this, go to the edges of the arena right into the corners
-		support tether can go west, dps tether can go east
-	abandonment - need to be stacking with at least one other player at the end of the debuff
-		if you get this stay close to the boss which should be in mid
-		dps slightly behind the boss, supports slightly in front
-		make sure to stay tightly stacked with the player of the same role, they are who you stay with for abandonment
-	aether rot - afflicts one player who has abandonment
-		will pass to another player if they move into you
-		cannot take it again after it has been taken from you
-		keep passing this around
-		five? passes are needed
-
+skip program (virus) - gives magnet tethers and debuffs to each player depending on their proximity
+	the two furthest dps get tethered with opposite charges and searing wind
+	the furthest tank and healer get tethered with opposite charges and searing wind
+	the other four players get tethered support to dps with like charges and abandonment
+	searing wind players go into the corners, supports west dps east
+		stay away from each other to avoid overlapping the big aoe blasts
+	abandonment players stay close to the boss, supports north dps south
+		stay next to each other to resolve your abandonment debuffs
+	one abandonment player gets aether rot
+		this debuff is passed by moving into another player, and gives you immunity once passed
+		if the timer runs out, you wipe
+		need to pass five? times before it runs out
+		the first pass should be between you and your abandonment partner
+	
 raidwide x2
 missile
 

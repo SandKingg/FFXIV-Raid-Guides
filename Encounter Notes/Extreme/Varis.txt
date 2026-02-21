@@ -1,7 +1,7 @@
 altius - spawns a garlean cross behind every player that will shoot forwards in a line after a delay
 	usually try to have these firing north/south
-
 alea iacta est - turns to a random player and does four cleaves in front of the boss and one behind
+	wait until this is locked in before moving to dodge the altius aoes
 
 citius - double stack tankbuster
 

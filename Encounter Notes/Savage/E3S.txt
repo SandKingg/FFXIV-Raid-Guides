@@ -96,5 +96,5 @@ raidwide x2
 
 the calm - persistent mini-raidwides that go off until enrage, also gives leviathan a damage up
 
-raidwide x2
+raidwide x3
 enrage
