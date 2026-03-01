@@ -93,7 +93,6 @@ triscourge (fire)
 hail of feathers - creates six proximity aoes in each of the non-floaty platforms in sequence that drop down feathers
 	one feather needs to be killed before blighted bolt which should be the first to spawn
 	respect the proximity damage though
-
 blighted bolt - does a point-blank aoe on each feather, as well as one-shotting anyone on a floaty platform
 
 triscourge (ice & empowered lightning) - ice cannot freeze people on floaty platforms and empowered lightning one-shots on floaty platforms

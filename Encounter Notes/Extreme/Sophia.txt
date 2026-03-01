@@ -1,6 +1,6 @@
 thunder ii - a big frontal cleave, dodge to the side
 
-daughter (knockback) - spawns the daughter head at a random corner that does a massive knockback, use kb resist or position to go to the opposite corner
+gnosis - spawns the daughter head at a random corner that does a massive knockback, use kb resist or position to go to the opposite corner
 
 arms of wisdom - a tankbuster with a knockback and swap, don't stand at the edge
 
@@ -65,15 +65,19 @@ execute + daughter (beam) - the daughter appears at the side of the arena and wi
 raidwides
 tankbuster
 quasar + daughter (beam)
+
 thunder iii
 tankbuster
 quasar + daughter (beam) + sophia rush
+
 raidwides
 tankbuster
 thunder ii
-sin and punishment + daughter (knockback) - highly recommended to use kb resist here
+sin and punishment + gnosis - highly recommended to use kb resist here
+
 tankbuster
-quasar + sin and punishment
+quasar + sin and punishment - resolve sin and punishment first, then go to the correct side
+
 aion teleos
 raidwides
 tankbuster
