@@ -18,6 +18,7 @@ dualspell (thunder+ice) - does a line aoe on every player and creates an icy dou
 	if ice expands, go in on the first ring on the floor
 
 dualspell (fire+ice) - will expand the opposite of previous
+
 ravening (martialist) - spawns walls on the cardinals or intercardinals
 
 ascendant fist - tankbuster that gives a vuln, make sure to swap
@@ -33,6 +34,7 @@ archaic demolish - two stack aoes on both healers, split into light parties
 
 raidwide
 tankbuster
+
 ravening (chimera) - spawns walls again
 
 levinstrike summoning - summons an orb next to each of the walls
@@ -47,6 +49,7 @@ scrambled succession - marks the orbs with odd numbers and four players with eve
 
 two minds - for some reason the name has changed, but this is just dualspell
 raidwide
+
 ravening (beast)
 
 charybdis - spawns four tornado aoes either on the cardinals or intercardinals
@@ -81,12 +84,13 @@ chimeric succession - marks the four furthest away players with 1 to 4 that get 
 	MT pulls the boss north while ranged go south
 	1 goes to 1, 2 goes to 2 while 3 & 4 wait on the first ring before going to 1 and 2 respectively
 	1 and 2 go back to the first ring after exploding
-front/rear firestrikes - the boss jumps to the a random unnumbered player, doing a big proximity-based stack on them
+front/rear firestrikes - the boss jumps to a random unnumbered player, doing a big proximity-based stack on them
 	move through if it's rear, or stay a bit if it's front
-swinging kick - the boss turns to a random unnumbered player and does a half-room cleave either in front of behind it, based on the firestrikes name
+swinging kick - the boss turns to a random unnumbered player and does a half-room cleave either in front or behind it, based on the firestrikes name
 	move to dodge after the cast starts
 
 two minds
+
 ravening (mage)
 dualspell
 raidwide
@@ -94,5 +98,6 @@ dualspell - opposite of previous, i.e. fire if previous was thunder
 duality of death
 dualspell
 raidwide
+
 ravening (chimera)
 enrage

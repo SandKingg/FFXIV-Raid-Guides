@@ -84,9 +84,9 @@ tankbuster
 roiling pulse - stack to bait puddles first, then tanks get breaking wave flares and healers get killer wave stacks
 	tanks should run south to their light party sides while everyone else stacks north on their light party sides
 
-black smokers - tanks get hit by a repeating cone tankbuster while the two furthest players get hydrothermal vent aoes
-	tanks should invuln while everyone else deals with hydrothermal vents
-	ranged should start the mechanic as the furthest two players, to bait the blasts
+black smokers - the two closest players get hit by a repeating cone tankbuster while the two furthest players get hydrothermal vent aoes
+	tanks should be the closest players and use cooldowns, including invuln while everyone else deals with hydrothermal vents
+	ranged should start the mechanic as the furthest two players, to bait the vents
 	four aoe puddles are spawned, one after each blast that need to be soaked by another player
 	soaks are done healer > melee > healer > ranged
 		or melee > healer > melee > ranged

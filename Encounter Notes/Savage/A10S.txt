@@ -38,7 +38,7 @@ double charge (in/out) - does two of the charge mechanics back-to-back in the or
 
 gobsnick leghops
 
-add phase - the gobpress spawns at north, slowly moving through the arena, if it's not destroyed by the time it reaches the other side, it's a wipe
+add phase - the gobpress spawns at one end of the arena, slowly moving towards the other end, if it's not destroyed by the time it reaches the other side, it's a wipe
 	brighteyes - prey markers on each healer that drop two fire puddles and give magic vuln
 		after the first set, they need to be passed to other players to drop them
 		the first set should be dropped close to the boss, the second set should be dropped close to the gobpress
