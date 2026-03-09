@@ -1,0 +1,80 @@
+colossal strike - tankbuster
+
+left path (mud)
+	subterranean shudder - raidwide that spawns two aoe puddles on the east and west sides 
+	shockwave - a lateral knockback, don't get pushed into an aoe
+
+right path (water):
+	subterranean shudder - raidwide that causes the quadrants to get hit by watery aoes
+		two opposite corners will begin churning first, signalling that they are the first to get hit
+
+right path (ceruleum):
+	subterranean shudder - raidwide that causes two quadrants to get hit by lingering aoes
+	gigantomill - a rotating plus aoe that turns 90 degrees in total
+
+exploding catapult - raidwide that spawns barrels
+	orange-topped barrels do point-blank aoes and cyan-topped barrels do doughnuts
+	this first one spawns one orange and one cyan in opposite corners
+
+exploding catapult 2 - spawns two orange barrels in opposite corners and two cyan barrels in opposite corners
+colossal slam - a cone aoe towards a random player
+
+left path (water):
+	exploding catapult 3 - spawns three orange barrels in three corners and a cyan barrel in the leftover corner
+	subterranean shudder - raidwide that spawns a knockback near one of the pipes, use knockback resist or get knocked into the safe barrel
+
+middle path (fans):
+	subterranean shudder - activates the fans on one side of the arena that will eventually do a big draw-in towards them
+	exploding catapult 3 - spawns two orange barrels in opposite corners and two cyan barrels in opposite corners
+		use the draw-in to get to the safe barrel, or use knockback resist
+
+middle path (boulders):
+	subterranean shudder - spawns a boulder on the east and west of the arena that each roll through a row of tiles
+	exploding catapult 3 - spawns two orange barrels in the east or west corners
+
+exploding catapult 4 - spawns three cyan barrels in three corners and an orange barrel in the leftover corner
+colossal launch - a raidwide that flips the barrels over, so go to the only cyan one after the flip
+
+left path (mud):
+	subterranean shudder + gigantomill - start in the correct quadrant to not walk into the aoe puddles
+
+middle path (fans) & right path (water):
+	exploding catapult 5 - spawns two orange barrels in opposite corners and two cyan barrels in opposite corners
+	gigantomill - dodge the barrels first, then the aoe
+
+exploding catapult 6 - spawns two orange barrels in opposite corners and two cyan barrels in opposite corners, plus an orange barrel in mid
+colossal charge - creates a diagonal shield and charges through the arena, knocking the orange barrel in the direction of the shield
+	go to the cyan barrel on the safe side
+	if you stand in the charge, you also get knocked in the direction of the shield so beware
+colossal slam
+
+left path (water):
+	exploding catapult 7 + gigantomill - same as 5
+
+	exploding catapult 8 + subterranean shudder - same as 3
+
+left path (mud):
+	subterranean shudder + shockwave
+
+middle path (fans):
+	subterranean shudder + exploding catapult 7 - same as 3
+
+middle path (boulders):
+	exploding catapult 7 + gigantomill - same as 5
+
+	subterranean shudder + exploding catapult 8 - same as 3
+
+right path (water):
+	subterranean shudder
+	colossal swing - a half room cleave in front of him, dodge on the safe side
+
+right path (ceruleum):
+	subterranean shudder + gigantomill
+
+exploding catapult 9 + colossal launch/swing
+	you can tell which it is based on whether there are two of each barrel (swing) or three cyan and one orange (launch)
+
+colossal slam
+tankbuster
+
+loops from the mechanic right after exploding catapult 4 until defeated
