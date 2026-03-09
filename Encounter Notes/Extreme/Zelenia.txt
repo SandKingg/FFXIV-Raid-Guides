@@ -68,8 +68,8 @@ alexandrian thunder iii - not cast for some reason, but the other role gets spre
 	careful not to overlap
 encircling thorns - tethers all supports to all dps
 	these tethers break based on distance so stack at the inner part of the large red spot and move dps east and supports west
-alexandrian banish iii - this stack has a rose marker so it needs to touch the red segments to make the entire red section act as the stack
-	supports shouldn't stand in the red other they get a double magic vuln and die
+alexandrian banish iii - a stack on a healer that has a rose marker so it needs to touch the red segments to make the entire red section act as the stack
+	supports shouldn't stand in the red otherwise they get a double magic vuln and die
 
 raidwide
 

@@ -1,0 +1,76 @@
+show of strength - raidwide
+
+path 5:
+	infern gale - imbues a knockback into one of the staves that activates a few seconds later
+path 6:
+	infern brand - spawns two laser portals that fire line aoes through the arena
+path 7:
+	infern well - imbues a draw-in and point-blank aoe into one of the staves that activates a few seconds later 
+
+infern brand 2 - spawns four fireballs in a zigzag pattern that do big point-blank aoes
+
+firesteel fracture - a big cone aoe tankbuster
+
+path 6:
+	infern brand 3 - spawns three laser portals connected to staves via portals
+	cryptic portal - the portals transfer any players or laser portals standing on them to the opposite end
+
+	raidwide
+
+infern brand 4 - spawns four more fireballs and links each of the staves by a horizontal portal
+cryptic portal - the portals transfer any players or fireballs standing on them to the opposite end
+
+path 5:
+	infern gale
+path 7:
+	infern well
+
+infern brand 5 - creates four laser staves in the middle of the arena that alternate pointing north and south
+infern ward - causes the staves to shoot out impassable laser walls
+pure fire - a baited puddle under each player
+
+paths 5 & 7:
+	cast shadow - spawns two sets of six cone aoes that go off one after each other
+
+	raidwide
+
+	infern brand 6 - spawns a fireball towards each of the cardinals, with the north and south ones being connected to rotating portals
+	cryptic portal - rotates the portals then does the transfer, make sure you stand somewhere that won't be hit by an aoe
+
+	tankbuster
+path 6:
+	infern brand 6 + cryptic portal - infern brand 2 and 3 back-to-back
+
+	tankbuster
+
+	cast shadow - spawns two sets of six cone aoes that go off one after each other
+
+	raidwide
+
+infern brand 7 + infern ward - spawns six laser walls on one of the long edges or four along one of the short edges
+	this alternates each time he casts it
+pure fire
+path 5:
+	infern gale - the walls disappear here
+path 7:
+	infern well - the walls disappear here
+cast shadow - if path 6, the walls are still here
+raidwide
+
+path 5:
+	infern brand 8 - spawns staves and portals in the same configuration as infern brand 4
+	infern gale + cryptic portal - use the knockback to go into the correct position
+path 6:
+	infern brand 8 - spawns staves and portals in the same configuration as infern brand 4, along with two laser portals
+	cryptic portal - the line aoes go off right before the portals activate, then the point-blank aoes go off
+path 7:
+	infern brand 8 - spawns staves and portals in the same configuration as infern brand 4
+	infern well + cryptic portal - use the draw-in to go into the correct position
+
+tankbuster
+
+infern brand 9 + cryptic portal - same as 6
+
+raidwide
+
+loops from infern brand 7 until defeated

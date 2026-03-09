@@ -1,0 +1,50 @@
+total wash - raidwide
+
+squeaky left/right - does two large frontal cones, then a big 225-degree cleave to the side indicated by the cast
+
+carpet beater - tankbuster
+
+squeaky right/left - opposite of the previous?
+
+chilling suds - imbues its tail with blue ice magic
+soap's up - does an aoe based on the colour of its tail
+	for blue, this is a plus aoe based on the direction it's looking
+
+bracing suds + soap's up - imbues its tail with green wind magic then does a doughnut aoe
+
+chilling/bracing suds + slippery soap - this time it slides across the ground, doing a line aoe
+	then the sud effect is executed from where the boss ends up
+
+spot remover - spawns five persistent water puddles around the arena
+dust bluster - a knockback from the centre of the arena
+
+raidwide
+
+path 1:
+	eastern ewers - spawns five ewers one by one that travel slowly down the arena, damaging anyone in their path
+	chilling/bracing suds + soap's up - same as previous
+path 2:
+	bracing suds
+	spot remover + wash out - spawns a gush of water at one edge that does a massive knockback through the arena
+	slippery soap
+path 3:
+	fresh puff - spawns seven puffs at one end of the arena that travel through and do large aoes when they reach the puff piles on the ground
+	chilling/bracing suds + soap's up - same as previous
+path 4:
+	fresh puff - spawns seven puffs at one end of the arena that travel through, doing lines of small point-blank aoes with each bounce
+	chilling/bracing suds + soap's up - same as previous
+
+fresh puff - spawns three puffs at north, east and west
+chilling suds + squeaky left/right - these cleaves paint the puffs the same colour of the boss
+soaping spree - executes the mechanics of all puffs at once, make sure you dodge all the line aoes
+	the boss also does its sud mechanic, so dodge that too
+
+raidwide
+
+bracing/chilling suds + slippery soap - opposite of the previous
+squeaky left/right
+tankbuster
+spot remover + dust bluster
+raidwide
+
+loops from suds + slippery slope after fresh puff until defeated

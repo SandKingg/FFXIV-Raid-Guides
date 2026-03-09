@@ -23,7 +23,7 @@ ring of might - summons three rings in the arena and pulses 1, 2 or 3 times, ind
 raidwide
 
 hateful visage - spawns eight heads that do gold and silver line aoes across half the arena
-	each quadrant will have exact one smaller quadrant inside it that is safe
+	each quadrant will have exactly one smaller quadrant inside it that is safe
 	assign players to quadrants and they stay in the safe spot there
 wrath of ruin - summons orbs at the edge of the arena that do checkerboard aoes
 nothing beside remains - marks every player for a spread aoe

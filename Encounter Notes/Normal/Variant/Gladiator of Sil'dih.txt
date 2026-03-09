@@ -1,0 +1,50 @@
+flash of steel - raidwide
+
+ring of might - charges up to either a yellow, orange or red level then does a point-blank aoe to the corresponding circle marked in the arena
+	this is followed up by a doughnut aoe at that same circle-level, so dodge back in afterwards
+
+sculptor's passion - a dodgeable line aoe in the direction the boss is facing
+
+ring of might - will be a different level than the first
+
+raidwide
+
+path 8:
+	shattering steel - a huge aoe that can only be dodged by using the wind columns to get thrown into the air
+path 9:
+	landing - four proximity aoes spawn towards the corners one by one that leave behind meteors
+	shattering steel - a huge aoe that needs to be line-of-sighted behind a non-cracked meteor
+path 10:
+	hateful visage - spawns eight heads that do golden line aoes through the arena, leaving one quadrant safe
+
+	hateful visage + sculptor's passion
+path 11:
+	hateful visage - spawns two heads that do rotating silver line aoes through the arena
+		look where they're rotating and stand in the safe triangle
+
+	sculptor's passion
+
+mighty smite - tankbuster
+
+rush of might - charges up to either a yellow, orange or red level then does a half-room cleave from the corresponding line on the arena
+	this is followed by another cleave on the sopposite side, so dodge through quickly
+
+wrath of ruin - spawns two sets of orbs on the edges of the arena that do checkerboard aoes
+	the second set hits the safe spots from the first
+sculptor's passion
+
+rush of might - will be a different level than the first
+raidwide
+
+sundered remains - spawns nine aoes one-by one, starting in mid then travelling around the edges of the arena
+	dodge from the last to appear into the first once it explodes
+ring of might - will be whichever level hasn't been cast yet
+
+tankbuster
+
+wrath of ruin
+rush of might - will be whichever level hasn't been cast yet
+
+raidwide
+
+loops from sundered remains until defeated

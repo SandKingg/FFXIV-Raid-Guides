@@ -1,0 +1,37 @@
+cogwheel - raidwide
+
+spring to life - activates either the blue or red turrets on two adjacent sides of the arena
+	look for which glow is going tyo which side and dodge that colour
+
+blistering blow - tankbuster
+
+spring to life - activates the other two edges' turrets
+fore honor - a big half-room cleave in front of the boss
+
+slashburn - a big line aoe on the sidfe of its fiery blades, and two large cone cleaves on the side of its icy blades
+
+signal flare - three sets of three column aoes that spawn one column at a time
+	dodge from the third into the first after it explodes
+
+tankbuster
+
+slashburn (switch) - this time there are arrows indicating that its arms swap sides
+	the cleaves will swap sides too, so beware
+
+blaze of glory - spawns two fireballs that do plus-shaped aoes centred on themselves
+spring to life
+
+slashburn (switch)
+
+blaze of glory + slashburn (switch)
+
+signal flare
+fore honor
+
+raidwide
+
+blaze of glory + spring to life
+
+raidwide
+
+loops from blaze of glory + slashburn (switch) until defeated
