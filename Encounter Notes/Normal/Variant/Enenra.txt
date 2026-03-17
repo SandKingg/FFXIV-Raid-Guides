@@ -1,0 +1,47 @@
+flagrant combustion - raidwide
+
+out of the smoke - slowly traces a smoky line, then teleports to the end of it
+into the fire - a big 180-degree cleave in front of him, make sure to be behind where he teleports to
+
+kiseru clamor - jumps to a small point-blank aoe that propagates outwards in doughnut aoes
+kiseru clamor
+
+out of the smoke + into the fire
+
+smoke and mirrors - splits into two bosses
+
+kiseru clamor (double) x2 - both bosses do the propagating aoes at the same time
+	at one point there will be four sets of propagating aoes
+
+out of the smoke + into the fire (double) - they will always end up next to each other facing 90-degrees apart
+	make sure to be behind both bosses
+
+clearing smoke/smoke rings (double) - the bosses charge into each other, doing a mechanic indicated by the marker in the centre
+	clearing smoke - a big knockback
+	smoke rings - a big point-blank aoe
+
+smoke stack - rejoins into one boss again
+
+smouldering damnation - crates several smoke puddles that slowly expand and explode
+
+pipe cleaner - a line aoe targeted towards a specific player, indicated by a tether
+
+smoke and mirrors
+raidwide (double)
+
+smouldering damnation
+smoke rings/clearing smoke (double) - opposite of the previous
+
+smoke stack
+raidwide
+
+snuff - an aoe tankbuster that leaves a puddle on the ground that explodes after a few seconds
+
+raidwide
+
+kiseru clamor x2
+out of the smoke + into the fire
+
+raidwide x2
+
+loops from first smoke and mirrors until defeated

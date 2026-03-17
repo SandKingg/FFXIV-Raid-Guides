@@ -53,6 +53,6 @@ thunder vortex - go in
 tankbuster
 stormcloud summons 3 + rokujo revel - can be either of the other 2 patterns
 stormcloud summons 4 + lightning bolt - will be bigger aoes this time, either 2 or 3 eats
-unnatural wail + eye/vortex of the thunder vortex/eye 2
+unnatural wail + eye/vortex of the thunder vortex/eye
 
 enrage

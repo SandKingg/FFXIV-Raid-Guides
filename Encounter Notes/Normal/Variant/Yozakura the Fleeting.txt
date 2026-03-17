@@ -1,0 +1,84 @@
+glory neverlasting - tankbuster
+
+middle route (no rope):
+	tatami trap - lays a trap under two rows of tiles for later
+	kuge rantsui - raidwide
+	tatami-gaeshi - flips the trapped tatamis over
+
+left, middle & right (statue) routes:
+	art of the windblossom - a doughnut aoe
+
+right route (statue):
+	seasons of the fleeting - telegraphs four cone aoes, then four line aoes, then cones and lines again towards the previously safe spots
+
+right route (no statue):
+	art of the fireblossom - a point-blank aoe
+
+	bunshin + shadowflight - sends a shadow clone that appears behind players and does a small line aoe
+
+oka ranman - a raidwide that spawns two blossom piles
+seal of the fleeting - imbues the blossoms with two elements
+	if she did fireblossom first, it will be fire, and wind if it was windblossom first
+	the other element is randomly either water or lightning
+seal of riotous bloom - executes mechanics based on the blossom elements
+	wind - doughnut
+	fire - point-blank
+	water - cone aoes towards the intercardinals, centred on the boss
+	lightning - cone aoes towards the cardinals, centred on the boss
+
+left route (rain):
+	bunshin + shadowflight
+
+left route (wind):
+	windblossom whirl - five doughnut aoes that happen one after each other
+	levinblossom strike - five sets of four puddles in the safe area, with some baited under players
+		each set of puddles happens at the same time as a doughnut
+	drifting petals - a knockback that cannot be resisted
+		this happens right after the fourth doughnut and puddles
+
+middle route (rope):
+	silent whistle - summons three ninja doggos
+	donden-gaeshi - the doggos appear on one side of the arena doing gaze attacks, unfortunately you need to look away
+	fireblossom flare x2 - creates puddles under each player
+	donden-gaeshi + fireblossom flare x2 - this time the doggos appear on the opposite side
+
+middle route (no rope):
+	tatami trap - traps three rows this time
+	levinblossom lance x2 - a rotating line aoe through the arena
+	tatami-gaeshi
+
+right route (statue):
+	witherwind - spawns several leafy tornadoes on two adjacent cardinals that move through the arena
+	mudrain - creates several lingering mud puddles on the arena
+	drifting petals - more tornadoes spawn after this knockback
+
+right route (no statue):
+	nubuki - spawns several bramble patches
+	root arrangement x2 - following aoes on each player
+
+left, middle & right (statue) routes:
+	art of the fireblossom
+
+right route (no statue):
+	art of the windblossom
+
+oka ranman + seal of the fleeting - spawns four blossom piles this time
+seal of riotous bloom x2 - executes two combo mechanics based on the elements
+	the combos will always be one of wind or fire and one of water or lightning
+
+left route (rain):
+	bunshin + mudrain
+	icebloom - each player spawns three aoes under them one by one
+	mud pie - turns every puddle into a mud ball that does a line aoe through the arena
+	shadowflight
+
+left route (wind):
+	seasons of the fleeting
+
+raidwide
+tankbuster
+
+left route:
+	loops from oka ranman + seal of the fleeting (four blossoms) until defeated?
+middle & right routes:
+	loops from the mechanic after 1st seal of riotous bloom until defeated

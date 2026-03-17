@@ -1,0 +1,52 @@
+kenki release - raidwide
+
+iai-kasumi-giri - a 270-degree cleave relative to the boss in the direction of the arrow marker
+iai-kasumi-giri x2
+
+soldiers of death - summons three soldiers that do iron rain aoes into the arena, marked by the arrows
+
+soldiers of death 2 + spearman's orders - summons two hordes of spearmen that rush down the arena at varying speeds
+	dodge between the faster and slower ones towards the opposite end of the arena
+
+soldiers of death 3 - summons six soldiers that do iron rain aoes into the arena, marked by the arrows
+
+raidwide
+
+double kasumi-giri - two back-to-back cleaves, with the boss turning to always be opposite of the safe spot after each one
+	this means the second cleave will be relative to where he's facing after the turn, not the initial position
+double kasumi-giri
+
+path 1:
+	untempered sword - spawns four sets of katanas that do veil sever line aoes through the arena from each edge one by one
+path 2:
+	moonless night - a raidwide that spawns two hands on opposite cardinals that do massive point-blank aoes
+		they then swap to the other two cardinals and do aoes again
+path 3:
+	tengu-yobi - summons four tengus at the east and four at the west that do individual knockback line aoes
+path 4:
+	spiritspark - summons four sets of many aoes, each set also spawning three heads that travel towards random players
+
+iai-kasumi-giri
+
+path 3:
+	ghastly grasp - the tengus return, but there are also aoes on the floor that you need to dodge with the knockbacks
+
+raidwide
+
+paths 1 & 3:
+	azure auspice - a doughnut aoe
+	boundless azure - slashes three line aoes in a Z pattern through the arena
+		these aoes eventually turn into two exalines each that propagate outwards
+paths 2 & 4:
+	scarlet auspice - a point-blank aoe
+	boundless scarlet - slashes three line aoes in a Z pattern through the arena
+		these lines eventually expand into much bigger line aoes
+
+double kasumi-giri
+raidwide
+
+soldiers of death 4 - same as 2
+
+soldiers of death 5 - same as 3
+
+loops from first double kasumi-giri until defeated?

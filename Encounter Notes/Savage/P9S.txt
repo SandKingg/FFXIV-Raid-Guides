@@ -64,7 +64,7 @@ beastly bile - a light party stack cast on the furthest player, this needs to be
 
 thunderbolt - aims a cone towards the four closest players which gives lightning vuln
 	the opposite role from beastly bile will stand on their colour spots and bait the cones towards the tornadoes
-thunderbolt 2 - this needs to be baited by the opposite role, while the others go and bait the uncast beastly bile on the other cracked meteor
+thunderbolt - this needs to be baited by the opposite role, while the others go and bait the uncast beastly bile on the other cracked meteor
 	essentially the roles swap over
 
 ecliptic meteor - marks one of the two remaining meteors with a red marker, indicating that's where the ecliptic meteor will drop

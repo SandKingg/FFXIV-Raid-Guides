@@ -1,0 +1,62 @@
+enkyo - raidwide
+
+stormcloud summons - summons a ring of stormclouds around the arena and some through the middle
+smokeater - eats some of the stormclouds, this first time he will only eat once
+once on rokujo - then does a line aoe through the middle that hits the stormclouds and makes them explode into aoes
+	these aoes then make other stormclouds explode
+
+splitting cry - a large line aoe tankbuster
+
+stormcloud summons 2 + smokeater - this time he eats either 2 or 3 times
+twice/thrice on rokujo - does either two or three line aoes, and causes the stormclouds to explode into bigger aoes
+
+path 8:
+	haunting cry - summons monkeys that slowly move through the arena doing point-blank aoes
+		also summons tigers that do large line aoes through the arena
+		finally summons snakes that do two sets of baited aoes
+	thunder vortex - a big doughnut aoe
+
+	tankbuster
+path 9:
+	haunting cry - creates a large quicksand area after a few seconds
+	yoki - spawns two sets of many puddles in the arena
+	yoki-uzu - jumps to the safe side from the quicksand and does a giant point-blank aoe
+		you need to be in the quicksand to dodge this unfortunately
+path 10:
+	haunting cry - spawns four wraiths towards the cardinals that do half-room claves in the directions their arms are raised
+		find the two wraiths facing 'out' and go between them
+		they then swap over, so move to the opposite safe square
+	
+	tankbuster
+path 11:
+	haunting cry - spawns ghosts that tether to each player, moving towards them and doing repeated point-blank aoes
+	thunder vortex
+
+	tankbuster
+
+raidwide
+
+stormcloud summons 3 + smokeater - this time summons a ring of stormclouds around the edge and eats once
+thunder onefold - the stormclouds do small point-blank aoes then start firing off line aoes
+
+tankbuster
+
+noble pursuit - jumps to a random cardinal, then does a line aoe through the arena
+	the boss charges through sets of rings, each ring set does a line aoe either side of it
+	stay in the safe spot
+thunder vortex
+
+raidwide
+
+stormcloud summons 4 + smokeater - this time he eats two or three times, whichever he didn't do for stormclouds summons 2
+thrice/twice on rokujo - opposite of the previous
+
+raidwide
+
+stormcloud summons 5 + smokeater - this time he eats either 2 or 3 times
+thunder twofold/threefold - depending on how many times he ate, there will be fewer stormclouds that do thicker line aoes
+
+tankbuster
+
+loops from noble pursuit until defeated
+	smokeater is fully random now

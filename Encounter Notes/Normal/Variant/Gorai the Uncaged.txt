@@ -1,0 +1,55 @@
+unenlightenment - raidwide
+
+flickering flame - creates three flames at one edge that do line aoes through the arena
+plectrum of power - purple biwa markers appear around the boss, empowering the aoes to expand
+	stay away from where they expand to
+
+flickering flame - creates a flame on two adjacent cardinals that each do line aoes
+morphic melody - this time the biwa markers are blue, meaning the aoes will split
+	stand inside the aoes to avoid being hit
+
+sulphuric stone - creates three stones that do point-blank aoes
+plecturm of power - these aoes expand
+
+sulphuric stone + morphic melody - this time the stones split and do doughnut aoes instead
+
+path 5:
+	pure shock - raidwide + stun
+	wily wall - the baboon drags you into a cage and starts casting self-destruct
+		kill the baboon before the cast goes off
+	impure purgation - four large cone aoes, followed by four more in the previously safe spots
+path 6:
+	thundercall - summons two orbs at opposite cardinals that do massive point-blank aoes
+
+	humble hammer - spawns many puddles one by one that will mini you if you get hit by them
+
+	thundercall + humble hammer - summons four orbs towards the intercardinals, with one getting hit by a puddle
+		go towards the mini-ed orb to stay safe
+path 7:
+	fighting spirits - a raidwide that gives the boss a buff
+	worldly pursuit x5 - a huge rotating plus aoe
+	biwa breaker - a multi-hit raidwide
+
+rousing reincarnation - gives three numbered rodent debuffs that need to be cleansed
+malformed prayer - creates three rodent towers in sequence that cleanse the debuffs
+	take them in the order specified by the debuffs
+impure purgation
+spike of flame - baited puddles under each player
+
+raidwide
+
+flame and sulphur - creates four rocks and two flames that do their respective aoes
+plectrum of power/morphic melody - expands or splits both aoes
+
+flame and sulphur + morphic melody/plectrum of power - opposite of the previous
+
+torching torment - aoe tankbuster
+
+raidwide
+
+string snap - a point-blank aoe followed by two propagating doughnut aoes
+spike of flame
+
+raidwide
+
+loops from rousing reincarnation until defeated

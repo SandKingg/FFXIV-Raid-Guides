@@ -1,8 +1,8 @@
 kenki release - raidwide
 
 triple kasumi-giri - a series of 3 270-degree cleaves, look at the safespot indicator to know RELATIVE TO THE BOSS' POSITION where the safe spot is
-	boss turns after every cleave, always ends up facing directly opposite of the safe spot
-	if water, need to be in; if fire, need to be out
+	the boss turns after every cleave, always ends up facing directly opposite of the safe spot
+	if it's water, there's a doughnut aoe; if it's fire, there's a point-blank aoe
 triple kasumi-giri
 
 lateral slice - cone tankbuster
@@ -28,7 +28,7 @@ near edge/far edge - the closest/furthest two players get a small aoe bind aroun
 	pairs go into the safe directions, making sure the untethered player is closest for near edge or furthest for far edge
 	the tethered player should bait their clone to make sure the untethered player is safe, then both dodge the second cleave
 
-moonless night + near/far edge 2 - the two players who didn't get tethers before, get tethers here so keep same pairs
+moonless night + near/far edge 2 - the two players who didn't get tethers before get tethers here, so keep the same pairs
 	hands spawned are random, may need to change corners
 	the rest of the mechanic is the same
 
@@ -53,6 +53,5 @@ shadow-twin 2 - summons four clones in the arena that tether to each player
 triple kasumi-giri
 raidwide
 tankbuster
-raidwide
-raidwide
+raidwide x2
 enrage
