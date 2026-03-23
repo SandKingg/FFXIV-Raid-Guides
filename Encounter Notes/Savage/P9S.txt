@@ -96,7 +96,7 @@ dualspell
 raidwide
 dualspell - opposite of previous, i.e. fire if previous was thunder
 duality of death
-dualspell
+dualspell - same as the first, but opposite in/out
 raidwide
 
 ravening (chimera)

@@ -22,6 +22,8 @@ flexiclaw - second is always ravensclaw
 
 ruby ray - faces a random player and blasts a big line aoe towards them, go behind
 
+raidwide
+
 flexiclaw + liquefaction - turns some of the arena to quicksand, keeping a safe spot in mid
 ravensflight - a series of line aoes through the room
 	first dodge towards the corner outside of the initial charge and the perpendicular charge
