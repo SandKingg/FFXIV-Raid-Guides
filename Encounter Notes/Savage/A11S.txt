@@ -9,7 +9,7 @@ whirlwind - raidwide
 
 spin crusher - a dodgeable cone aoe in front of the boss, MT should move behind it
 
-{skips to here at ~93%}
+{skips to here at ~93% hp}
 E.D.D. - an add spawns that should be tanked by the OT
 	overboost - destroy the armored pauldron to cancel the cast or it gets a massive damage up
 	beam saber - a dodgeable untelegraphed line aoe cleave
@@ -24,8 +24,9 @@ ga-100 - gives the OT a flare marker, dealing proximity-based damage from their 
 {skips to here at ~90% hp}
 optical sight x3 + super hawk blaster - each of the three opticals is cast once
 	big point-blank is paired with spreads on every player, assign clock spots to everyone
-	shiva circles is also paired with two aoes on random players, just don't overlap them
-	baited aoes is paired with four aoes on random players
+		however, instead of a normal light party split supports should be on four consecutive markers and dps on the other four
+	shiva circles is also paired with one aoe on a support and one on a dps
+	baited aoes is paired with with an aoe on two supports and two dps
 
 raidwide
 left/right laser sword
@@ -113,7 +114,9 @@ beam saber
 left/right laser sword
 photon - targets a random healer
 raidwide
-limit cut 5 + blassty charge - same as 3 but make sure not to destroy the generators with the chargewwwwww
+
+limit cut 5 + blassty charge - same as 3 but make sure not to destroy the generators with the charge
+
 spin crusher
 raidwide
 left/right laser sword
