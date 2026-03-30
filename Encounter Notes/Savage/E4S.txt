@@ -109,7 +109,7 @@ plate fracture x3 - titan rears back one fist, destroying a random quadrant on t
 
 raidwide
 
-tumult - a mulit-hit raidwide
+tumult - a multi-hit raidwide
 
 dual earthen fists
 earthen fist + evil earth - dodge the expanding aoes along with the fists

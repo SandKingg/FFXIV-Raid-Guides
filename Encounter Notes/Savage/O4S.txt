@@ -109,7 +109,7 @@ vacuum wave - a point blank centred on the boss, move away
 emptiness
 
 light and darkness - puts a stack on one healer and a flare on the other healer, 1 tank and 1 dps
-	have the stack stay 'north', healer flare go 'south', tank flare 'east' and dps flare 'west'
+	have the stack stay 'north', healer flare go 'south', tank flare 'west' and dps flare 'east'
 flood of naught (inner/outer)
 
 meteor - summons 4 arcane spheres that need to be destroyed
@@ -134,7 +134,7 @@ grand cross omega - gives everyone hysteria and inflicts several debuffs
 	forked lightning
 	compressed water
 	cursed shriek
-the final battle - neo exdeath disappears and reappears in 3 directions, casting floods of naught
+the final battle - neo exdeath disappears and reappears in 3 directions (either all cardinals or intercardinals), casting floods of naught
 	everyone stacks mid for hysteria, then play like light and darkness
 	take 'north' as where neo exdeath was before disappearing
 	forkeds go to the same role spots as light and darkness
