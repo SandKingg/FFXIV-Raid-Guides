@@ -1,6 +1,6 @@
 tidal roar - raidwide + bleed
 
-spring crystals 1 - places four crystals that do line aoes, lines are based on the thick faces not the thin ones
+spring crystals - places four crystals that do line aoes, lines are based on the thick faces not the thin ones
 bubble net - encases every crystal in a bubble and gives players one of two debuffs, also does a lot of damage
 	bubble - will be encased in a bubble when it expires
 	bind - will be bound when it expires
@@ -22,7 +22,7 @@ hydrobomb - puddles appear one after another under every player
 
 hydrofall
 strewn bubbles - creates two sets of four watery line aoes that cover two squares each, the second set covering the safe spots from the first
-twintides - either encroaching or receding
+encroaching/receding twintides - a point-blank and a doughnut aoe, order depends on the cast name
 	encroaching twintides - in, then out
 	receding twintides - out, then in
 	dodge with your stack pair
@@ -50,7 +50,9 @@ fluke typhoon - a big gust of wind pushes everything bubbled to one side of the 
 	dodge first then take towers
 
 spring crystals 4 - same as crystals 1
-bubble net + hydro ability + fluke gale
-hydrofall + strewn bubbles + twintides 2
+bubble net + hydrofall/bullet + fluke gale
+
+hydrofall + strewn bubbles + receding/encroaching twintides - opposite of the previous
+
 raidwide
 enrage

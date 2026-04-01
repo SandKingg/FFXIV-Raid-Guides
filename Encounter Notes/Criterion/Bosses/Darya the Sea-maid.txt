@@ -1,0 +1,33 @@
+piercing plunge - raidwide
+
+familiar call - summons an array of animals on each edge
+	there will be two pufferfish either north/south or east/west, with the other having two chocobos
+	the rest will be either crabs or seahorses, such that each row or column has exactly one animal
+echoed serenade - indicates the order in which each animal does their aoe
+	crabs and seahorses do line aoes
+	pufferfish do massive point-blank aoes
+	chocobos do massive cone aoes
+	there will be spread aoes on every player that go off with the 2nd and 4th aoes
+	assign a corner for each player to dodge in, and stay close to the edge between the corner tile and an adjacent one for the point-blank and cone aoes
+
+surging current - hits two diagonally opposite quadrants with aoes, followed by the other two quadrants
+
+alluring order - a raidwide that gives everyone a forced march debuff, and two players a stack debuff
+swimming in the air - flies around the arena, planting aoes everywhere except two corners
+	the two stacks need to go to two different safe corners, so assign priorities and flex pairs
+
+ceaseless current - creates exalines on two adjacent edges that propagate through the arena
+	then every player gets a green marker that creates a plus aoe once the exalines reach the centre of the arena
+		this means every tile will get hit once
+surging current - this time the aoes hit north/south or east/west, followed by the opposite
+	stay near your corner and give melees priority with staying close to the boss
+	ranged stay all the way in the corner and dodge
+	melees can actually stay in the middle of the arena, then quickly move to their tile for the plus aoes, then move back middle
+
+raidwide
+
+alluring order
+sunken treasure - summons a watery doughnut in each corner and two watery orbs either north/south or east/west
+	all doughnuts and one orb will begin to crack, indicating that they will soon explode
+	use the forced marches with the same corner and flex pair priorities as before
+	remember to dodge the second exploding orb afterwards

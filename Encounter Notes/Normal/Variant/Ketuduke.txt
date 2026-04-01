@@ -1,0 +1,54 @@
+tidal roar - raidwide
+
+spring crystals - places four spherical crystals that do point-blank aoes
+
+spring crystals 2 - places two rectangular crystals that do line aoes
+	the line aoes come from the thick faces, not the thin ones
+
+spring crystals 3 - places two rectangular crystals
+bubble net - raidwide that encases one crystal in a bubble
+fluke typhoon - a wind aoe that pushes anything encased in a bubble two tiles in the direction of the aoe
+
+strewn bubbles - creates four watery line aoes from the middle that cover two squares each
+
+encroaching/receding twintides - either a doughnut or point-blank aoe, with a fast follow-up cast of the opposite
+near/far tide - either a point-blank or doughnut follow-up aoe, respectively
+
+path 1:
+	spring crystals 4 + bubble net - places two rectangular crystals, with one getting bubbled
+	fluke typhoon + water iii - the lala summons apas that do proximity tethers towards each player
+		stay away from your apa, but remain in a safe line
+path 2:
+	tidal wave - a big knockback aoe from one edge of the arena
+	hydrosurge - creates a persistent watery line aoe through the middle from north to south
+
+	spring crystals 4 - places two rectangular crystals, making the side of the arena you are on unsafe
+	wavefoam - the lala summons an apa that creates bubbles that you can enter
+	fluke typhoon - use the bubbles to get blown across onto the safe side
+path 3:
+	roar - summons two adds facing opposite direction that do half-room cleaves in fornt of them
+	bubble net - encases one add in a bubble
+	updraft - blasts anything in a bubble up into the sky, so make sure to stand on the side of the bubbled add
+path 4:
+	roar - summons an add that does a giant roomwide aoe
+	bubble net - creates bubbles that you can enter
+	updraft - blasts anything in a bubble up into the sky, so make sure to enter a bubble to avoid the aoe
+
+spring crystals 5 + bubble net - places two rectangular cystals next to a column of spherical crystals
+	one rectangular and two spherical crystals get bubbled
+fluke typhoon
+hydrobomb - three sets of baited puddles underneath each player
+
+blowing bubbles - creates sets of bubbles on the outer edges that move through the arena
+	getting hit by one sends you into the wall, giving a nasty dot
+receding twintides + far tide
+
+raidwide
+
+strewn bubbles + receding/encroaching twintides + far/near tide - opposite of what it was after the first strewn bubbles
+
+hydroblast - an aoe tankbuster
+
+raidwide
+
+loops from spring crystals 5 until defeated

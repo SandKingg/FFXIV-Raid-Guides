@@ -1,0 +1,58 @@
+piercing plunge - raidwide
+
+familiar call - summons an array of blue, green, yellow and red animals on two adjacent edges
+	each edge has two of one animal and three of another
+echoed serenade - indicates an order for the animals to do line aoes
+	dodge between the rows and columns as necessary
+
+sunken treasure - summons a watery doughnut in each corner and two watery orbs either north/south or east/west
+	all doughnuts and one orb will begin to crack, indicating that they will soon explode
+hydrobullet - two random players get spread aoe markers above their heads
+	they need to go into different doughnuts, next to the non-cracked orb
+	the other two players can go to either
+	finally the second orb will crack, so get away from that afterwards
+
+hydrocannon - a line aoe tankbuster
+
+aqua spear - creates aoes on five tiles, such that each row and column has one
+sea shackles - tethers supports to dps that need to be kept a certain distance apart, indicated by the markers
+tidal wave - a massive knockback from one edge of the arena, indicated by a big splash of water
+	the knockback takes you exactly 3 tiles so position in such a way that you avoid the aoes and stay far apart
+	then there's another knockback from a different, adjacent edge
+	try to turn around without bringing the tethers too close
+
+raidwide
+
+swimming in the air - flies around the arena, planting aoes everywhere except two corners
+	then there's a stack marker and an extra aoe marker on two random players
+	assign one corner for the aoe and the other for the stack
+
+sea shackles
+ceaseless current - creates exalines on two adjacent edges, that propagate through the arena
+surging current - hits two diagonally opposite quadrants with aoes, followed by the other two quadrants
+
+alluring order - gives everyone a forced march debuff
+aqua ball - three sets of baited puddles under each player
+hydrobullet - give everyone an assigned corner to spread into with the forced march
+
+tankbuster
+
+familiar call 2 - this time the animal colours alternate on the edges, rather than 2 of one and 3 of another
+echoed serenade
+receding/encroaching twin tides - either a point-blank aoe followed by a doughnut, or vice versa
+
+sunken treasure + hydrobullet
+
+raidwide
+
+aqua spear + sea shackles
+tidal wave
+
+tankbuster
+
+swimming in the air
+
+sea shackles
+ceaseless current + surging current
+
+loops from familiar call 2 until defeated

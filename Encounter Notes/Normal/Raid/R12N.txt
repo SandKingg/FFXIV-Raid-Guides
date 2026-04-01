@@ -44,9 +44,18 @@ bloodshed + serpentine scourge
 bloodshed + serpentine scourge + burst - dodge the line aoe and the expanding aoes
 raidwide
 
-loops from feral fission until <10% then spams tankbusters & raidwides?
+loops from feral fission until <10%
 
-mindless flesh - a series of line aoes, with a spread aoe on every player, then finally a massive cleave towards one side of the room
+tankbusters
+raidwide x2
+
+grotesquerie 4 - gives everyone a delayed knockback debuff and a delayed cone debuff
+burst - two expanding aoes appear, use the knockback to avoid them
+	do the cones after this
+
+loops from ??? until defeated
+
+mindless flesh - a series of line aoes and raidwides, with a spread aoe on every player, then finally a massive cleave towards one side of the room
 splattershed
 
 loops from mindless flesh until defeated
