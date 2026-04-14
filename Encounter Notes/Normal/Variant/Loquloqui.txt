@@ -1,0 +1,39 @@
+long-lost light - raidwide
+
+summoning rite - summons four birds at north that indicate small line aoes
+o life, flourish - the jewel empowers two of the birds, causing their line aoes to grow
+
+summoning rite 2 - summons six lizards that indicate small point-blank aoes
+o life, flourish - the jewel empowers three of the lizards, causing their point-blank aoes to grow
+
+protective will - tankbuster
+
+o petals, unfurl - creates two flowers at the edges that get drawn towards the indicated spots
+	they do point-blank aoes once they reach those spots
+
+land wave - a half-room cleave in the direction she's facing
+
+o isle, bloom - creates flowers on each of the 12 tiles one by one
+	they then exploded one by one, so make sure to stay near an edge that has an 8-to-1 dodge available due to the explosions' speed
+
+raidwide
+
+o sky, be mine - grows massive in size
+sanctuary - a big proximity aoe
+stirring of spirits + islebloom light - a multi-hit knockback
+	don't get knocked into the aoes that spawn
+
+summoning rite 3 - spawns both the birds and the lizards
+o, life flourish - empowers two birds and two lizards, find the safe spot
+
+tankbuster
+
+o petals, unfurl 2 - creates four flowers at the edges, two with shorter tethers and two with longer tethers
+	dodge the short tethers first, then the long tethers
+
+raidwide
+
+o isle, bloom
+land wave
+
+loops from summoning rite 3 until defeated

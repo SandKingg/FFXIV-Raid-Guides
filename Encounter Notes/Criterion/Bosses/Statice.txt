@@ -11,8 +11,8 @@ trigger happy - move into the safe segment
 ring a ring o' explosions - forms a pattern of six bombs, five around the outside and one in the middle, linked by two triangles with one bomb glowing
 	the glowing bomb indicates that EVERY bomb in that triangle will explode
 	move into the safe triangle
-
 trapshooting - spread/stack as appropriate
+
 trick reload
 ring a ring o' explosions
 
@@ -21,7 +21,6 @@ dartboard of dancing explosives - turns the arena into a dartboard and gives thr
 	at the end, players with darts need to be on three different colours
 	assign one dps to flex, then have tank on blue, healer on yellow, dps on red
 	flex dps goes to the colour that doesn't have a dart
-
 trapshooting
 
 surprise balloon - spawns two massive balloons in east and west that will eventually explode and knock players back
@@ -33,6 +32,7 @@ trigger happy + surprise needles - small line aoes fly at players or the balloon
 	they will pop the balloons, causing the knockbacks
 
 trapshooting - forced march activates right before this, assign spots for spreads and mid for stack
+
 raidwide
 
 intermission - spawns more bombs in a similar pattern to before and two surprising missiles around the edge
@@ -60,6 +60,7 @@ fireworks - this time the chains will randomly target one dps and one support an
 	keep dodging flares afterwards
 
 raidwide
+
 beguiling glitter - gives two different forced march timings, a short and a long one
 trick reload
 trapshooting
@@ -67,5 +68,6 @@ present box - spawns the four surprising staves from the intermission
 ring a ring o' explosions
 trigger happy - shorter forced marches need to move into the safe segment while dodging the doughnuts, ignore bombs for now
 trapshooting - longer forced marches need to resolve the stack/spread and dodge bombs
+
 raidwide x2
 enrage

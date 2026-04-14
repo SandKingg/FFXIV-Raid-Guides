@@ -2,7 +2,7 @@ inferno theorem - raidwide
 
 angular addition - grants the boss a 3 or 5 buff that shows how many times he rotates 90 degrees
 	treat them as -1 and 1 respectively
-arcane blight - does a 270-degree cleave that rotates in a specific direction base don the angular addition debuff
+arcane blight - does a 270-degree cleave that rotates in a specific direction based on the angular addition debuff
 
 analysis - gives everyone a mustadio-esque 'unseen' debuff, point your hole towards specific mechanics
 arcane array - spawns two sets of creeping tiles in opposite corners that slowly fill in four out of five rows/columns

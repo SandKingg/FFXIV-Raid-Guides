@@ -1,0 +1,57 @@
+hidden mine - there's a mine in the middle of the arena from the beginning
+
+surprise balloon - spawns a big balloon in the middle that eventually explodes, doing a big knockback
+surprise needle + 4-tonze weight - a line aoe pops the balloon and several aoes spawn at the edge
+	get knocked into the gaps in the aoes, or use knockback resist
+
+trick reload - loads six bullets into her gun
+	they show which segments are unsafe (loaded) or safe (bonked), there will always be two safe segments
+trigger happy - stand in one of the safe segments
+
+trick reload + trigger happy
+
+pinwheel - spawns three balls of fire at the edge that do rotating aoes
+	these aoes have gaps in to dodge them, as the middle will not be safe
+
+path 9:
+	whoopee cushion - spawns several whoopee cushions throughout the arena
+	fair flight - knocks everyone into the air, make sure to land on a whoopie cushion to avoid getting a vuln
+path 10:
+	present box - spawns surprising staves, missiles and weapons
+		the staves alternate two doing doughnut aoes and two doing line aoes towards players
+		the missiles move slowly through the arena, exploding if you touch them
+		the weapons tether to players and slowly move towards them, don't get caught
+path 11:
+	jack-in-the-box - spawns four treasure chests, with three of them moving
+		stand under the non-moving one to avoid the point-blank aoes
+
+dartboard - spawns a dartboard split into red, yellow, green and blue segments
+	a homing pattern will spawn that can be knocked around
+	three sets of aoes happen while the homing pattern is able to be knocked around
+	what happens next is based on the colour of whichever segment the pattern ends in
+		red - meteor, a raidwide and knockback
+		yellow - sledgemagic, a proximity aoe
+		blue - hunks of junk, a small aoe on every player
+		green - gives every player a sprint buff
+
+pinwheel
+trick reload + trigger happy - dodge the cleaves and the rotating aoes at the same time
+
+aero iv - raidwide
+
+surprise balloon - spawns a balloon at the edge this time
+trick reload + trigger happy + surprise needle - get knocked into a safe segment, or use knockback resist
+
+path 9:
+	whoopee cushion
+	shocking abandon - tankbuster
+	fair flight
+path 10:
+	present box
+	tankbuster
+path 11:
+	jack-in-the-box
+	tankbuster
+
+loops from pinwheel + trick reload + trigger happy until defeated
+	

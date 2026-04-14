@@ -3,12 +3,12 @@ arcane armaments - tethers all three orbs with axes, causing them to do point-bl
 
 made magic + arcane armaments 2 - tethers all three orbs with chakrams, causing them to do doughnut aoes
 
-left route (lightning):
+left route (lightning), middle route (poison) & right route (no repair):
 	arcane armaments 3 - gives itself two swords
 	rout - indicates a route that it will charge through the arena, doing line aoes
 		it's always a triangle followed by a charge through the middle
 
-left route (sun)
+left route (sun), middle route (water) & right route (repair):
 	arcane armaments 3 - gives itself two hammers
 	hammer landing - indicates three points that it will jump to, doing big knockbacks
 		get knocked towards the next one in sequence
@@ -23,17 +23,48 @@ left route (sun):
 
 	violet storm
 
-made magic + arcane armaments 4 - creates five orbs, with two axe tethers and three chakram tethers
+middle route (poison):
+	arcane armaments 4 - creates three spears around the edge that do expanding point-blank aoes
+		stay towards the edge where there's a larger gap between two spears
+
+	violet storm
+
+middle route (water):
+	arcane armaments 4 - creates two spears at east and west that do large point-blank aoes
+		they then both do rotating plus aoes, one going clockwise and one going anticlockwise
+		stay between the aoes as they rotate to get to the other side
+
+right route (no repair):
+	arcane intervention - two adjacent statues' eyes start glowing, doing gaze attacks when the circle reaches them
+		this is followed by two more adjacent statues doing gazes
+		then two opposite statues to the gazes, quickly followed by the other two statues
+
+	violet storm
+
+right route (repair):
+	arcane pursuit - spawns four purple orbs
+		the statues will shoot friendly line aoes, dispelling the orbs
+
+	arcane pursuit - this time the orbs tether to players, following them around
+		lead them into the friendly line aoes to destroy the orbs
+
+made magic + arcane armaments 5 - creates five orbs, with two axe tethers and three chakram tethers
 	the safe spot is the chakram not near an axe
 
-howl
+left route:
+	howl
 
-left route (lightning):
-	arcane armaments 5 + rout - same as 3
+middle route:
+	arcane armaments 6 - same as 4
 
-left route (sun):
-	arcane armaments 5 + hammer landing - same as 3
+right route (no repair):
+	arcane intervention
+
+right route (repair)
+	arcane pursuit - the orbs always tether here
+
+arcane armaments 7 + rout/hammer landing - same as 3
 
 violet storm
 
-loops from made magic + arcane armaments 4 until defeated
+loops from made magic + arcane armaments 5 until defeated

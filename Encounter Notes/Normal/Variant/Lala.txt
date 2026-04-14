@@ -1,0 +1,51 @@
+inferno theorem - raidwide
+
+arcane blight - a 270-degree cleave in the direction indicated
+
+arcane plot - creates several arrow tiles that move through the arena, making the tiles they cross unsafe
+	there will be 6 safe tiles in a 'dice 6' formation
+raidwide - returns the arena to normal
+
+arcane blight - this now rotates 90-degrees clockwise or anticlockwise, indicated by the symbol turning
+
+analysis - gives everyone a mustadio-esque 'unseen' debuff, point your hole towards specific mechanics
+targeted light - tethers every player, ensure your hole points towards the boss at the end of the cast
+
+path 5:
+	faunal figure - summons two rodiaki adds that do flail smash proximity aoes
+path 6:
+	floral figure - summons two kapokapo adds that do rolling spout doughnut aoes
+path 7:
+	constructive figure - summons three golem adds that do aero ii line aoes
+path 8:
+	volcanic coordinates - two sets of baited puddles underneath each player
+
+strategic strike - tankbuster
+
+arcane blight
+
+analysis + targeted light - now your hole also rotates, make sure it rotates to face the boss at the end of the cast
+
+arcane plot 2 - the tiles here end up making only one column safe
+calculated trajectory - gives everyone a forced march debuff which will be rotated once the debuff timer ends
+	make sure you're rotated so that you move along the safe column
+raidwide - returns the arena to normal
+
+path 5:
+	faunal figure
+	arcane plot 3 - stand in one of the safe tiles away from the proximity aoes
+	raidwide - returns the arena to normal
+path 6:
+	floral figure
+	arcane plot 3 - stand in one of the safe tiles with a doughnut aoe on
+	raidwide - returns the arena to normal
+path 7:
+	constructive figure - only two golems this time
+	arcane plot 3 - stand in one of the two safe tiles not hit by the line aoes
+	raidwide - returns the arena to normal
+path 8:
+	volcanic coordinates
+	arcane plot 3 - the puddles go off before the safe spots spawn
+	raidwide - returns the arena to normal
+
+loops from strategic strike until defeated
