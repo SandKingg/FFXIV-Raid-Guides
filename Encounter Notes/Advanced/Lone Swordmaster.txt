@@ -1,0 +1,56 @@
+steelsbreath release - raidwide
+
+malefic quartering - gives everyone a compass debuff indicating which side they cannot take damage from
+malefic portent - a tether that will give an extra 'bad side' to whoever takes it, indicated by the green arrows
+shifting horizon - a north/south cleave followed by an east/west cleave or vice versa
+unyielding will - directional slashes home in on players from the edge
+	position yourself so that the slash hits you on a good side
+
+near to/far from heaven - marks one player with a red marker and indicates either one or two swords around the boss
+	either does a point-blank or a doughnut, based on the cast
+	then the boss jumps to the marked player doing an enumeration based on the number of swords
+	if the enumeration is wrong, players get thrown into the wall
+	at the same time, the opposite aoe happens from where the boss started
+
+echoing heat - three sets of large baited puddles underneath every player
+	these leave behind puddles for a while so place them intelligently
+wolf's crossing - indicates a plus aoe from where the boss was when she cast it
+	this goes off with the second set of puddles
+echoing eight - large baited puddles underneath every player
+	these then do star aoes, so give yourself space to dodge
+
+near to/far from heaven
+
+sting of the scorpion - tankbuster
+
+malefic alignment x2 - indicates four directional aoes that give players 'bad sides' from where they were hit
+	i.e. the aoe travelling north gives you a south 'bad side' and vice versa
+	everyone should get the same two 'bad sides' so you can travel together for the next mechanic
+	these bad sides must be adjacent or you cannot complete the next mechanic
+cardinal horizons - the same shifting horizon cleaves from earlier, but they spawn slashes at the edge
+will of the underworld x4 + echoing heat - each quadrant is safe from a specific combination of 'good sides'
+	i.e. if you have north and east safe, find the quadrant hit by aoes travelling south and west
+	everyone should stay together to bait the echoing heat puddles
+
+near to/far from heaven
+tankbuster
+
+waiting wounds - three sets of three aoes that go off in the order they spawn
+	move from the third set into the first once it goes off
+
+silent eight - gives each player a spread aoe that spawns a star aoe
+	place these in assigned corners to make it easier to dodge
+maw of the wolf - a half-room cleave in the direction she's facing
+
+near to/far from heaven
+raidwide - this also creates four unsafe rectangles, making the aoe into a sort of shuriken shape
+
+malefic quartering 2 - this time gives each player two opposite 'bad sides', either north/south or east/west
+malefic alignment - choose an alignment so that every player's 'good side' is different
+vanishing horizon - the same shifting horizon cleaves from before that also spawn slashes and give everybody chains
+will of the underworld - stack in the middle for chains and run towards the 'point' of the shuriken that matches your safe side
+	this gives each player a unique safe spot where they can be safe from their aoe
+malefic portent - whoever has the correct 'good side' should take the tethers
+raidwide - returns the arena to normal
+
+loops from first near to/far from heaven until defeated

@@ -19,9 +19,7 @@ tankbusters
 raidwide
 
 devouring brand - spawns four lines of fire at the cardinals, that slowly move towards the middle before expanding outwards
-
 experimental fireplume - stand middle and move to an intercardinal while dodging the plume
-
 searing breeze - spawns a puddle under every player, make sure to leave these at the edge
 
 left/right cinderwing
@@ -97,18 +95,19 @@ experimental ashplume - this resolves after the knockback
 raidwide
 
 death's toll - gives everyone 1, 2 or 4 stacks of a beyond death debuff indicating how many times you need to get hit by the next mechanic
-
 fledgling flight - these should be pointed in to allow players to get hit
 	4s should stand in the middle, 1s should stand behind an add, and 2s should stand on an intercardinal to get hit by the further two adds
-
 life's agonies - a massive raidwide that deals more damage the less hp you have?
 	since everyone has healing taken down, this is a big heal and mitigation check
 
 experimental gloryplume - the first hit will always be the baited aoe
+
 trail of condemnation
+
 devouring brand
 experimental fireplume
 searing breeze
 left/right cinderwing
+
 raidwide x2
 enrage

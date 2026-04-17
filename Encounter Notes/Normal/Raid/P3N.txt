@@ -1,0 +1,59 @@
+experimental fireplume - summons either one giant orb or eight smaller orbs from the boss
+	giant orb - a massive point-blank aoe in the middle of the arena, stay at the edge to dodge
+	eight small orbs - shiva circles, run to the first or second explosions to dodge
+
+experimental fireplume - opposite of the previous
+
+scorched exaltation - raidwide
+
+heat of condemnation - aoe tankbusters on both tanks
+
+darkened fire - summons four darkened fire adds in the middle of the arena that begin casting darkened blaze
+brightened fire - gives four players aoes numbered 1 to 4 that instantly kill any darkened fires they hit
+	use these aoes to destroy all the adds
+
+left/right cinderwing - a half-room cleave on the side indicated by the castbar
+
+trail of condemnation - the boss appears at the edge and then dashes through the arena, doing a line aoe
+
+add phase - spawns two sunbirds at north and south
+	these need to be killed apart from each other, indicated by the aoes around them
+	fore/rear carve - front or back 180-degree cleaves from the birds
+	after the first two die, two more spawn at east and west that need to be killed away from the other two birds as well
+
+	flames of undeath - a raidwide that revives the birds into sparkfledged adds
+
+dead rebirth - a big raidwide
+	the boss also begins auto-attacking the OT from now on
+
+left/right cinderwing
+
+fledgling flight - summons each of the four sparkfledged one by one
+	they each begin casting ashen eye cone aoes
+	dodge from the last one into the first once it goes off
+experimental charplume - spread aoes on every player
+
+tankbusters
+
+devouring brand - spawns four lines of fire at the cardinals, that slowly move towards the middle before expanding outwards
+searing breeze - baited puddles underneath every player
+
+raidwide
+
+experimental charplume
+experimental fireplume
+
+trail of condemnation - this is now paired with spread aoes on every player
+
+tankbusters
+
+fledgling flight
+experimental fireplume
+
+searing breeze
+devouring brand
+darkened fire + brightened fire
+
+left/right cinderwing
+
+loops from raidwide after devouring brand until defeated

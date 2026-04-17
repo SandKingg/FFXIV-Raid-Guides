@@ -3,7 +3,9 @@ piercing plunge - raidwide
 familiar call - summons an array of animals on each edge
 	there will be two pufferfish either north/south or east/west, with the other having two chocobos
 	the rest will be either crabs or seahorses, such that each row or column has exactly one animal
-echoed serenade - indicates the order in which each animal does their aoe
+echoed serenade - indicates the order in which each animal does their aoe, it will always be one of each
+	the first two animals will be one of crab/seahorse and oen of chocobo/pufferfish in either order
+	the last two animals will be the other two, in either order
 	crabs and seahorses do line aoes
 	pufferfish do massive point-blank aoes
 	chocobos do massive cone aoes
@@ -17,8 +19,8 @@ swimming in the air - flies around the arena, planting aoes everywhere except tw
 	the two stacks need to go to two different safe corners, so assign priorities and flex pairs
 
 ceaseless current - creates exalines on two adjacent edges that propagate through the arena
-	then every player gets a green marker that creates a plus aoe once the exalines reach the centre of the arena
-		this means every tile will get hit once
+cross current - then every player gets a green marker that creates a plus aoe once the exalines reach the centre of the arena
+	this means every tile will get hit once
 surging current - this time the aoes hit north/south or east/west, followed by the opposite
 	stay near your corner and give melees priority with staying close to the boss
 	ranged stay all the way in the corner and dodge
@@ -30,4 +32,32 @@ alluring order
 sunken treasure - summons a watery doughnut in each corner and two watery orbs either north/south or east/west
 	all doughnuts and one orb will begin to crack, indicating that they will soon explode
 	use the forced marches with the same corner and flex pair priorities as before
-	remember to dodge the second exploding orb afterwards
+surging current - another north/south or east/west cleave, stay on the correct side of the doughnut
+	remember to dodge the second cleave and then the second exploding orb afterwards
+
+aqua spear - creates an X pattern of tile aoes while giving everyone a tile spread marker that places an extra tile aoe
+	assign cardinals for everyone to stay in, then place your aoe in the relative back left tile
+	this makes a rough 'L' pattern
+familiar call 2 - summons an array of crabs, seahorses and turtles
+	one animal shoots through the middle, leaving the back side tile safe
+	another animal shoots across the edges, leaving the front tile safe
+	the final animal shoots in a # pattern, leaving the back centre tile safe
+echoed serenade - this time the three animals are in a random order, but the fourth is always the same as the first
+	dodge the aoes, but remember the order of the animals for later
+aqua ball - you can place all three aoes in the same tile if you're clever
+cross current - make sure to stand in the back side tile here
+
+familiar call 3 - crabs, seahorses and turtles again but in a different pattern
+echoed reprise - the animals shoot in the same order as before, but now their positions are different so watch out
+surging current - shoots towards the quadrants this time
+
+sea shackles - shackles players together in two random pairs with either a close or far tether
+	also one player in each shackle pair will get a spread debuff
+	preposition in such a way to make it easier to adjust for who goes where
+sunken treasure 2 - this time creates doughnuts at each of the corners and orbs closer to the middle
+	all doughnuts and two orbs will crack, meaning that the safe spots are the doughnuts near the two uncracked orbs
+aqua ball - drop the three puddles and then move into the doughnut
+	remember to dodge the second set of orbs afterwards!
+
+raidwide
+enrage
