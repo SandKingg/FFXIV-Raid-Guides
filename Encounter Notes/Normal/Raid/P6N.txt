@@ -1,0 +1,57 @@
+aetheric polyominoid - spawns four polyominoids that hit two diagonally adjacent tiles each
+
+choros ixou - two 90-degree cleaves on opposite sides indicated by her hands
+choros ixou - opposite of the previous
+choros ixou - random
+
+hemitheos's dark iv - raidwide
+
+transmission - gives four players debuffs that lock them in place and do a cone aoe in the direction they are facing when it expires
+	make sure you're looking outside the arena
+transmission - gives the other four players debuffs
+
+synergy - aoe tankbusters on both tanks
+
+aetheric polyominoid + choros ixou - stand in a safe spot from the tiles and cleaves
+
+strophe ixou - cone aoes in front and behind her that rotate in the direction indicated by the arrows
+
+raidwide
+
+transmission 2 - gives every player a debuff this time, with four having shorter timers and four having longer timers
+choros ixou - go into the safe spots from the cleaves and short timers look outside the arena
+dark ashes - a spread aoe on each player
+	long timers look outside while spreading
+
+tankbusters
+raidwide
+
+aetherial exchange - gives her a buff that causes the next polyominoids to swap
+polyominoid sigma - spawns four polyominoids that hit two diagonally adjacent tiles each
+	each polyominoid will swap with the one it is tethered to, so pay attention to where the safe spots will end up at
+
+aetherial exchange + polyominoid sigma 2 - spawns two polyominoids that hit two diagonally adjacent tiles and two that hit all four tiles
+	the tethers can be diagonal this time
+
+raidwide
+
+aetherial exchange + polyominoid sigma 3 - same as 2
+strophe ixou - stay in the safe tile to start, while dodging the cleaves
+
+tankbusters
+raidwide
+
+transmission 3 - same as 2
+aetheric polyominoid - the first debuffs go off right as the tiles spawn
+	the second debuffs go off right after they resolve
+
+aetherial exchange + polyominoid sigma 4 - spawns three polyominoids that hit all four tiles and one that hits two diagonally adjacent tiles
+choros ixou - there will only be one tile safe from both the aoes and cleaves
+
+tankbusters
+raidwide
+
+aetherial exchange + polyominoid sigma 5 - same as 1
+dark ashes - stay spread while dodging the tile aoes
+
+loops from aetherial exchange + polyominoid sigma 3 until defeated

@@ -1,7 +1,7 @@
 steelsbreath release - raidwide
 
 malefic quartering - gives everyone a compass debuff indicating which side they cannot take damage from
-malefic portent - a tether that will give an extra 'bad side' to whoever takes it, indicated by the green arrows
+malefic portent - tethers that will give an extra 'bad side' to whoever takes them, indicated by the green arrows
 shifting horizon - a north/south cleave followed by an east/west cleave or vice versa
 unyielding will - directional slashes home in on players from the edge
 	position yourself so that the slash hits you on a good side

@@ -1,0 +1,65 @@
+elegant evisceration - aoe tankbuster
+
+setting the scene - summons a lightning tile in one of the four quadrants
+	standing in the central part of any tile gives a dot, so be careful
+pinax - activates any tiles on the arena one by one, dealing damage to anyone standing in that tile when it activates
+	lightning does a levinstrike mekhane proximity aoe from mid
+
+decollation - raidwide
+
+setting the scene 2 - summons a water tile in one of the four quadrants
+pinax - water does a well mekhane knockback from mid
+
+hell skewer - turns to a random player, doing a line aoe towards them
+
+tankbuster
+
+setting the scene 3 - summons a lightning, water and poison tile in three random quadrants
+pinax - the order is indicated by which tiles are empowered
+	the first one will always be water or lightning
+	the second one will always be poison, which does an acid mekhane spread aoe on every player
+	the third one will always be opposite of the first
+hell skewer - happens between the first and second tiles
+
+hell skewer
+
+bloodrake - a raidwide that absorbs everybody's aether, poisoning it
+belone coils - summons four towers in mid that prevent a specific role from taking them
+	two are anti-dps towers, one is anti-healer and one is anti-tank
+	make sure they're soaked by players of different roles
+
+hell skewer
+raidwide
+
+north/east/south/westerly shift - the boss wields his cape and sword with one of them glowing and a corresponding image at the indicated cardinal
+	if the cape is glowing there will be a massive knockback from the indicated cardinal
+	if the sword is glowing there will be a massive cleave from the indicated cardinal
+
+north/east/south/westerly shift - opposite cape/sword of the previous
+north/east/south/westerly shift - now random
+
+bloodrake
+belone bursts - spawns orbs that tether to each player and need to be soaked
+	each orb needs to be taken by a different role from the player it's tethered to
+	each player can only take up to two orbs before they get doom and die
+
+tankbuster
+
+setting the scene 4 - summons a lightning, water, poison and fire tile
+bloodrake
+pinax - this time the first will be either fire or poison, with fire doing a lava mekhane stack on a random player
+	the second will be either water or lightning
+	then the third and fourth are the opposites of the first two
+hell skewer - happens between the first and second tiles
+belone coils - happens between the third and fourth tiles
+
+north/east/south/westerly shift
+raidwide
+
+bloodrake
+belone bursts
+
+north/east/south/westerly shift
+raidwide
+
+loops from tankbuster after belone bursts until defeated

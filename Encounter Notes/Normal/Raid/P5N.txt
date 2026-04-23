@@ -1,0 +1,61 @@
+searing ray - jumps to a corner and does a big cleave in front of him, make sure to stay behind
+
+ruby glow - does a raidwide and creates an array of ruby cells
+	this one creates two large triangular cells
+searing ray - when cast in a ruby cell, it makes that cell explode
+	stay in the opposite triangle to avoid it
+
+crunch - tankbuster
+
+topaz stones - spawns four topaz stones that do small point-blank aoes around them
+
+ruby glow 2 - this one creates four square quadrants
+topaz stones - spawns a stone in two diagonally-opposite quadrants
+	the stones cause the quadrants they're in to explode, similarly to searing ray, so stay in the other two cells
+
+sonic howl - raidwide
+
+searing ray
+tankbuster
+raidwide
+
+acidic slaver - a transition raidwide that breaks the cage, sending everyone down to the platform below
+
+ruby glow 3 - creates four square quadrants again
+topaz stones - this time only one quadrant will be safe
+
+toxic crunch - tankbuster that gives a dot as well
+
+venom squall - baits puddles under every player, then does spread aoes on every player, then a stack on a random player
+
+raidwide
+
+topaz stones - this time spawns one topaz stone and three poison stones
+	poison stones will do an expanding poison aoe that gives a nasty dot
+tankbuster - take this in the safe area
+
+devour - a red jaw marker indicates where he will jump to, always jumping to each corner as well as in mid
+	just follow quickly behind the aoes and then go to the edge
+
+ruby glow 4 - creates four square quadrants again
+topaz cluster - spawns four topaz stones one by one, with one in each quadrant
+	they then explode in the order they were spawned in, so mov einto the first quadrant once that's safe
+
+searing ray
+
+ruby glow 5 - creates two triangular segments again
+topaz stones - spawns a topaz stone in one segment as a poison stone in the other
+	stay in the segment with the poison stone, but dodge the aoe
+searing ray
+
+tankbuster
+
+ruby glow 6 - creates four square quadrants again
+topaz stones - spawns topaz stones in two quadrants and a poison stone in the middle of another quadrant
+venom squall - the baits appear right after the quadrants explode
+	then spread and stack while avoiding the poison aoe
+
+raidwide
+tankbuster
+
+loops from ruby glow 4 until defeated

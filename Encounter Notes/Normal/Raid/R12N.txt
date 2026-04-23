@@ -19,7 +19,7 @@ ravenous reach + burst - this one will always do the opposite of the first one
 splattershed - a raidwide that transforms both its arms into dragon heads
 feral fission - snakes each arm through the arena, coiling over a rough-checkerboard pattern
 bring down the house - destroys the parts of the arena below the coils, recreating some platforms to allow passage through the entire platform
-??? - the two dragon heads shoot aoes through two columns of the platform
+split scourge - the two dragon heads shoot aoes through two columns of the platform
 venomous scourge - a spread aoe on every player
 
 grotesquerie 2 - gives everyone a delayed knockback debuff and a delayed cone aoe debuff

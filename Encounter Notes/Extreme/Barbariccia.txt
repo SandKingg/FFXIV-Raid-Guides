@@ -64,28 +64,38 @@ secret breeze - choose a side of the tangle to dodge to, staying in intercardina
 
 savage barbery
 hair raid + hair spray
+
 raidwide
 tankbuster
+
 entanglement + upbraid - two tangles with have both players get enumeration, find a way to resolve, you get plenty of time
+
 savage barbery - opposite of the previous
 hair raid + hair spray - both opposite of the previous
 
 curling iron
+
 brutal rush (supports)
+
 knuckle drum - stack on A
 blow away + brutal rush
 boulder + brittle boulder - immediately go mid after the fourth puddle is baited, then go to clock spots
+
 brutal rush - opposite of the one during blow away
 impact + hair spray (spread) - get knocked back to your clock spot
 brutal rush
+
 lots of aoes - party should make their way towards C, tanks should make their way towards 1 and 4
 boulder break - hopefully the other tank can invuln here
 bold boulder - there is no knockback here, go to the edge immediately
+
 knuckle drum
 iron out
 
 entanglement + secret breeze
+
 savage barbery
 hair raid + hair spray
+
 raidwide
 enrage
