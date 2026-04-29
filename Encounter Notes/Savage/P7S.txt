@@ -114,7 +114,9 @@ war's harvest - spawns birds on two of the platforms and an io on the other, alo
 	io tethers go towards the bridge opposite the io, with two players on the bridge and two players at the edge of the two platforms next to the bridge
 
 raidwide
+
 hemitheos's holy iii
 bough of attis - always hits the northern platforms
+
 raidwide x2
 enrage

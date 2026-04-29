@@ -1,0 +1,58 @@
+bough of attis - slams her fists down in front of her, doing two large point-blank aoes, then does a punch indicated by the arrows
+	dodge towards the safe side to avoid getting thrown off
+
+hemitheos's holy - spread aoes on every player
+
+hemitheos's glare iii - a massive doughnut aoe with only a small safe spot in the middle of the arena
+
+bough of attis - this time slams both fists down at south, doing one, larger, point-blank aoe
+bough of attis - north fists again
+
+immortal's obol - a proximity aoe from the centre of the platform that also changes the arena into three separate smaller platforms
+
+bough of attis - north fists
+
+hemitheos's aero ii - aoe tankbusters on both tanks
+
+spark of life - raidwide + bleed
+
+forbidden fruit - spawns an io on each of the three platforms that does a point-blank aoe
+	stay on the bridges to be safe
+
+blades of attis - spawns two sets of two exaflares that travel along the platforms and bridges
+	move towards the safe bridge to avoid all the blasts
+
+forbidden fruit 2 - spawns a stymphalide on each platform that does a line aoe in the direction it's facing
+	dodge both aoes on one of the platforms
+
+hemitheos's glare iii - the platform returns to normal before the doughnut goes off, make sure you move quickly
+
+blades of attis - spawns three sets of two exaflares that travel across the platform
+	stay next to one set, then move in after two blasts
+bough of attis
+
+forbidden fruit 3 - spawns three ios in a line across the platform
+hemitheos's holy - spread out and dodge the point-blanks
+
+immortal's obol
+
+forbidden fruit 4 - spawns an io on each of the two north platforms
+bough of attis - south fist, stand on the north bridge to avoid it
+
+tankbusters
+
+forbidden fruit 5 - spawns an io on each of the three platforms, as well as four towers
+	wait for the point-blank aoes to go off, then quickly soak the towers
+
+bough of attis
+raidwide x3
+
+forbidden fruit 6 - spawns an io on the south platform and a stymphalide on each of the north platforms
+hemitheos's aero iv - a knockback from one of the platforms
+
+blades of attis - go towards the safe bridge
+hemitheos's holy
+raidwide
+tankbusters
+
+loops from second hemitheos's glare iii until defeated

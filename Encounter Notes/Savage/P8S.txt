@@ -66,8 +66,8 @@ reforged reflection - does the other mini-phase that wasn't done previously
 conceptual tetraflare/octaflare
 fourfold fires - spawns four proximity markers towards the intercardinals that explode into fiery vents
 	stack mid to mitigate the damage
-chthonic vent - one vent on the east and west will bubble more, indicating that it will explode
-	as light parties, move towards the vent that is not bubbling on your side
+chthonic vent - two vents will bubble more, indicating that they will explode
+	have a priority system for which light party goes to which safe vent
 	watch which vents the vipers go into as those will explode next
 tetraflare/octaflare - move towards the safe two vents and either spread or do pair stacks
 	for pairs it's helpful if melee/tanks pair and ranged/healers pair

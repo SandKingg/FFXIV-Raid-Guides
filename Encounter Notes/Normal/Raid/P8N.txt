@@ -1,0 +1,75 @@
+genesis of flame - raidwide
+
+sunforge - summons a viper that does a line aoe through the arena
+sunforge - summons a phoenix that does a hot wing aoe, so stay mid
+sunforge - random from now on
+
+flameviper - a line aoe tankbuster that gives a bleed
+
+reforged reflection - one of two mini-phases based on what he transforms into
+snake
+	into the shadows - summons two gaze markers that turn into gorgon adds that need to be killed before their raidwides go off
+		the gaze markers rotate in either direction around the arena before turning into adds
+		they will either end up both on cardinals or both on intercardinals
+		if they rotate CW, they end up on cardinals and if they rotate ACW, they end up on intercardinals
+	gorgospit x2 - a line aoe towards a random player
+
+	ektothermos - raidwide
+
+centaur
+	blazing footfalls - jumps to a random cardinal, telegraphing a horizontal knockback from mid, followed by two circular knockbacks from other cardinals
+		use each knockback to get pushed towards where the next one is coming from
+
+	rearing rampage - raidwide
+
+fourfold fires - spawns four proximity markers towards the intercardinals that explode into fiery vents
+chthonic vent - tethers to two vents, indicating that they will explode into big point-blank aoes later
+	the tethered vents also begin bubbling to indicate the incoming explosion
+	there will be two more sets of vent aoes indicated by which vents the vipers go into
+
+sunforge
+raidwide
+
+reforged reflection - does the other mini-phase that wasn't done previously
+
+volcanic torches - spawns three lines that trace out three row or column aoes, move into the safe one
+
+volcanic torches - opposite of rows/columns from the previous
+hemitheos's flare - a spread aoe on four random players
+
+sunforge
+raidwide
+tankbuster
+
+reforged reflection 2 - another one of two mini phases, building on the first two
+	they always occur in the same order as the first two
+snake
+	into the shadows - the same as before, but now there are four clones on the outside doing line aoes
+		make sure to stay in the middle four tiles
+	volcanic torches - traces out two lines that go off at the same time as the second gorgospit
+	gorgospit x2
+
+	ektothermos
+
+centaur
+	blazing footfalls - the same as before, but this time there are three circular knockbacks from cardinals
+
+	rearing rampage
+
+fourfold fires
+chthonic vent
+volcanic torches - traces out two row or column aoes that go off right after the final set of explosions
+hemitheos's flare
+
+sunforge
+raidwide x2
+tankbuster
+
+reforged reflection 2 - does the other mini-phase that wasn't done previously
+
+sunforge
+raidwide
+tankbuster
+sunforge
+
+loops from first reforged reflection 2 until defeated

@@ -1,0 +1,81 @@
+meteorain - raidwide
+
+naught grows - does a large arrow tether towards the void portal, doing a big point-blank aoe from it
+
+naught wakes - transfers the void portal to a different point on the edge
+naught grows
+
+gaze of the void - creates a helix of void orbs that shoot out cone aoes one by one
+	the highest glowing one is where it starts, so keep rotating until you reach the first part that isn't hit twice
+
+deep freeze - flares on both tanks
+
+naught hunts - creates two void orbs that tether to a player, moving towards them and doing repeating aoes
+naught hunts anothers - the tethers indicate who they will swicth to, and the aoes will start following those players instead
+
+shrouded holy - a stack marker on a random player
+
+meltdown - baits a puddle underneath every player, then gives everyone a spread aoe
+
+vacuum - creates eight small, curved line aoes from mid, some shorter and some longer
+	void orbs fly to the ends of the aoes, before exploding
+	stay out of the lines then quickly dodge the point-blank aoes from the orbs
+
+raidwide
+
+all for naught - add phase, transitions everyone into the void
+	looming emptiness - a large proximity aoe that spawns a big looming shadow add
+		this add tethers to the MT, auto-attacking them
+	??? - point-blank aoes that spawn uncast shadow adds
+		these just cast nothingness line aoes
+	beacon in the dark - zero creates a beacon for you to destroy to open a path back to reality
+		dodge more line aoes while killing it
+
+lightless world - a big multi-hit raidwide
+	make sure to stand in zero's passage of arms
+
+naught grows - this time the arrow points to enuo, meaning the point-blank aoe is around him
+
+almagest - a big raidwide that summons another void portal
+
+naught grows - the arrows point towards enuo and towards one of the portals, doing aoes around both
+
+naught wakes + naught grows - now points to both void portals, stay away from both
+
+dimension zero - a multi-hit line stack
+
+almagest
+
+naught hunts
+naught hunts another
+
+naught grows
+
+naught wakes
+vacuum
+gaze of the void
+
+meltdown
+
+naught grows
+raidwide
+
+vacuum
+meltdown
+gaze of the void
+
+deep freeze
+dimension zero
+
+almagest
+
+vacuum
+naught grows
+
+naught wakes
+vacuum
+naught grows
+
+raidwide
+
+loops from second almagest until defeated
