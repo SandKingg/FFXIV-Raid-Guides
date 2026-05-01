@@ -1,0 +1,104 @@
+meteorain - raidwide
+
+naught grows - does a large arrow tether towards the void portal, doing either a big point-blank aoe or a big doughnut aoe from it, based on the marker
+	also either one or both healers will be tethered to a moveable portal which does a line stack afterwards
+	this is a wild charge so the tank/s should be closest to the portal
+	make sure to split into light parties and give everyone enough space if there are two portals
+	have a priority for which party goes which direction from the portal
+
+naught wakes - moves the void portal to one of the three south markers
+
+meltdown - baits an aoe under each player, as well as giving them a pyretic for 2 seconds, then does a spread aoe on every player
+	bait mid, then wait for the debuff to wear off before going max melee to clock spots
+
+airy/dense emptiness - either pair stacks on all supports/dps or light party stacks on both healers
+
+naught grows - both the single/double portal and doughnut/point blank are opposite of the previous
+
+gaze of the void - creates a helix of void orbs that shoot out cone aoes one by one
+	the highest glowing one is where it starts, so keep rotating until you reach the first part that isn't hit twice
+	each orb then creates another orb on the outside of the arena, with the first two being larger
+	four of them have yellow timers and move quickly, the other four have purple timers and move slowly
+	these orbs need to be soaked in pairs, yellow first, then purple, with tanks taking the big orbs
+	assign a priority for who soaks which orbs
+
+vacuum - creates eight small, curved line aoes from mid, some shorter and some longer
+	void orbs fly to the ends of the aoes, before exploding
+	stay out of the lines then quickly dodge the point-blank aoes from the orbs
+dense/airy emptiness - opposite of the previous
+	give yourself enough time to move into the correct spot after dodging vacuum
+
+deep freeze - flare tankbusters on the top two in aggro, followed by a deep freeze debuff
+	OT needs to be second in aggro here
+	make sure everyone is moving when the flares go off until the debuff wears off
+
+raidwide
+
+all for naught - add phase
+	looming emptiness - a giant add spawns and knocks everyone back from the centre, get knocked towards intercardinals in colour pairs
+
+	voidal turbulence - spawns four towers and gives either all supports or all dps markers
+		the markers shoot giant cone aoes, so those players cannot take towers
+		take towers based on colour pairs and spread the cones out accordingly
+		each tower spawns an add based on who took it, and only they can attack that add
+
+		dps - aggressive shadow
+			demon eye - a gaze attack, though it only hits a certain aoe around it
+		healer - soothing shadow
+			curse of the flesh - puts an esunable debuff on the target
+		tank - protective shadow
+			drain touch - an interruptible cast that instantly kills the target if it goes off
+			weight of nothing - a line aoe tankbuster
+
+	voidal turbulence - this time the roles are swapped, though the tower positions are still random
+
+	beacon in the dark - kill the beacon while dodging the line aoes
+lightless world - transition raidwide
+
+almagest - a big raidwide, this first one spawns an additional void portal
+
+naught grows - the arrows point towards enuo and towards one of the portals, doing aoes around both, one point-blank and one doughnut
+	make sure to dodge both aoes while giving tanks enough space to be closest to the portal
+
+naught wakes - moves the void portals and turns them into either a split portal or a big single portal
+	the split portals do two line aoes towards the sides
+	the single big portal does a big line aoe through mid
+	it can be one of each, or it can be two of one
+
+shrouded holy - light party stacks on each healers
+
+naught grows
+
+dimension zero - a multi-hit line stack
+
+vacuum - make sure to dodge mid here
+meltdown - remember to stay still for the debuff, then run out
+
+gaze of the void
+
+almagest
+
+naught wakes
+naught hunts - creates two void orbs that tether to players, moving towards them and doing repeating aoes
+	make sure to dodge the aoes from the portals, then bait the aoes around the edge of the arena
+	the tethers then indicate who they will switch to, and the aoes will start following those players instead
+	either keep the aoes going the same direction, or have both swap directions
+	then dodge the second aoes from the portals
+airy/dense emptiness
+
+naught hunts - same as before, but the portal aoes move and go off without a naught wakes cast here
+dense/airy emptiness - opposite of the previous
+
+dimension zero
+almagest
+
+naught grows
+
+naught wakes - two sets of portal aoes
+deep freeze
+
+naught grows
+
+dimension zero
+raidwide x2
+enrage

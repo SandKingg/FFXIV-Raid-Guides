@@ -67,7 +67,7 @@ tidal wave
 dark matter - press your buttons to escape
 touchdown - a proximity aoe from the centre of the platform, all move north to get knocked over to the other platform
 
-add phase - spawns three waves of adds from poximity aoe markers
+add phase - spawns three waves of adds from proximity aoe markers
 	wave 1 - 4 ginryus, 1 hakkinryu
 		ginryu - small add that just attacks
 		hakkinryu - big add that does death sentence tankbusters

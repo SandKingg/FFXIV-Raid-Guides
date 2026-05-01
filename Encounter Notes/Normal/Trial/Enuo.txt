@@ -10,8 +10,8 @@ gaze of the void - creates a helix of void orbs that shoot out cone aoes one by 
 
 deep freeze - flares on both tanks
 
-naught hunts - creates two void orbs that tether to a player, moving towards them and doing repeating aoes
-naught hunts anothers - the tethers indicate who they will swicth to, and the aoes will start following those players instead
+naught hunts - creates two void orbs that tether to players, moving towards them and doing repeating aoes
+naught hunts another - the tethers indicate who they will switch to, and the aoes will start following those players instead
 
 shrouded holy - a stack marker on a random player
 
@@ -26,7 +26,7 @@ raidwide
 all for naught - add phase, transitions everyone into the void
 	looming emptiness - a large proximity aoe that spawns a big looming shadow add
 		this add tethers to the MT, auto-attacking them
-	??? - point-blank aoes that spawn uncast shadow adds
+	empty shadow - point-blank aoes that spawn uncast shadow adds
 		these just cast nothingness line aoes
 	beacon in the dark - zero creates a beacon for you to destroy to open a path back to reality
 		dodge more line aoes while killing it
