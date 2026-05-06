@@ -1,0 +1,62 @@
+on the soul - raidwide
+
+trinity of souls - creates three circles on her wings from bottom to top, then cleaves three times based on the circles
+	if the circle is on a left wing, she cleaves left and vice versa
+
+paradeigma - spawns two anthropoi from red dodecahedra and two from yellow octahedra
+	the red ones do line aoes from north, making only two columns safe
+	the yellow ones each tether to a random player, doing a line aoe towards them, try not to overlap other players
+
+trinity of souls
+raidwide
+
+glaukopis - a line aoe tankbuster
+
+superchain theory - spawns an arrangement of shapes that tether to activation spheres before moving towards them
+	green sphere - a point blank aoe
+	blue doughnut - a doughnut aoe
+	make sure to go towards the sphere that the doughnut is tethered to
+
+superchain theory 2 - spawns two activation spheres, each tethered to a doughnut
+	the one with the shorter chain will go off first, so hide there then move over
+
+parthenos - does a big line aoe in front and behind her that knocks anyone hit off the arena
+
+raidwide
+
+unnatural enchainment - gives life to three panels, killing anyone on them and removing them from the arena
+paradeigma
+unnatural enchainment - destroys three more panels, only leaving two horizontally connected ones
+trinity of souls
+raidwide - returns the arena to normal
+
+ultima blade - a big transition raidwide that spawns adds
+palladion - each player is marked with a spread aoe one by one, move out when you get targetted
+	meanwhile the adds are casting small clear cut cleaves and big ray of light line aoes
+	dodge them while you burst the adds down
+theos's ultima - destroys the middle four platforms, then does a massive raidwide, returning the platforms to normal
+
+superchain theory 3 - spawns another arrangement of shapes and activation spheres
+	there will always be three point-blanks and one doughnut with a long chain
+parthenos - try not to bait this through the safe spot, but there's time to move in afterwards
+trinity of souls
+
+dialogos - a stack on a random player, followed by spread aoes on every player
+
+tankbuster
+
+paradeigma
+superchain theory 4 - spawns another arrangement of shapes
+	this time there are always three point blanks, so just stay away from them while dodging the line aoes
+
+unnatural enchainment - destroys five platforms, leaving a rough 'L' shape of three platforms
+parthenos
+raidwide - returns the arena to normal
+
+paradeigma
+dialogos
+tankbuster
+
+raidwide
+
+loops from superchain theory 3 until defeated

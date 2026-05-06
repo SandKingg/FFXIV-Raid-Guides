@@ -1,0 +1,70 @@
+gluttony's augur - raidwide
+
+ravening (mage) - eats a soul and switches forms
+
+fire iii - gives three random players a fire aoe, that expands later
+
+blizzard iii - creates an icy doughnut aoe that expands later
+
+dualspell - creates both the icy doughnut and the fire aoes
+	then either fire or ice will expand based on the rune that flashes on screen
+
+global spell - raidwide + bleed
+
+ravening (martialist)
+
+archaic rockbreaker - does a knockback from the centre of the arena, creating lines on the arena
+	these lines explode into point-blank aoes at the end, with two being shorter and four being longer
+	there will be another set of lines after the first, with the short ones being rotated 90 degrees and the long ones rotated 45 degrees
+archaic demolish - a stack marker on each healer
+
+raidwide
+
+ascendant fist - tankbuster
+
+front/rear combination - indicates either a point-blank aoe or a doughnut, then does a cleave in front of behind him, based on the cast name
+
+ravening (beast)
+
+charybdis - four players get aoes that spawn lingering tornadoes
+
+beastly roar - a knockback from the centre of the arena, with four random players getting spread aoes
+
+pulverizing pounce - a stack marker on a random player
+	the boss jumps here so trynot to move him too much
+
+gluttonous rampage - the boss jumps to the two tanks, doing proximity-tether tankbusters, then jumps back to the middle, doing a proximity aoe
+
+comet - creates three proximity aoes that indicate where meteors will drop down, two of which will be cracked
+ecliptic meteor - the boss stands up, dropping a meteor on top of himself that needs to be line-of-sighted behind a non-cracked meteor
+	the meteor then explodes in a point-blank aoe, so run out quickly
+pulverizing pounce
+
+ravening (mage)
+
+iceflame summoning - creates two adjacent ice orbs and two adjacent fire orbs on the arena
+	these do point-blank aoes indicated by the runes beneath them
+	then one element will expand based on the rune that flashes on screen
+iceflame summoning - now, the opposite element expands
+
+dualspell
+global spell
+
+ravening (martialist)
+
+archaic rockbreaker
+
+rear/front combination - opposite of the previous?
+
+raidwide
+tankbuster
+
+ravening (beast)
+
+comet
+ecliptic meteor - this time there will be four spread aoes after the meteor explodes
+pulverizing pounce
+
+gluttonous rampage
+
+loops from second ravening (mage) until defeated

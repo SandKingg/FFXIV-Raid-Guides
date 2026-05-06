@@ -1,0 +1,56 @@
+silkspit - gives three random players a web aoe that tethers together if you're too close to another player or to the wooden posts
+	if players get tethered, they can be broken by moving through the tethers
+
+pandaemoniac pillars - spawns six towers on the middle platform that need to be soaked
+	these ones will always chain down afterwards, doing small point-blank aoes underneath them
+
+ultima - raidwide & bleed
+
+pandaemoniac pillars - same as before, but this time they float up, doing small doughnut aoes underneath them
+
+pandaemoniac meltdown - a line stack on a random player
+
+soul grasp - multi-hit double stack tankbuster
+
+entangling web - creates many web aoes on the platform that bind anyone hit by them
+	some larger webs will creates bridges across to the small side platforms
+
+silkspit
+
+pandaemoniac ray - a big cleave on the side of the room his head is facing
+
+parted plumes - spawns a puddle in the centre of the platform that shoots out two rotating cone aoes
+	start on the final one and quickly move into the first after it's fired
+
+pandaemoniac meltdown
+tankbuster
+
+entangling web
+pandaemoniac ray
+touchdown - spawns a massive expanding black aoe on the main platform that forces all players onto the side platforms to dodge
+
+raidwide
+
+pandaemoniac pillars - now random whether it's chain down or float up, but all will be the same
+pandaemoniac meltdown
+
+harrowing hell - a gigantic muli-hit raidwide, followed by a massive knockback from north
+	make sure you aren't knocked off the platform
+
+parted plumes
+
+wicked step - two tankbuster towers on east and west
+
+pandaemoniac pillars
+
+entangling web
+touchdown
+pandaemoniac meltdown
+silkspit - now goes on five players, but you are able to spread to the side platform you dodged touchdown on
+pandaemoniac ray
+
+parted plumes
+tankbuster
+raidwide
+
+loops from pandaemoniac pillars after wicked step until defeated

@@ -17,7 +17,6 @@ circles of pandaemonium/pandaemon's holy - one of two random abilities
 
 wicked step - spawns two tankbuster towers at east and west that knock any players inside flying across the arena
 	tanks want to be knocked onto the small platforms opposite of their towers
-
 entangling web - gives both tanks, one healer and one dps webs that drop beneath them after a short time
 	tanks need to move close to the pegs on their platforms, and the other two players close to the corresponding pegs on the main platform
 	make sure the aoes overlap, otherwise the bridge won't be made
@@ -46,13 +45,13 @@ daemoniac bonds - gives players two out of three debuff 'sets'
 pandaemoniac meltdown - a line stack on a random player and two markers on other players
 	markers stay out of the stack and don't overlap their line aoes
 
-touchdown - spawns a massive expanding black aoe in the main platform that forces all players onto the side platforms to dodge
+touchdown - spawns a massive expanding black aoe on the main platform that forces all players onto the side platforms to dodge
 	resolve the bonds on the small platforms
 
 raidwide
 tankbusters
-daemoniac bonds 2 - always spreads and pair stacks, but a random order
 
+daemoniac bonds 2 - always spreads and pair stacks, but a random order
 pandaemoniac turrets - spawns four towers at north and four at south on the main platform
 	melees take north towers, ranged take south
 	tanks and ranged dps outside, healers and melee dps inside
@@ -70,9 +69,11 @@ pandaemoniac ray - a big cleave on one side of the room that leaves arcane turre
 
 raidwide
 tankbusters
+
 wicked step
 entangling web
 silkspit
+
 daemoniac bonds 3 - always spreads and role stacks, but a random order
 pandaemoniac pillars + circles of pandaemonium/pandaemon's holy
 pandaemoniac ray - bonds go off at this point, so do your spreads and stacks while dodging the cleave and line aoes
@@ -106,6 +107,7 @@ harrowing hell - a gigantic multi-hit raidwide that deals higher damage to the c
 
 raidwide
 tankbusters
+
 wicked step
 entangling web
 
@@ -118,5 +120,6 @@ circles of pandaemonium/pandaemon's holy
 silkspit
 pandaemoniac pillars + circles of pandaemonium/pandaemon's holy
 pandaemoniac meltdown
+
 harrowing hell - technically a soft enrage, you can mitigate through the damage but the knockback pushes everyone off as there's no wall
 enrage

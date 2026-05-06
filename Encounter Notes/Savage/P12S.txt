@@ -76,7 +76,6 @@ raidwide - respawns the platforms
 tankbusters
 
 ultima blade - a big transition raidwide
-
 palladion - marks every player with a number from 1 to 8 and dashes between them, doing proximity damage that needs to be shared by two players
 	each dash also leaves a persistent puddle behind
 	have 1 and 3 pair, 2 and 4 pair etc, this means odds will be opposite of where the boss starts and evens will be closer towards it

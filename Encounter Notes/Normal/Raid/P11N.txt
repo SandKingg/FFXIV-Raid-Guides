@@ -1,0 +1,66 @@
+eunomia - raidwide + bleed
+
+divisive ruling - imbues with light or darkness, then charges through the arena, doing a big line aoe
+	light - the line aoe expands outwards, indicated by lines on the floor
+	darkness - the sides that weren't hit by the line aoe get hit this time
+divisive ruling - opposite of the previous
+divisive ruling - random
+
+raidwide
+
+dark and light - creates a light area and dark area on the arena
+sigils of discord - gives one role all light debuffs and the other role all dark debuffs
+	these need to be balanced by standing in the area of the opposite element
+	moving outside the arena will rapidly stack damage and vulns
+dineis - two sets of baited puddles under each player
+emissary's will - dispels the areas and debuffs, killing anyone who is outside of them
+
+dismissal ruling - imbues with light or darkness, then does a knockback
+	light - does a large point-blank aoe, safe spot is max melee
+	darkness - does a large doughnut aoe, safe spot is a bit smaller than the hitbox
+dismissal ruling - opposite of the previous
+
+dike - tankbusters on both tanks
+
+dark and light + sigils of discord
+dismissal ruling
+emissary's will
+
+upheld ruling - different based on light/dark imbue
+	light - targets a random player with a tethered stack, jumping
+		have the player move to the middle of the hitbox to avoid moving the boss
+		at the end, does a big point-blank aoe centred on the boss
+	darkness - targets the OT with a massive aoe tankbuster tether
+		have the tank move to the middle of the hitbox to avoid moving the boss while everyone else moves out
+		at the end, does a big doughnut aoe centred on the boss
+upheld ruling - opposite of the previous
+
+styx - a multi-hit stack marker
+
+dark and light + sigils of discord
+divisive ruling
+dismissal ruling
+emissary's will
+
+tankbusters
+dineis
+
+divisive ruling
+upheld ruling
+
+raidwide
+
+shadowed messengers - creates two clones at the edge that cast both versions of divisive ruling
+	stand in a safe corner and move into the dark aoe after it's cast
+blinding light - a spread aoe on every player
+
+dismissal ruling
+styx
+dineis
+
+divisive ruling
+upheld ruling
+
+raidwide
+
+loops from dark and light after styx until defeated
