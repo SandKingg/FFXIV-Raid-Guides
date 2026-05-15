@@ -22,7 +22,7 @@ add phase - the knights team up to send multiple attacks at you
 	zephirin
 		sacred cross - deals damage based on his remaining health, get him as low as possible
 	paulecrain + vellguine + ignasse
-		spiral thrust - each knight spawns at the edge of the arena and charges all thr way through
+		spiral thrust - each knight spawns at the edge of the arena and charges all the way through
 			go to the magical safe spot
 		skyward leap - cast AFTER the next knights spawn, targets three players for dive markers
 			these deal proximity damage, so the players go north > south > north to spread damage out

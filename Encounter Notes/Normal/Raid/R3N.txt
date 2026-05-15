@@ -1,0 +1,57 @@
+brutal impact - multi-hit raidwide
+
+knuckle sandwich - a double-stack tankbuster on the OT
+
+brutal lariat - raises one arm before charging through the arena, doing a big cleave on that side
+	remember that the cleave stretches through his hitbox as well
+brutal lariat - raises the other arm this time
+
+murderous mist - a big 270-degree cleave in front of the boss
+
+barbarous barrage - spawns four knockback towers in mid, slightly towards the corners
+	each one needs one person in and does a knockback from the centre once it's soaked
+
+fire spin - the boss spins around, shooting out big cone aoes in front of him
+	no segment gets hit twice, so just move once from the final segment to the first
+
+fuses of fury - spawns four bombs with long fuses and four with short fuses
+	the bombs explode into point-blank aoes once their fuses expire, so stay on the long ones first then move to where the short ones exploded
+
+brutal lariat
+fuses of fury
+
+doping draught - boss rps a bit and gains a buff, changing some of his abilities
+	the raidwides and tankbusters hit twice more now
+
+lariat combo - does a brutal lariat, followed by another one that might be on the same side or the opposite side
+
+brutal burn - a stack marker on a random player
+
+raidwides
+
+lariat combo - opposite of the previous (same or opposite side on the second)
+
+infernal spin - the boss spins around, shooting out big cone aoes in front of him, as well as doing a propagating circle aoe
+	again, no segment is hit twice so just dodge into the final segment and dodge the aoes
+	the propagating circle aoes will restart halfway through so dodge them again
+explosive rain - baits three dark aoes under random players
+lariat combo
+
+brutal burn
+raidwides
+
+fuses of fury
+lariat combo
+
+raidwides
+tankbuster
+
+barbarous barrage
+fuses of fury - the towers go off first so don't worry about the bombs until afterwards
+murderous mist
+
+brutal burn
+raidwides
+tankbuster
+
+loops from infernal spin until defeated

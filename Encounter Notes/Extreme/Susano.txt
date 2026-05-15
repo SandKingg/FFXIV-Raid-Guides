@@ -2,6 +2,7 @@ churning deep - places acceleration bombs on four random players, stay still whe
 
 yata-no-kagami - gives a random player a red marker, knocks them back and does two large aoes either side of the line they were knocked back down
 brightstorm - a stack marker on the knocked-back player, make sure to get back to the party in time
+	alternatively you can get knocked into the arena wall to make the distance to the party much shorter
 
 churning deep
 
@@ -54,7 +55,7 @@ churning deep
 yata-no-kagami + brightstorm - the acceleration bomb runs out right after the knockback, don't move too early
 rasen kaikyo
 tankbuster
-random? levinbolt - listen for the quote to tell?
+random levinbolt - listen for the quote to tell
 raidwides
 churning deep
 rasen kaikyo x2

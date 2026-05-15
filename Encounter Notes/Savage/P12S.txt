@@ -83,7 +83,6 @@ palladion - marks every player with a number from 1 to 8 and dashes between them
 	the baits should be some semi-opposite to the dashes
 		5 and 7 first, then 6 and 8, then 1 and 3, then finally 2 and 4
 		make sure you spread a bit when baiting so you don't overlap the lasers
-
 theos's ultima - destroys the middle four platforms, then does a massive raidwide split between all players alive (and respawns the platforms)
 
 superchain theory iia - spawns another array of shapes with three activation spheres in north, mid and south

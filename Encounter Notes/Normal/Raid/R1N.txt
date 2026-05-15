@@ -1,0 +1,51 @@
+bloody scratch - raidwide
+
+one-two paw - one claw will glow and then the other, indicating the order that her left and right will get hit by half-room cleaves
+one-two paw
+
+black cat crossing - indicates cleaves towards the cardinals and intercardinals in either order, with them going off in the order indicated
+
+biscuit maker - tankbuster
+
+clawful - a stack on a random player
+
+mouser - progressively indicates tiles that will be hit by aoes, getting hit by one will crack a tile and two will break it
+elevate and eviscerate x4 - tethers to a player, showing where they will land when they're knocked up into the air
+	make sure you land on an uncracked tile to avoid falling to your death
+	assuming no deaths, it will end up being all dps or all supports tethered on this one
+shockwave - a large radial knockback from the centre of the arena, get knocked to a fully-formed corner or use kb resist
+raidwide - the ring returns to normal after this
+
+predaceous pounce - marks several aoes around the room that the boss jumps to in succession, doing massive point blanks
+	remember the order and dodge them as they come
+	getting hit will deal damage and apply a bleed
+grimalkin gale - a spread aoe on every player
+
+tankbuster
+
+leaping one-two paw - does one-two paw but first moves across to another location first, indicated by the tether and arrow marker
+
+leaping black cat crossing - does black cat crossing, but first moves to another location indicated by the tether and arrow marker
+
+clawful
+raidwide
+
+mouser
+copycat - creates a clone that casts some of her abilities
+elevate and eviscerate + overshadow x4 - targets the role that didn't get elevate and eviscerate before
+	during each hit, there's a line stack on a random player
+shockwave
+tankbuster - the ring returns to normal after this
+
+copycat + predaceous pounce - this is cast by the clone
+one-two paw
+
+clawful
+
+leaping one-two paw
+grimalkin gale - spread out after dodging the second cleave
+
+leaping black cat crossing
+grimalkin gale - same as before, spread after the second cleave
+
+loops from clawful after leaping black cat crossing until defeated

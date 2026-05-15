@@ -36,8 +36,8 @@ hemitheos's holy - spread out and dodge the point-blanks
 
 immortal's obol
 
-forbidden fruit 4 - spawns an io on each of the two north platforms
-bough of attis - south fist, stand on the north bridge to avoid it
+forbidden fruit 4 - either spawns an io or a stymphalide on each of the two north platforms, both having the same animal
+bough of attis - south fist, stand on the north bridge or the north parts of the two platforms to avoid the aoes
 
 tankbusters
 

@@ -5,7 +5,7 @@ quadruple crossing - a cone aoe on the closest four players that gives vuln, thi
 biscuit maker - tankbuster that gives slashing resist down, make sure to swap
 
 nine lives - buffs the next cast, causing it to be repeated by clones in the future
-one-two paw - one claw will glow and then the other, indicated the order that her left and right will get hit by half-room cleaves
+one-two paw - one claw will glow and then the other, indicating the order that her left and right will get hit by half-room cleaves
 soulshade - spawns two clones that will eventually cast the previous mechanic
 
 nine lives + double/quadruple swipe - double is a stack on each healer, while quadruple is a stack on all supports or all dps, assign light parties and colour pairs for this

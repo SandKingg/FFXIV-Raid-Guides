@@ -38,7 +38,7 @@ add phase - two sanuwas spawn, which need to be tanked, ul'sanuwa is water and s
 
 	loops from dead wind/water until enrage
 
-breach blast - a big transition raidwide that also destroys the magitek field generation
+breach blast - a big transition raidwide that also destroys the magitek field generator
 
 adds 2 - spawns the same two adds as in the first phase, with a new add as well
 	nat'maii vundu
@@ -52,7 +52,7 @@ windcaller - indicated by a message saying bismarck seizes control of the clouds
 	thunder - weather is thunderstorms
 		lightning bolt - aoes on three random players, make sure to spread out
 		thunderhead - two bigger hitting aoes on any vapor bubbles alive
-			if no vapor bubbles are alive, then players take these hits instead to leave the bubbles alive for thunder
+			if no vapor bubbles are alive, then players take these hits instead so leave the bubbles alive for thunder
 	wind - note that the weather is SHOWERS here, despite not being the rain phase
 		sharp gust - a knockback from the middle of the platform
 		rain storm - a doughnut aoe where the middle of the platform is safe

@@ -67,6 +67,7 @@ alluring arm
 tankbuster
 the path of light
 raidwide
+
 chanchala
 divine doubt
 the pall of light (empowered) - hits harder and leaves a bleed on anyone not using vril
@@ -74,6 +75,7 @@ blissful spear (circle + Z)
 divine desire - don't go into the vril aoe, stay on the edge, there is room to not get pulled in too far
 the pall of light (empowered)
 raidwide (empowered) - insta-kills anyone with a bleed and does very heavy damage otherwise, use vril to survive
+
 alluring arm
 the pall of light
 the path of light
