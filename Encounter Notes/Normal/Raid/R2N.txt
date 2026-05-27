@@ -1,0 +1,77 @@
+call me honey - raidwide
+
+honey beeline/tempting twist - one of two abilities, indicated by the moving spear images
+	honey beeline - a line aoe through her
+	tempting twist - a doughnut aoe centred on her
+tempting twist/honey beeline - opposite of the previous
+
+honeyed breeze - cone aoe tankbusters on both tanks
+
+honey beeline/tempting twist - now random
+
+honey b. live - enters into a mini-phase, doing a raidwide and giving out heart stacks
+	reaching three heart stacks stuns you and gives a vuln
+	everyone starts out on zero hearts
+
+love me tender - a spread aoe on each player that gives them a heart stack
+	then spawns four towers that give a heart stack to anyone who stands inside them
+	if not taken, they explode and give a heart stack to everyone
+
+loveseeker - a point-blank aoe that gives a heart stack, don't stand in it
+	this also spawns moving sets of hearts to dodge
+	getting hit gives you a heart stack, so avoid at all costs
+love me tender 2 - this time creates many big and small point-blank aoes around the arena randomly
+	each one will give a heart stack if you get hit, so dodge everything
+
+blow kiss - a cone aoe towards a random player that gives a heart stack to anyone hit
+
+love me tender 3 - spawns nine point-blank aoes in sequence, with eight around the edge and one in mid
+	dodge from the last one into the first
+
+blow kiss
+
+honey b. finale - a raidwide that resets the stage back to normal
+
+tankbusters
+
+splash/drop of venom - imbues her next attack with venom
+	splash - does a spread aoe on every player
+	drop - does a stack marker on a random player
+honey beeline/tempting twist - these now create honey blobs that explode into point-blank aoes
+	honey beeline creates eight in a 1-3-3-1 formation, leaving two safe spots near mid and four around the edge
+	tempting twist creates four on the edge at either the cardinals or intercardinals and four in mid towards the opposite, leaving four large safe spots near the edge
+	make sure to dodge first then stack or spread
+
+drop/splash of venom - opposite of the previous
+tempting twist/honey beeline - opposite of the previous
+
+alarm pheromones - spawns 16 groupbees around the edge that do line aoes insequence rotating around the arena
+	getting hit knocks you back so be very careful when dodging
+	then five more will spawn and do line aoes that make two opposite quadrants unsafe
+honey beeline - dodge this line aoe after the ones from the groupbees
+
+honey b. live 2 - another mini phase
+
+love me tender 4 - spawns two stack markers on random players that split four hearts between everyone in the stack
+	they also give vulns so don't overlap them
+	then spawns six towers one by one that each give heart stacks
+
+loveseeker + love me tender 5 - same as 2
+
+blow kiss
+honey b. finale
+
+tankbusters
+
+alarm pheromones 2 - spawns 16 groupbees around the edge that do line aoes baited towards random players
+	just dodge
+splash/drop of venom
+honey beeline/tempting twist
+drop/splash of venom - opposite of the previous
+	dodge the second set of line aoes from the groupbees after this
+tempting twist/honey beeline - opposite of the previous
+
+raidwide
+tankbusters
+
+loops from honey b. live 2 until defeated

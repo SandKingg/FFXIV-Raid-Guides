@@ -1,0 +1,56 @@
+lightning burst - aoe tankbusters on both tanks
+
+lightning express - spawns an array of lightning runes that will shoot line aoes either on the upper or lower parts of the platform
+	there is also a massive knockback along with this
+
+windpipe - a big draw-in followed by an aoe that hits the first two rows
+	either use knockback resist or hide behind something to stop the draw-in
+
+unlimited express - a big raidwide that knocks everybody onto the next car
+
+turret crossing - spawns turrets on the east and west sides that begin to telegraph line aoes
+	these aoes are stopped by boxes, so hide behind them to dodge
+
+lightning express - dodge turrets after this
+windpipe - dodge turrets after this
+tankbusters
+unlimited express
+
+head-on emission - telegraphs an aoe from either its jaws or headlamp
+	the jaws hits the lower part of the platform, the headlamp hits the upper part
+	this first one is always jaws
+head-on emission - always headlamp
+
+lightning express - only one of the upper platforms will be safe here
+tankbusters
+unlimited express
+
+runaway train - transports everyone to an alternate dimension for an add phase
+	aether surge + aetherial ray - a large cone aoe tankbuster from the circling ghost train targets one tank while the aether does cone aoes to dodge
+		make sure the tank stays at the edge near the ghost train to bait the tankbuster away from the group
+		the tankbuster will alternate tanks each time it is cast
+	loops until the add is destroyed
+	runaway train - big transition raidwide back to the original area
+
+shockwave - spawns two arms and does a raidwide
+
+arcane revelation - begins moving its hands together while an aoe telegraph appears at the front of the platform
+	get out before its hands clasp together to avoid the point-blank aoe
+	the telegraph then moves 3 times before the aoe goes off, indicated by an audio cue as the aoe does its final movement
+
+derailment siege - a three-hit stack tower
+derail - destroys the current car, make sure you've jumped to the next one before that happens
+
+arcane revelation - this time there will be two hits, with the aoe moving 5 times in total
+	so it will either be a 2-move followed by a 3-move or the other way around
+
+turret crossing
+head-on emission - dodge turrets after
+head-on emission - opposite of the previous, dodge turrets after
+lightning express/windpipe - random, dodge turrets after
+
+battering arms - another three-hit stack tower, but no derail after
+
+tankbusters
+
+loops from second arcane revelation until defeated

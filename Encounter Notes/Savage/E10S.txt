@@ -11,9 +11,9 @@ throne of shadow - the boss stands up and does a big, untelegraphed point-blank 
 giga slash - boss raises up one hand, then shadow slashes that side of the arena
 
 umbra smash - 4 hit big tankbuster, use invuln and swap after all four hits, but before the follow-up green marker attack
-2nd part - either shadow's edge or darkness unleashed
-	shadow's edge - big line aoe
-	darkness unleashed - targeted group soak, NOT with the first tank
+shadow's edge/darkness unleashed - a different follow-up attack based on the cast
+	shadow's edge - big line aoe, don't point it towards the group
+	darkness unleashed - a full party stack that the previous tank should not be in due to the vuln
 
 shadow cleave - targeted cone aoes on each player, spread to clocks and place them close to the edge
 	also creates clones directly on each player that tether to them
@@ -21,7 +21,7 @@ shadow cleave - targeted cone aoes on each player, spread to clocks and place th
 	two clones at a time get numbered with 1, 2, 3
 dualspell - a three hit stack
 	players with the respective numbered clone get magic vulns with that hit so they should stay out i.e. 1 players out on 1st hit, 2 players out on 2nd hit etc.
-shadowkeeper - all clones 'nothing personell' behind players before doing a small cone in front of them
+shadowkeeper - all clones 'nothing personnel' behind players before doing a small cone in front of them
 	start max melee at N/S, then rotate clockwise
 
 tankbuster combo
@@ -46,7 +46,8 @@ umbral orbs - 2 solo purple orbs and 2 orange orb clumps spawn on cardinals, the
 
 spawn shadow + shadow warrior - four clones spawn at cardinals and jump 5 times, including potential double backs
 	follow the clone that got tethered to the boss then stand at that edge
-umbral orbs 2 - assign relative leftmost/rightmost orbs to tanks and light parties then stand in those positions on the safe edge to be the closest players
+umbral orbs 2 - these orbs spawn offset from the cardinals, so that there are always four specific spots to stand in line with them from any wall
+	assign relative leftmost/rightmost orbs to tanks and light parties then stand in those positions on the safe edge to be the closest players
 
 raidwide
 
@@ -80,7 +81,7 @@ shackled apart - tethers all supports to all dps, make sure to stay apart
 	have supports stack north and dps stack south
 umbral orbs 4 + fade to shadow - start on squiggly safe spots, assign one light party to move clockwise, one light party to move anticlockwise
 	for two out of three patterns, you do light party movements first then 'role' movements - i.e. tanks move towards purple orbs, everyone else towards orange
-	if the SQUIGGLY line completely separates the purple and orange orbs (i.e. one half as both purple, one has both orange) then you do role movements FIRST and light party after
+	if the SQUIGGLY line completely separates the purple and orange orbs (i.e. one half has both purple, one has both orange) then you do role movements FIRST and light party after
 
 raidwide
 throne of shadow
@@ -96,8 +97,7 @@ shadowkeeper - stand slightly outside your tower, on the corner closest to the b
 		1 - have ranged + their clones take outside puddles, while melee + their clones take inside puddles
 		2 - pair up and bait 2 clones in the outside puddles, then have 2 players in the inside puddles
 	strat 2 is generally preferred
-
-shadowy eruption - puddles underneath each player, place these roughly in pitch bog spots
+shadowy eruption - puddles underneath each player, make sure to stay stacked with your partner to bait the puddles away from the towers
 voidgate 3 + shackled together - supports are tethered to dps again but they need to stay close this time
 	supports go to their respective colour-coded puddle and dps adjust to whichever support they get tethered to
 

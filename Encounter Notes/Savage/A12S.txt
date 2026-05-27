@@ -62,10 +62,10 @@ temporal stasis 2 - different debuffs this time
 	the other two dps get another tether
 	tanks
 		tether tank always flexes here either to south or on B
-		defamation tank goes east
+		defamation tank goes west
 	healers
 		tether healer always goes north on B
-		defamation healer goes west
+		defamation healer goes east
 	dps
 		tether dps go north on A, unless one needs to flex south for the tether
 		shared sentence dps go north, away from each other and stack with the two tethers, one on A and one on B

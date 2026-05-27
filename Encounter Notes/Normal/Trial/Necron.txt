@@ -1,0 +1,57 @@
+fear of death - a raidwide that spawns 8 hands around the arena that turn towards random players and do line aoes
+	watch where the hands point and dodge the aoes
+
+cold grip - slams both both arms on the left and right, with the glowing arm doing an expanded second hit
+	move into the non-glowing arm after it slams
+cold grip - this time the other hand will glow
+
+memento mori - shoots a line aoe through the middle that spawns five hands that do line aoes either east or west
+	the line aoe through middle persists and gives a nasty bleed, so make sure not to step into it
+
+blue shockwave - a massive cone aoe tankbuster
+
+soul reaping - stores either a doughnut or point-blank aoe
+aetherblight - releases the stored aoe
+
+soul reaping - stores the opposite aoe
+memento mori
+aetherblight
+
+grand cross - a big raidwide that transforms the platform into a smaller circle, ready for a mini-phase
+	two spinning aoes spawn that count down to when they will shoot line aoes, just dodge
+	dodge the sets of puddles that spawn as well
+	finally go to intercardinals to avoid the proximity line aoes
+neutron ring - another raidwide that returns the platform to normal
+
+add phase - progressively summons six icy hands
+	choking grasp - the icy hands do dodgeable line aoes towards the closest players
+
+darkness of eternity - a big raidwide that drags everyone into the shadow realm to kill adds before the doom expires
+	there will be three icy hands to kill, each of them doing dodgeable line aoes
+	use the light to escape the shadow realm after killing your adds
+
+specter of death - summons two giant hands that hit north, mid or south
+	if you get hit, you are dragged into the shadow realm again to kill your adds
+	make sure to go into the safe spot
+
+cold grip
+
+relentless reaping - stores two doughnuts and two point-blanks in a random order
+crop rotation - rotates to start at a random point in the sequence
+seasons of blight - executes the aoes in the order they were stored but starting at whichever one was selected by crop rotation
+
+mass macabre - creates four 4-player summoning circles that must be locked to prevent adds spawning
+fear of death
+
+cold grip
+
+soul reaping - a random aoe now
+memento mori
+specter of death
+tankbuster
+aetherblight
+
+grand cross
+neutron ring
+
+loops from relentless reaping until defeated
