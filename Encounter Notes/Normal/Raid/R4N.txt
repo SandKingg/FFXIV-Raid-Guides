@@ -1,0 +1,58 @@
+wrath of zeus - raidwide
+
+sidewise spark - does a half-room cleave towards the side the boss is indicating
+
+shadows' sabbath x2 - creates a clone at either east or west that casts sidewise spark
+	since the cleave will always hit north or south, you can point the boss east or west to help melees keep positional uptime
+
+wicked jolt - a line aoe tankbuster
+
+stampeding thunder - the boss flies north, creating a cannon and blasting five aoes towards where she's aiming
+	quickly run to the safe side to avoid the floor disappearing
+threefold blast - indicates three aoes on the sides of her cannons, corresponding to the other those sides of the platforms will get hit
+	the sides hit will always alternate here
+fourfold blast - the same again but this time there are four aoes
+	this time there will be most consecutive hits on the same side at one point in the patter, so beware
+
+wicked bolt - a multi-hit stack marker on a random player
+
+bewitching flight - the boss grows wings and flies north with lasers from the wings showing the unsafe parts of the floor
+	the wing aoes leave electric lines on the arena that grow and eventually explode
+	dodge three sets of puddles during this too
+sidewise spark - this time the indicator is on her wings, but it's the same mechanic
+
+raidwide
+
+shadows' sabbath 2 - sequentially creates four clones, one towards each of the cardinals, that each cast sidewise spark
+sidewise spark - this goes off after the final cleave from the clones
+
+raidwide
+tankbuster
+
+stampeding thunder
+fivefold blast - indicates five aoes this time
+	again there will be two consecutive hits towards the same side at one point
+thunderstorm - spread aoes on every player
+
+wicked bolt
+
+shadows' sabbath 3 - creates a clone at east that also has wings
+bewitching flight - dodge the aoes from both the boss and the clone
+	no puddles this time
+
+witch hunt - indicates many aoes in a spiral pattern either from a corner spiralling in or the middle spiralling out
+	these aoes explode at the same speed they are shown at, so be quick when dodging
+
+soaring soulpress - a stack marker on a random player
+
+raidwide
+tankbuster
+
+loops from shadows' sabbath 2 until <25%
+
+stampeding thunder - this is skipped if she goes below <25% during a loop of fivefold blast
+
+wicked hypercannon - a multi-hit line stack laser that hits the entire platform
+	there are two sets of puddles after this
+
+loops from wicked hypercannon until defeated

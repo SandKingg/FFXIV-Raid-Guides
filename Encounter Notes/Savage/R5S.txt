@@ -42,7 +42,7 @@ let's dance! - does half room cleaves in the direction that the frogs in the bac
 	players need to resolve their alpha and beta debuffs during this
 	stack on top of the player with the opposite debuff to you, but the same timer, to share the damage
 	failing to stack gives a bleed to both players
-let's pose! - stay still and don't attack, to get perfect groove
+let's pose! - if you did everything correctly, you get perfect groove
 
 flip to a-side/b-side
 
@@ -74,11 +74,11 @@ let's pose!
 
 frogtourage 2 - spawns two sets of two frogs that cast do the hustle in the order they spawned
 	one cardinal will be safe from both cleaves each time
-	do the hustle - a half-room cleave on the side indicated by the boss
-	back-up dance - four more frogs spawn in the middle, along with two that trace an aoe
-		dodge the aoe while baiting the cleaves away
-	back-up dance - the same again but the other four players need to bait
-	do the hustle - this time both frogs and the boss cleave at the same time, one eighth of the arena will be safe
+do the hustle - a half-room cleave on the side indicated by the boss
+back-up dance - four more frogs spawn in the middle, along with two that trace an aoe
+	dodge the aoe while baiting the cleaves away
+back-up dance - the same again but the other four players need to bait
+do the hustle - this time both frogs and the boss cleave at the same time, one eighth of the arena will be safe
 
 tankbusters
 funky floor

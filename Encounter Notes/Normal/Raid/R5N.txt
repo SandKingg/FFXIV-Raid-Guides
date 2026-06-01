@@ -1,0 +1,58 @@
+do the hustle - a half-room cleave on the side indicated by the boss
+
+2-snap twist - does two cleaves on the side indicated by the waveform, followed by a final cleave on the opposite side
+
+4-snap twist - does four cleaves on the side indicated by the waveform, followed by a final cleave on the opposite side
+
+deep cut - cone aoe tankbusters on both tanks
+
+funky floor - creates a checkerboard pattern of ground aoes that alternate every 4 seconds
+full beat - a stack marker on a random player
+
+disco infernal - a raidwide that gives everybody two debuffs and spawns four spotlights that move either up and down or left and right
+	one will be 17s and the other will be 35s
+	make sure you are in a spotlight once the debuff runs out or you're stunned and get a vuln
+do the hustle - happens between the two debuffs going off
+
+celebrate good times - raidwide
+
+ride the waves - does aoes on some tiles in each row that move down the arena, make sure to stay in the gap
+	each 'wave' takes up three rows at a time
+	there will be a second set of aoes that also moves down, but the gap will be on a different tile
+
+2/4-snap twist
+raidwide
+
+ensemble assemble - summons eight frogs in the background at north
+arcady night fever - imbues each frog in turn causing it to point left or right
+let's dance! - does half room cleaves in the direction that the frogs in the background are pointing, either left or right
+let's pose! - if you did everything correctly, you get perfect groove
+
+frogtourage - summons two frogs on the edges of the arena that dance through, tracing out aoes that only leave the middle column safe
+eighth beats - a spread aoe on every player
+	this goes off after the frogtourage aoes so you don't need to spread only in the middle column
+
+funky floor
+2/4-snap twist - dodge the floor aoes while staying on the correct sides for the cleaves
+
+raidwide
+
+disco infernal - this time everyone gets a 10s and 44s debuff, but there are only three spotlights
+frogtourage - the frogs spawn at the west this time
+	this one will either be a safe row through mid, or the aoes will overlap leaving two rows safe at north and south
+2/4-snap twist
+2/4-snap twist - after this the frogs will do the opposite aoe and you need to go into the correct spotlight for the second debuff
+
+2/4-snap twist
+tankbusters
+
+ensemble assemble + arcady night fever
+let's dance!
+let's pose!
+
+ride the waves
+
+2/4-snap twist
+raidwide
+
+loops from second disco infernal until defeated

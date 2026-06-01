@@ -92,7 +92,7 @@ megalith - a stack tankbuster
 
 tectonic uplift - marks two opposite quadrants that will rise up, while the other two stay down
 	dps should go north and supports should go south
-	one dps and one support get blue markers, they should fall sideways into the lower platforms and move to the corners while everyone else stays up
+	one dps and one support get blue markers, they should stay down on the lower platforms and move to the corners while everyone else gets knocked up
 	then blue, orange and yellow markers are spread to 1 dps and 1 support each such that everyone has a marker
 	the blue markers stay up, making sure to stand in the corners
 	the yellow markers fall into the lower quadrant with one weight of the land and spread to different tiles

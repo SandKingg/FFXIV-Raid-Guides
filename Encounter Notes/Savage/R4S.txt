@@ -45,10 +45,8 @@ wicked bolt - a multi-hit stack marker that hits 5 times
 
 ion cluster - gives everyone three stacks of either positron or negatron
 	one tank and one healer will get each debuff, and two dps will get each
-
 stampeding thunder - the boss flies north, creating a cannon and blasting five aoes towards where she's aiming
 	quickly run to the safe side to avoid the floor disappearing
-
 electron stream x3 - does three blasts from her cannon, with each giving some debuffs
 	her cannon has a positive and negative end, players need to get hit by the opposite blasts to their debuff
 	these blasts are wild charges so make sure tanks are closest to the boss

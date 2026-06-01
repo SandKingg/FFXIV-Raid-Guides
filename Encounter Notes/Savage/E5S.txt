@@ -11,7 +11,6 @@ executor summons - summons raiden who tethers to the player with the highest amo
 
 fury's bolt - empowers ramuh's next ability, causing it to instantly kill anyone without at least one orb stack
 	also removes one orb stack from anyone still alive
-
 raidwide (empowered)
 
 shock blast - a tankbuster on the tethered player that also despawns raiden
@@ -26,7 +25,6 @@ stormcloud summons - marks the four furthest players for stormclouds, and the fo
 levinforce - a big knockback and raidwide, use kb resist to avoid getting thrown into a cloud aoe
 
 fury's bolt - OPTIONAL
-
 tribunal summons (empowered?) - summons adds at north and south that charge through the arena
 	the north adds will just do line aoes, killing anyone hit
 	the south add will do a line aoe that is also a knockback
@@ -37,8 +35,8 @@ tribunal summons (empowered?) - summons adds at north and south that charge thro
 
 tankbuster
 raidwide
-fury's bolt
 
+fury's bolt
 thunderstorm (empowered) - causes loads of small aoes to begin spawning on the ground while also marking each role for a spread aoe
 	either all supports will spread first, or all dps
 
