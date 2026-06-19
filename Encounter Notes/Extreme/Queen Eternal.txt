@@ -7,7 +7,7 @@ virtual shift (wind) - a big raidwide that transitions the platform to another s
 
 laws of wind - two light party stacks on each healer that leave persistent tornadoes, place them NW and SE on the hourglass 'spokes'
 	also gives everyone a debuff that will knock them to the left or right once it expires
-	make sure to move out of the tornadoes onec they spawn
+	make sure to move out of the tornadoes once they spawn
 
 missing link - chains all dps to all supports, which need to be broken
 	have dps run NE and supports run SW
@@ -63,8 +63,10 @@ atomic ray - gives every player a massive point-blank aoe on them, so they need 
 absolute authority - does periodic pulsing raidwide damage while also giving every player some debuffs
 	either all supports or all dps will get flares, and the other role will get a stack
 	every player also gets an abandonment debuff
-	start in the NW corner and move along the hitbox edge dropping puddles, then the flares split off and go towards the midpoint and east corners of north/south
-	the other role stays stacked, then the flares stack with each other in north and south for abandonment
+	start in the middle, then melees go north and ranged go south dropping four sets of puddles
+	move towards light party sides once you get to the edges of the arena
+	the role with the stack stacks in the middle, while the flares stay halfway between the corners and middle
+	then, everyone stacks mid for abandonment
 	finally, there is a big knockback from north but this can easily be knockback resisted
 
 virtual shift (ice)

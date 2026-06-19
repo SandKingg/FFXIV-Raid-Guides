@@ -1,0 +1,68 @@
+alexandrian thunder iv - indicates a point-blank and doughnut in either order, that go off in the order they appeared
+
+shock - gives everyone a point-blank aoe that is placed once the timer runs out and persists for a few more seconds
+	run out of it immediately to avoid taking too much damage
+
+power break - does a half room cleave indicated by which side the boss's sword is pointing
+
+alexandrian thunder iv - opposite of the previous
+
+holy hazard - indicates two 120-degree cleaves on opposite sides of the boss, aligned such that they both touch the east-west line
+	then it switches to another set, where the safe spots are adjacent on the east and west sides
+
+specter of the lost - cone aoe tankbusters on both tanks
+
+thunder slash - indicates a point-blank and doughnut in either order, along with six cone aoes
+	the cone aoes always alternate, starting north and going clockwise
+
+holy hazard
+
+perfumed quietus - a knockback from the centre followed by a big transition raidwide
+
+roseblood bloom - makes the middle of the boss unsafe and transforms the arena into six segments, with two opposite ones being red
+	standing under the boss gives you a nasty bleed
+alexandrian thunder iii - places four rose aoes on the arena with two overlapping the red segments
+	they explode in the order they appeared and any that touch a red segment also explode that segment
+
+roseblood bloom 2 - this time four segments are red with the two normal segments opposite each other
+alexandrian thunder iii
+power break - dodge the aoes and exploding segments on the correct side of the boss
+
+shock
+
+stock break - a multi-hit stack marker on a random player
+
+roseblood bloom 3 - this time three alternate segments are red
+roseblood drop - creates an orb that travels to a non-red segment, turning it red
+alexandrian thunder iii
+power break - stand in the non-red segment on the correct side of the boss
+
+roseblood bloom 4 - this time two opposite segments are red
+roseblood drop
+holy hazard - dodge where both safe spots are on non-red segments
+
+valorous ascension - creates two sets of two slashes towards the east
+	the slashes do line aoes through the arena in the order they spawned
+shock - these go off right after both line aoes
+power break
+
+thorned catharsis - raidwide
+
+roseblood bloom 5 - this time three alternate segments are red
+roseblood drop
+alexandrian thunder iv - these aoes also explode red segments
+	dodge in and out in a non-red segment
+valorous ascension - three rose aoes spawn during this
+	the rose aoes go off at the same time as the first line aoes, so dodge both in a non-red segment
+power break
+
+thunder slash
+tankbusters
+
+rosebud bloom 6 - same as 4
+roseblood drop
+holy hazard
+
+stock break
+
+loops from valorous ascension until defeated

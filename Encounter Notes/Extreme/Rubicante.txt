@@ -2,7 +2,7 @@ inferno - raidwide
 
 ordeal of purgation - summons three concentric rings on the arena with some rotating around
 	there are runes at the edges that summon a cone (triangle) or half-room cleave (rectangle)
-	follow the fireball's path with your eyes to see which r une it ends up at and activates
+	follow the fireball's path with your eyes to see which rune it ends up at and activates
 	the runes WILL move with the outer ring
 	you get bound before the effects go off so no adjusting
 ordeal of purgation 2 - summons two fireballs that will both activate a rune

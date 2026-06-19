@@ -115,8 +115,8 @@ parted plumes - spawns a puddle in the centre of the platform that shoots out tw
 	start on the final one and quickly move into the first after it's fired
 	exactly the same as normal, just a bit faster
 pandaemoniac ray
-
 circles of pandaemonium/pandaemon's holy
+
 silkspit
 pandaemoniac pillars + circles of pandaemonium/pandaemon's holy
 pandaemoniac meltdown
