@@ -53,7 +53,7 @@ grotesquerie 4 - gives everyone a delayed knockback debuff and a delayed cone de
 burst - two expanding aoes appear, use the knockback to avoid them
 	do the cones after this
 
-loops from ??? until defeated
+loops from tankbusters after first loop until defeated
 
 mindless flesh - a series of line aoes and raidwides, with a spread aoe on every player, then finally a massive cleave towards one side of the room
 splattershed

@@ -1,0 +1,67 @@
+brutal impact - a multi-hit raidwide
+
+stoneringer: the stabbing/bludgeoning - causes one of his weapons to glow, indicating what type of aoe the next brutish swing will be
+	stabbing - sword glows, doughnut aoe
+	bludgeoning - club glows, point-blank aoe
+brutish swing - does the stored aoe, along with a double-stack tankbuster
+
+spore sac - spawns four aoes in a 'shuriken' pattern along the edges
+	these then propagate outwards into three more aoes, leaving two opposite corners safe, along with two opposite safe spots in mid
+	the mid safe spots are oriented towards the unsafe corners
+pulp smash - a stack marker on a random player
+	the boss jumps towards them, leaving a point-blank aoe and doing several cone aoes from the impact point
+	the spore sacs now spawn four adds that begin casting, these casts can be interrupted
+		crossing crosswinds - a big plus shaped aoe, 3 adds cast this
+		winding wildwinds - a doughnut aoe, 1 add casts this
+quarry swamp - petrifies anyone who isn't hiding behind the corpse of a dead add
+	getting petrified will one shot you when you next take damage
+explosion - three proximity aoes from north, SE and SW that go off in the order they appear
+
+stoneringer: the bludgeoning/stabbing + brutish swing - opposite of the previous
+
+neo bombarian special - a big raidwide that knocks everyone far into the air
+	use this to get knocked onto the next platform
+
+stoneringer: the bludgeoning + brutish swing - he's now attached to the building, there are no tankbusters this time
+
+stoneringer: the stabbing + brutish swing - he'll jump over to the western building before doing the doughnut, indicated by a large vine tether
+
+glower power - gives every player a spread aoe and does a line aoe in front of him
+
+abominable blink - a flare marker on a random tank
+
+revenge of the vines - raidwide
+
+stoneringer: the stabbing
+sporesplosion - creates three sets of several aoes on the platform to dodge
+	stay in the final set to appear, then move into the first once it goes off
+brutish swing - try to stay further east as he will jump to the eastern building here
+glower power
+
+powerslam - a raidwide that smashes the platform, sending everyone plummeting into the building
+
+stoneringer 2: stoneringers - grows both weapons
+spore sac
+brutish swing - look which weapon is glowing to see which aoe it will be and look at the vine tether to see which wall he'll jump to
+	the spore sacs grow after the aoe from this
+lashing lariat - a massive cleave on the glowing side, also including most of his body
+	the adds from spore sac spawn after this, though they no longer do the interruptible casts
+brutish swing - opposite of the previous
+slaminator - a massive stack tower in the centre of the arena
+quarry swamp
+
+raidwides
+stoneringer: the stabbing/bludgeoning + brutish swing - this one has a buster
+pulp smash
+
+stoneringer 2: stoneringers + brutish swing
+glower power
+lashing lariat
+brutish swing - opposite of the previous
+raidwide
+slaminator
+
+raidwides
+stoneringer: the bludgeoning/stabbing + brutish swing - opposite of the previous stoneringer
+
+loops from first stoneringer 2: stoneringers until defeated

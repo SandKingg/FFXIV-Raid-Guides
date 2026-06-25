@@ -9,7 +9,6 @@ wingmark - gives every player a wing debuff that will cause them to get launched
 
 color clash - fires her gun twice or four times, indicating a stack on both healers or all supports/all dps respectively
 	this happens later
-
 double style - paints some objects on the arena
 	morbol - does a bad breath cleave in the direction it's facing
 	succubus - does a massive dark mist point-blank aoe
@@ -30,7 +29,7 @@ sugarscape - transforms the arena into a desert, giving everybody a small, perma
 	one dps gets a crowd brulee debuff with the same timer as the shorter explosion debuffs
 		this is a stack, so everybody not resolving a brulee debuff needs to stack with this player
 
-layer (cactus) - paints a cactus onto the landscape, creating expanding cacti on the arena that explode into large point-blank aoes
+layer (cacti) - paints cacti onto the landscape, creating expanding cacti on the arena that explode into large point-blank aoes
 	just dodge
 	the shorter timer debuffs explode after this
 

@@ -1,0 +1,75 @@
+{skipped if you wiped to him previously in the instance}
+giga slash - indicates either left or right for a 225-degree cleave, then the opposite side for a 270-degree cleave
+
+umbra smash - indicates line aoes towards all four cardinals in sequence
+	these line aoes then propagate outwards through the arena
+
+giga slash
+
+flames of hatred - raidwide
+
+implosion - holds up two orbs in his hands and indicates two semi-circle aoes
+	one orb will start glowing more powerfully, and that side's aoe will expand into a half-room cleave
+
+cthonic fury - a big raidwide that transitions the arena into four connected circles
+
+{the first one is skipped if you wiped to him previously in the instance}
+burning court/moat - creates a dark sigil around each of the four circles with spikes either pointing inwards or outwards
+	court - inward spikes, a point-blank aoe
+	moat - outward spikes, a doughnut aoe
+burning moat/court - opposite of the previous
+
+dark nebula - a big line knockback, make sure you get knocked through one of the edges connecting the circles
+
+implosion
+
+burning court/moat + burning keep/battlements - pairs the four sigils before with a large square sigil around the inner part of the arena
+	keep - inward spikes, a big point-blank aoe
+	battlements - outwards spikes, a big doughnut aoe
+
+echoes of agony - a mulit-hit stack marker on a random player
+
+cthonic fury - a big raidwide that transitions the arena back to normal
+
+nightfall - jumps north and begins a long transition sequence
+tera slash - a massive raidwide
+
+giga slash: nightfall - same as before, but now indicates a third slash either in front or behind him, telegraphing a 210-degree cleave in that direction
+
+shadow spawn - creates two lordly shadow clones that will copy his abilities later
+giga slash: nightfall
+giga slash - cast by the first clone, dodge near that one
+implosion
+implosion - cast by the second clone, always perpendicular to the boss's implosion cast
+
+unbridled rage - line aoe tankbusters on each tank
+dark nova - spread aoes on random players
+
+echoes of agony
+
+binding sigil - indicates three sets of large point-blank aoes that go off in sequence
+	anyone caught by them is bound and unable to act
+damning strikes - drags three players bound by the sigils near him, suspending them in the air
+	everyone else bound takes a burst of damage and gets a vuln
+	then, creates three stack towers that he slams the suspended players down towards in sequence
+
+cthonic fury - transitions the platform again
+
+dark nebula 2 - indicates four line knockbacks in sequence
+	make sure you get knocked down the edge that will be safe for the next knockback
+giga slash: nightfall - use the final knockback to get in position for the first slash
+
+burning court/moat + burning keep/battlements
+
+dark nova
+cthonic fury - returns the platform to normal
+
+shadow spawn
+umbra smash
+umbra smash - both clones cast this at the same time, aiming through mid
+	stay next to the intersection of the aoes and then dodge into mid after the first hit
+giga slash: nightfall
+
+doom arc - a big raidwide + bleed, that also gives the boss a damage up
+
+loops from first giga slash: nightfall until defeated

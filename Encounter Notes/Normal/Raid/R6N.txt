@@ -1,0 +1,59 @@
+mousse mural - raidwide
+
+single style (bombs) - draws three bombs at the indicated points on the arena, that explode into point-blank aoes
+
+single style (winged bombs) - draws three winged bombs at the indicated points on the arena, that jump over to the other side before exploding
+
+single style (arrows) - draws eight arrows at the indicated points on the edges, that do line aoes through the arena
+	these will always be on adjacent edges so the aoes intersect, make sure to stand in a safe spot
+
+single style (target) - draws a target in the middle of the arena, either facing north/south or east/west
+single style (arrows) - draws twelve arrows on the edges facing the target, that do line aoes towards the target
+	you can get melee uptime here if the boss doesn't move
+
+pudding party - a multi-hit stack marker
+
+color riot - aoe tankbusters on both tanks
+
+sugarscape - transforms the arena into a desert
+
+layer (sun) - paints the sun onto the landscape, giving everybody a small, permanent dot that lasts until the desert fades
+
+layer (cacti) - paints cacti onto the landscape, creating expanding cacti on the arena that explode into large point-blank aoes
+
+layer (quicksand) - paints quicksand onto the landscape, creating a large quicksand aoe that pulls anybody caught in it down to their deaths
+	the quicksand pit only leaves the four corners safe, to the party should all go towards one of them
+	the pit then moves to be centred at the midpoint of one of the edges, and more cacti spawn
+	dodge the cacti while staying out of the quicksand
+mousse touch-up - spread aoes on every player
+	these go off after the cacti stop exploding
+
+raidwide - returns the arena to normal
+tankbusters
+
+double style - paints two out of the four styles seen previously: bombs, winged bombs, arrows, or target
+	the target will always be painted with arrows, but arrows can also be paitned with bombs or winged bombs
+
+double style - a different pair from the previous
+
+pudding party
+
+sugarscape 2 - turns the arena into a riverscape, the river gives fire vuln down and lightning vuln up
+
+taste of fire/thunder - paints either fire or thunder
+	fire does stacks on both healers, make sure to stand in the river
+	thunder does spread aoes on every player, don't stand in the river
+
+taste of thunder/fire - opposite of the previous
+raidwide
+
+layer (rain) - paints a storm onto the landscape, making the river deadly and doing several sets of small point-blank aoes to dodge
+
+layer (thundercloud) - paints a thundercloud onto the landscape, creating a tempest that moves around the arena
+	highlightning x3 - a massive point-blank aoe from the tempest, stay away from it
+		the tempest moves after each highlightning cast, and the point-blank aoes begin again
+
+raidwide - returns the arena to normal
+tankbusters
+
+loops from double style until defeated

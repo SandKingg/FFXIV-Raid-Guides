@@ -1,0 +1,66 @@
+extraplanar pursuit - raidwide
+
+great divide - a double-stack line aoe tankbuster
+
+wolves' reign (point-blank) - does a small point-blank aoe around him, while indicating three directions that more small point-blank aoes will spawn in
+	he then jumps to a random cardinal or intercardinal
+wolves' reign (line) - charges through the arena to the other side, doing a line aoe
+wolves' reign (cleave) - a massive cone aoe cleave in front of him, stay at his sides to dodge
+
+wolves' reign (combo) - the same again, i'll just be noting this down as one cast from now on instead of three
+
+heavensearth - a stack marker on a random player
+
+beckon moonlight - summons a clone at each of the cardinals that will do moonbeam's bite half-room cleaves in the direction their swords are pointing
+	the cleaves happen in the same order they appeared in
+	opposite clones will always cleave opposite halves of the arena, so you can stand in the safe spot for the first two then quickly move through mid to dodge the other two
+
+shadowchase - spawns five images of the boss that do shadowchase line aoes in front of them
+	pick one and hide behind it
+
+bare fangs - spawns two sets of two gleaming fangs that do fanged charge line aoes in the direction their lasers are pointing
+	the aoes happen in the same order as they spawned in, so dodge one then move into the other
+	the first set will either be both in mid or both at the edges and vice versa
+terrestrial rage - three sets of puddles underneath random players
+	the first one doesn't go off until the third one spawns so you can wait to bait the second before moving
+
+heavensearth
+
+tactical pack - spawns a wolf of stone and a wolf of wind that need to be killed
+	weal of stone + growling wind - line aoes from the wolf adds
+	gust - a spread aoe on every player
+	heavensearth
+ravenous saber - a big mulit-hit raidwide
+
+wolves' reign (combo) (empowered) + weal of stone - now casts much quicker, and there are two wolves that do line aoes after the cone cleave
+	you have a bit of time to adjust before the line aoes go off
+
+terrestrial titans - summons three sets of three massive stone pillars in a triangle formation
+titanic pursuit x3 - cuts the pillars, indicating which way they will fall
+	dodge the falling pillars
+	each new set of pillars spawns halfway between the old set
+
+raidwide
+tankbuster
+
+bare fangs - this time both sets will have one towards mid and one towards the edge
+	make sure to stay in mid first, then move out
+wolves' reign (combo) (empowered) + weal of stone
+
+shadowchase (empowered) + roaring wind - another set of bare fangs appears here
+	dodge them, then hide behind the images
+	quickly move clockwise to dodge the next line aoes from the wolves
+
+raidwide
+
+tracking tremors - a multi-hit stack marker on a random player
+
+beckon moonlight (empowered) + weal of stone - now goes off much faster, but the same dodge still works
+	there will be a criss-cross of line aoes immediately after, so run to a safe spot on the edge
+terrestrial rage
+
+raidwide
+tracking tremors
+tankbuster
+
+loops from first wolves' reign (combo) (empowered) until defeated
