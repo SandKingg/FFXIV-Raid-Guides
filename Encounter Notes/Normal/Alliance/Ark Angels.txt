@@ -1,0 +1,75 @@
+abilities will be prefixed with the caster's abbreviation
+
+(MR, GK, TT) the decisive battle - gives each alliance a debuff meaning they can only attack one of the bosses
+	A attacks MR, B attacks GK and C attacks TT
+
+(MR) cloudsplitter - aoe tankbusters on each tank
+
+(GK) meikyo shisui - a series of abilities back-to-back
+	tachi: yukikaze - two criss-cross line aoes
+	tachi: gekko - a gaze attack that happens right after the second criss-cross
+	tachi: kasha - an expanding point-blank aoe
+	concerted dissolution - six expanding cone aoes from where the gaze happened
+	light's chain - a doughnut aoe from the centre of the kasha point-blank
+
+(TT) meteor - an interruptible cast that wipes the raid if it goes off
+
+(MR) havoc spiral - three cone aoes from the centre that rotate in the direction of the arrows
+(MR) spiral finish - a big knockback from the centre of the arena
+
+(GK) dragonfall - stack markers on one random player in each alliance
+	stack with your alliance's stack here
+
+(TT) guillotine - jumps to a random point near the edge and telegraphs a massive room-wide aoe that cleaves everything multiple times except a small spot behind him
+	the decisive battle debuffs fall off once the bosses despawn after this
+
+(HM) utusemi - creates five clones that tether to random players, chasing them and instantly killing them if they reach them
+(EV) dominion slash - creates several pulsing zones on the floor that knock you in the air and give a vuln if you run into them
+(HM) cross reaver - slashes a plus shape through the arena that expands out into a big plus aoe
+
+(EV) holy - raidwide
+
+(EV) proud palisade - erects an ark shield that protects the HM from all damage while he's casting
+	destroy the shield by attacking from the front
+(HM) mijin gakure - an interruptible cast that wipes the raid if it goes off
+	can only be interrupted after the ark shield is destroyed
+
+(MR) rampage - telegraphs four line aoes, followed by a massive point-blank aoe at the end of the fourth
+	the boss then leaps through the arena, doing those aoes in sequence
+	she becomes targetable again after this
+
+(TT) guillotine - he becomes targetable again while casting this
+
+(GK) meikyo shisui - he becomes targetable again before casting this
+(HM) cross reaver - this goes off after the light's chain doughnut
+(TT) meteor
+
+(EV) arrogance incarnate - a multi-hit stack marker on a random player
+
+(MR) cloudsplitter
+
+(MR) rampage
+(TT) guillotine
+
+(HM) mighty strikes - a multi-hit raidwide
+(HM) critical reaver - an interruptible cast that wipes the raid if it goes off
+
+(EV) dominion slash
+(MR) havoc spiral
+(MR) spiral finish
+(TT) meteor
+
+(GK) meikyo shisui
+(HM) cross reaver
+
+(MR) cloudsplitter
+
+(HM) raiton - a massive raidwide (?)
+(EV) dominion slash
+(HM) cross reaver
+
+(GK) dragonfall
+
+(EV) arrogance incarnate
+
+loops from rampage after cloudsplitter until defeated

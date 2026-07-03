@@ -1,0 +1,93 @@
+legitimate force - two hands will start glowing one by one, either both on the same side or each on different sides
+	then she will cleave those sides in order
+	the higher hand is always the first one to glow and the first cleave to go off
+
+aethertithe - small, persistent raidwide damage that also turns the floor into contour lines
+	there will be three lines that bend towards her, indicating where cone aoes will be
+	dodge away from each of the cones
+
+coronation (point-blanks) - sends tracking aoes after each player one by one
+	once they lock on to your position, they stop briefly before doing a point-blank aoe
+	move out after they lock on
+prosecution of war - tankbuster
+
+legitimate force
+
+virtual shift (wind) - a big raidwide that transitions the platform to another stage
+
+coronation (tethers & doughnut) - tethers two players to a movable line aoe
+	the aoe will always move to be halfway in between those to players, on its axis of movement
+
+downburst - a radial knockback from one of the corners of the hourglass
+	this is followed by a doughnut aoe from the drones
+
+powerful gust - a big knockback from either the east or west
+	get knocked across the straight edges of the hourglass
+
+virtual shift - returns the platform to normal
+
+coronation (tethers)
+aethertithe
+
+tankbuster
+legitimate force
+
+royal domain - raidwide
+
+legitimate force
+
+loops from tankbuster after coronation + aethertithe until <65%? hp
+
+virtual shift (earth) - everyone starts floating over the void
+
+castellation - creates a virtual castle wall with some holes in, stand in line with the upper holes to fit through
+	after this everyone needs to stand over a platform to avoid falling into the void
+
+castellation - this time, fit through a lower hole
+	then everyone will float, and a second castle wall spawns, so fit through an upper hole this time
+
+legitimate force - dodge the second cleave over a platform so you don't fall
+
+virtual shift - returns the platform to normal
+
+coronation (doughnut)
+legitimate force - the doughnut only goes off after these cleaves
+
+raidwide
+tankbuster
+
+loops from coronation + legitimate force until <50%? hp
+
+absolute authority - does lots of small mini-raidwides while several mechanics happen
+	first, dps get flares that should be taken to the corners
+	then everyone gets abandonment debuffs that need to be stacked with at least one other person while dodging puddles
+	then healers have gazes on them while everyone else has acceleration bombs and there's another set of puddles
+		you need to find a safe spot quickly here to avoid getting hit by the puddles and/or the acceleration bombs
+	then one final set of puddles and a raidwide
+	doing this properly gives you a free LB3 for healers to use if needed
+
+divide and conquer - marks every player with a line aoe in sequence, then fires towards them in the same sequence
+	after every player has been hit, the lines hit every player again all at once, so don't overlap them
+
+coronation (doughnut)
+aethertithe - the doughnut goes off between the second and third cones
+
+coronation (point-blanks)
+tankbuster
+divide and conquer
+
+raidwide
+legitimate force
+
+loops from coronation + aethertithe until <34%? hp
+
+absolute authority 2 - only the dps flares actually happen this time, before wuk lamat jumps in
+
+dynastic diadem - a doughnut aoe
+
+royal banishment - a multi-hit raidwide with two sets of cone aoes to dodge
+	move from the second set into the first after it goes off
+
+royal banishment
+
+loops from dynastic diadem until defeated

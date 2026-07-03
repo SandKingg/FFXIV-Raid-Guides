@@ -8,13 +8,11 @@ virtual shift (wind) - a big raidwide that transitions the platform to another s
 laws of wind - two light party stacks on each healer that leave persistent tornadoes, place them NW and SE on the hourglass 'spokes'
 	also gives everyone a debuff that will knock them to the left or right once it expires
 	make sure to move out of the tornadoes once they spawn
-
 missing link - chains all dps to all supports, which need to be broken
 	have dps run NE and supports run SW
-
 legitimate force - one hand on each side will begin glowing in order, before doing a half room cleave on that side
 	the higher hand is always the once that glows first and cleaves first
-	immediately after this run to the edge for your knockback debuffs
+	immediately after this, run to the edge for your knockback debuffs
 
 world shatter - a raidwide that returns the platform to normal
 
@@ -44,7 +42,6 @@ meteor impact x2 - every player will get a meteor aoe which drops a meteor onto 
 		other strats do exist e.g. L strat or penis strat
 	for the second hit, move over the void to drop your meteor off the platform
 	if two meteors are too close, they explode and wipe the raid
-
 weighty blow - spawns four spheres on each side that home in on players on that side one by one
 	if a sphere hits a meteor, it dies and the meteor crumbles
 	hide behind the back meteors, then move across once both in that line are destroyed
@@ -114,7 +111,8 @@ dimensional distortion - creates fast-moving exaflares from north
 
 tyranny's grasp - turns the north half of the platform into a death zone and creates two tankbuster towers at east and west
 	tanks tank the one on your light party side and use cooldowns
-	then she follows up with dying memory mini-raidwides
+
+dying memory - a multi-hit raidwide
 
 royal banishment - a multi-hit line stack with one final delayed hit at the end
 

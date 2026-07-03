@@ -1,0 +1,44 @@
+banishga - raidwide
+
+{the first one is skipped if you wiped to her previously in the instance}
+knuckle sandwich - powers up 1, 2, or 3 times then slams down, doing a point-blank aoe up to the respective ring
+	then a doughnut aoe up to the respective ring
+	1 - yellow
+	2 - orange
+	3 - purple
+knuckle sandwich - a different amount of power-ups compared to the previous
+
+nullifying dropkick - a triple-stack tankbuster
+
+banish storm - spawns two staves that each have three arrows, indicating where aoes will travel through the arena
+	dodge between two of the aoe paths
+
+holy - spread aoes on random players that give light vuln, so don't overlap
+
+crystalline thorns - creates an array of thorns across the platform
+auroral uppercut - powers up 1, 2, or 3 times then launches everyone to the distance indicated by the respective trajectory
+	1 - yellow
+	2 - orange
+	3 - purple
+
+banishga iv - spawns an array of light orbs that start explpoding into point-blank aoes
+	the aoes either start from the middle or from the edge, then travel outwards or inwards respectively
+
+{skipped if you wiped to her previously in the instance}
+crystalline thorns + auroral uppercut
+
+asuran fists - a multi-hit stack tower
+
+banish storm - spawns three staves this time
+knuckle sandwich
+
+tankbuster
+
+banishga iv - the aoes propagate in the opposite direction to the previous
+crystalline thorns - standing on the thorns only gives vuln up so it's safe to dodge the aoes on them
+	make sure you are in a non-thorn spot once the uppercut goes off though
+auroral uppercut
+
+holy
+
+loops from asuran fists until defeated

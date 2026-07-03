@@ -1,0 +1,61 @@
+dark matter blast - raidwide
+
+offensive posture - does a different attack based on fafnir's animation
+	this one will always be spike flail, a 270-degree cleave behind him, so stay in front
+
+{skipped if you wiped to him previously in the instance}
+offensive posture - this one will always be touchdown, a massive point-blank aoe that stuns anyone that gets hit
+
+{skips to here when <75% hp?}
+offensive posture - this one will always be dragon breath, a doughnut aoe that leaves persistent fire on the ground
+offensive posture - always touchdown, the fire from the foughnut disappears in the same order it spawned in, so wait near where it started then run out
+
+offensive posture - spike flail
+
+baleful breath - a multi-hit line stack
+
+sharp spike - aoe tankbusters on each tank
+
+darters - spawns four darter adds in the arena that cast pestilent sphere at their target
+	just grab them and kill them to get them out of the way
+
+hurricane wing - a multi-hit raidwide that starts a mini-phase
+	fafnir jumps to the north and creates three large rotating aoes that circle the edge of the arena, along with either an expanding aoe from mid or a contracting aoe from the edge
+	small tornadoes also spawn that moves slowly through the arena
+horrid roar - creates small puddles under random players
+horrid roar - more puddles
+horrid roar - this time gives large spread aoes to random players
+horrid roar - more puddles
+
+offensive posture - spike flail
+baleful breath
+
+absolute/winged terror - either a big line aoe through mid or two line aoes on each side respectively
+darters - spawns seven darters this time
+winged/absolute terror - opposite of the previous
+
+raidwide
+
+horrid roar - three sets of puddles
+offensive posture - dragon breath
+offensive posture - either spike flail or touchdown
+	if it's spike flail, he'll always turn 180-degrees so the cleave is aimed towards where the fire started
+
+tankbusters
+
+hurricane wing
+horrid roar x2
+absolute/winged terror
+
+offensive posture - spike flail
+baleful breath
+raidwide
+
+horrid roar
+darters
+offensive posture - dragon breath
+offensive posture - touchdown or spike flail, opposite of the previous?
+
+tankbusters
+
+loops from second hurricane wing until defeated
