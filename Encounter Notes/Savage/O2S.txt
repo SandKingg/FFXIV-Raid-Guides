@@ -18,10 +18,12 @@ evilsphere - tankbuster
 
 maniacal probe - marks each support with a tentacle marker that should be taken to the cardinals
 death's gaze - look away
-epicenter - channels energy into each tentacle, eventually one will stop charging and become safe
+epicenter - channels energy into each tentacle, eventually one will loes its icon, indicating that cardinal will be safe from aoes later
 raidwide
 gravity - make sure people stay stacked while running to the safe spot so they can be brought down to the ground
-main quake - the unsafe tentacles will explode into big aoes
+main quake - the big aoes go off
+	there will always be three aoes, with one cardinal missing an aoe, even if the tentacles are misplaced
+	this means you can get lucky and still find the safe cardinal if the tentacles aren't placed properly
 
 raidwide
 gravitational manipulation
