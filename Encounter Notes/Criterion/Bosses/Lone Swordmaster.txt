@@ -1,0 +1,84 @@
+steelsbreath release - raidwide
+
+near to/far from heaven - marks one player with a red marker, two players with 1 and 2 markers, and indicates either one or two swords around the boss
+	the 1 marker either does a point-blank or a doughnut around them, respectively, based on the cast
+	then the boss jumps to the marked player doing an enumeration based on the number of swords
+	if the enumeration is wrong, players get thrown into the wall
+	at the same time, the 2 player does the opposite aoe from before
+
+malefic quartering - gives everyone a compass debuff indicating which sides they cannot take damage from
+	either two players will have their north safe, and two their south, or the same but east/west
+shifting horizon - either a north/south cleave or an east/west cleave that spawn slashes on the outside
+	if the safe sides were north/south, then the cleave will be east/west and vice-versa
+	position yourself on the same side as your safe spot
+malefic portent - two tethers spawn that will give an extra 'bad side' to whoever takes them, indicated by the green arrows
+	the tethers will always spawn one per pair of players with the same safe side, and the bad side it gives will always be the one safe side left
+unyielding will - directional slashes home in on players from the edge
+	position yourself so that the slash hits you on your good side
+	meanwhile the tethers need to be taken by the players not targeted for unyielding will
+
+echoing orbit/eight - spawns a big point-blank aoe underneath every player
+	these then turn into either doughnut aoes or star aoes respectively, based on the cast
+waiting wounds - three sets of three aoes that go off in the order they spawn
+	move from the third set into the first once it goes off
+
+near to/far from heaven
+
+silent eight - gives every player a big spread aoe that spawns a star aoe after it goes off
+	place these in the corners, then run back to mid while dodging the stars
+maw of the wolf - turns towards a random player, then does a big half-room cleave in front of her
+
+fangs of the underworld - a big multi-hit line stack
+
+raidwide - this also creates four unsafe rectangles, making the aoe into a sort of shuriken shape
+
+malefic quartering 2 - this time everyone gets two safe sides that are always opposite each other
+	two players get north/south safe and two get east/west safe
+	try to roughly position near one of the safe 'points' of the shuriken that matches one of your safe sides
+steel horizon - either a north/south cleave followed by an east-west cleave, or vice versa
+	these also spawn both big and small slashes on the sides of the arena
+silent heat + unyielding will + will of the underworld - everyone gets a spread aoe, as well as a directional arrow from the small slashes
+	you need to place your spread aoe in one of the 'points' of the shuriken while also making sure that you're not getting hit on a bad side by either the big slashes or the small slash tethered to you
+	always go into a safe spot that matches one of your safe sides, to reduce the chance of collisions
+	i.e. north/south safe sides will go north and south, and same for east/west
+	if you get tethered to one of the small slashes that matches your safe side (e.g. a north/south player gets tethered to the north or south slash) then you MUST go into the safe spot directly opposite it
+	otherwise, you can choose which spot to go to, but don't accidentally take away a safe spot from someone who would need to go there
+
+near to/far from heaven
+
+malefic quartering 3 - this time everyone gets two safe sides that are always adjacent to each other
+cardinal horizons - either a north/south cleave followed by an east-west cleave, or vice versa
+	these also spawn big slashes at the edges of the arena
+	once the slashes spawn, you can already look at which quadrant you'll need to dodge in
+maw of the wolf - move immediately into the safe quadrant after the cleave
+will of the underworld x3
+malefic portent - gives everyone a tether, so one of your safe sides will always become a bad side
+	look at which 'point' of the shuriken you need to dodge in
+will of the underworld
+malefic alignment - indicates four directional aoes that give players 'bad sides' from where they were hit
+	i.e. the aoe travelling north gives you a south 'bad side' and vice versa
+	everyone should have exactly one safe side, so stand in the aoe that will hit you from there
+
+fangs of the underworld
+raidwide
+
+plummet - spawns loads of aoes to dodge, as well as a proximity aoe from one corner
+	run to the opposite corner to minimise the damage
+	this also spawns two rocks that need to be kept alive
+??? - chains two pairs of players together
+	make sure to run to mid once the markers appear, then run to opposite corners to break the chains
+echoing eight - spawn the stars in the corner, then dodge them
+	if these hit the rocks, they break them so make sure that doesn't happen
+
+malefic quartering 4 - this time everyone gets only one safe side
+cardinal horizons - look at the slashes once they spawn to see where to go
+will of the underworld x4 - you need to hide behind one of the rocks to dodge the other aoe
+	first look at where your safe slash is, then look at which rock it's hitting and go to that quadrant
+	finally, look at the arrows in that quadrant to see which direction you need to hide behind the rock
+	then repeat this three more times
+
+raidwide
+fangs of the underworld
+
+malefic quartering 5 - this time everyone gets no safe sides
+enrage

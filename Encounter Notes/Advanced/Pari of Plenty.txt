@@ -1,0 +1,64 @@
+heat burst - raidwide
+
+left/right fireflight - indicates a cleave on one side of her based on the cast, and three lines showing which directions she will move across the arena
+	the cleave will follow her, so stay on the correct sides of all the flights
+sun circlet - a quick doughnut aoe around her so make sure to end up close to her
+
+doubling - creates a clone of her at the edge of the arena
+left/right fableflight - the clone also telegraphs a fireflight just like before, but there will only be one movement
+	this basically makes one half ot he arena unsafe
+charméd chains - chains two players together, so start stacked them move away to break them
+	it also creates two baubles that do bomberman-like plus aoes from the tiles they spawn on
+	this means only two tiles will be safe, so the chained players need to end up on different tiles
+
+doubling + left/right fableflight
+charméd chains
+
+fire of victory - an aoe tankbuster
+
+left/right fireflight: four long nights - indicates a cleave on one side of her based on the cast, and gives one player a passable tether
+	she will indicate four rotations back to back, showing which direction the cleave will turn 180-degrees in
+	stand on the correct half of the arena each time and pass the tether to someone else, to avoid taking a tether hit with a vuln
+
+left/right fireflight: fact and fiction - indicates a cleave on one side of her based on the cast, and three lines showing which directions she will move across the arena
+	this time there are fake lines to try and confuse you, so just focus on the correct one
+sun circlet
+
+raidwide
+
+pari's curse - gives spread or stack debuffs to players
+	for 2 players it will be either one stack or two spreads
+	for 3 or more, it will be one stack and one spread on random players
+charming baubles - spawns three baubles that do the plus aoes again, however two will either by in the same row or same column as each other
+	this means there are two safe tiles, so use one for the spread and one for the stack
+
+charméd fableflight - creates a bauble in the centre of the arena that does a plus aoe, as well as two illusions that do half-room cleaves
+	stand in the correct eighth of the arena, and then move across into the opposite one to dodge the second hit
+
+spurning flames - a raidwide that empowers the boss
+impassioned sparks - spawns four sets of four expanding aoes, centred on tiles
+	there will also be large point-blank aoes baited on players that leave behind persistent puddles, so stay together during this
+	finally, there will be a fire well stack on a random player
+scouring scorn - a raidwide that disempowers the boss and removes the puddles
+
+left/right fireflight: fact and fiction
+sun circlet
+
+raidwide
+
+doubling + left/right fableflight
+charméd chains
+
+doubling + left/right fableflight
+charméd chains
+
+charméd fableflight
+
+left/right fireflight: four long nights
+
+tankbuster
+
+pari's curse
+charming baubles
+
+loops from second left/right fireflight: fact and fiction until defeated

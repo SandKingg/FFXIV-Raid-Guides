@@ -1,0 +1,60 @@
+enspirited swordplay - raidwide
+
+proving ground - creates a bleed zone underneath the boss
+elemental blade - channels two elements into the blade
+sublime elements - one of two mechanics, either creates six cleaves or six line aoes, each one imbued with a specific element
+	the two elements in the blade will expand, so stand in a safe part of the arena
+elemental blade
+sublime elements - opposite pattern to the previous
+
+princely blow - line aoe tankbusters on each tank that also do a massive knockback
+
+light blade - a line aoe through the boss that spawns an array of swords
+	the swords either alternate their facing directions or have one half facing one way and one half facing the other way
+
+great wheel - a point-blank aoe that turns the boss, followed by a big half-room cleave in front of him
+
+raidwide
+
+esoteric scrivening - stuns everyone as the platform moves up
+	the outer edges of the platform disappear, but three paths leading away from the inner circle appear on the edges
+shockwave - raidwide
+transcendant union - a massive multi-hit raidwide
+
+esoteric palisade - makes the outer platforms unsafe and spawns three crystals: water, ice and earth
+crystalline resonance - creates three expanding circles in sequence, each one imbued with a specific element
+	when the circle touches the crystal of its element, that crystal explodes in a point-blank aoe
+empyreal banish iii - the third crystal explosion is paired with spread aoes on random players
+
+illumed facet - creates three clones of the boss that cast illumed estoc, doing line aoes through them
+shield bash - a massive knockback, either use knockback resist or get knocked into one of the outer parts
+
+empyreal banish iv - a stack marker on a random player
+
+tankbusters - you need to get knocked into one of the outer parts, or use knockback resistance
+
+proving ground
+elemental blade + sublime elements - imbues three elements this time
+
+light blade + empyreal banish iii
+great wheel
+empyreal banish iv - make sure to stack on the safe half of the room
+
+raidwide
+
+esoteric palisade - creates all six crystals this time
+crystalline resonance - spawns three sets of two elemental circles at once this time, so two crystals will explode at once each time
+light blade + empyreal banish iii - one more set of two circles spawns after this
+
+illumed facet - spawns two clones this time, with their line aoes making two outer parts unsafe
+shield bash - get knocked towards the single safe part if doing it properly
+
+empyreal banish iv
+
+proving ground
+elemental blade + sublime elements - opposite of the previous?
+
+raidwide
+tankbusters
+
+loops from second proving ground unntil defeated

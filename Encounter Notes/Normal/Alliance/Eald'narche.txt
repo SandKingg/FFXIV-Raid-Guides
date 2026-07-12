@@ -1,0 +1,57 @@
+uranos cascade - aoe tankbusters on each tank
+
+cronos sling - rotates the cards around him in either a flattened sphere, or a cylinder, indicating a point-blank or doughnut aoe respectively
+	then the cards shift either to his left or right, indicating a half-room cleave on that side
+
+empyreal vortex - a muli-hit raidwide that creates ten puddles on the arena and gives spread aoes to random players
+	these spreads give magic vulns to make sure not to overlap them
+
+cronos sling - opposite of the previous
+
+warp - teleports to a corner indicated by a circle on the ground and then a pillar of magic
+sleepga - a massive cleave in front of him that puts anyone hit by it to sleep
+	this can be esuna-ed
+
+gaea stream - four exalines in a 'shuriken' pattern that move through the arena
+omega javelin - a spread aoe on random players that leaves a puddle on the ground
+	the puddles explode again after a short time, so quickly move out after placing them
+
+duplicate - creates a square aoe that propagates outwards once in all four cardinal directions
+	stand in a place that won't be covered by a square
+duplicate - this time two squares are created, leaving only one ninth of the arena safe
+
+excelsior + phase shift - a transition cutscene that also removes one ninth of the arena
+	the arena now has fully visible tiles for where the squares will be
+
+duplicate + visions of paradise - one of the squares will be swapped with the empty tile
+	find the tile that was hit only by the square that is being swapped and stand there
+
+stellar burst - marks a player, dragging them to the centre of the arena and doing a big stack on them
+	the aoe of this stack is huge, almost to the edges of the arena
+
+ancient triad - a combination of three elements, each of which can be one of two
+	flood/tornado - either a proximity aoe or a pull-in
+		the proximity aoe is followed by propagating doughnut aoes from the middle
+		the pull-in aoe spawns tornadoes that move through the arena
+	shock/flare - either lightning orbs that chase players or fire orbs that do line aoes through the arena
+	quake/freeze - turns three tiles either to sand or to ice
+gaea stream - this time there is a second set of exalines after the first
+
+tankbusters
+duplicate + visions of paradise
+
+omega javelin
+gaea stream
+cronos sling
+
+stellar burst
+
+ancient triad
+duplicate + visions of paradise
+
+empyreal vortex
+warp + sleepga
+omega javelin
+cronos sling
+
+loops from second tankbusters until defeated

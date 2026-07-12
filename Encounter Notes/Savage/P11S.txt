@@ -39,7 +39,8 @@ dismissal overruling - imbues with light or darkness, then does a knockback, get
 	darkness - does a large doughnut aoe, safe spot is a bit smaller than the hitbox
 inevitable law/sentence
 
-shadowed messengers - creates two clones of themis that cast both versions of divisive overruling, then creates two more clones that cast both versions of upheld overruling
+shadowed messengers - creates two clones of themis on adjacent intercardinals that cast both versions of divisive ruling, then creates two more clones that cast both versions of upheld ruling
+	the clones cast 'ruling' not 'overruling', meaning there are no pairs/light party stacks after those
 	find a safe spot then immediately dodge into the darkness clone's dash
 	MT needs to point the boss towards the light clone, to make dodging the next mechanic easier
 	MT SHOULD NOT MOVE UNTIL DIVISIVE OVERRULING IS LOCKED IN

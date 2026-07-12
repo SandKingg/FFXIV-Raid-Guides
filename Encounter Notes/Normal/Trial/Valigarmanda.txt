@@ -1,0 +1,86 @@
+animation attack (strangling coil) - does one of three different attacks based on his animation
+	strangling coil - circles around the arena, doing a doughnut in the middle
+	slithering strike - rears up its claws, doing a massive point-blank in front of it
+	susurrant breath - gathers energy in its beak, doing an incredibly wide cone attack, only leaving the northern corners safe
+animation attack (slithering strike)
+animation attack (strangling coil/slithering strike)
+animation attack (susurrant breath)
+animation attack (slithering strike/strangling coil) - opposite of the previous
+
+the fight now does two mini-phases in a random order
+
+mini-phase 1:
+	ice talon - aoe tankbusters on both tanks
+
+	skyruin (ice) - a raidwide that changes the arena to ice, and leaves a frosty dot
+
+	northern cross - arrows from the background signify where a large avalanche will go through the platform
+
+	freezing dust - an icy aoe that freezes anyone not moving, remember to stay moving until the debuff drops
+
+	northern cross - cleaves the opposite half to the previous
+
+	animation attack - now fully random
+
+	chilling cataclysm - spawns two arcane circles of ice that do star aoes, freezing anyone who gets hit
+
+	disaster zone - a raidwide that returns the arena to normal
+
+mini-phase 2:
+	skyruin (lightning) - changes the arena to lightning and leaves a thundery dot
+
+	thunderous breath - a cleave that hits the entire platform, be on a floaty platform to avoid getting hit
+
+	hail of feathers - several mini-raidwides that spawn feathers on the arena
+	blighted bolt - causes the feathers to erupt into point-blank aoes, as well as zapping anyone on a floaty platform
+		stay away from the floaty platforms and feathers to avoid getting hit
+
+	arcane lightning - spawns lightning arcane spheres on both edges that do line aoes from either side, so stay in the safe row
+
+	disaster zone
+
+	ruinfall - spawns a two-person tankbuster tower in the middle of the arena, then does a big knockback from north while tornado puddles spawn in south
+		tanks take the tower and everyone just uses kb resist to ignore the mechanic
+
+ruin foretold - a big raidwide that spawns three beacons that need to be destroyed
+calamitous cry - a line stack that switches target each cast, along with cone aoes to dodge
+
+tulidisaster - a triple-hit raidwide of ice, lightning and fire that also leaves a permanent dot at the end
+
+eruption - three sets of four fire puddles baited under random players
+animation attack
+
+the fight now alternates mini-phases in the same order of ice and lightning as before
+
+mini-phase 1:
+	skyruin (ice)
+
+	northern cross + chilling cataclysm - stand in a safe spot from the stars and avalanche
+
+	animation attack
+
+	freezing dust + chilling cataclysm - keep moving in a safe spot from the stars
+
+	animation attack
+	northern cross
+
+	disaster zone
+
+	tankbusters
+
+mini-phase 2:
+	skyruin (lightning)
+
+	arcane lightning + thunderous breath - stand on a floaty platform in the safe row
+
+	hail of feathers
+	blighted bolt
+
+	arcane lightning
+	animation attack
+
+	disaster zone
+
+	ruinfall
+
+loops from eruption until defeated

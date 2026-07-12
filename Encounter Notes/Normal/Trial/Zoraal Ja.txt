@@ -1,0 +1,80 @@
+-- PHASE 1 --
+soul overflow - raidwide that gives the boss a damage up stack
+
+double-edged swords - a cleave in front and behind him
+
+patricidal pique - tankbuster
+
+raidwide - this also spawns visions around the arena
+calamity's edge - another raidwide that dispels the visions, creating point-blank aoes where they spawned
+
+tankbuster
+
+vorpal trail - creates four swords that do contracting line aoes in a sort of spiral pattern towards the middle
+	after reaching the middle, then being propagating outwards again
+double-edged swords - this happens right as the blades start going outwards again
+
+raidwide - more visions
+calamity's edge
+double-edged swords - dodge the point-blanks and cleaves at the same time
+
+vorpal trail
+double-edged swords
+
+calamity's edge
+
+loops from second vorpal trail? until <35%?
+
+raidwide - this time it stuns everyone and transitions to the second phase
+
+
+-- PHASE 2 --
+smiting circuit - two blades will appear either in his hitbox or out of his hitbox, indicating a point-blank or doughnut aoe respectively
+smiting circuit - opposite of the previous
+
+dawn of an age - a raidwide that also shrinks the arena to a smaller square, and creates four outer squares next to it
+
+vollok - spawns ten blades on the middle platform that make tiles unsafe in a triangular pattern
+bitter reaping - tankbusters on both tanks
+
+vollok - spawns ten blades on two of the outer platforms in similar triangular formations
+sync - selects one outer platform to sync into reality, causing the swords to be translated over onto the middle platform and deal damage in their tile
+	these are NOT MIRRORED, THEY ARE TRANSLATED
+sync - syncs the other outer platform with swords on
+
+gateway - spawns tethers from the two outer platforms with swords on to the middle platform
+blade warp - spawns two blades on each of the tethered outer platforms
+forged track - tethers to the blades on one of the outer platforms, causing them to fly through the tethers
+	they then do line aoes from the other ends of the tethers
+forged track - the other platform's blades fly through the tethers
+
+actualize - raidwide that returns the arena to normal
+
+half full - a half room cleave on the side of his glowing blade
+
+half circuit - a combination of the smiting ciruit point-blank/doughnut and a half full cleave
+fire iii - a spread aoe on every player
+
+half circuit - will be the opposite smiting circuit aoe from the previous
+
+dawn of an age
+
+gateway - tethers to all four outer platforms this time
+blade warp - spawns blades on all four outer platforms
+forged track - tethers to the blades on two adjacent platforms
+	make sure to dodge the line aoes from both sets of blades
+forged track - tethers to the other two sets of blades
+
+duty's edge - a multi-hit line stack
+
+vollok - spawns eight blades on each outer platform in a 2x4 pattern
+tankbusters
+sync - selects two adjacent platforms to sync, meaning there will be a 2x2 square of safe tiles on the middle platform
+sync - sync the other two platforms
+half full
+
+duty's edge
+
+actualize
+
+loops from half circuit until defeated
