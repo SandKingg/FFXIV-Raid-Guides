@@ -1,0 +1,79 @@
+stonega iv - raidwide
+
+wrought arms - creates two stone arms on the east and west sides of the arena
+synchronized strike - a line aoe through the boss in the direction he's facing
+	this is followed up by two larger line aoes from the hands
+	these are always north-south no matter which direction the boss faces
+synchronized strike - this time the initial line aoes are east-west
+
+crimson riddle - either gathers fire in his mouth or raises his tail, indicating a cleave in front or behind him respectively
+crimson riddle - opposite of the previous
+
+summon shijin - summons one of the four divine beasts, doing a mini-phase based on the summon
+	moonbound genbu
+		shattering stomp - a raidwide that creates rectangular-spiralling cracks in the ground
+			the cracks will start spilling out water in two sets, which will explode into point-blank aoes
+			dodge the first set, then move into it afterwards
+
+		midwinter march - jumps to a random point in the arena doing a point-blank aoe
+		northern current - a quickcast doughnut aoe right afterwards
+		crimson riddle
+	
+	duskbound byakko - creates eight individual walls on the cardinals and intercardinals
+		gloaming gleam - dashes from byakko's wall to the opposite wall, doing a point-blank aoe
+		gloaming gleam
+
+		quake - creates three sets of three large puddles under random players
+		gloaming gleam x2
+
+	sunbound suzaku - creates a fiery wall around the arena
+		vermillion flight - creates two fireballs that do expanding point-blank aoes, then dashes through the arena
+
+		stonega iii - spread aoes on random players
+			these don't go off until after the dash, so don't move too early
+		vermillion flight - this time there are five fireballs to dodge
+
+	dawnbound seiryu
+		east/westwind wheel - a line aoe that rotates through the arena in the direction indicated
+			stay on the safe side
+
+		crimson riddle
+
+		east/westwind wheel
+		double cast - creates aoe puddles under random players, and gives spread aoes to random players
+
+wrought arms
+wringer - a point-blank aoe
+	this is followed up by a large doughnut aoe from the hands
+striking left/right - faces either east or west, doing a small point-blank aoe on the side indicated by the cast
+	this is followed up by a huge point-blank aoe from the tethered hand
+
+raidwide
+
+sequence - telegraphs two of the hand abilities back to back, the first one dictating the cast name
+	each of the two telegraphs has its normal follow-up from the hands
+	double wringer - telegraphs wringer, followed by either synchronised strike or striking left/right
+	synchronized sequence - telegraphs synchronised strike, followed by either wringer or striking left/right
+		he will always face east/west if the second cast is striking left/right, and north/south if it's wringer
+	smiting left/right sequence - telegraphs striking left/right, followed by either wringer or synchronized sequence
+
+mighty grip - shrinks the arena, creating two chiseled arm adds that need to be destroyed
+	these do repeated raidwide damage throughout the phase
+deadly hold - creates four tankbuster towers that need to be filled
+	alxaal will fill one, the three tanks fill the others
+kirin captivator - both adds must be destroyed before this cast goes off
+
+wrought arms
+sequence
+sequence - different from the previous
+
+raidwide
+
+summon shijin
+
+raidwide
+crimson riddle
+
+summon shijin
+
+loops from wrought arms after kirin captivator until defeated

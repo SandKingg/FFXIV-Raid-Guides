@@ -1,0 +1,56 @@
+abilities will be prefixed with the caster's initial
+
+(O) ion efflux - raidwide
+
+(U) antimatter - tankbusters on each tank
+
+(U) energy orb - creates a set of energy orbs in front of ultima that fire a line aoe through the ship
+(O) fore-to-aft/aft-to-fore fire - omega faces diagonally then indicates two cleaves, one in front and one behind, in the order shown by the cast name
+	the cleaves only go off after BOTH have been indicated so don't get baited
+
+(U) tractor beam - a big knockback from the opposite sided of the ship to ultima
+	another ship will be dragged in as well, killing anyone who gets knocked back on that half of the arena
+(O) anti-personnel missile - spread aoes on random players
+
+(O) surface missile - indicates three sets of aoe patterns that go off in sequence
+	look for the safe spots on each pattern and stand there
+(U) energy orb - this time there are two sets of energy orbs, leaving the middle safe
+	these go off after the third set of aoes
+(O) anti-personnel missile
+
+(U) mana screen - places a diagonal mana screen in one corner of the arena
+(U) energy orb - when the line aoe hits the screen it also reflects, doing a second aoe perpendicular to it
+	THE BEAM STILL HITS BEHIND THE SCREEN
+
+(O) trajectory projection - gives aoe markers to random players that indicate themselves moving away in a specific direction
+	when the timer runs out, a point-blank aoe is placed under the player, but offset in that particular direction
+	keep moving in the opposite direction to the aoe's indication to dodge safely
+
+(U) tractor field - drags everyone to be right in front of ultima
+(O) multi-missile + (U) citadel siege x4 - creates a large array of point-blank aoes and an encroaching persistent line aoe
+	sprint between the aoes and get to the edge of the ship to jump off before it explodes
+
+(U) citadel buster - a massive raidwide
+(O) hyper pulse - a proximity aoe from the centre of the ship as omega lands
+
+(U) tractor beam
+(O) trajectory projection
+
+(U) mana screen - this time creates one of two patterns of screens
+	the first pattern is two screens in the closer two corners to ultima, and one further away in line with ultima
+	the second pattern is one screen in a further corner from ultima and two closer to him, one mid and one in the opposite corner to the first
+(U) energy orb - either one set at the sided, or one set in the middle
+	make sure to dodge all the reflected beams as well
+(O) anti-personnel missile
+
+(O) chemical bomb - a set of four proximity markers, one towards each corner, that go off in sequence
+	try to stay opposite them, but they don't deal that much damage so you can keep uptime with good mitigation
+
+(O) surface missile
+(U) energy orb - one set on each side
+(O) fore-to-aft/aft-to-fore fire - this time omega faces directly to the side
+
+(O) raidwide
+(U) tankbusters
+
+loops from tractor beam + trajectory projection until defeated
