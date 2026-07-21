@@ -1,0 +1,48 @@
+banishga iv - raidwide
+
+divine arrow - spins an indicator that spawns a 90-degree cone aoe where it stops
+	this cone aoe continues spinning in the same direction for one full revolution
+	doughnut aoes will either propagate outwards from the centre, or inwards from the edge
+holy ii + banishga iv - baited puddles under random players, and spread aoes on random players
+
+impartial ruling - indicates two canisters, with one filling faster than the other
+	when a canister indicator fills, that side will be cleaved
+	dodge from the slower side into the faster one, once it goes off
+
+canonize co-ordinates - creates a 5x5 grid of tiles on the arena
+radiant sacrament - marks each tile on the arena in the order that it will explode
+	dodge from a later explosion into an earlier one, once it goes off
+
+divine spear - traces out a triangle aoe in each of the four quadrants that explodes once it finishes
+mega holy - a multi-hit stack marker on a random player
+
+sacred assembly - summons four gordius system adds
+perfect defense - add phase
+	karmic shielding - the add gives itself a parry buff that reflects any attacks back towards the attacker, giving them a vuln
+	holy flame - random puddles around the arena
+	shock/circuit shock - a point-blank/doughnut aoe around the add respectively
+divine judgment - a big raidwide
+
+divine arrow 2 - this time it's paired with a large checkboard aoe pattern that alternates
+banishga iv
+
+sacred assembly
+reinforcements - tethers to two pairs of adds in sequence, causing them to cast large electrify point-blank aoes in the order they were tethered
+
+divine bolt + holy ii + banishga iv - a line aoe tankbuster on the MT, along with baited puddles and spread aoes on random players
+
+canonize co-ordinates + radiant sacrament
+impartial ruling + banishga iv - dodge the first cleave, then spread on the safe side from the second cleave
+
+sacred assembly + reinforcements
+impartial ruling
+
+raidwide
+
+divine spear
+mega holy
+
+divine arrow 3 - same as 2?
+divine bolt holy ii + banishga iv
+
+loops from second canonize co-odrinates + radiant sacrament until defeated

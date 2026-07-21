@@ -7,7 +7,7 @@ tidal wave + burning chains - chains players together with another player of the
 	make sure to stack until the chains have spawned
 	tidal wave also spawns several puddles on tiles
 
-tail slam (healer) - a green marker appears above a player's head, then the tail slams down on their location a few seconds later
+tail slap (healer) - a green marker appears above a player's head, then the tail slams down on their location a few seconds later
 	first tail (healer) goes to the SE tile
 	party focuses tail once it appears
 
@@ -17,7 +17,7 @@ hypernova/levinbolt - either a stack inside a puddle or a spread away from puddl
 
 the worm's heart
 
-central slam - a big aoe on the central tile, move away
+dragonfist - a big aoe on the central tile, move away
 
 ice storm - a big raidwide
 
@@ -27,7 +27,7 @@ hellfire/judgment bolt + summon icicle - a raidwide that requires players to be 
 	make sure to be on the correct side of the tiles
 	weirdly judgment bolt has a small chance of paralysing any player, which can be esuna-ed off
 
-tail slam (dps) - either stay centre or, if centre is cracked, go to the NW tile
+tail slap (dps) - either stay centre or, if centre is cracked, go to the NW tile
 levinbolt
 ice storm
 the worm's heart
@@ -44,7 +44,7 @@ burning chains - both healers will be chained, assign one to slide to a corner t
 reiryu - spawns three reiryu adds that tether to non-tank players and prevent them from getting healed
 	healer need to heal the heads to full hp to destroy them
 
-tail slam (tank) - go to the SW tile
+tail slap (tank) - go to the SW tile
 the worm's heart
 summon icicle + akh morn - MT can invuln this to make it easier, but stay on the safe side and dodge icicles
 

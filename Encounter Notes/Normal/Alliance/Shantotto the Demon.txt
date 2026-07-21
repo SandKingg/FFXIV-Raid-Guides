@@ -1,0 +1,38 @@
+flare play - raidwide
+
+vidohunir - a triple-stack tankbuster
+
+empirical research - turns to a random player, casting a line aoe towards them
+
+superior stone ii - summons two stone walls with uneven patterns
+groundbreaking quake - slams the two walls together, crushing anyone in between them
+	stand in line with the two furthest parts of the walls from each other
+empirical research
+
+diagrammatic doorway - conjures an array of 12 ley lines in a 3x4 pattern, then indicates the direction she'll teleport to four of them
+circumscribed fire x4 - a doughnut aoe from each of the ley lines indicated previously
+localised blizzard + thunder and error - a quickcast point-blank immediately after the last doughnut, as well as spread aoes on random players
+
+meteoric rhyme - a small mini-phase where many meteors rain down, doing point-blank aoes
+	large specimen x2 - two meteors that do proximity aoes where they land
+	stardust specimen - a stack marker on a random player
+shockwave - a massive raidwide from the final meteor that causes debris to fall down, doing point-blank and line aoes on the arena
+
+superior stone ii
+aero dynamics - gives everyone a debuff that does a huge knockback in the indicated direction once it expires
+	either get knocked into one of the wall alcoves, or just use knockback resist
+groundbreaking quake
+empirical research
+
+diagrammatic doorway - this time six ley lines are indicated
+circumscribed fire x6
+localised blizzard + thunder and error
+
+raidwide
+
+final exam - a multi-hit stack marker
+empirical research
+
+tankbuster
+
+loops from second superior stone ii until defeated
