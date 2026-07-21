@@ -1,0 +1,65 @@
+empty salvation - a raidwide that creates six small puddles in a hexagon formation
+	standing in them gives you a heavy debuff
+fleeting eternity - links four of them together in a Z formation, sending two pink pulses down the branches
+	once these reach the end, they explode into large point-blank aoes
+fleeting eternity - links to all four of the remaining puddles, sneding a pulse to each
+	you can't get melee uptime here :(
+
+wheel of impregnability - summons an orange ring that slowly moves in towards the orange circle, doing a point-blank aoe around the boss once it reaches it
+
+bastion of twilight - summons a green ring that slowly moves in towards the green circle, doing a doughnut aoe around the boss once it reaches it
+pestilent penance - jumps to the edge, doing a massive cleave through the arena
+	this goes off at the same time as the doughnut
+
+empty salvation 2
+fleeting eternity - this time four are linked in the Z pattern and the remaining two are linked by a line
+	the line puddles will go off first, followed by the Z puddles
+fleeting eternity - connects the final two puddles with a line, doing two more point-blank aoes
+comet - aoe tankbusters on each tank
+
+false genesis - add phase, turns the platform into three smaller squares with teleporters in between
+	each platform has a unique mechanic to deal with
+		winds of promyvion - a rotating line aoe
+		empty beleaguer - two sets of two point-blank aoes
+		auroral drape - three aoes in the direction the adds are facing
+	empty seed - a big knockback from the centre of each platform
+		make sure to get knocked into a corner where the walls will prevent you from falling off
+deadly rebirth - a raidwide that stuns everyone briefly
+
+empty salvation 3
+earthbound heaven - links the six puddles into three pairs of two, placing pink pulses in one puddle in each pair
+	the pulses travel to the opposite puddle and explode
+	there will always be two pulses placed in two adjacent puddles, so go there to be safe
+
+malevolent blessing - eight small cone aoes from the boss, and a half-room cleave on the glowing side
+
+empty salvation 4 + earthbound heaven - same as 3
+bastion of twilight
+pestilent penance - this time there are arrows that will do line aoes in the direction they're pointing
+	dodge the arrows, doughnut and room cleave
+
+empty salvation 5
+infernal deliverance - creates three stack towers on three equidistant puddles
+	these towers then expand the puddles, so make sure to run out of the heavy aoe before it explodes
+fleeting eternity - creates the Z and the line
+fleeting eternity - links the final two puddles
+meteor - aoe tankbusters on each tank and spread aoes on every player
+
+empty salvation 6 + earthbound heaven - same as 3
+bastion of twilight
+malevolent blessing
+
+empty salvation 7 + earthbound heaven - same as 3
+wheel of impregnability
+pestilent penance
+
+empty salvation 8 + infernal deliverance - same as 5
+fleeting eternity - creates the Z and the line
+fleeting eternity - links the final two puddles
+meteor
+
+empty salvation 9 + earthbound heaven - same as 3
+wheel of impregnability
+malevolent blessing
+
+loops from empty salvation 4 until defeated

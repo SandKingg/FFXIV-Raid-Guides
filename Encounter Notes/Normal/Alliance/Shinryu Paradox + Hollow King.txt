@@ -1,0 +1,69 @@
+cosmic breath - a big aoe that hits everyone on the top platform
+
+cosmic tail - a big aoe that hits everyon on the bottom platform
+
+cloak of twilight - gives everyone either a light resist down or dark resist down
+	the top half is light and bottom half is dark
+twilight nebula - be in the correct half to survive the aoe
+
+starflare - a large checkerboard aoe that then alternates, hitting the previous safe spots
+cosmic breath/tail
+
+cataclysmic vortex - marks every player with one of four markers, failing the command sets you to 1 hp and givs a vuln
+	a pause sign means stand still and don't cast
+	a play sign means keep moving
+	an eye means look away from the boss
+	an eye with a ? means look at the boss
+
+cloak of twilight
+cosmic breath/tail
+twilight nebula
+
+starflare
+cataclysmic vortex
+
+dark nova - aoe tankbusters on each tank
+
+atomic tail - a big aoe that makes the bottom half permanently unsafe
+gyre charge - a raidwide that puts everyone down for the count
+	the boss then transitions into the hollow king
+
+celestial trail - summons eight towers that need to be filled to block the hollow king's blade
+	standing in a tower does massive damage and gives a debuff meaning you can't take the next set
+celestial trail
+
+empty proclamation - raidwide
+
+left/right swordscross - two large line aoes, one straight and one diagonal, on the side of the boss indicated by the castbar
+
+twin blaze - one head telegraphs a doughnut, and the other a point-blank
+	these aoes intersect with each other, so stand in the correct half of the doughnut, or far enough away from the point-blank
+
+cataclysmic blade - gives everyone a cataclysmic vortex marker and indicates where two cone cleaves will hit
+	complete your command in the safe zone
+
+burst - creates two point-blank aoes slightly digonal to one another, that propagate out through the arena
+	dodge from one intersection of the propagating doughnuts into a previous one
+twin blaze
+
+cosmic flame - creates exaflares at east and west that travel through the platform
+	these always intersect in mid, so dodge between them closer to east or west
+
+atomic ray - creates moving line aoes at north and east, each with a timer that ticks down
+	once the timer expires, the line aoes go off where they stop
+cataclysmic blade
+
+super nova - a multi-hit stack marker on a random player
+
+raidwide
+
+cosmic flame
+left/right swordscross
+
+starflare
+left/right swordscross
+
+super nova
+tankbusters
+
+loops from burst until defeated
