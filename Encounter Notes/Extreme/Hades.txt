@@ -75,8 +75,7 @@ add phase - a long battle with multiple ascian shades
 
 again the majestic - summons the comets from nabriales's shade
 	tanks take them exactly the same as before
-
-captivity - targets one healer for a big aoe that stunes and captures anyone caught inside in an aetherial gaol, stay away
+captivity - targets one healer for a big aoe that stuns and captures anyone caught inside in an aetherial gaol, stay away
 chorus of the lost - kills anyone trapped inside the gaol, make sure to kill it before then
 
 again the martyr - gives every dps an icy aoe and each healer a stack

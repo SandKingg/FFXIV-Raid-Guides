@@ -1,0 +1,55 @@
+terrastorm - summons a massive boulder that flies towards a corner and does a huge point-blank aoe
+crescent blade - turns towards a random player, doing a half-room cleave in that direction
+
+arctic assault - spawns two walls of icicles in the middle of the room that will shoot in the direction they're facing
+	this makes two diagonally opposite quadrants unsafe, so stand in the opposite ones
+crescent blade
+
+void meteor - multi-hit tankbusters on both tanks, where the final hit does way more damage than the rest
+
+lingering spark - three sets of baited puddles under four random players
+crescent blade
+
+binding cold - raidwide + dot
+
+azdaja's shadow + black fang - big transition raidwide
+
+azdaja's shadow - empowers the next shadow crescent with a point-blank aoe
+shadow crescent + burning shade - a crescent blade cleave paired with a point-blank aoe
+	five random players get burning shade spread aoes, so stay out and spread
+
+dragon's descent - gives one player a radial knockback and spawns two towers towards east and west
+	the towers will either be a 3-player and 1-player or two 2-player towers
+	use the knockback to go into the towers, or use knockback resist and stand in them
+double meteor - creates two proximity markers towards two adjacent corners
+	at the same time, the player that had the knockback will bait a line aoe from the dragon
+
+gale sphere - spawns four clones towards the cardinals that correspond to the order that the orbs shoot line aoes through the arena
+	the clones will either spawn clockwise or anticlockwise
+	you can dodge the first two clones' aoes, followed by the last two clones' aoes at once
+
+void stardust - creates two exaflares in two diagonally opposite corners that telegraph eight quick hits before moving
+	these travel along the edge in the direction they're pointing, before moving up and going back across the arena
+
+tankbusters
+azdaja's shadow
+
+lingering spark
+eventide fall - line stacks on each healer
+
+gale sphere
+shadow crescent + immolating shade - this time a random healer will get a stack marker
+
+raidwide
+azdaja's shadow
+
+void stardust
+arctic assault
+
+terrastorm
+shadow crescent + burning shade
+
+dragon's descent
+double meteor
+
+loops from second tankbusters until defeated

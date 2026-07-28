@@ -24,7 +24,7 @@ upheld overruling - different based on light/dark imbue
 		at the end, does a big doughnut aoe centred on the boss
 inevitable law/sentence
 
-divisive overruling - imbues with light or darkness, then charges through the arena, doing a big line aoe
+divisive overruling - turns to the MT, imbues with light or darkness, then charges through the arena, doing a big line aoe
 	light - the line aoe expands outwards, indicated by lines on the floor
 	darkness - the sides that weren't hit by the line aoe get hit this time
 inevitable law/sentence

@@ -1,0 +1,73 @@
+abyssal nox - reduces every player's hp to 1 and gives them a doom that is removed by healing to full hp
+abyssal echoes - sends four lines towards two cardinals and two intercardinals that do big point-blank aoes at the tips
+	find a safe spot to stand
+
+sable thread - a multi-hit line stack
+
+visceral whirl - tentacles cleave across the arena indicated by lines, go to the safe triangle
+
+dark matter - a three-hit aoe tankbuster
+
+flare - a stack tower, run out as soon as you take damage, then dodge the lines coming from the towers
+nox - two players get marked for following aoes
+	place these away from the party and run back to the middle
+	the following is INCREDIBLY slow, so don't worry too much unless you're right next to the aoe
+
+void bio - summons a row of poison orbs that float one by one through the arena, getting hit leaves a dot and a vuln stack
+visceral whirl
+
+big bang - makes loads of puddles on the floor and does a big raidwide
+	at the end of the cast, everyone gets several debuffs for later, including a dot and max hp reduction
+	debuffs are explained when they resolve in the fight
+
+visceral whirl + big bang (acceleration bomb) - get to the safe spot and stand still
+big bang (stack)
+big bang (spread) - everyone gets a spread aoe, spread out to avoid overlap
+
+meteor impact - creates a meteor marker in the middle of the arena that does proximity tethers towards all eight players
+	spread out along the edges to avoid dying to the proximity damage
+	these give vulns so don't overlap the tethers
+
+tankbuster
+
+black hole - creates an expanding black hole towards either SE or SW
+	getting hit by the black hole is a one shot
+fractured eventide - indicates which direction a giant laser beam will rotate through the arena
+	start behind the beam and follow it through the arena while running away from the black hole
+
+void meteor - creates four proximity markers towards the corners that place meteors
+meteor impact - if you put your meteor tether too close to a palced meteor, it will turn red and you will die
+	the palced meteors then explode
+
+black hole + fractured eventide
+
+big crunch - functionally the same as big bang, but only gives the dot, and removes the max hp penalty
+
+abyssal nox + abyssal echoes
+sable thread
+
+flare
+nox
+
+tankbuster
+
+void bio
+visceral whirl
+
+loops from second abyssal nox + abyssal echoes until <25%
+
+rend the rift - a big raidwide that transitions to phase 2
+
+dimensional surge x3 - three sets of baited puddles under each player and some small line aoes
+
+nostalgia - a big multi-hit raidwide
+
+flow of the abyss + dimensional surge - causes a line aoe to hit either north, south or mid, look west to see where it's coming from
+	then one of two effects will happen
+		umbral rays - everyone stacks up
+		akh rhai - spread out to place the repeated aoes, then move away into a safe spot
+
+chasmic nails - telegraphs five cones in the order they hit in
+	dodge from a later one into an earlier one
+
+loops from dimensional surge x3 until defeated

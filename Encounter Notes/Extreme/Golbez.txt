@@ -1,6 +1,5 @@
 terrastorm - summons two massive boulders that fly towards opposite corners and do huge point-blank aoes
 	stand in the two opposing safe corners
-
 lingering spark - invisible baited puddles under every player
 	stack first (except MT), wait until the cast is finished then move away
 
@@ -80,20 +79,26 @@ void aero iii/void tornado - opposite of the first mechanic
 
 phases of the blade
 raidwide
+
 azdaja's shadow
 void stardust 2 + abyssal quasar - this time the exaflares start closer to the middle and end up at the edge
 lingering spark
 eventide triad/fall - opposite of the previous
 phases of the shadow + immolating/burning shade
 double meteor
+
 tankbusters
+
 gale sphere + void tornado/void aero iii
 arctic assault
 void aero iii/void tornado - opposite of previous
 phases of the blade
+
 raidwide
+
 azdaja's shadow
 phases of the shadow + immolating/burning shade
+
 raidwide x2
 tankbusters
 enrage

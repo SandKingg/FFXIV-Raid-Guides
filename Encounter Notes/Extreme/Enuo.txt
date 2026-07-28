@@ -11,7 +11,8 @@ naught wakes - moves the void portal to one of the three south markers
 meltdown - baits an aoe under each player, as well as giving them a pyretic for 2 seconds, then does a spread aoe on every player
 	bait mid, then wait for the debuff to wear off before going max melee to clock spots
 
-airy/dense emptiness - either pair stacks on all supports/dps or light party stacks on both healers
+airy/dense emptiness - either pair stacks on all supports or light party stacks on both healers
+	pairs are ALWAYS on supports, so tanks can solo them if necessary
 
 naught grows - both the single/double portal and doughnut/point blank are opposite of the previous
 
