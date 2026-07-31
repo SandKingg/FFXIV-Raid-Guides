@@ -61,7 +61,7 @@ pattern 1
 
 	resonance
 
-	seed of the sea + rivers - for dodging with tethers, spread just far enoguh apart so as not to overlap spread aoes
+	seed of the sea + rivers - for dodging with tethers, spread just far enough apart so as not to overlap spread aoes
 		for stacking, if a tethered player gets the stack, the two untethered players go to them
 		if an untethered player gets the stack, they choose which side to stack with
 

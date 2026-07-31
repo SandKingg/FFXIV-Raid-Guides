@@ -66,8 +66,8 @@ dark and light - tethers all dps to all supports with either a same-element or d
 	have supports line up more north and dps line up more south
 	mechanics where this is in effect are labelled (D&L)
 
-	for kindred strat, these are the markers (essentially yellow/purple are for shorts and red/blue are for longs; letters for supports and numbers for dps)
-		A - long tank (potentially tankswap if OT gets long, to keep boss facing north)
+	for kindred/syncademy strat, these are the markers (essentially yellow/purple are for shorts and red/blue are for longs; letters for supports and numbers for dps)
+		A - long tank (tank swap if OT gets long, to keep boss facing north)
 		B - short healer
 		C - long healer
 		D - short tank

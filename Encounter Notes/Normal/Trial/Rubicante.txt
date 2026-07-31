@@ -1,0 +1,60 @@
+inferno - raidwide
+
+ordeal of purgation - summons three concentric rings on the arena with runes at the edges and lines connecting some of the segments
+	there will be a fireball from the middle that travels down a line, activating the rune at the end
+	these runes are blue triangles that do cone aoes in front of them
+	get to the safe spot before you're bound and can't move
+ordeal of purgation 2 - same as before, except this time the fireball travels through one of the bent line segments
+	make sure you dodge the correct rune
+
+shattering heat - an aoe tankbuster
+
+arch inferno - summons big rotating aoes around the arena and a constant aoe in the middle
+hellscathe - three sets of baited puddles under random players
+conflagration - a line aoe through the arena
+hellscathe
+radial flagration - eight cone aoes from the boss
+	the rotating aoes keep going during this, so ensure you have enough space to be able to stay in the safe spot until the cones go off
+
+ordeal of purgation 3 - this time the second ring will rotate 45 degrees in the direction of the arrows
+	this means the second line segment that the fireball travels through will switch
+	for these patterns, the initial rune the fireball is pointing towards (before the rotation) is ALWAYS safe
+ordeal of purgation 4 - same as before except the rotation is in the opposite direction
+
+add phase - spawns three flamesent and one greater flamesent
+	greater flamesent - casts ghastly torch that stacks up burns on everyone, focus this one down
+	flamesent - each one casts a different ability
+		ghastly flame - creates puddles around the arena that should be avoided
+		ghastly wind - a cone aoe towards a random player
+		shattering heat - same as from the boss
+blazing rapture - a big transition raidwide
+
+inferno (empowered) - spread aoes on every player that leave a bleed
+
+flamerake - spins a two-pointed arrow that will eventually explode into cascading line aoes
+
+soulscald - line aoes from the boss towards every player, make sure not to overlap with someone else
+	these then go back through the entire arena, hopefully there's enough safe space
+
+dualfire - huge cone aoe tankbusters on each tank
+
+sweeping immolation - turns towards a random cardinal or intercardinal, doing a half-room cleave in front of him
+	this is paired with either a spread aoe on every player, or a stack on a random player
+	he will alternate each time this is cast
+
+ordeal of purgation 5 - same as 3
+ordeal of purgation 6 - same as 4
+
+raidwide
+
+arch inferno
+hellscathe
+conflagration
+hellscathe
+radial flagration
+
+flamerake
+
+inferno (empowered)
+
+loops from soulscald until defeated
