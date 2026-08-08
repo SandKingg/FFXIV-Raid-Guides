@@ -2,42 +2,43 @@ heros's radiance - raidwide
 
 shining saber - a stack on a random player, everyone go behind the boss
 
-small split based on weapon choice
-
+small timeline split based on weapon choice
 timeline 1
 	crystallize (water) - does a different ability based on the element
 		water - stacks on each healer, split into light parties
-	dawn mantle (magos) - changes weapons and does an ability based on the new weapon
-		magos - point-blank aoe, go out
-		move back to max melee for crystallize hits
+	dawn mantle (mousa) - changes weapons and does an ability based on the new weapon
+		mousa - doughnut aoe, stay in her hitbox
+		move out to max melee to avoid overlapping stacks
 
-	magos's radiance - raidwide
+	mousa's scorn - a double stack tankbuster	
 
 	lateral/aureole - does two wide cleaves on opposite sides
 		aureole - sides safe
 		lateral - front/back safe
-	
-	crystallize (ice) - spread aoes on every player, assign clock spots in case of in first
-	dawn mantle (mousa) - doughnut aoe, stay in her hitbox
-		move out to clocks for crystallize hits
 
-	mousa's scorn - double stack tankbuster
+	crystallize (ice) - spread aoes on every player, assign clock spots in case of in first
+	dawn mantle (magos) - point-blank aoe, go out
+		spread to rough clock spots for crystallize hits
+
+	magos's radiance - raidwide
 
 	lateral/aureole
 
 timeline 2
 	crystallize (water)
-	dawn mantle (mousa) - move out to max melee to avoid overlapping stacks
-	tankbuster
-	lateral/aureole
-	crystallize (ice)
-	dawn mantle (magos)
+	dawn mantle (magos) - remember to move back to max melee for crystallize hits
+
 	raidwide
+	lateral/aureole
+	
+	crystallize (ice)
+	dawn mantle (mousa) - move out to clocks for crystallize hits
+
+	tankbuster
 	lateral/aureole
 
 crystallize (water/earth) - earth is a stack on a random player
-
-dawn mantle (heros) - does a plus aoe centred on hydaelyn, go to corners
+dawn mantle (heros) - does a plus aoe centred on hydaelyn, go to intercardinals
 	either full party stack or light party stacks after, based on crystallize
 
 pure crystal - add phase
@@ -74,17 +75,7 @@ heros's sundering - a cone aoe tankbuster
 
 shining saber
 
-dawn mantle (magos/mousa) - mini-phases based on which is chosen
-magos
-	raidwide
-	crystallize (ice)
-
-	parhelic circle - creates a pattern of lines where the tips (and centre of the arena) will explode shortly afterwards
-		roughly spread into clocks, but dodge lines first
-		then stay spread for the crystallize hits
-
-	lateral/aureole
-
+dawn mantle (mousa/magos) - mini-phases based on which is chosen
 mousa
 	tankbuster
 	
@@ -96,7 +87,17 @@ mousa
 
 	lateral/aureole
 
-dawn mantle (mousa/magos) - does the opposite mini-phase to the first one
+magos
+	raidwide
+	crystallize (ice)
+
+	parhelic circle - creates a pattern of lines where the tips (and centre of the arena) will explode shortly afterwards
+		roughly spread into clocks, but dodge lines first
+		then stay spread for the crystallize hits
+
+	lateral/aureole
+
+dawn mantle (magos/mousa) - does the opposite mini-phase to the first one
 
 dawn mantle (heros)
 radiant halo - raidwide
@@ -111,12 +112,15 @@ dichroic spectrum + bright spectrum - a double stack tankbuster + spread aoes on
 crystallize (water)
 shining saber
 dawn mantle (magos/mousa)
+
 lightwave 4 - same as 3
 echoes
 dichroic spectrum + bright spectrum
+
 crystallize (ice)
 lateral/aureole
 dawn mantle (mousa/magos) - opposite of the previous
+
 crystallize (earth)
 lateral/aureole
 dawn mantle (heros)

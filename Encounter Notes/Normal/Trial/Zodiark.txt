@@ -1,0 +1,65 @@
+kokytos - sets hp to 1
+
+exoterikos (triangle) - spawns a triangle sigil at the edge that does a cone aoe through the arena
+
+ania - an aoe tankbuser
+
+exoterikos (square) - spawns a square sigil at the edge that does a half-room cleave on the side it's on
+
+paradeigma (behemoths) - spawns two behemoths in opposite corners that do big point-blank aoes
+paradeigma (snakes) - spawns two snakes on the edge that do line aoes through the arena
+
+phlegethon - three sets of baited puddles under random players
+
+styx - a multi-hit stack marker
+
+paradeigma (behemoths) + exoterikos
+
+complete control - a cutscene where his mask breaks
+
+paradeigma (behemoths) + astral flow - the arena, including any adds, will get rotated 90 degrees in the direction of the arrows
+	players will NOT get rotated, so find a spot that will become safe after the rotation
+	this first one will do a cutscene where you can't even attack
+	the rest will just bind everyone while the rotation takes place
+
+adikia - slams both fists down, doing massive point blank aoes on the east and west sides
+
+phlegethon
+triple esoteric ray - spawns one ray mid then two at the sides or vice versa, dodge from one safe spot into the other
+
+algedon - a big diagonal line aoe from one corner of the arena
+
+paradeigma (snakes) + astral flow
+
+astral eclipse - look at the three star patterns, imagine them like a laptop lid closing onto the arena floor
+	dodge into the three safe spots
+	the pattern is always S/Z pentomino, then corners unsafe, then corners safe
+
+styx
+kokytos
+
+paradeigma (behemoths) + astral flow - this time the behemoths are adjacent to each other
+
+styx
+
+exoterikos (square?)
+adikia
+
+trimorphos exoterikos - creates three runes, one on each edge aside from north, that go off in the order they were created
+
+paradeigma (snakes) + astral flow
+
+styx
+
+exoterikos
+triple esoteric ray
+
+tankbuster
+
+trimorphos exoterikos
+phlegethon
+
+styx
+algedon
+
+loops from paradeigma after first trimorphos exoterikos until defeated

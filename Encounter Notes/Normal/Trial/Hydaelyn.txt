@@ -1,0 +1,98 @@
+heros's radiance - raidwide
+
+dawn mantle (mousa) - changes weapons and does an ability based on the new weapon
+		mousa - doughnut aoe, stay in her hitbox
+
+mousa's scorn - a double stack tankbuster
+
+dawn mantle (magos) - a point-blank aoe, go out
+
+magos's radiance - raidwide
+
+dawn mantle (heros) - does a plus aoe centred on hydaelyn, go to intercardinals
+
+heros's sundering - a cone aoe tankbuster
+
+dawn mantle (mousa/magos)
+tankbuster/raidwide - depends on her dawn mantle weapon
+
+dawn mantle (heros)
+
+pure crystal - add phase, summons six crystals of light that need to be destroyed
+hydaelyn's ray - a proximity line aoe through the arena
+crystalline stone iii - a stack marker on a random player
+hydaelyn's ray
+crystalline blizzard iii - spread aoes on every player
+loops from hydaelyn's ray until enrage
+
+exodus - a big transition raidwide
+
+
+timeline split based on weapon choice
+timeline 1
+	crystallize (ice) - stores a different ability based on the element
+		ice does a spread aoe on every player, earth does a stack on a random player
+	dawn mantle (mousa)
+
+	tankbuster
+
+	parhelion - throws out three cones of chakrams to the edge of the arena leaving three safe slices opposite them
+		dodge all first, then go opposite the third set to be thrown
+	subparhelion - the chakrams fly back through the arena in the same order they were thrown
+		dodge into the first set once they've flown back through the arena
+
+	crystallize (earth)
+	dawn mantle (magos)
+
+	parhelic circle - creates a pattern of lines where the tips (and centre of the arena) will explode shortly afterwards
+
+	raidwide
+
+	crystallize (ice)
+	dawn mantle (heros)
+	
+	tankbuster
+
+timeline 2
+	crystallize (ice)
+	dawn mantle (magos)
+
+	parhelic circle
+
+	raidwide
+
+	crystallize (ice)
+	dawn mantle (mousa)
+
+	tankbuster
+
+	parhelion
+	subparhelion
+	
+	crystallize (earth)
+	dawn mantle (heros)
+
+	tankbuster
+
+radiant halo - raidwide
+
+lightwave - creates four lightwaves on the edge of the arena that will eventually travel through the arena
+echoes - a multi-hit stack marker on a random player
+	after this, the lightwaves begin moving
+
+crystallize (ice)
+dawn mantle (mousa)
+
+lightwave
+echoes
+
+crystallize (earth)
+dawn mantle (magos)
+
+lightwave
+echoes
+
+crystallize (ice)
+dawn mantle (heros)
+
+loops from lightwave + echoes until defeated
