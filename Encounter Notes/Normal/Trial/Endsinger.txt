@@ -1,0 +1,71 @@
+elegeia - a raidwide that spawns two planets on the outside
+	the planets will rotate around, one slow and one fast, until they collide at an intercardinal, doing a massive point-blank aoe
+elegeia
+
+galaxias - a big knockback from the centre of the arena
+
+elenchos - either does a big line aoe through the middle column of the arena or two line aoes at the side columns
+	look at the boss, vomiting is mid aoe and crying is side aoes
+elenchos - opposite of the previous
+
+death's embrace - a thin cone aoe towards every player
+	once these go off, a feather lands where each player was standing
+pharmakon - the feathers explode in small point-blank aoes
+
+aporrhoia - creates four heads at north that do elenchos line aoes through the arena
+
+hubris - aoe tankbusters on both tanks
+
+elegeia unforgotten - elegeia, but the impact is recorded for later
+fatalism - replays the previous aoe from the planets colliding
+
+elegeia unforgotten
+fatalism
+galaxias - use the knockback to get pushed into the safe spot form the point-blank
+
+ekstasis - creates five heads that make expanding puddles underneath them, eventually only leaving tiny safe spots at the cardinals
+
+interstellar + nemesis - a large dash through the arena with spread aoes on each player
+
+aporrhoia
+elenchos
+
+elegeia unforgotten x2
+fatalism - look which of the two starts first and dodge that one
+galaxias - use the knockback to get pushed into the safe spot from the first point-blank
+fatalism - replays the other point-blank
+nemesis - spread out in the safe spot
+
+death's embrace
+elenchos + pharmakon - dodge the line aoe/s and point-blanks at the same time
+
+tankbusters
+
+aporrhoia
+elenchos
+
+elegeia
+nemesis
+
+interstellar + nemesis
+
+loops from death's embrace + elenchos + pharmakon until <47% hp
+
+planetes - add phase, kill the kakodaimon add
+	meteor radiant - creates four meteors, one by one, that slowly telegraph where they will land on the arena, doing large point-blank aoes
+	meteor outburst - a spread aoe on every player
+	katastrophe x2 - raidwide
+	loops from meteor radiant until enrage
+ultimate fate - a massive raidwide that needs tank LB3 to survive
+
+fatalism - replays the ultimate fate cast
+	but the scions save the day :O
+
+telos - raidwide
+
+telomania - a multi-hit raidwide with a bleed at the end
+	also gives the boss a damage up stack
+
+dead star x3 - three sets of puddles under four random players
+
+loops from telomania until defeated

@@ -1,4 +1,4 @@
-elegeia unforgotten - big raidwide, summons a head in the middle of the arena and two planets on the outside
+elegeia unforgotten - a big raidwide that summons a head in the middle of the arena and two planets on the outside
 	the planets will rotate around, one slow and one fast, until they collide at an intercardinal
 	blue planets do a big knockback, orange planets do a big point blank
 		go towards or opposite the planets respectively
@@ -51,7 +51,7 @@ despair unforgotten
 theological fatalism 2 - players get rings signalling how many rewinds are happening
 	if your rings take you back to a stack or doughnut, stack in the middle, otherwise stay on the outside
 
-telomania - multihit raidwide with a bleed at the end
+telomania - a multi-hit raidwide with a bleed at the end
 
 endsong's aporrhoia (aka 6head) - summons six heads in a hexagon pattern around the room
 endsong x3 - rings fly towards four heads at a time causing them to cast a point blank aoe
@@ -74,10 +74,15 @@ elenchos
 telomania
 twinsong's aporrhoia + aporrhoia unforgotten x3 + theological fatalism 3
 elenchos + eironeia
+
 tankbusters
+
 endsong's aporrhoia + endsong x3
+
 elenchos
 raidwide
+
 fatalism x2
+
 raidwide
 enrage

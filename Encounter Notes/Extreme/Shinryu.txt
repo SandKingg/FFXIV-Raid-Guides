@@ -95,7 +95,7 @@ wormwail/benighting breath - either a tight doughnut aoe that requires going int
 tankbuster
 reiryu
 
-loops from tera slash until <25% health
+loops from tera slash until <24% health
 
 enrage phase - shinryu's wings become targetable and begin casting hellfire and judgment bolt
 	two blue aoes spawn in the east and west that allow players to jump onto shinryu's back

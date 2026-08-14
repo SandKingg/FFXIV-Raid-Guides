@@ -8,7 +8,6 @@ mist rune - spawns four puddles in mid and four in the corners, that all start c
 	if there is no player in them when the countdown finishes, a spirit of dew add will spawn and the puddle disappears
 	assign clock spots to everyone, with melees on cardinals and ranged on intercardinals
 	go to your respective puddle
-
 flame rune - summons a flaming fist that does a fiery stack on each healer
 	split into light parties based on clock spots and stand in the east/west puddles to gain fire resist
 
@@ -64,16 +63,17 @@ being mortal - big transition raidwide
 
 mist rune - wait for phantom rune before moving
 phantom rune
-
-flame rune + growth rune - growth runes spwan on opposite cardinals
+flame rune + growth rune - growth runes spawn on opposite cardinals
 	if they spawn east/west, then both light parties need to rotate clockwise
 
 phantom rune
 raidwide
 fae light
 frost rune + uplift
+
 raidwide
 thunder rune
+
 growth rune + chain of brambles
 phantom rune
 phantom rune - opposite of previous?
