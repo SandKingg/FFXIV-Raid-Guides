@@ -1,0 +1,82 @@
+void aero iv - raidwide
+
+savage barbery - indicates an overhead sword swing with an arrow pointing to where it will be thrown afterwards
+	the sword swing does a line aoe through the boss in the direction of the sword markers
+	then there's a big point-blank aoe from where the sword lands
+hair raid - jumps to the wall where the sword is, doing a massive cone aoe into the arena
+	there are to safe spots right next to where she jumps
+
+void aero iii - a double-stack tankbuster
+
+savage barbery - this time a doughnut aoe is indicated instead of the line aoe
+	stay in and dodge the point-blank
+hair raid
+
+raidwide
+
+teasing tangles - marks areas in each cardinal that each drag two players towards them, exiting will drag the player back to the middle of the area and leave a nasty dot
+secret breeze - two sets of cone aoes from the boss that go off in the order they're telegraphed
+	these cones overlap so you'll need to dodge a bit more than normal
+
+deadly twist - a stack marker on a random player
+
+savage barbery - random this time
+hair raid + hair spray - this time there are spread aoes on four players that go off after the big cleave
+
+raidwide
+tankbuster
+
+teasing tangles
+secret breeze
+void aero - baited puddles under every player
+
+curling iron - transforms into the second phase, while making her hitbox unsafe
+catabasis - big transition raidwide
+
+brutal rush - punches towards four players in sequence, doing line aoes that they need to dodge quickly
+warning gale + winding gale - a point-blank aoe underneath her and six spiralling line aoes that send clones to the outside
+winding gale x2 - two sets of six lin aoe dashes from the clones
+warning gale + winding gale
+
+deadly twist + boulder - one player gets a stack marker, another player gets a big aoe marker that places a big point-blank aoe beneath them
+	everyone except the boulder player should stack up
+boulder break - aoe tankbusters on both tanks
+	the boulder puddle explodes slightly before the buster hits
+
+knuckle drum - a multi-hit raidwide
+
+blustery ruler - a point-blank aoe that starts spawning mini tornadoes that slowly move through the arena
+bold boulder + trample - one player gets a flare marker and another player gets a stack marker
+	the flare player runs away from the stack while everyone dodges the tornadoes and stacks
+
+tornado chain - a massive point-blank aoe, followed by a doughnut aoe with the previous point-blank as its safe spot
+hair spray - spread aoes on five random players
+
+knuckle drum
+
+brutal rush
+blow away + brutal rush - four sets of large baited puddles under two random players
+	more punch line aoes are going off while the baits happen
+
+teasing tangles
+tornado chain
+touchdown - jumps to a point near the edge, doing a radial knockback from there
+	the knockback isn't that big so staying in the closest part of your area to it will be safe
+
+tankbusters
+knuckle drum
+
+brutal rush
+impact - a knockback circle in mid
+
+dry blows - a small raidwide that spawns many small puddles around the arena to dodge
+brutal rush
+
+teasing tangles
+blustery ruler
+knuckle drum
+tornado chain
+
+knuckle drum
+
+loops from first brutal rush until defeated
