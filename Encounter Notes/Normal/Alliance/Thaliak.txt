@@ -1,0 +1,50 @@
+katarraktes - raidwide + bleed
+
+rheognosis - summons a clone towards the east or west that eventually does a big knockback from that side
+
+thlipsis - a stack marker on a random player
+
+left/right bank - a half-room cleave on the side indicated by the cast name
+right/left bank - opposite of the previous
+
+hydroptosis - spread markers on random players
+	these give vulns so be very careful not to overlap
+
+rhyton - line aoe tankbusters on each tank
+
+tetraktys - transforms the arena into a large triangle made up of 9 smaller triangles
+	three sets of three small triangles will start glowing in sequence, doing aoes when they reach full size
+	then there will be three bigger triangles (made of 4 smaller triangles) to dodge
+tetraktuos kosmos - one of the smaller triangles will have 3 rectangles rise up from its edges before falling straight down on the arena
+	go directly opposite its tip to dodge
+tetraktuos kosmos - this time two triangles create the aoes
+	the other 'tip' small triangle away from both aoe triangles will be mostly safe
+	the arena returns to normal after this
+
+rheognosis petrine - does a rheognosis but includes two water orbs that get knocked back through the arena as well
+	don't stand on the water orb side
+
+hieroglyphica - turns the arena into a 4x4 grid of squares with two squares being safe
+	the safe spots will always be a corner tile and a non-corner edge tile
+	the grid then rotates 90 degrees in the indicated direction so stand where the safe spot will end up
+
+hieroglyphica
+left/right bank - one safe spot will end up being cleaved, so make sure to dodge where the correct safe spot will be
+	you get a bit of time to dodge after the spin as well
+
+tetraktys
+tetraktuos kosmos - already there will be two triangles doing the aoes here
+tetraktuos kosmos
+
+tankbusters
+
+rheognosis petrine
+thlipsis
+
+hieroglyphica
+left/right bank
+
+hydroptosis
+raidwide
+
+loops from second tetraktys until defeated

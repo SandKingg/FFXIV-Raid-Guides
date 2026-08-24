@@ -53,7 +53,7 @@ projection of turmoil - spawns a moving line from north that does a stack explos
 	or do the congaline strat where tanks take first hit solo with mits, then join every subsequent hit with more and more players
 	(congaline may be preferable due to the second iteration of this mechanic later)
 
-bitter whirlwind - a triple-hit tankbuster that gives magic vuln, eithe rinvuln or do a double tank swap
+bitter whirlwind - a triple-hit tankbuster that gives magic vuln, either invuln or do a double tank swap
 
 dawn of an age - this time only a single other platform is spawned
 

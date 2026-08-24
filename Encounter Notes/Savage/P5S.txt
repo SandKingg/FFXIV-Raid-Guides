@@ -13,7 +13,8 @@ toxic crunch - a follow-up tankbuster that leaves another nasty bleed
 lively bait - spawns two puddles on cardinals near mid and two puddles on intercardinals near the corners
 	these puddles have a countdown and spawn an add if not soaked by two people once the countdown ends
 		they also do a shared damage aoe on the closest player if not soaked
-	assign clock spots, with melees on cardinals and ranged on intercardinals, then have a priority for which pair takes which of the two puddles
+	have melees soak the two mid puddles and ranged soak the two corner puddles
+	assign a priority for looking CW from A or ACW from 4 to find the puddles
 	standing in the puddles gives a dot, so try not to stay in them the whole time
 
 tankbusters
@@ -74,8 +75,8 @@ venom squall - assign one light party to start in the east safe spot and one to 
 	wait for the topaz stone aoes to go off, then quickly move into the other quadrant
 	then do the spread, bait and light party stack
 	for spreads, one person can go right up close to where the aoes intersect, and the rest around the other corners of the quadrant
-
 lively bait
+
 claw to tail/tail to claw
 tankbusters
 raidwide
@@ -88,6 +89,7 @@ double rush
 
 tankbusters
 raidwide
+
 venom squall/surge
 claw to tail/tail to claw
 tankbusters
