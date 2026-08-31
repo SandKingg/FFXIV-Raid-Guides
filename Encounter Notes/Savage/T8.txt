@@ -11,7 +11,7 @@ towers (north + west) - periodically, towers placed at the four cardinals will a
 	south - raidwide
 	west - raidwide
 	assign three players to be tower soakers, with a potential backup for later
-	for the two tower patterns, the player assigned to the towers in priority N > E > W will charge their respective tower once
+	for this pattern, charge north once
 
 homing missile - a random player gets tethered to the boss, which will cause them to explode later and deal aoe damage
 	this tether can be intercepted by anyone
@@ -25,7 +25,7 @@ gaseous bomb
 
 defensive reaction - tower raidwide
 
-towers (east + west)
+towers (east + west) - charge east once
 homing missile
 gaseous bomb
 
@@ -77,9 +77,8 @@ allagan field - debuffs a random player, which explodes at the end of its durati
 homing missile - the tether now always goes onto the allagan field player at first, so needs to be taken away
 
 towers (east + south + west) - now there are three towers that need activating
-	using the same priorities as before, the top priority tower needs two players to charge it twice and the second priority tower needs charging once
-	the player whose tower is not activated will be the second player into the tower
-	if a tower-taker has allagan field, the backup needs to take it instead
+	this time west is charged three times and MT will charge south once
+	if a tower-taker has allagan field, a backup needs to take it instead
 
 gaseous bomb
 allagan field
@@ -91,7 +90,9 @@ allagan field
 homing missile
 raidwide
 gaseous bomb
-towers (north + east + west)
+towers (north + east + west) - using the same priorities as before, the top priority tower needs two players to charge it twice and the second priority tower needs charging once
+	the player whose tower is not activated will be the second player into the tower
+	if a tower-taker has allagan field, the backup needs to take it instead
 allagan field
 homing missile
 gaseous bomb

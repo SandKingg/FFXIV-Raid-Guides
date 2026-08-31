@@ -1,0 +1,72 @@
+sudden downpour - raidwide
+
+trek shot - telegraphs a wide cone aoe in front of him, then jumps backwards in the direction indicated by the arrow
+	the aoe shots from where he jumps so make sure to go behind there
+
+reproduce - creates a clone towards a random corner
+swinging draw - the clone casts a trek shot that also curves around to an adjacent cardinal
+	again, make sure to dodge from where the shot ends up
+
+reproduce
+swinging draw
+
+flinted foehn - a multi-hit stack marker on a random player
+
+soaring minuet - a 270-degree cleave in the direction he's facing, indicated by the barrage of arrows
+
+the arrow - aoe tankbusters on each tank
+
+reproduce - creates two clones on two adjacent intercardinals
+swinging draw x2 - both clones cast at the same time, so dodge into the safe spot from both cleaves
+	it will always be directly between the two arrows
+
+raidwide
+
+downhill - creates several puddles on the ground that explode later
+climbing shot - a big knockback from the centre, avoid getting knocked into a puddle
+
+soaring minuet
+flinted foehn
+trek shot
+
+raidwide
+
+loops from reproduce + swinging draw x2 until <50% hp
+
+lofty peaks - a multi-hit transition raidwide
+	the boss also turns gigantic here
+
+piton pull - attaches two pitons to two opposite corners of the arena
+	each one then does an enormous point-blank aoe, so run all the way into a safe corner
+piton pull - this time the aoes come from the previous safe corners
+
+altitude - briefly shows a large array of aoes with small safe spots, then rains down arrows on those aoes
+	quickly locate the safe spot and move there
+
+flinted foehn - now hits more times
+
+wandering shot - shoots two arrows that follow the paths indicated by the arrows, doing a large point-blank aoe where they collide
+	this will either be north or south, with the north spot not giving any uptime
+wandering shot - opposite of the previous
+
+tankbusters - the aoes are much larger now
+
+arrow trail - indicates eight lines one by one, then fires slow moving arrow barrages down the lines in order
+	each of the four columns will get hit twice
+downhill - three sets of three puddles spawn while dodging the arrows
+
+piton pull
+
+downhill - creates puddles on the east and west edges that go off later
+wandering volley - a wandering shot that also does a line knockback from the centre
+	make sure to get knocked into a safe spot from the puddles and the large point-blank aoe from the colliding arrows
+piton pull
+
+flinted foehn
+tankbusters
+
+altitude
+
+raidwide
+
+loops from arrow trail until defeated

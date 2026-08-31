@@ -1,0 +1,57 @@
+tempest - raidwide
+
+seafoam spiral - a doughnut aoe, go into her hitbox
+
+wind rose - a point-blank aoe, go out
+
+navigator's trident - telegraphs a cleave on one side, and then the other
+	then does a big knockback line aoe that creates a passage through the sea wall
+wind rose/seafoam spiral
+surging wave - a massive radial knockback that you need to use to get pushed back into the sea passage
+	then run back to the boss while avoiding the sea foam orbs and advancing water
+
+left/right strait - a half-room cleave on the side indicated by the cast
+
+deep dive - a stack marker on a random player
+
+torrential tridents - launches her trident in the air, causing six more to rain down in sequence
+	these then explode into large point-blank aoes in the order they came down
+
+stormy seas - three sets of three puddles baited under random players
+	then there are spread aoes on more random players
+
+denizens of the deep - summons her two serpents, causing them to assist with her future abilities
+
+wind rose + serpents' tide - there are circular splashes coming from the sea walls where the serpents will burst out, doing line aoes
+	dodge the point-blank and line aoes at the same time
+serpents' tide - watch the line aoes again
+left/right strait
+serpents' tide
+maelstrom - three small puddles underneath random players
+
+godsbane - a big raidwide that gives everyone a bleed
+
+navigator's trident + serpents' tide - make sure to get knocked back into a safe spot from the line aoes
+wind rose/seafoam spiral
+surging wave
+to the last - telegraphs three line aoes, each hitting either the left or right half of the sea passage
+	stay on the safe sides while still dodging the orbs and advancing water
+
+left/right strait
+
+deep dive + hard water - now a multi-hit stack as the serpents hit too
+
+torrential tridents
+stormy seas
+serpents' tide + maelstrom
+wind rose/seafoam spiral
+
+godsbane
+
+wind rose/seafoam spiral
+stormy seas
+left/right strait
+
+raidwide
+
+loops from second navigator's trident until defeated
