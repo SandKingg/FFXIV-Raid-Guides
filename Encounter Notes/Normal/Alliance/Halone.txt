@@ -1,0 +1,73 @@
+rain of spears - a multi-hit raidwide
+
+tetrapagos - telegraphs a point-blank aoe, a doughnut aoe, a left cleave and a right cleave in a random order
+	these aoes then go off quickly in the order they were telegraphed
+	this first one is always:
+		point-blank/doughnut
+		left/right
+		doughnut/point-blank - opposite of first
+		right/left - opposite of second
+
+tetrapagos - this one now has the two cleaves telegraphed back to back as the second and third aoes, needing quicker dodging between the,
+
+doom spear - creates three stack towers at NE, NW and south
+	split into alliances to fill these
+spears three - aoe tankbusters on each tank
+
+thousandfold thrust - creates many red reticles that converge towards a point, then does a rapid multi-hit half-room cleave in that direction
+thousandfold thrust
+
+lochos - creates two sets of spears that fly through the arena
+	one set flies horizontally, the other set flies vertically, leaving only one quadrant safe
+	these spears hit many times so make sure to dodge as quickly as possible
+
+will of the fury - creates five doughnut aoes that propagate inward from the edges of the arena
+	getting hit freezes you in place, so be very careful
+wrath of halone - a big proximity aoe from the middle
+	dodge between two sets of doughnuts and move to the edge to minimise damage
+
+add phase - three glacial spears spawn at NE, NW and south, plus one more in mid
+	split into alliances and stand in the safe zones to attack each spear
+	the cages around each spear disappear when it is destroyed, allowing you to attack the other spears	
+
+	niphas + ice dart - point-blank aoes from each spear, plus spread aoes on random players
+
+	cheimon - three line aoes from the middle spear that rotate in the direction indicated
+fury's aegis - a big multi-hit raidwide
+
+lochos
+thousandfold thrust - this always splits the safe quadrant in half, leaving only one eighth of the arena safe
+ice dart
+
+will of the fury + wrath of halone
+
+tetrapagos thrust - tetrapagos but with a thousandfold thrust added at the end
+
+doom spear
+raidwide
+
+chalaza - gives random players ice dart spread aoes, and an ice rondel stack marker to another player
+	if you don't have a spread, then stack with the stack
+
+tetrapagos
+tankbusters
+
+lochos
+thousandfold thrust
+ice dart
+
+will of the fury + wrath of halone
+raidwide
+
+tetrapagos thrust
+
+doom spear
+raidwide
+tankbusters
+
+chalaza
+
+tetrapagos
+tankbusters
+
+loops from third lochos until defeated

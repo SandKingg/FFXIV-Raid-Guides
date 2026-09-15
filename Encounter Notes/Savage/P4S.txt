@@ -66,9 +66,11 @@ inversive chlamys - whichever role did not take first towers needs to take these
 
 raidwide
 tankbusters
+
 setting the scene
 pinax
 north/east/south/westerly shift
+
 raidwide x3
 enrage
 
@@ -133,6 +135,7 @@ kothornos kick + kothornos quake - the knockback from mid happens and another ki
 nearsight/farsight
 
 heart stake - a bleed on the first then second in aggro
+	OT can provoke during the cast to ensure only one tank gets the bleed
 
 akanthai: act 4 - showcases four towers on the cardinals or intercardinals and four aoes on the other spots
 

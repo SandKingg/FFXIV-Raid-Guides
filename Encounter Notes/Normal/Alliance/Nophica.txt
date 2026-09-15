@@ -1,0 +1,48 @@
+abundance - raidwide
+
+matron's plenty - transforms the arena into pink or green and creates a small death wall around the edge
+the giving land - a point-blank or doughnut aoe depending on the arena type
+	spring flowers (pink) - point-blank
+	summer shade (green) - doughnut
+
+season's passing - the arena transforms to the other colour
+the giving land - opposite of the previous
+
+matron's harvest - a raidwide that returns the arena to normal
+
+reaper's gale - two sets of checkerboard aoes that go off in the order they appear
+	dodge diagonally from one into another
+
+matron's plenty 2
+floral haze - gives everyone a forced march debuff
+the giving land - this goes off BEFORE the forced march, so dodge first, then do forced march
+
+season's passing
+the giving land - opposite of the previous, use your forced march to dodge this one
+matron's harvest
+
+matron's breath - creates two patches of flowers, one blue and one yellow, then does three aoes that are either blue or yellow
+	stand in the matching colour of flower to avoid damage, and even get a tiny bit of healing
+
+raidwide
+
+matron's plenty 3
+floral haze - some people will have short timers and others will have long timers
+landwaker + reaper's gale - this time there are point-blank aoes to dodge as well as the checkerboards
+the giving land - short timers need to use forced march to dodge this
+
+sowing circle - spawns two sets of four exaflares that move towards the cardinals or intercardinals
+	the second set spawns in-between the first set
+season's passing
+the giving land - long timers use forced march to dodge this
+matron's harvest
+
+matron's breath 2 - this time there are 6 aoes with less time to dodge between them
+
+furrow - a stack marker on a random player
+
+heaven's earth - aoe tankbusters on each tank
+
+raidwide x2
+
+loops from matron's plenty 3 until defeated

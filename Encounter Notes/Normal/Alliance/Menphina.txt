@@ -1,0 +1,62 @@
+blue moon - raidwide
+
+love's light - creates a moon at the edge of the arena
+full bright - the moon gradually fills, doing a large line aoe once it's full
+	you can use the lines on the floor to see where the aoe will hit
+
+midnight frost - a half-room cleave in the direction indicated
+
+lunar kiss - line aoe tankbusters on each tank
+
+silver mirror - three sets of baited puddles underneath random players
+moonset - three large aoe that the boss jumps to in sequence
+	the third one will always be towards the edge somewhere
+winter halo - a doughnut aoe cast from where she ends up after the third jump
+
+love's light 2 - creates four huge overlapping aoes on the ground, each with a respective moon image
+	two of them start half full and the other two start empty
+full bright - the moons start filling at equal rates, the two aoes with the half-moons will explode first
+midnight frost
+
+selenain mysteria - add phase, creates four ceremonial pillars that need to be destroyed
+	ancient blizzard - four untargetable ice sprites spawn that cast cone aoes towards random players
+	keen moonbeam - spread aoes on random players
+rise of the twin moons - a raidwide that also summons dalamud
+
+midnight frost + waxing claw - now combined with a separate half-room cleave from dalamud on the side of his raised claw
+	make sure to dodge both
+
+playful orbit - dalamud runs north, separating from menphina
+midnight frost + waxing claw - menphina is always facing diagonally to dalamud so the safe spot could be larger or smaller
+
+raidwide
+
+keen moonbeam
+midnight frost + waxing claw
+
+cratering chill - creates two proximity aoes towards two opposite cardinals
+winter solstice - turns the floor slippery
+playful orbit
+winter halo + waxing claw - use the slippery floor to move into the safe spot from both aoes
+
+moonset rays - a stack marker on a random player
+
+love's light 3 + full bright - same as 2
+
+silver mirror
+midnight frost + waxing claw
+
+love's light 4 + full bright - same as 1
+playful orbit
+midnight frost + waxing claw - you don't get much time to move into the safe spot after the line aoe, so stay close to the middle
+
+moonset rays
+tankbusters
+
+love's light 5 + full bright - same as 2
+midnight frost
+
+raidwide
+tankbusters
+
+loops from keen moonbeam until defeated

@@ -1,0 +1,56 @@
+abilities will be prefixed with the caster's initial
+
+(N) spinner's wheel - gives everyone a debuff
+	arcane attraction - a gaze attack from nymeia once the debuff expires
+	arcane fever - a pyretic, stop moving once the debuff expires
+	whichever debuff it gives will be the same throughout the entire fight
+
+(A) mythril greataxe - a cone aoe towards a random player
+
+(N) spinner's wheel
+(A) time and tide - rapidly elapses the debuff timer, causing it to go off sooner than expected, be careful
+
+(A) axioma - a raidwide that causes spacetime distortions to appear on the arena
+	standing in one will give you a heavy debuff and a magic vuln, so be careful
+
+(N) hydroptosis - spread aoes on random players
+
+(A) inexorable pull - a raidwide knock-up, stand in a spacetime distortion to avoid it
+
+(N) hydrorythmos - creates a vertical watery line aoe in mid that propagates outwards towards east and west
+
+(A) mythril greataxe
+
+(A) petrai - a double-stack tankbuster, have the tank who is not tanking either of the bosses join the stack
+(N) hydrostasis - creates three knockback circles numbered from 1 to 3, indicating which order they will explode in
+	these knockbacks are very big, so make sure to always get knocked towards the next one in sequence
+
+(N) spinner's wheel - this time the debuff is reversed
+	attraction reversed - look at nymeia when the debuff expires
+	fever reversed - a freezing up debuff, keep moving when the debuff expires
+
+(A) mythril greataxe
+(N) hydroptosis
+
+(A) tankbuster
+
+(N) hydrostasis
+(A) time and tide - accelerates knockback circle 3, turning it into 1 and increasing the numbers of the other two
+	essentially the sequence starts from 3 instead of 1
+
+(A) raidwide
+
+(N) spinner's wheel - from now on this will be reversed on some players and normal on others so pay attention
+(A) time and tide - accelerates the debuff timers
+(N) hydrorythmos
+
+(N) hydroptosis
+(A) inexorable pull - make sure to stay out of the distortions to dodge the spreads, then quickly move in
+
+(A) tankbuster
+(A) raidwide
+
+(N) spinner's wheel
+(A) mythril greataxe
+
+loops from hydrostasis + time and tide until enrage

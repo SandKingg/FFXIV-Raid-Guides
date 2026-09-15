@@ -35,7 +35,7 @@ burning chains - only on supports this time
 
 earth breath - cone aoes on a random dps and healer that leave a dot, assign each role either NE or NW corners to avoid hitting the party
 
-akh morn + akh rhai
+akh morn + akh rhai - now creates two akh rhais
 ice storm
 
 diamond dust - a raidwide that also makes the floor slippery, stack mid and don't move, also spawns more puddles
@@ -46,7 +46,7 @@ reiryu - spawns three reiryu adds that tether to non-tank players and prevent th
 
 tail slap (tank) - go to the SW tile
 the worm's heart
-summon icicle + akh morn - MT can invuln this to make it easier, but stay on the safe side and dodge icicles
+summon icicle + akh morn + akh rhai - MT can invuln this to make it easier, but stay on the safe side and dodge icicles
 
 aerial blast + burning chains - three small knockbacks from the centre, followed by a much larger knockback
 	only dps get chains, get knocked to your spread spot
