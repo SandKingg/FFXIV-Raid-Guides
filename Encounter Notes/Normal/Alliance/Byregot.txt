@@ -1,0 +1,52 @@
+ordeal of thunder - raidwide
+
+byregot's strike - jumps to a blue knockback circle, doing a large knockback from it
+
+byregot's ward - tankbuster
+
+builder's build - empowers himself with lightning
+byregot's strike - this time there will be lightning cone aoes from where he jumps to, indicated by the patterns coming from byregot
+
+the builder's forge - transforms the arena, removing the east and westmost columns
+
+peal of the hammer - summons hammers on the edges of the arena that knock their rows of platforms in the direction they're facing
+	this does NOT move players, so make sure you end up on a platform that will still be there after the hammer knock
+
+levinforge - creates a lightning-empowered hammer at north that will do a line aoe later
+peal of the hammer - make sure you stand on a platform that will still exist while also not getting hit by the lightning aoe after it moves
+	for this one, standing directly in front of the hammer is safe
+
+peal of the hammer
+byregot's spire - a three-column line aoe, watch the hammers to see where the safe platforms will be
+	remember that you are not moved by the hammers so you may need to quickly dodge into a safe spot
+
+the builder's forge - returns the platform to normal
+
+byregot's strike
+raidwide
+
+reproduce - creates five clones on the east edge, with three of them empowered by lightning
+cloud to ground - each clone does one row of exaflares, with the lightning ones moving much faster
+	start in a non-lightning row and move into a lightning one when the exas move past
+	this is easier to dodge the further west you are
+
+tankbuster
+
+the builder's forge
+
+levinforge + peal of the hammer - this time directly in front of the hammer may lead to falling off, so be careful
+levinforge + peal of the hammer
+
+peal of the hammer
+byregot's spire
+
+the builder's forge
+
+byregot's strike
+raidwide
+tankbuster
+
+reproduce
+cloud to ground
+
+loops from second the builder's forge phase until defeated

@@ -53,7 +53,7 @@ shattered world - add phase, make sure one light party stand in each of the circ
 		crystalline snowflake - tethers to the crystal which can be intercepted, but gives light resist down, alternate players each wave
 	raidwide
 	wave 2 - 2 electric aether, 1 crystalline snowflake
-		electric aether - reflectsa flat amount of damage back from each hit, be careful not to blitz them down and kill yourselves
+		electric aether - reflects a flat amount of damage back from each hit, be careful not to blitz them down and kill yourselves
 	raidwide
 	wave 3 - 1 aqueous aether, 2 electric aether, 1 crystalline snowflake
 	raidwide
