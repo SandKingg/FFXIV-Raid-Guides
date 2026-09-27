@@ -8,7 +8,7 @@ paradeigma - spawns four anthropoi from yellow octahedra either in north or sout
 	the normal strat is to have supports bait first, with tanks closer, while the dps stay away then swap over
 trinity of souls - causes one of each of her three sets of wings to be indicated with a thorny circle
 	she then does a big half-room cleave on the sides indicated by the circles
-	if the rings appear starting at the bottom, she also between each cleave, so for the second you dodge INTO the side the circle indicated
+	if the rings appear starting at the bottom, she also turns around between each cleave, so for the second you dodge INTO the side the circle indicated
 	if the rings appear starting at the top, it's the same as normal
 
 paradeigma 2 - spawns four anthropoi from blue 'gemstone shapes' and two from red dodecahedra
