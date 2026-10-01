@@ -38,7 +38,7 @@ graven image 3 - pull boss north again
 	once the pair stack puddles go off, supports dodge north/south and dps dodge east/west
 	stay spread until the rocks go off then look at the statue
 	stay away from the glowing side to dodge the cleave
-	repeat the puddle + rock dodges, with tethers being swapped now
+	repeat the puddle + rock dodges, the tethers might be swapped or they might not
 aero assault - massive knockback from kefka, go behind if he's far enough north or use knockback resist
 
 light of judgment
