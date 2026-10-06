@@ -1,0 +1,41 @@
+lightning reign - raidwide
+
+advent of the eighth - creates two portals towards the north, one lightning and one fire
+hand of the destroyer - channels towards one of the portals, creating an enormous fist out of it that punches anybody hit off the platform
+	this is obviously an instant kill so make absolutely sure to dodge
+
+broken world - a proximity aoe from near north
+	you can go onto one of the fingers to minimise damage
+
+rhalgr's beacon - a purple knockback circle with lines indicating where you'll get knocked back to
+	make sure to get knocked into one of the fingers to avoid falling off
+
+advent of the eighth + hand of the destroyer - channels to the other portal this time
+
+destructive bolt - aoe tankbusters on each tank
+
+advent of the eighth - creates one portal towards NE
+broken world - jumps next to the portal, making a proximity aoe next to it
+hand of the destroyer - the fist from the portal hits the meteor, splitting it into several smaller proximity aoes around the arena
+	stay near the portal to minimise damage
+
+advent of the eighth - creates two portals again
+broken world + hand of the destroyer - look to see if it will punch or hit the meteor and dodge accordingly
+
+bronze work - a set of four cone aoes, followed by four more that hit the previous safe spots
+striking meteor - three sets of puddles under three random players
+tankbusters
+
+advent of the eighth
+broken world + hand of the destroyer - opposite of the previous
+lightning storm - spread aoes on random players
+
+hell of lightning - creates several orbs that do point-blank aoes later
+rhalgr's beacon - don't get knocked towards one of the orbs
+
+advent of the eighth
+broken world + hand of the destroyer
+
+raidwide
+
+loops from bronze work until defeated
