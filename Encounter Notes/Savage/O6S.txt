@@ -17,7 +17,7 @@ divine lure - a gaze attack from the goddess, tethered healer should minmax thei
 
 raidwide
 
-demonic pain - two pairs of players are tethered with proximity tethers and need to move away until it turns purple
+demonic pain - the tanks are tethered with proximity tethers to two dps and they need to move away until it turns purple
 
 raidwide
 
@@ -47,7 +47,7 @@ demonic storm - a stack on a random player
 raidwide
 release
 
-possession 3 (fire, earth + water) - 
+possession 3 (fire, earth + water)
 	flash fire + earthquake - the demon tethers to both fire and earth, doing both raidwides at the same time
 		paint the blue then black pictures to get fire resistance and air force to dodge the aoes
 	flash torrent - the goddess tethers to water, doing two big 'side' aoes

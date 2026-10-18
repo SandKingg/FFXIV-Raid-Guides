@@ -5,7 +5,8 @@ paradeigma - spawns four anthropoi from yellow octahedra either in north or sout
 	these target the two nearest players with lasers that give magic vuln
 	the easy strat is just to have tanks stack on the anthropoi side and invuln
 		beware that the MT will have a magic vuln for the next autoattack so needs either a quick swap or heavy mitigation
-	the normal strat is to have supports bait first, with tanks closer, while the dps stay away then swap over
+	the normal strat is to assign light parties and have one light party bait first, then the other
+		can have tanks closest, then melees, healers and ranged closest to the edge
 trinity of souls - causes one of each of her three sets of wings to be indicated with a thorny circle
 	she then does a big half-room cleave on the sides indicated by the circles
 	if the rings appear starting at the bottom, she also turns around between each cleave, so for the second you dodge INTO the side the circle indicated
@@ -58,7 +59,7 @@ paradeigma 3 - spawns four anthropoi from blue 'gemstone shapes' and two from ye
 engravement of souls - gives debuffs to all supports
 	one gets a plus aoe, one gets a cross aoe and the other two players spawn towers of the same element
 unnatural enchainment - gives life to four panels in a zigzag pattern, killing anyone on them and removing them from the arena
-	also spawns one tower on each of the safe platforms which are taken by supports usually
+	also spawns one tower on each of the safe platforms which are taken by supports
 	the light and dark tethers of the same element will always come from the same side, make sure to stretch them
 		these tethers need to be crossed to avoid clipping players
 		if the tether can be stretched perfectly horizontally, do so, otherwise adjust
@@ -66,7 +67,7 @@ unnatural enchainment - gives life to four panels in a zigzag pattern, killing a
 	the two tower players take the towers on the middle platforms
 	after the towers, the plus goes to the outside corner while the cross goes to the inside corner
 		after that, these two players need to bait the lasers from the yellowborn anthropoi
-		the two players not spawning or taking towers also need to bait the lasers
+		the two dps not taking towers also need to bait the lasers
 	the other players need to make sure the towers are soaked by players with opposite-element tethers
 		have the tower player on the platform with the correct elements just place it near the middle
 		the tower player on the platform with incorrect elements needs to place it right in the middle corner so the players on the other platform can reach it
@@ -80,7 +81,7 @@ palladion - marks every player with a number from 1 to 8 and dashes between them
 	each dash also leaves a persistent puddle behind
 	have 1 and 3 pair, 2 and 4 pair etc, this means odds will be opposite of where the boss starts and evens will be closer towards it
 	the eight adds will spawn mid, doing cleaves to prevent anyone from being mid and firing lasers at the two closest players
-	the baits should be some semi-opposite to the dashes
+	the baits should be done semi-opposite to the dashes
 		5 and 7 first, then 6 and 8, then 1 and 3, then finally 2 and 4
 		make sure you spread a bit when baiting so you don't overlap the lasers
 theos's ultima - destroys the middle four platforms, then does a massive raidwide split between all players alive (and respawns the platforms)

@@ -10,7 +10,7 @@ ravenous assault - double hit tankbuster with a swap
 
 arcane utterance - either creates red arcane globes or blue arcane fonts
 arcane control - activates the objects
-	globes -  these explode in point-blank aoes, move into the gap where there is no orb
+	globes - these explode in point-blank aoes, move into the gap where there is no orb
 	fonts - these fire lasers in the direction they're facing, move directly opposite of the gap
 
 broken faith - circles fall from the sky, doing point-blank aoes indicated by the lines on the floor
