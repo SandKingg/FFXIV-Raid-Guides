@@ -1,0 +1,90 @@
+as above, so below - a raidwide that transitions the arena
+heat above, flames below - splits the arena into a gold circle underneath the boss and blue everywhere else, and also changes the skybox to blue or gold
+	whichever colour the sky is indicates which part of the floor will explode
+	this one will always be a doughnut
+
+as above, so below
+heat above, flames below - the sky switches to the other colour, doing the opposite aoe
+	this one will always be a point-blank
+
+heavens' trial - marks three random players for cone aoes, and gives a stack marker to another player
+	everyone not taking a cone should stack
+
+golden tenet - a triple-stack tankbuster
+
+as above, so below
+far above, deep below - indicates a golden line stack on a random player, and three blue following aoes on other random players, and also changes the skybox to blue or gold
+	whichever colour the sky is indicates which mechanic will actually happen
+	beware, it may change partway through the cast
+
+as above, so below
+once above, ever below - creates four lines of three double-exaflares each towards the cardinals and changes the skybox to blue or gold
+	two adjacent lines are gold and the other two are blue
+	whichever colour the sky is indicates which colour of exaflares will go off
+
+hell of fire - a half-room cleave on the side indicated by the glowing eyes
+
+wayward soul - summons four waves of three large balls from the sky
+	these balls do giant point-blank aoes where they land, so be careful
+wayward soul - summons seven large balls in a spiral around the arena
+	move parallel to them as they explode to avoid being hit
+
+hell of fire - this time the bosses switch, doing the half-room cleave on the other side to where was initially shown
+
+fired up i - indicates a large knockback at the back of the arena
+fired up ii - indicates a large point-blank from either NE or NW
+fortune's flux - jumps to each of the marked points, doing the aoes in order
+	use the knockback to dodge the aoe, or just use knockback resist
+
+fired up i - indicates a large point-blank in the middle of the arena
+fired up ii - indicates a large knockback somewhere in the arena
+fired up iii - indicates either a large knockback or large point-blank in another part of the arena
+fortune's flux - this time dodge the aoe from mid before running to the knockback
+	then either get knocked towards the second knockback or away from the second point-blank
+
+soul's measure - splits the arena into a gold and blue half, and summons three soul vessels, starting an add phase
+	equal weight - each vessel tethers to one alliance, allowing them to damage it
+		it also takes on the appearance of a random alliance member
+	twingaze - a cone aoe from each soul vessel towards a random player
+	magmatic spell - a stack marker on a random alliance member from each soul vessel's alliance
+balance - projects spectral scales at the front of the arena showing the balance of weights on each side
+	the weight is determined by the number of players and soul vessel corpses on each side
+	soul vessel corpses weigh more than players
+	there's a bit of leeway but make sure the scales are balanced at the end of the cast otherwise you wipe
+	doing this correctly gives everyone a damage up buff
+
+as above, so below
+once above, ever below - the colour switches are random now
+	which god he ends up as determines the next ability
+
+heavens' trial/stygian tenet - random based on which god he is
+	nald - heavens' trial
+	thal - stygian tenet - aoe tankbusters on each tank
+
+as above, so below
+hearth above, flight below - combines the point-blank/doughnut combo with the line stack/chasing aoe combo
+	either stay out and stack for gold, or stay in, then chasers immediately run out and party moves away for blue
+
+golden tenet/hells' trial - random based on which god he is
+	nald - golden tenet
+	thal - hells' trial - raidwide
+
+hell of fire - may randomly switch sides, so beware
+
+mini-phase based on which god he is
+nald
+	fired up i + ii + iii - will be the opposite three-hit combo from the previous
+	fortune's flux
+
+	heavens' trial
+	golden tenet
+
+thal
+	wayward soul - seven spiralling orbs
+
+	hell of fire
+	stygian tenet
+
+raidwide
+
+loops from as above, so below after balance, alternating mini-phases each time

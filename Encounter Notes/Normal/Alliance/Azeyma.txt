@@ -1,0 +1,58 @@
+warden's prominence - raidwide
+
+solar wings - two large cleaves to her left and right that leave three sunstorms on each side that explode into point-blank aoes
+
+warden's warmth - aoe tankbusters on each tank
+
+solar wings
+sun's shine - creates three mirages of azeyma that do wind aoes, pushing the sunstorms towards the middle
+	go next to one of the sunstorms that will be pushed to avoid the point blanks
+
+solar fans - throws out her fans to the left and right, doing line aoes
+radiant rhythm - rotates the fans around the arena either 4 or 5 times, each time rotating by 90 degrees
+radiant finish - causes the fans to explode in massive point-blank aoes
+	stay very close to her front/back or to her left/right to dodge
+
+tankbusters
+
+fleeting spark - turns to a random player, doing a 270-degree cleave in front of her
+
+solar fold - a plus aoe from her that creates four slowly encroaching lines of fire
+	these eventually split the arena into four quadrants
+sun's shine - creates two mirages that jump to two diagonally opposite quadrants
+	the wind aoes they do will push the fire into the other two quadrants, so stand in a quadrant with a mirage
+
+raidwide
+
+wildfire ward - engulfs the arena in fire, except for a triangle safe spot in mid
+illuminating glimpse - indicates three knockbacks from the three different sides of the triangle
+	position yourself to get knocked from the midpoint of each edge to the opposite corner
+	you can also knockback resist two out of the three, and then do the final one properly
+
+noble dawn - creates a large fireball that makes three sets of expanding aoes
+	these aoes explode once they reach maximum size, so dodge each set in turn
+sublime sunset - jumps behind the fireball, throwing it to the ground in front of her, doing a big proximity aoe
+	go to the edge behind her to minimise damage
+
+solar fans
+radiant rhythm + radiant finish
+fleeting spark
+
+solar wings
+sun's shine - this time some of the clones will push the sunstorms vertically rather than towards the middle
+	look where they are facing and find one at the end of a 'chain' to go to
+
+tankbusters
+
+solar fold
+sun's shine - this time there are 3 clones, so find the one at the end of the chain again
+
+raidwide
+
+noble dawn
+fleeting spark
+sublime sunset
+
+tankbusters
+
+loops from second solar fans until defeated

@@ -6,6 +6,7 @@ aetherial shackles - gives one random player a red shackle debuff and one a purp
 	if you have the red debuff on cardinal or purple on intercardinal, swap with your colour partner
 	the far explosions are much bigger than the close explosions, so be careful
 	the purple debuff player can be a bit closer to middle to avoid a red player being too close
+warder's wrath - raidwide
 
 gaoler's flail - puts down two flails on either side, their weapon showing what will happen
 	sickle - a 270-degree cleave with the opposite side being safe
@@ -21,13 +22,13 @@ pitiless flail of grace/purgation - a line aoe tankbuster that knocks back the t
 
 gaoler's flail - will be the opposite pattern to the previous
 
-warder's wrath - raidwide
+raidwide
 
 intemperance - splits the arena into a 3x3 grid of cells, either with a stack of three elements
 	stay in the cell of your clock spot
 intemperate torment - procedurally explodes the elements in their cells either from top to bottom or bottom to top
 	if he is raising his fist in the air, it's top to bottom, if he is holding it to the ground, it's bottom to top
-	when the elements explode you will gian a fire debuff from the fires and an ice debuff from the ices
+	when the elements explode you will gain a fire debuff from the fires and an ice debuff from the ices
 	for the second hit, the side cells have lightning, which is an instant kill so everyone needs to either stay in the middle or go north/south
 	staying in the middle will keep your debuff the same, but going north/south will switch it to whichever debuff was there
 		getting hit by the same twice in a row will give you a damage down
@@ -51,7 +52,7 @@ pitiless flail of grace/purgation
 aetherflail
 
 shackles of time - gives a random player a shackle debuff, causing the colour they are standing to all explode when the timer runs out
-	have the debuffed player stay still and everyone else adjust
+	have the debuffed player stay on red and the party stay on blue
 
 tankbuster
 
@@ -65,10 +66,12 @@ fourfold shackles - gives everyone a red or purple shackle debuff from aetherial
 		purple player can optionally run a bit closer to middle to avoid memes
 
 raidwide
+
 intemperance + intemperate torment
 gaoler's flail - this will always be in/out in either order and both flails go off between the 2nd and final hits
 	wait for the 2nd hit, then dodge both flails, trying to stay towards your spot to minimise movement
 raidwide
+
 shining cells
 shackles of time
 pitiless flail of grace/purgation - this entire mechanic resolves before the shackles debuff goes off, but try to stay in the correct colour anyway
