@@ -72,15 +72,21 @@ gaoler's flail - this will always be in/out in either order and both flails go o
 	wait for the 2nd hit, then dodge both flails, trying to stay towards your spot to minimise movement
 raidwide
 
-shining cells
-shackles of time
-pitiless flail of grace/purgation - this entire mechanic resolves before the shackles debuff goes off, but try to stay in the correct colour anyway
-raidwide
+shining cells - picks one of two mini-phases
 
-aetherial shackles + aetherchain x2 - explodes either the red or blue sectors depending on the orbs surrounding him
-	the second aetherchain happens right before the shackles resolve so make sure you are in the correct sector in your spot
+mini-phase 1:
+	shackles of time
+	pitiless flail of grace/purgation - this entire mechanic resolves before the shackles debuff goes off, but try to stay in the correct colour anyway
+	raidwide
 
-raidwide
+mini-phase 2:
+	aetherial shackles + aetherchain x2 - explodes either the red or blue sectors depending on the orbs surrounding him
+		the second aetherchain happens right before the shackles resolve so make sure you are in the correct sector in your spot
+
+	raidwide
+
+then does the other mini-phase
+
 aetherflail x2
 aetherflail - this one will be mace/chakram in either order, no sickle
 raidwide x3

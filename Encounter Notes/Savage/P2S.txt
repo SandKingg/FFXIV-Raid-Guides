@@ -50,6 +50,7 @@ tankbuster
 raidwide
 
 channeling overflow - gives everyone a knockback arrow like before, but some people have longer timers and some have shorter
+	shorter timers are ~12s and longer timers are ~22s
 	shorter timers should position to do the knockbacks across the adjacent edges to the platform opposite the unsafe one
 tainted flood x2 - two sets of spread aoes, first targetting the longer timers, then the short
 	the long timers getting knocked north/south should go to the north/south safe edge and the east/west ones go to the east/west safe edge
@@ -64,14 +65,16 @@ predatory avarice + dissociation - the head flies away and cleaves from north to
 spoken/winged cataract - dodge into the safe corner from the cataract and have the debuff players spread along the north or south edge to avoid hitting the party or each other
 
 dissociation + sewage eruption - three baited puddles under every player, move along the boss in the safe side away from the head
-
 tainted flood - spreads on every player this time
 coherence
+
 tankbuster
 raidwide
+
 sewage deluge
 channeling overflow + coherence - tank with the longer timer needs to take the tether, the other long timers use the corner safe spot
 	this means it's much easier to group up for the wild charge
+
 dissociation + sewage eruption
 ominous bubble + shockwave
 tankbuster

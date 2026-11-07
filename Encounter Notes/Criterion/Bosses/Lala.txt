@@ -56,9 +56,11 @@ explosive theorem - marks everyone for a spread aoe that should be placed in two
 
 tankbuster
 raidwide
+
 analysis + arcane array
 angular addition + arcane blight
 targeted light
+
 tankbuster
 raidwide
 enrage
